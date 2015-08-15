@@ -20,7 +20,7 @@ See: https://developer.mozilla.org/en-US/docs/XBL
       Https everywhere toolbar button is already defined; just use its settings. 
       TODO: Look into any issues with oncommand/oncontext.
       -->
-      <xul:toolbarbutton 
+      <xul:toolbarbutton
           class="https-everywhere-button toolbarbutton-1 chromeclass-toolbar-additional"
           flex="1" 
           allowevents="true"
