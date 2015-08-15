@@ -30,21 +30,24 @@ toolbar[iconsize="small"] #https-everywhere-button[status="disabled"] > .https-e
   list-style-image: url("chrome://https-everywhere/skin/https-everywhere-16-gray.png");
 }
 
-/* ruleset counter */
+/* Ruleset counter */
 #rscounter {
   position: relative;
+  pointer-events: none;
   margin: 2px -42px 0 16px;
   display: block;
   -moz-box-sizing: border-box;
 }
 
-/* increase negative margins in the palette and panel so the button isn't too wide. */
+/* Increase negative margins in the palette and panel so the button isn't too wide. */
 #wrapper-https-everywhere-button[place="palette"] > #https-everywhere-button > #rscounter,
 #https-everywhere-button[cui-areatype="menu-panel"] > #rscounter {
   margin: 3px -16px 0 -8px;
 }
 
-/* rulesets applied label */
+/* Rulesets applied label. The style is essentially that of the Firefox native
+   class 'toolbarbutton-badge' of chrome://global/skin/toolbarbutton.css, included
+   here to support older versions of Firefox.  */
 #rsapplied {
   background-color: #77DD77;
   visibility: hidden;
