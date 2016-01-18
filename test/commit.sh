@@ -17,6 +17,8 @@ else
   git rev-parse && cd "$(git rev-parse --show-toplevel)"
 fi
 
+# Fetch the current GitHub version of HTTPS-E to compare to its master
+git fetch https://github.com/fuglede/https-everywhere.git
 RULESETS_CHANGED=$(git diff --name-only master | grep $RULESETFOLDER | grep '.xml')
 
 # Only run test if something has changed.
