@@ -3,7 +3,7 @@
 	url = https://github.com/mozilla/addon-sdk.git
 [submodule "https-everywhere-checker"]
 	path = test/rules
-	url = https://github.com/jsha/https-everywhere-checker.git
+	url = https://github.com/fuglede/https-everywhere-checker.git
 	branch = updates
 [submodule "translations"]
 	path = translations
