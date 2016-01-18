@@ -18,8 +18,9 @@ else
 fi
 
 # Fetch the current GitHub version of HTTPS-E to compare to its master
-git fetch https://github.com/fuglede/https-everywhere.git
-RULESETS_CHANGED=$(git diff --name-only master | grep $RULESETFOLDER | grep '.xml')
+git remote add upstream-for-travis https://github.com/fuglede/https-everywhere.git
+git fetch upstream-for-travis 
+RULESETS_CHANGED=$(git diff --name-only upstream-for-travis/master | grep $RULESETFOLDER | grep '.xml')
 
 # Only run test if something has changed.
 if [ "$RULESETS_CHANGED" ]; then
