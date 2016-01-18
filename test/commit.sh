@@ -17,7 +17,7 @@ else
   git rev-parse && cd "$(git rev-parse --show-toplevel)"
 fi
 
-RULESETS_CHANGED=$(git diff --name-only HEAD | grep $RULESETFOLDER | grep '.xml')
+RULESETS_CHANGED=$(git diff --name-only master | grep $RULESETFOLDER | grep '.xml')
 
 # Only run test if something has changed.
 if [ "$RULESETS_CHANGED" ]; then
