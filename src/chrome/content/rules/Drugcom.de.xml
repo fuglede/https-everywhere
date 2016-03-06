@@ -1,0 +1,7 @@
+<ruleset name="Drugcom test">
+
+	<target host="www.drugcom.de" />
+
+	<rule from="^http:" to="https:" />
+
+</ruleset>
