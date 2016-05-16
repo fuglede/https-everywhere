@@ -1,0 +1,6 @@
+<ruleset name="Kmkz.jp">
+	<target host="kmkz.jp" />
+	<target host="www.kmkz.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

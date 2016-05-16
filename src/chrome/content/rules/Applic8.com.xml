@@ -1,0 +1,6 @@
+<ruleset name="Applic8.com">
+	<target host="applic8.com" />
+	<target host="www.applic8.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

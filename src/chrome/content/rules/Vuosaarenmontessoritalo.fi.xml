@@ -1,0 +1,6 @@
+<ruleset name="Vuosaarenmontessoritalo.fi">
+	<target host="vuosaarenmontessoritalo.fi" />
+	<target host="www.vuosaarenmontessoritalo.fi" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

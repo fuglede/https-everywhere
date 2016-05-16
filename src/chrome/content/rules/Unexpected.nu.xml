@@ -1,0 +1,6 @@
+<ruleset name="Unexpected.nu">
+	<target host="unexpected.nu" />
+	<target host="www.unexpected.nu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

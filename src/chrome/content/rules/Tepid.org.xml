@@ -1,0 +1,6 @@
+<ruleset name="Tepid.org">
+	<target host="tepid.org" />
+	<target host="www.tepid.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

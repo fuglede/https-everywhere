@@ -1,0 +1,6 @@
+<ruleset name="Kameraden.ru">
+	<target host="kameraden.ru" />
+	<target host="www.kameraden.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

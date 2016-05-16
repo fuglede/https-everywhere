@@ -1,0 +1,6 @@
+<ruleset name="Aficotroceni.ro">
+	<target host="aficotroceni.ro" />
+	<target host="www.aficotroceni.ro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Mbsec.net">
+	<target host="mbsec.net" />
+	<target host="www.mbsec.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

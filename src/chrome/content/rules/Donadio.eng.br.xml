@@ -1,0 +1,6 @@
+<ruleset name="Donadio.eng.br">
+	<target host="donadio.eng.br" />
+	<target host="www.donadio.eng.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

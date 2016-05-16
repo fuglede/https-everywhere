@@ -1,0 +1,6 @@
+<ruleset name="Bitheus.com">
+	<target host="bitheus.com" />
+	<target host="www.bitheus.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

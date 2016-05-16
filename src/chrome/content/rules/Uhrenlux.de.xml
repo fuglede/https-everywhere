@@ -1,0 +1,6 @@
+<ruleset name="Uhrenlux.de">
+	<target host="uhrenlux.de" />
+	<target host="www.uhrenlux.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

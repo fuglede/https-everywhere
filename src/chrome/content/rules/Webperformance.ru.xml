@@ -1,0 +1,6 @@
+<ruleset name="Webperformance.ru">
+	<target host="webperformance.ru" />
+	<target host="www.webperformance.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

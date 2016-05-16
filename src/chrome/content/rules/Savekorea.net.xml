@@ -1,0 +1,6 @@
+<ruleset name="Savekorea.net">
+	<target host="savekorea.net" />
+	<target host="www.savekorea.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

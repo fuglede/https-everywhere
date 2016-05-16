@@ -1,0 +1,6 @@
+<ruleset name="Plaettliaktion.ch">
+	<target host="plaettliaktion.ch" />
+	<target host="www.plaettliaktion.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

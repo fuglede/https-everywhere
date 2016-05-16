@@ -1,0 +1,6 @@
+<ruleset name="Nicolaeiotcu.ro">
+	<target host="nicolaeiotcu.ro" />
+	<target host="www.nicolaeiotcu.ro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

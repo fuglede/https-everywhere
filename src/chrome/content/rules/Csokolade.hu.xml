@@ -1,0 +1,6 @@
+<ruleset name="Csokolade.hu">
+	<target host="csokolade.hu" />
+	<target host="www.csokolade.hu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

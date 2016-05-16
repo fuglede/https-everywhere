@@ -1,0 +1,6 @@
+<ruleset name="Elevators.nyc">
+	<target host="elevators.nyc" />
+	<target host="www.elevators.nyc" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

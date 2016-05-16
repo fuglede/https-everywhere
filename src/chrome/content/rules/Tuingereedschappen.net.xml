@@ -1,0 +1,6 @@
+<ruleset name="Tuingereedschappen.net">
+	<target host="tuingereedschappen.net" />
+	<target host="www.tuingereedschappen.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Stigroom.com">
+	<target host="stigroom.com" />
+	<target host="www.stigroom.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

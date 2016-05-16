@@ -1,0 +1,6 @@
+<ruleset name="Opensrd.com">
+	<target host="opensrd.com" />
+	<target host="www.opensrd.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Reggae-cdmx.com">
+	<target host="reggae-cdmx.com" />
+	<target host="www.reggae-cdmx.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

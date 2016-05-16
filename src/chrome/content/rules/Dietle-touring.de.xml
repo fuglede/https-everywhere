@@ -1,0 +1,6 @@
+<ruleset name="Dietle-touring.de">
+	<target host="dietle-touring.de" />
+	<target host="www.dietle-touring.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

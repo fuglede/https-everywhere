@@ -1,0 +1,6 @@
+<ruleset name="Talktome.com">
+	<target host="talktome.com" />
+	<target host="www.talktome.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

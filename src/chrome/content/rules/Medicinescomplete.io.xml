@@ -1,0 +1,6 @@
+<ruleset name="Medicinescomplete.io">
+	<target host="medicinescomplete.io" />
+	<target host="www.medicinescomplete.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

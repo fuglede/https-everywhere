@@ -1,0 +1,6 @@
+<ruleset name="Dijkmanmuziek.nl">
+	<target host="dijkmanmuziek.nl" />
+	<target host="www.dijkmanmuziek.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

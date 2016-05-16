@@ -1,0 +1,6 @@
+<ruleset name="Asc16.com">
+	<target host="asc16.com" />
+	<target host="www.asc16.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Thetuxkeeper.de">
+	<target host="thetuxkeeper.de" />
+	<target host="www.thetuxkeeper.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

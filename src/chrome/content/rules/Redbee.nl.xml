@@ -1,0 +1,6 @@
+<ruleset name="Redbee.nl">
+	<target host="redbee.nl" />
+	<target host="www.redbee.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

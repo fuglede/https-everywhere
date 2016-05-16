@@ -1,0 +1,6 @@
+<ruleset name="Paradisegroup.com.sg">
+	<target host="paradisegroup.com.sg" />
+	<target host="www.paradisegroup.com.sg" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

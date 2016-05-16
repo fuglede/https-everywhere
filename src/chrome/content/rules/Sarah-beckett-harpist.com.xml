@@ -1,0 +1,6 @@
+<ruleset name="Sarah-beckett-harpist.com">
+	<target host="sarah-beckett-harpist.com" />
+	<target host="www.sarah-beckett-harpist.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

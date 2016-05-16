@@ -1,0 +1,6 @@
+<ruleset name="Salon.io">
+	<target host="salon.io" />
+	<target host="www.salon.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

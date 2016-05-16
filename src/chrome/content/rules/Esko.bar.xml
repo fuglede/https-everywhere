@@ -1,0 +1,6 @@
+<ruleset name="Esko.bar">
+	<target host="esko.bar" />
+	<target host="www.esko.bar" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

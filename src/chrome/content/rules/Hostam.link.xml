@@ -1,0 +1,6 @@
+<ruleset name="Hostam.link">
+	<target host="hostam.link" />
+	<target host="www.hostam.link" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

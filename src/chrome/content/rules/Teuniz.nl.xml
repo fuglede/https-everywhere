@@ -1,0 +1,6 @@
+<ruleset name="Teuniz.nl">
+	<target host="teuniz.nl" />
+	<target host="www.teuniz.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

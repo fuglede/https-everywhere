@@ -1,0 +1,6 @@
+<ruleset name="Centralpoint.nl">
+	<target host="centralpoint.nl" />
+	<target host="www.centralpoint.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

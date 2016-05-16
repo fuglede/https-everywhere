@@ -1,0 +1,6 @@
+<ruleset name="Arrayify.com">
+	<target host="arrayify.com" />
+	<target host="www.arrayify.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

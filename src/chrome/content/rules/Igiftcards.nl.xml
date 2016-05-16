@@ -1,0 +1,6 @@
+<ruleset name="Igiftcards.nl">
+	<target host="igiftcards.nl" />
+	<target host="www.igiftcards.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

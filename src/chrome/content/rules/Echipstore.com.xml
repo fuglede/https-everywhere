@@ -1,0 +1,6 @@
+<ruleset name="Echipstore.com">
+	<target host="echipstore.com" />
+	<target host="www.echipstore.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

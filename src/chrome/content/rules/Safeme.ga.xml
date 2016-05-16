@@ -1,0 +1,6 @@
+<ruleset name="Safeme.ga">
+	<target host="safeme.ga" />
+	<target host="www.safeme.ga" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

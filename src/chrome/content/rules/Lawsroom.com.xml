@@ -1,0 +1,6 @@
+<ruleset name="Lawsroom.com">
+	<target host="lawsroom.com" />
+	<target host="www.lawsroom.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

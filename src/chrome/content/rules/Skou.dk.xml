@@ -1,0 +1,6 @@
+<ruleset name="Skou.dk">
+	<target host="skou.dk" />
+	<target host="www.skou.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

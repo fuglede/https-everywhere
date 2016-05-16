@@ -1,0 +1,6 @@
+<ruleset name="Spicydog.tk">
+	<target host="spicydog.tk" />
+	<target host="www.spicydog.tk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

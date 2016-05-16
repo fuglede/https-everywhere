@@ -1,0 +1,6 @@
+<ruleset name="Franziskamerkel.de">
+	<target host="franziskamerkel.de" />
+	<target host="www.franziskamerkel.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

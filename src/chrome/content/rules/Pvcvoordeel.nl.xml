@@ -1,0 +1,6 @@
+<ruleset name="Pvcvoordeel.nl">
+	<target host="pvcvoordeel.nl" />
+	<target host="www.pvcvoordeel.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

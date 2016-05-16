@@ -1,0 +1,6 @@
+<ruleset name="Freespeechdefense.net">
+	<target host="freespeechdefense.net" />
+	<target host="www.freespeechdefense.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

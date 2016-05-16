@@ -1,0 +1,6 @@
+<ruleset name="Bogosity.se">
+	<target host="bogosity.se" />
+	<target host="www.bogosity.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

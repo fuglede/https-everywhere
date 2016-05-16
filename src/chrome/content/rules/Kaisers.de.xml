@@ -1,0 +1,6 @@
+<ruleset name="Kaisers.de">
+	<target host="kaisers.de" />
+	<target host="www.kaisers.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

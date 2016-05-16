@@ -1,0 +1,6 @@
+<ruleset name="Ostr.io">
+	<target host="ostr.io" />
+	<target host="www.ostr.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

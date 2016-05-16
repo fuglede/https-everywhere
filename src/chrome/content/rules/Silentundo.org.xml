@@ -1,0 +1,6 @@
+<ruleset name="Silentundo.org">
+	<target host="silentundo.org" />
+	<target host="www.silentundo.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

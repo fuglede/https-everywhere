@@ -1,0 +1,6 @@
+<ruleset name="Theinvisibletrailer.com">
+	<target host="theinvisibletrailer.com" />
+	<target host="www.theinvisibletrailer.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

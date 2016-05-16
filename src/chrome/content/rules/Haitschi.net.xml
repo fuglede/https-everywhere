@@ -1,0 +1,6 @@
+<ruleset name="Haitschi.net">
+	<target host="haitschi.net" />
+	<target host="www.haitschi.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Qingxuan.info">
+	<target host="qingxuan.info" />
+	<target host="www.qingxuan.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

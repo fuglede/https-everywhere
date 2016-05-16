@@ -1,0 +1,6 @@
+<ruleset name="Servercode.ca">
+	<target host="servercode.ca" />
+	<target host="www.servercode.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

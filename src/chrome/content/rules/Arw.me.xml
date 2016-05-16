@@ -1,0 +1,6 @@
+<ruleset name="Arw.me">
+	<target host="arw.me" />
+	<target host="www.arw.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Cgan.pw">
+	<target host="cgan.pw" />
+	<target host="www.cgan.pw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

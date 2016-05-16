@@ -1,0 +1,6 @@
+<ruleset name="Enseignants-du-secondaire.fr">
+	<target host="enseignants-du-secondaire.fr" />
+	<target host="www.enseignants-du-secondaire.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

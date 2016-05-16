@@ -1,0 +1,6 @@
+<ruleset name="Ushopdiscountclub.com">
+	<target host="ushopdiscountclub.com" />
+	<target host="www.ushopdiscountclub.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

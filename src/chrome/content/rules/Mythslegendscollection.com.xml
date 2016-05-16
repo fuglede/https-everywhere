@@ -1,0 +1,6 @@
+<ruleset name="Mythslegendscollection.com">
+	<target host="mythslegendscollection.com" />
+	<target host="www.mythslegendscollection.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

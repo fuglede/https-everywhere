@@ -1,0 +1,6 @@
+<ruleset name="Shocksrv.com">
+	<target host="shocksrv.com" />
+	<target host="www.shocksrv.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

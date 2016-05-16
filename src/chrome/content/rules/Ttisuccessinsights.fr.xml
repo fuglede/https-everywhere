@@ -1,0 +1,6 @@
+<ruleset name="Ttisuccessinsights.fr">
+	<target host="ttisuccessinsights.fr" />
+	<target host="www.ttisuccessinsights.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

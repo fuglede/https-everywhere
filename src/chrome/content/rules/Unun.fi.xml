@@ -1,0 +1,6 @@
+<ruleset name="Unun.fi">
+	<target host="unun.fi" />
+	<target host="www.unun.fi" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

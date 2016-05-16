@@ -1,0 +1,6 @@
+<ruleset name="Webtitud.com">
+	<target host="webtitud.com" />
+	<target host="www.webtitud.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Tennisadmin.com">
+	<target host="tennisadmin.com" />
+	<target host="www.tennisadmin.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Renem.net">
+	<target host="renem.net" />
+	<target host="www.renem.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

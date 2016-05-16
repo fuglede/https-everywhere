@@ -1,0 +1,6 @@
+<ruleset name="Privacylabs.io">
+	<target host="privacylabs.io" />
+	<target host="www.privacylabs.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

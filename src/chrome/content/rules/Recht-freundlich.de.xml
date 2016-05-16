@@ -1,0 +1,6 @@
+<ruleset name="Recht-freundlich.de">
+	<target host="recht-freundlich.de" />
+	<target host="www.recht-freundlich.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

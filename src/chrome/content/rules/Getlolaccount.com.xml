@@ -1,0 +1,6 @@
+<ruleset name="Getlolaccount.com">
+	<target host="getlolaccount.com" />
+	<target host="www.getlolaccount.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

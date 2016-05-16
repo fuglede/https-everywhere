@@ -1,0 +1,6 @@
+<ruleset name="Indoorskiassen.nl">
+	<target host="indoorskiassen.nl" />
+	<target host="www.indoorskiassen.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

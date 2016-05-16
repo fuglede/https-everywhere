@@ -1,0 +1,6 @@
+<ruleset name="4bit.ws">
+	<target host="4bit.ws" />
+	<target host="www.4bit.ws" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

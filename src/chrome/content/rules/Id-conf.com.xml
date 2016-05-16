@@ -1,0 +1,6 @@
+<ruleset name="Id-conf.com">
+	<target host="id-conf.com" />
+	<target host="www.id-conf.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

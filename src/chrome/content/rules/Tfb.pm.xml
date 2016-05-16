@@ -1,0 +1,6 @@
+<ruleset name="Tfb.pm">
+	<target host="tfb.pm" />
+	<target host="www.tfb.pm" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Roan24.pl">
+	<target host="roan24.pl" />
+	<target host="www.roan24.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

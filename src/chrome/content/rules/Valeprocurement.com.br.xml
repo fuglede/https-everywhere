@@ -1,0 +1,6 @@
+<ruleset name="Valeprocurement.com.br">
+	<target host="valeprocurement.com.br" />
+	<target host="www.valeprocurement.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

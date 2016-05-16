@@ -1,0 +1,6 @@
+<ruleset name="Bancoctt.pt">
+	<target host="bancoctt.pt" />
+	<target host="www.bancoctt.pt" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

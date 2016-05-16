@@ -1,0 +1,6 @@
+<ruleset name="Hydrocloud.net">
+	<target host="hydrocloud.net" />
+	<target host="www.hydrocloud.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

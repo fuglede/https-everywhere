@@ -1,0 +1,6 @@
+<ruleset name="Kommuni.st">
+	<target host="kommuni.st" />
+	<target host="www.kommuni.st" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

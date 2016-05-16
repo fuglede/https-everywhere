@@ -1,0 +1,6 @@
+<ruleset name="Whitenationalisttv.com">
+	<target host="whitenationalisttv.com" />
+	<target host="www.whitenationalisttv.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

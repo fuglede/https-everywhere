@@ -1,0 +1,6 @@
+<ruleset name="Topbargains.com.au">
+	<target host="topbargains.com.au" />
+	<target host="www.topbargains.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

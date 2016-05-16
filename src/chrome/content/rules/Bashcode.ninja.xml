@@ -1,0 +1,6 @@
+<ruleset name="Bashcode.ninja">
+	<target host="bashcode.ninja" />
+	<target host="www.bashcode.ninja" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

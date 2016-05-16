@@ -1,0 +1,6 @@
+<ruleset name="Intelldynamics.com">
+	<target host="intelldynamics.com" />
+	<target host="www.intelldynamics.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

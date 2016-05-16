@@ -1,0 +1,6 @@
+<ruleset name="Bullsender-tracker.com">
+	<target host="bullsender-tracker.com" />
+	<target host="www.bullsender-tracker.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

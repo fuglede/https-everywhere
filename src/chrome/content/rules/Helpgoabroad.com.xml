@@ -1,0 +1,6 @@
+<ruleset name="Helpgoabroad.com">
+	<target host="helpgoabroad.com" />
+	<target host="www.helpgoabroad.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

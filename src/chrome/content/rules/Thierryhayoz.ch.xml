@@ -1,0 +1,6 @@
+<ruleset name="Thierryhayoz.ch">
+	<target host="thierryhayoz.ch" />
+	<target host="www.thierryhayoz.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

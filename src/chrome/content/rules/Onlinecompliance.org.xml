@@ -1,0 +1,6 @@
+<ruleset name="Onlinecompliance.org">
+	<target host="onlinecompliance.org" />
+	<target host="www.onlinecompliance.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

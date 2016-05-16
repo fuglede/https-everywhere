@@ -1,0 +1,6 @@
+<ruleset name="Zoe.vc">
+	<target host="zoe.vc" />
+	<target host="www.zoe.vc" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

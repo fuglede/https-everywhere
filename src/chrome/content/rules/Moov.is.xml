@@ -1,0 +1,6 @@
+<ruleset name="Moov.is">
+	<target host="moov.is" />
+	<target host="www.moov.is" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

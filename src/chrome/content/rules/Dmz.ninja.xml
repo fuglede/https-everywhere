@@ -1,0 +1,6 @@
+<ruleset name="Dmz.ninja">
+	<target host="dmz.ninja" />
+	<target host="www.dmz.ninja" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

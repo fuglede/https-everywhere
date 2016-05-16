@@ -1,0 +1,6 @@
+<ruleset name="Idacmedia.com">
+	<target host="idacmedia.com" />
+	<target host="www.idacmedia.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

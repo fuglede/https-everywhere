@@ -1,0 +1,6 @@
+<ruleset name="Kakaravaara.fi">
+	<target host="kakaravaara.fi" />
+	<target host="www.kakaravaara.fi" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

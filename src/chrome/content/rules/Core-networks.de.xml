@@ -1,0 +1,6 @@
+<ruleset name="Core-networks.de">
+	<target host="core-networks.de" />
+	<target host="www.core-networks.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

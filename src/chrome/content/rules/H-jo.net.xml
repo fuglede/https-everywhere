@@ -1,0 +1,6 @@
+<ruleset name="H-jo.net">
+	<target host="h-jo.net" />
+	<target host="www.h-jo.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

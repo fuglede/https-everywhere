@@ -1,0 +1,6 @@
+<ruleset name="Deineplus.at">
+	<target host="deineplus.at" />
+	<target host="www.deineplus.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

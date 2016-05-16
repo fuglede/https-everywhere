@@ -1,0 +1,6 @@
+<ruleset name="Majesnix.org">
+	<target host="majesnix.org" />
+	<target host="www.majesnix.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

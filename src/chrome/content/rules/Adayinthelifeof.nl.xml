@@ -1,0 +1,6 @@
+<ruleset name="Adayinthelifeof.nl">
+	<target host="adayinthelifeof.nl" />
+	<target host="www.adayinthelifeof.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Rubedo.org">
+	<target host="rubedo.org" />
+	<target host="www.rubedo.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

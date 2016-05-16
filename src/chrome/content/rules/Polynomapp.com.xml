@@ -1,0 +1,6 @@
+<ruleset name="Polynomapp.com">
+	<target host="polynomapp.com" />
+	<target host="www.polynomapp.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

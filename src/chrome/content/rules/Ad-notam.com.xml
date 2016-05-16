@@ -1,0 +1,6 @@
+<ruleset name="Ad-notam.com">
+	<target host="ad-notam.com" />
+	<target host="www.ad-notam.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

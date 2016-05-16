@@ -1,0 +1,6 @@
+<ruleset name="I-stats.net">
+	<target host="i-stats.net" />
+	<target host="www.i-stats.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

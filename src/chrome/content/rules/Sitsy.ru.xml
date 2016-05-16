@@ -1,0 +1,6 @@
+<ruleset name="Sitsy.ru">
+	<target host="sitsy.ru" />
+	<target host="www.sitsy.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

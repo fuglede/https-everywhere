@@ -1,0 +1,6 @@
+<ruleset name="Okhrana.agency">
+	<target host="okhrana.agency" />
+	<target host="www.okhrana.agency" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

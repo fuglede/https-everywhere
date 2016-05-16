@@ -1,0 +1,6 @@
+<ruleset name="Mitremai.org">
+	<target host="mitremai.org" />
+	<target host="www.mitremai.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Davidreinhardt.de">
+	<target host="davidreinhardt.de" />
+	<target host="www.davidreinhardt.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

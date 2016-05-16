@@ -1,0 +1,6 @@
+<ruleset name="Achromatisch.de">
+	<target host="achromatisch.de" />
+	<target host="www.achromatisch.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

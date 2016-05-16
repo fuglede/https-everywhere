@@ -1,0 +1,6 @@
+<ruleset name="Aakvik.net">
+	<target host="aakvik.net" />
+	<target host="www.aakvik.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

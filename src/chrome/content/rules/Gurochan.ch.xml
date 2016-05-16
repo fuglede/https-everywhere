@@ -1,0 +1,6 @@
+<ruleset name="Gurochan.ch">
+	<target host="gurochan.ch" />
+	<target host="www.gurochan.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

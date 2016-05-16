@@ -1,0 +1,6 @@
+<ruleset name="Giftsn.com.sg">
+	<target host="giftsn.com.sg" />
+	<target host="www.giftsn.com.sg" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Wildaffiliates.com">
+	<target host="wildaffiliates.com" />
+	<target host="www.wildaffiliates.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

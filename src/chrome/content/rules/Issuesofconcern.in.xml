@@ -1,0 +1,6 @@
+<ruleset name="Issuesofconcern.in">
+	<target host="issuesofconcern.in" />
+	<target host="www.issuesofconcern.in" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

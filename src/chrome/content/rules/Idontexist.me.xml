@@ -1,0 +1,6 @@
+<ruleset name="Idontexist.me">
+	<target host="idontexist.me" />
+	<target host="www.idontexist.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

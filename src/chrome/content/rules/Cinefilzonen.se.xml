@@ -1,0 +1,6 @@
+<ruleset name="Cinefilzonen.se">
+	<target host="cinefilzonen.se" />
+	<target host="www.cinefilzonen.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

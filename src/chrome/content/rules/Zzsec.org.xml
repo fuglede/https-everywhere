@@ -1,0 +1,6 @@
+<ruleset name="Zzsec.org">
+	<target host="zzsec.org" />
+	<target host="www.zzsec.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

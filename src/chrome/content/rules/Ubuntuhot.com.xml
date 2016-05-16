@@ -1,0 +1,6 @@
+<ruleset name="Ubuntuhot.com">
+	<target host="ubuntuhot.com" />
+	<target host="www.ubuntuhot.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

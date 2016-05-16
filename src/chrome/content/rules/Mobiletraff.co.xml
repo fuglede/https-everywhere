@@ -1,0 +1,6 @@
+<ruleset name="Mobiletraff.co">
+	<target host="mobiletraff.co" />
+	<target host="www.mobiletraff.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

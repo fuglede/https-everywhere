@@ -1,0 +1,6 @@
+<ruleset name="Droomhuis-in-friesland-kopen.nl">
+	<target host="droomhuis-in-friesland-kopen.nl" />
+	<target host="www.droomhuis-in-friesland-kopen.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

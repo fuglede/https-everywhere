@@ -1,0 +1,6 @@
+<ruleset name="Beikeil.de">
+	<target host="beikeil.de" />
+	<target host="www.beikeil.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

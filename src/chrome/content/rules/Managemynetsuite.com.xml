@@ -1,0 +1,6 @@
+<ruleset name="Managemynetsuite.com">
+	<target host="managemynetsuite.com" />
+	<target host="www.managemynetsuite.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

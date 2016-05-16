@@ -1,0 +1,6 @@
+<ruleset name="Alwaysmine.fi">
+	<target host="alwaysmine.fi" />
+	<target host="www.alwaysmine.fi" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

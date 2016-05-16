@@ -1,0 +1,6 @@
+<ruleset name="Masterhaus.bg">
+	<target host="masterhaus.bg" />
+	<target host="www.masterhaus.bg" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

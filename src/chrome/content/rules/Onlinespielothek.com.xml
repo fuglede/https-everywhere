@@ -1,0 +1,6 @@
+<ruleset name="Onlinespielothek.com">
+	<target host="onlinespielothek.com" />
+	<target host="www.onlinespielothek.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

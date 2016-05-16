@@ -1,0 +1,6 @@
+<ruleset name="Everylab.org">
+	<target host="everylab.org" />
+	<target host="www.everylab.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Aunitech.fi">
+	<target host="aunitech.fi" />
+	<target host="www.aunitech.fi" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

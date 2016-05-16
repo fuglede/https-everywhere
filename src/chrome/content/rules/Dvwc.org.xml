@@ -1,0 +1,6 @@
+<ruleset name="Dvwc.org">
+	<target host="dvwc.org" />
+	<target host="www.dvwc.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

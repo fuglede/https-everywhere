@@ -1,0 +1,6 @@
+<ruleset name="In-a-box-webdesign.com">
+	<target host="in-a-box-webdesign.com" />
+	<target host="www.in-a-box-webdesign.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

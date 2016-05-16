@@ -1,0 +1,6 @@
+<ruleset name="Kempkens.io">
+	<target host="kempkens.io" />
+	<target host="www.kempkens.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

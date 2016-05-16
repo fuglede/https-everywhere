@@ -1,0 +1,6 @@
+<ruleset name="Flouartistique.ch">
+	<target host="flouartistique.ch" />
+	<target host="www.flouartistique.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

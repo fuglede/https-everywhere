@@ -1,0 +1,6 @@
+<ruleset name="Ks-watch.de">
+	<target host="ks-watch.de" />
+	<target host="www.ks-watch.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Deer.team">
+	<target host="deer.team" />
+	<target host="www.deer.team" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

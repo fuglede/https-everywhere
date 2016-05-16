@@ -1,0 +1,6 @@
+<ruleset name="Earthsake.com">
+	<target host="earthsake.com" />
+	<target host="www.earthsake.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

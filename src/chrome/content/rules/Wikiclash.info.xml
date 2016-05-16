@@ -1,0 +1,6 @@
+<ruleset name="Wikiclash.info">
+	<target host="wikiclash.info" />
+	<target host="www.wikiclash.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

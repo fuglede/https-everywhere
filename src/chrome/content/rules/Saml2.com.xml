@@ -1,0 +1,6 @@
+<ruleset name="Saml2.com">
+	<target host="saml2.com" />
+	<target host="www.saml2.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

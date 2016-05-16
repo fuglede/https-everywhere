@@ -1,0 +1,6 @@
+<ruleset name="Makeupartistmarianitsas.com.au">
+	<target host="makeupartistmarianitsas.com.au" />
+	<target host="www.makeupartistmarianitsas.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

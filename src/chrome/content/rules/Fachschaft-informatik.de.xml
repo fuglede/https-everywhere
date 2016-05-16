@@ -1,0 +1,6 @@
+<ruleset name="Fachschaft-informatik.de">
+	<target host="fachschaft-informatik.de" />
+	<target host="www.fachschaft-informatik.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

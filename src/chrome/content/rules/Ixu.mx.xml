@@ -1,0 +1,6 @@
+<ruleset name="Ixu.mx">
+	<target host="ixu.mx" />
+	<target host="www.ixu.mx" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

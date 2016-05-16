@@ -1,0 +1,6 @@
+<ruleset name="Darchoods.net">
+	<target host="darchoods.net" />
+	<target host="www.darchoods.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

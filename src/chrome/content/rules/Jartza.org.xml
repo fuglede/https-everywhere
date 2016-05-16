@@ -1,0 +1,6 @@
+<ruleset name="Jartza.org">
+	<target host="jartza.org" />
+	<target host="www.jartza.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

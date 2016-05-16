@@ -1,0 +1,6 @@
+<ruleset name="Digitalnonplus.com">
+	<target host="digitalnonplus.com" />
+	<target host="www.digitalnonplus.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

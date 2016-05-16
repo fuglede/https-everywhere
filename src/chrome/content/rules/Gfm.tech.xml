@@ -1,0 +1,6 @@
+<ruleset name="Gfm.tech">
+	<target host="gfm.tech" />
+	<target host="www.gfm.tech" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

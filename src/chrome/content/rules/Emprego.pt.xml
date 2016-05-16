@@ -1,0 +1,6 @@
+<ruleset name="Emprego.pt">
+	<target host="emprego.pt" />
+	<target host="www.emprego.pt" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

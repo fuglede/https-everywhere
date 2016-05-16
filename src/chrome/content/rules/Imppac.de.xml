@@ -1,0 +1,6 @@
+<ruleset name="Imppac.de">
+	<target host="imppac.de" />
+	<target host="www.imppac.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

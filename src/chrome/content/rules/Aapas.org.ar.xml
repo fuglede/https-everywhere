@@ -1,0 +1,6 @@
+<ruleset name="Aapas.org.ar">
+	<target host="aapas.org.ar" />
+	<target host="www.aapas.org.ar" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

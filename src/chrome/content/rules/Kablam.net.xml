@@ -1,0 +1,6 @@
+<ruleset name="Kablam.net">
+	<target host="kablam.net" />
+	<target host="www.kablam.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

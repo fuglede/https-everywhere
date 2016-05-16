@@ -1,0 +1,6 @@
+<ruleset name="Webmax.com.tr">
+	<target host="webmax.com.tr" />
+	<target host="www.webmax.com.tr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

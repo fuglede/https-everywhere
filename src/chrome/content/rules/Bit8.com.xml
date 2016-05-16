@@ -1,0 +1,6 @@
+<ruleset name="Bit8.com">
+	<target host="bit8.com" />
+	<target host="www.bit8.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

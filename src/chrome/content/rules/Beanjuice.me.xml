@@ -1,0 +1,6 @@
+<ruleset name="Beanjuice.me">
+	<target host="beanjuice.me" />
+	<target host="www.beanjuice.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

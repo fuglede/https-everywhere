@@ -1,0 +1,6 @@
+<ruleset name="Pencepay.com">
+	<target host="pencepay.com" />
+	<target host="www.pencepay.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

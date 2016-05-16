@@ -1,0 +1,6 @@
+<ruleset name="Eit-web.de">
+	<target host="eit-web.de" />
+	<target host="www.eit-web.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

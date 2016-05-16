@@ -1,0 +1,6 @@
+<ruleset name="Runawebinar.nl">
+	<target host="runawebinar.nl" />
+	<target host="www.runawebinar.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

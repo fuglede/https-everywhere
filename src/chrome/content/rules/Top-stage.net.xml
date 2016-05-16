@@ -1,0 +1,6 @@
+<ruleset name="Top-stage.net">
+	<target host="top-stage.net" />
+	<target host="www.top-stage.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

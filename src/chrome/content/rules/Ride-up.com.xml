@@ -1,0 +1,6 @@
+<ruleset name="Ride-up.com">
+	<target host="ride-up.com" />
+	<target host="www.ride-up.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

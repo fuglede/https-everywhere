@@ -1,0 +1,6 @@
+<ruleset name="Getawayland.com">
+	<target host="getawayland.com" />
+	<target host="www.getawayland.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

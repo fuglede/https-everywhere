@@ -1,0 +1,6 @@
+<ruleset name="Seamless.no">
+	<target host="seamless.no" />
+	<target host="www.seamless.no" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

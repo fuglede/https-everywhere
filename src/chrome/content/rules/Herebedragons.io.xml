@@ -1,0 +1,6 @@
+<ruleset name="Herebedragons.io">
+	<target host="herebedragons.io" />
+	<target host="www.herebedragons.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Reachr.com">
+	<target host="reachr.com" />
+	<target host="www.reachr.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

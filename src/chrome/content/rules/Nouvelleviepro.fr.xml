@@ -1,0 +1,6 @@
+<ruleset name="Nouvelleviepro.fr">
+	<target host="nouvelleviepro.fr" />
+	<target host="www.nouvelleviepro.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

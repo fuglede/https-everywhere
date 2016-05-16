@@ -1,0 +1,6 @@
+<ruleset name="Rejo.in">
+	<target host="rejo.in" />
+	<target host="www.rejo.in" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

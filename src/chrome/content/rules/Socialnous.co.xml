@@ -1,0 +1,6 @@
+<ruleset name="Socialnous.co">
+	<target host="socialnous.co" />
+	<target host="www.socialnous.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Automusic.ru">
+	<target host="automusic.ru" />
+	<target host="www.automusic.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

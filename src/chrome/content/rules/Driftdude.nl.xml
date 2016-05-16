@@ -1,0 +1,6 @@
+<ruleset name="Driftdude.nl">
+	<target host="driftdude.nl" />
+	<target host="www.driftdude.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Cleanslatecoaching.com">
+	<target host="cleanslatecoaching.com" />
+	<target host="www.cleanslatecoaching.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

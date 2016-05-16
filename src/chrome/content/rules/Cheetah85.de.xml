@@ -1,0 +1,6 @@
+<ruleset name="Cheetah85.de">
+	<target host="cheetah85.de" />
+	<target host="www.cheetah85.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

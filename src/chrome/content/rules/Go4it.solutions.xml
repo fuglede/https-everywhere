@@ -1,0 +1,6 @@
+<ruleset name="Go4it.solutions">
+	<target host="go4it.solutions" />
+	<target host="www.go4it.solutions" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Link.ba">
+	<target host="link.ba" />
+	<target host="www.link.ba" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

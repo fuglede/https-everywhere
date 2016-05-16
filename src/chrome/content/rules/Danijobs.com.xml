@@ -1,0 +1,6 @@
+<ruleset name="Danijobs.com">
+	<target host="danijobs.com" />
+	<target host="www.danijobs.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

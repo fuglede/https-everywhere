@@ -1,0 +1,6 @@
+<ruleset name="Antartica.online">
+	<target host="antartica.online" />
+	<target host="www.antartica.online" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

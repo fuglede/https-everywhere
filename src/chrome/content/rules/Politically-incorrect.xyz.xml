@@ -1,0 +1,6 @@
+<ruleset name="Politically-incorrect.xyz">
+	<target host="politically-incorrect.xyz" />
+	<target host="www.politically-incorrect.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

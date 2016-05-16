@@ -1,0 +1,6 @@
+<ruleset name="Ouroboros-guild.us">
+	<target host="ouroboros-guild.us" />
+	<target host="www.ouroboros-guild.us" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

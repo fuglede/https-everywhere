@@ -1,0 +1,6 @@
+<ruleset name="Sdvx.net">
+	<target host="sdvx.net" />
+	<target host="www.sdvx.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

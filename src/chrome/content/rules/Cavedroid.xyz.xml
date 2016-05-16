@@ -1,0 +1,6 @@
+<ruleset name="Cavedroid.xyz">
+	<target host="cavedroid.xyz" />
+	<target host="www.cavedroid.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

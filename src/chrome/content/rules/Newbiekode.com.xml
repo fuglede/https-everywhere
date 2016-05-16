@@ -1,0 +1,6 @@
+<ruleset name="Newbiekode.com">
+	<target host="newbiekode.com" />
+	<target host="www.newbiekode.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

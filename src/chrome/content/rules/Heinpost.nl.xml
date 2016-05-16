@@ -1,0 +1,6 @@
+<ruleset name="Heinpost.nl">
+	<target host="heinpost.nl" />
+	<target host="www.heinpost.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Liamjack.fr">
+	<target host="liamjack.fr" />
+	<target host="www.liamjack.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

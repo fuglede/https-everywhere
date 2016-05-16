@@ -1,0 +1,6 @@
+<ruleset name="Inverselink-user-content.com">
+	<target host="inverselink-user-content.com" />
+	<target host="www.inverselink-user-content.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

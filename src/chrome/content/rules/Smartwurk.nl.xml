@@ -1,0 +1,6 @@
+<ruleset name="Smartwurk.nl">
+	<target host="smartwurk.nl" />
+	<target host="www.smartwurk.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

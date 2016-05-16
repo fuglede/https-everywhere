@@ -1,0 +1,6 @@
+<ruleset name="Smilekung.xyz">
+	<target host="smilekung.xyz" />
+	<target host="www.smilekung.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Vitalita.cz">
+	<target host="vitalita.cz" />
+	<target host="www.vitalita.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

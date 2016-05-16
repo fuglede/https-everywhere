@@ -1,0 +1,6 @@
+<ruleset name="Port80.hamburg">
+	<target host="port80.hamburg" />
+	<target host="www.port80.hamburg" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

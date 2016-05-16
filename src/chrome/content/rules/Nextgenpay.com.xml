@@ -1,0 +1,6 @@
+<ruleset name="Nextgenpay.com">
+	<target host="nextgenpay.com" />
+	<target host="www.nextgenpay.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

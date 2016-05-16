@@ -1,0 +1,6 @@
+<ruleset name="Sneakpod.de">
+	<target host="sneakpod.de" />
+	<target host="www.sneakpod.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

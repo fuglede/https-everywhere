@@ -1,0 +1,6 @@
+<ruleset name="Clearsettle-admin.com">
+	<target host="clearsettle-admin.com" />
+	<target host="www.clearsettle-admin.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

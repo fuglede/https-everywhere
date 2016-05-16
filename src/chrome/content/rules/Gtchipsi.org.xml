@@ -1,0 +1,6 @@
+<ruleset name="Gtchipsi.org">
+	<target host="gtchipsi.org" />
+	<target host="www.gtchipsi.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

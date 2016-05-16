@@ -1,0 +1,6 @@
+<ruleset name="Cleaningsquad.ca">
+	<target host="cleaningsquad.ca" />
+	<target host="www.cleaningsquad.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

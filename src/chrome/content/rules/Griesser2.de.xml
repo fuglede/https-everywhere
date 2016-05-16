@@ -1,0 +1,6 @@
+<ruleset name="Griesser2.de">
+	<target host="griesser2.de" />
+	<target host="www.griesser2.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

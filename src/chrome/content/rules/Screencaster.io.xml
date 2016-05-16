@@ -1,0 +1,6 @@
+<ruleset name="Screencaster.io">
+	<target host="screencaster.io" />
+	<target host="www.screencaster.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

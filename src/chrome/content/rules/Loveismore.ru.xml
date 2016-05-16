@@ -1,0 +1,6 @@
+<ruleset name="Loveismore.ru">
+	<target host="loveismore.ru" />
+	<target host="www.loveismore.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

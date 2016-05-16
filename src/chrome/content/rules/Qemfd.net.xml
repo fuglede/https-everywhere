@@ -1,0 +1,6 @@
+<ruleset name="Qemfd.net">
+	<target host="qemfd.net" />
+	<target host="www.qemfd.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

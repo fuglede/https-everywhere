@@ -1,0 +1,6 @@
+<ruleset name="Gypsycatdreams.com">
+	<target host="gypsycatdreams.com" />
+	<target host="www.gypsycatdreams.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

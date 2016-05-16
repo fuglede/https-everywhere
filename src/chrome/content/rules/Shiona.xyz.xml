@@ -1,0 +1,6 @@
+<ruleset name="Shiona.xyz">
+	<target host="shiona.xyz" />
+	<target host="www.shiona.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

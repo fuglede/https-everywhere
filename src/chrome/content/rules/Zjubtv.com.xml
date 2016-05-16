@@ -1,0 +1,6 @@
+<ruleset name="Zjubtv.com">
+	<target host="zjubtv.com" />
+	<target host="www.zjubtv.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Mitrecaasd.org">
+	<target host="mitrecaasd.org" />
+	<target host="www.mitrecaasd.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

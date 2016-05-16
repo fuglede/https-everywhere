@@ -1,0 +1,6 @@
+<ruleset name="Lwl.moe">
+	<target host="lwl.moe" />
+	<target host="www.lwl.moe" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

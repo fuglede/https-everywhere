@@ -1,0 +1,6 @@
+<ruleset name="Awg-mode.de">
+	<target host="awg-mode.de" />
+	<target host="www.awg-mode.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

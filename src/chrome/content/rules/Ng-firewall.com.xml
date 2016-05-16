@@ -1,0 +1,6 @@
+<ruleset name="Ng-firewall.com">
+	<target host="ng-firewall.com" />
+	<target host="www.ng-firewall.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

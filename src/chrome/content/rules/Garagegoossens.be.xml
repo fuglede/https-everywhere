@@ -1,0 +1,6 @@
+<ruleset name="Garagegoossens.be">
+	<target host="garagegoossens.be" />
+	<target host="www.garagegoossens.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

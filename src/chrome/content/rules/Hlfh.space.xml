@@ -1,0 +1,6 @@
+<ruleset name="Hlfh.space">
+	<target host="hlfh.space" />
+	<target host="www.hlfh.space" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

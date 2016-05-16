@@ -1,0 +1,6 @@
+<ruleset name="Qorm.co.uk">
+	<target host="qorm.co.uk" />
+	<target host="www.qorm.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

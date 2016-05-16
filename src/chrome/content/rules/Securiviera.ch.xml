@@ -1,0 +1,6 @@
+<ruleset name="Securiviera.ch">
+	<target host="securiviera.ch" />
+	<target host="www.securiviera.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

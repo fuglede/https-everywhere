@@ -1,0 +1,6 @@
+<ruleset name="Latitude42technology.com">
+	<target host="latitude42technology.com" />
+	<target host="www.latitude42technology.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

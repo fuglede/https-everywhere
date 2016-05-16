@@ -1,0 +1,6 @@
+<ruleset name="Verifikatorindonesia.com">
+	<target host="verifikatorindonesia.com" />
+	<target host="www.verifikatorindonesia.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

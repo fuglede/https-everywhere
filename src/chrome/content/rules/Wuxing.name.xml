@@ -1,0 +1,6 @@
+<ruleset name="Wuxing.name">
+	<target host="wuxing.name" />
+	<target host="www.wuxing.name" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Apmg-certified.com">
+	<target host="apmg-certified.com" />
+	<target host="www.apmg-certified.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Anonymous-proxy.eu">
+	<target host="anonymous-proxy.eu" />
+	<target host="www.anonymous-proxy.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

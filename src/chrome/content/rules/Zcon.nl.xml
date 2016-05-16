@@ -1,0 +1,6 @@
+<ruleset name="Zcon.nl">
+	<target host="zcon.nl" />
+	<target host="www.zcon.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

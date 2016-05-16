@@ -1,0 +1,6 @@
+<ruleset name="Cdelia.net">
+	<target host="cdelia.net" />
+	<target host="www.cdelia.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Gostelis.ch">
+	<target host="gostelis.ch" />
+	<target host="www.gostelis.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

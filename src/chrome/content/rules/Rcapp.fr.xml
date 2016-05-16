@@ -1,0 +1,6 @@
+<ruleset name="Rcapp.fr">
+	<target host="rcapp.fr" />
+	<target host="www.rcapp.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

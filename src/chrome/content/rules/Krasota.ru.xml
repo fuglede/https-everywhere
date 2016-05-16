@@ -1,0 +1,6 @@
+<ruleset name="Krasota.ru">
+	<target host="krasota.ru" />
+	<target host="www.krasota.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

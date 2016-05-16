@@ -1,0 +1,6 @@
+<ruleset name="Clubcall.news">
+	<target host="clubcall.news" />
+	<target host="www.clubcall.news" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

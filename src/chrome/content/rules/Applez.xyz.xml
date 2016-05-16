@@ -1,0 +1,6 @@
+<ruleset name="Applez.xyz">
+	<target host="applez.xyz" />
+	<target host="www.applez.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

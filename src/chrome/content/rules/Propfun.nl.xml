@@ -1,0 +1,6 @@
+<ruleset name="Propfun.nl">
+	<target host="propfun.nl" />
+	<target host="www.propfun.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

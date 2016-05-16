@@ -1,0 +1,6 @@
+<ruleset name="Affiliateroyale.com">
+	<target host="affiliateroyale.com" />
+	<target host="www.affiliateroyale.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

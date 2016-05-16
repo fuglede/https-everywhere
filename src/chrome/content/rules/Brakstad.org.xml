@@ -1,0 +1,6 @@
+<ruleset name="Brakstad.org">
+	<target host="brakstad.org" />
+	<target host="www.brakstad.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

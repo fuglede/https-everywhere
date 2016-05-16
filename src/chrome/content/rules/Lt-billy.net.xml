@@ -1,0 +1,6 @@
+<ruleset name="Lt-billy.net">
+	<target host="lt-billy.net" />
+	<target host="www.lt-billy.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

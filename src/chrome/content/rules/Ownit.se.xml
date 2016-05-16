@@ -1,0 +1,6 @@
+<ruleset name="Ownit.se">
+	<target host="ownit.se" />
+	<target host="www.ownit.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

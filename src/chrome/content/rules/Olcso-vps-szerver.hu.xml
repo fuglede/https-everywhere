@@ -1,0 +1,6 @@
+<ruleset name="Olcso-vps-szerver.hu">
+	<target host="olcso-vps-szerver.hu" />
+	<target host="www.olcso-vps-szerver.hu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

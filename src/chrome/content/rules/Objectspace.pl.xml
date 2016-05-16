@@ -1,0 +1,6 @@
+<ruleset name="Objectspace.pl">
+	<target host="objectspace.pl" />
+	<target host="www.objectspace.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

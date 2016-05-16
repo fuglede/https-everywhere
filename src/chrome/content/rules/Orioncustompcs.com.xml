@@ -1,0 +1,6 @@
+<ruleset name="Orioncustompcs.com">
+	<target host="orioncustompcs.com" />
+	<target host="www.orioncustompcs.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

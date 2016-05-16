@@ -1,0 +1,6 @@
+<ruleset name="Uat-activesg.com">
+	<target host="uat-activesg.com" />
+	<target host="www.uat-activesg.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

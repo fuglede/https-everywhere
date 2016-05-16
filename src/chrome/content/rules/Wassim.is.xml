@@ -1,0 +1,6 @@
+<ruleset name="Wassim.is">
+	<target host="wassim.is" />
+	<target host="www.wassim.is" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

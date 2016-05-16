@@ -1,0 +1,6 @@
+<ruleset name="Prplfx.com">
+	<target host="prplfx.com" />
+	<target host="www.prplfx.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

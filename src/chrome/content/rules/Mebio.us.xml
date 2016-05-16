@@ -1,0 +1,6 @@
+<ruleset name="Mebio.us">
+	<target host="mebio.us" />
+	<target host="www.mebio.us" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

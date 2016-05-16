@@ -1,0 +1,6 @@
+<ruleset name="Root86.org">
+	<target host="root86.org" />
+	<target host="www.root86.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

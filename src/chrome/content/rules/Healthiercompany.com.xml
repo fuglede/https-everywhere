@@ -1,0 +1,6 @@
+<ruleset name="Healthiercompany.com">
+	<target host="healthiercompany.com" />
+	<target host="www.healthiercompany.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

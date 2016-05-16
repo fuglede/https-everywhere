@@ -1,0 +1,6 @@
+<ruleset name="Kickerplaza.nl">
+	<target host="kickerplaza.nl" />
+	<target host="www.kickerplaza.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

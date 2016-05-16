@@ -1,0 +1,6 @@
+<ruleset name="Haomwei.com">
+	<target host="haomwei.com" />
+	<target host="www.haomwei.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

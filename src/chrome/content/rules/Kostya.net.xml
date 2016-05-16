@@ -1,0 +1,6 @@
+<ruleset name="Kostya.net">
+	<target host="kostya.net" />
+	<target host="www.kostya.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

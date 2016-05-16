@@ -1,0 +1,6 @@
+<ruleset name="Etha.nz">
+	<target host="etha.nz" />
+	<target host="www.etha.nz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

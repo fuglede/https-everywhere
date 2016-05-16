@@ -1,0 +1,6 @@
+<ruleset name="Galenskap.eu">
+	<target host="galenskap.eu" />
+	<target host="www.galenskap.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

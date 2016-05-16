@@ -1,0 +1,6 @@
+<ruleset name="Nu3.at">
+	<target host="nu3.at" />
+	<target host="www.nu3.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

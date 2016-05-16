@@ -1,0 +1,6 @@
+<ruleset name="Torquato.de">
+	<target host="torquato.de" />
+	<target host="www.torquato.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

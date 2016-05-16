@@ -1,0 +1,6 @@
+<ruleset name="Africatravel.de">
+	<target host="africatravel.de" />
+	<target host="www.africatravel.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

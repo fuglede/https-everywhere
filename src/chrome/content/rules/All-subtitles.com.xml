@@ -1,0 +1,6 @@
+<ruleset name="All-subtitles.com">
+	<target host="all-subtitles.com" />
+	<target host="www.all-subtitles.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

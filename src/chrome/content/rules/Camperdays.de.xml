@@ -1,0 +1,6 @@
+<ruleset name="Camperdays.de">
+	<target host="camperdays.de" />
+	<target host="www.camperdays.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

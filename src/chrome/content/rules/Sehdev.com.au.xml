@@ -1,0 +1,6 @@
+<ruleset name="Sehdev.com.au">
+	<target host="sehdev.com.au" />
+	<target host="www.sehdev.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

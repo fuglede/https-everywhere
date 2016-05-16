@@ -1,0 +1,6 @@
+<ruleset name="Nottheonion.net">
+	<target host="nottheonion.net" />
+	<target host="www.nottheonion.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

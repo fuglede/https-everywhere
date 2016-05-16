@@ -1,0 +1,6 @@
+<ruleset name="Clubmate.rocks">
+	<target host="clubmate.rocks" />
+	<target host="www.clubmate.rocks" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

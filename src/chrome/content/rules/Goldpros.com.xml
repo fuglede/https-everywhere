@@ -1,0 +1,6 @@
+<ruleset name="Goldpros.com">
+	<target host="goldpros.com" />
+	<target host="www.goldpros.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

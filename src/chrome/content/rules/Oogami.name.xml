@@ -1,0 +1,6 @@
+<ruleset name="Oogami.name">
+	<target host="oogami.name" />
+	<target host="www.oogami.name" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

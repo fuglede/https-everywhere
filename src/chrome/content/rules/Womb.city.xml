@@ -1,0 +1,6 @@
+<ruleset name="Womb.city">
+	<target host="womb.city" />
+	<target host="www.womb.city" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

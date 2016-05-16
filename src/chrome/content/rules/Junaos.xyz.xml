@@ -1,0 +1,6 @@
+<ruleset name="Junaos.xyz">
+	<target host="junaos.xyz" />
+	<target host="www.junaos.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Reardenporn.com">
+	<target host="reardenporn.com" />
+	<target host="www.reardenporn.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

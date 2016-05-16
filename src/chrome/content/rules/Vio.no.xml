@@ -1,0 +1,6 @@
+<ruleset name="Vio.no">
+	<target host="vio.no" />
+	<target host="www.vio.no" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

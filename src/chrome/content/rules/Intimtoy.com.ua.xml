@@ -1,0 +1,6 @@
+<ruleset name="Intimtoy.com.ua">
+	<target host="intimtoy.com.ua" />
+	<target host="www.intimtoy.com.ua" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

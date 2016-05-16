@@ -1,0 +1,6 @@
+<ruleset name="Werdeeintimo.de">
+	<target host="werdeeintimo.de" />
+	<target host="www.werdeeintimo.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

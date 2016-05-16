@@ -1,0 +1,6 @@
+<ruleset name="Ebermannstadt.de">
+	<target host="ebermannstadt.de" />
+	<target host="www.ebermannstadt.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

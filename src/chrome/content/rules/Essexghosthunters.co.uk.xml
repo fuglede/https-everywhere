@@ -1,0 +1,6 @@
+<ruleset name="Essexghosthunters.co.uk">
+	<target host="essexghosthunters.co.uk" />
+	<target host="www.essexghosthunters.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

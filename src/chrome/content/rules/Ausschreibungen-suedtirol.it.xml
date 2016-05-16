@@ -1,0 +1,6 @@
+<ruleset name="Ausschreibungen-suedtirol.it">
+	<target host="ausschreibungen-suedtirol.it" />
+	<target host="www.ausschreibungen-suedtirol.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

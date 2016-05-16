@@ -1,0 +1,6 @@
+<ruleset name="Cmlancy.ch">
+	<target host="cmlancy.ch" />
+	<target host="www.cmlancy.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

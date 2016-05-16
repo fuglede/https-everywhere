@@ -1,0 +1,6 @@
+<ruleset name="Kon-sil.de">
+	<target host="kon-sil.de" />
+	<target host="www.kon-sil.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

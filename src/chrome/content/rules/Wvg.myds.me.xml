@@ -1,0 +1,6 @@
+<ruleset name="Wvg.myds.me">
+	<target host="wvg.myds.me" />
+	<target host="www.wvg.myds.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

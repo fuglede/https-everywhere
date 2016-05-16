@@ -1,0 +1,6 @@
+<ruleset name="Dieti.net">
+	<target host="dieti.net" />
+	<target host="www.dieti.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

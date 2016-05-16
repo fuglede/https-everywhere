@@ -1,0 +1,6 @@
+<ruleset name="Benni1.eu">
+	<target host="benni1.eu" />
+	<target host="www.benni1.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

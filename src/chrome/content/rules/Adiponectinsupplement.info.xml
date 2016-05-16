@@ -1,0 +1,6 @@
+<ruleset name="Adiponectinsupplement.info">
+	<target host="adiponectinsupplement.info" />
+	<target host="www.adiponectinsupplement.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

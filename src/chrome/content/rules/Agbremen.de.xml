@@ -1,0 +1,6 @@
+<ruleset name="Agbremen.de">
+	<target host="agbremen.de" />
+	<target host="www.agbremen.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Marbogardenlidkoping.se">
+	<target host="marbogardenlidkoping.se" />
+	<target host="www.marbogardenlidkoping.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Csbs.fr">
+	<target host="csbs.fr" />
+	<target host="www.csbs.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

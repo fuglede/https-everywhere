@@ -1,0 +1,6 @@
+<ruleset name="Thriveapproach.co.uk">
+	<target host="thriveapproach.co.uk" />
+	<target host="www.thriveapproach.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

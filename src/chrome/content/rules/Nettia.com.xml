@@ -1,0 +1,6 @@
+<ruleset name="Nettia.com">
+	<target host="nettia.com" />
+	<target host="www.nettia.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

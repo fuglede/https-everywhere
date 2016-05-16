@@ -1,0 +1,6 @@
+<ruleset name="Emeldi-commerce.com">
+	<target host="emeldi-commerce.com" />
+	<target host="www.emeldi-commerce.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

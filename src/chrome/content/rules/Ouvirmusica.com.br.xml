@@ -1,0 +1,6 @@
+<ruleset name="Ouvirmusica.com.br">
+	<target host="ouvirmusica.com.br" />
+	<target host="www.ouvirmusica.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

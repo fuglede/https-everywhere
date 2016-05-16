@@ -1,0 +1,6 @@
+<ruleset name="Compareandrecycle.com">
+	<target host="compareandrecycle.com" />
+	<target host="www.compareandrecycle.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

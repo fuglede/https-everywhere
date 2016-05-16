@@ -1,0 +1,6 @@
+<ruleset name="Oceandns.net">
+	<target host="oceandns.net" />
+	<target host="www.oceandns.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Innovativeskilledsolutions.com.au">
+	<target host="innovativeskilledsolutions.com.au" />
+	<target host="www.innovativeskilledsolutions.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

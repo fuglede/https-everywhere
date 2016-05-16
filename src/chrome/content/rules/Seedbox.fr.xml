@@ -1,0 +1,6 @@
+<ruleset name="Seedbox.fr">
+	<target host="seedbox.fr" />
+	<target host="www.seedbox.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

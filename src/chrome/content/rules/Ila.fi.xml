@@ -1,0 +1,6 @@
+<ruleset name="Ila.fi">
+	<target host="ila.fi" />
+	<target host="www.ila.fi" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

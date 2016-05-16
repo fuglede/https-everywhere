@@ -1,0 +1,6 @@
+<ruleset name="Zulu7.com">
+	<target host="zulu7.com" />
+	<target host="www.zulu7.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

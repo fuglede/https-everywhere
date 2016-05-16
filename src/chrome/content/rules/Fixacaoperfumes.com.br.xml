@@ -1,0 +1,6 @@
+<ruleset name="Fixacaoperfumes.com.br">
+	<target host="fixacaoperfumes.com.br" />
+	<target host="www.fixacaoperfumes.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

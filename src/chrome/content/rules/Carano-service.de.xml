@@ -1,0 +1,6 @@
+<ruleset name="Carano-service.de">
+	<target host="carano-service.de" />
+	<target host="www.carano-service.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

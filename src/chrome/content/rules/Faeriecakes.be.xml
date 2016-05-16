@@ -1,0 +1,6 @@
+<ruleset name="Faeriecakes.be">
+	<target host="faeriecakes.be" />
+	<target host="www.faeriecakes.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

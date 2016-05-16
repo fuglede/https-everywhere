@@ -1,0 +1,6 @@
+<ruleset name="Nafod.net">
+	<target host="nafod.net" />
+	<target host="www.nafod.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

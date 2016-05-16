@@ -1,0 +1,6 @@
+<ruleset name="Universogay.com">
+	<target host="universogay.com" />
+	<target host="www.universogay.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

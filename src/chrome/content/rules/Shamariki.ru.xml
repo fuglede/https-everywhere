@@ -1,0 +1,6 @@
+<ruleset name="Shamariki.ru">
+	<target host="shamariki.ru" />
+	<target host="www.shamariki.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

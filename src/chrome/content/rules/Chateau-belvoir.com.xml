@@ -1,0 +1,6 @@
+<ruleset name="Chateau-belvoir.com">
+	<target host="chateau-belvoir.com" />
+	<target host="www.chateau-belvoir.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

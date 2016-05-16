@@ -1,0 +1,6 @@
+<ruleset name="Lostfound.fr">
+	<target host="lostfound.fr" />
+	<target host="www.lostfound.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

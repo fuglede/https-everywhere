@@ -1,0 +1,6 @@
+<ruleset name="Haku.moe">
+	<target host="haku.moe" />
+	<target host="www.haku.moe" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

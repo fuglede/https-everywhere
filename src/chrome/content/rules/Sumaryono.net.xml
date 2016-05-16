@@ -1,0 +1,6 @@
+<ruleset name="Sumaryono.net">
+	<target host="sumaryono.net" />
+	<target host="www.sumaryono.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

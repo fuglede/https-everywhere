@@ -1,0 +1,6 @@
+<ruleset name="Yhaupenthal.org">
+	<target host="yhaupenthal.org" />
+	<target host="www.yhaupenthal.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

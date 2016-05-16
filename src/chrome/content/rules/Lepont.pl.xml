@@ -1,0 +1,6 @@
+<ruleset name="Lepont.pl">
+	<target host="lepont.pl" />
+	<target host="www.lepont.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

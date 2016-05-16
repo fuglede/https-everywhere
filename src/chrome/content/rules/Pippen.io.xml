@@ -1,0 +1,6 @@
+<ruleset name="Pippen.io">
+	<target host="pippen.io" />
+	<target host="www.pippen.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

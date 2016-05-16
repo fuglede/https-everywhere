@@ -1,0 +1,6 @@
+<ruleset name="Edurodam.nl">
+	<target host="edurodam.nl" />
+	<target host="www.edurodam.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

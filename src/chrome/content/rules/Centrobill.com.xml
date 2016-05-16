@@ -1,0 +1,6 @@
+<ruleset name="Centrobill.com">
+	<target host="centrobill.com" />
+	<target host="www.centrobill.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

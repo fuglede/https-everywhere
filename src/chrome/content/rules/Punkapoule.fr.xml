@@ -1,0 +1,6 @@
+<ruleset name="Punkapoule.fr">
+	<target host="punkapoule.fr" />
+	<target host="www.punkapoule.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

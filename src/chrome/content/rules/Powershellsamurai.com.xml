@@ -1,0 +1,6 @@
+<ruleset name="Powershellsamurai.com">
+	<target host="powershellsamurai.com" />
+	<target host="www.powershellsamurai.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

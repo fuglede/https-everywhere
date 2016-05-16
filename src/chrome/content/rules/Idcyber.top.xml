@@ -1,0 +1,6 @@
+<ruleset name="Idcyber.top">
+	<target host="idcyber.top" />
+	<target host="www.idcyber.top" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

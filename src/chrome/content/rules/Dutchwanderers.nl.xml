@@ -1,0 +1,6 @@
+<ruleset name="Dutchwanderers.nl">
+	<target host="dutchwanderers.nl" />
+	<target host="www.dutchwanderers.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

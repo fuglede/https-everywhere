@@ -1,0 +1,6 @@
+<ruleset name="Adme.co.il">
+	<target host="adme.co.il" />
+	<target host="www.adme.co.il" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Kreen.org">
+	<target host="kreen.org" />
+	<target host="www.kreen.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

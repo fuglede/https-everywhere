@@ -1,0 +1,6 @@
+<ruleset name="Osp.cx">
+	<target host="osp.cx" />
+	<target host="www.osp.cx" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

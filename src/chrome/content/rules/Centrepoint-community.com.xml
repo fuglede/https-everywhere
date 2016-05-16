@@ -1,0 +1,6 @@
+<ruleset name="Centrepoint-community.com">
+	<target host="centrepoint-community.com" />
+	<target host="www.centrepoint-community.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

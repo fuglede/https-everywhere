@@ -1,0 +1,6 @@
+<ruleset name="Iww.mx">
+	<target host="iww.mx" />
+	<target host="www.iww.mx" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

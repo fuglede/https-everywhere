@@ -1,0 +1,6 @@
+<ruleset name="Schuhdealo.de">
+	<target host="schuhdealo.de" />
+	<target host="www.schuhdealo.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

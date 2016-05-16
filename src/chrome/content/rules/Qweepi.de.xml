@@ -1,0 +1,6 @@
+<ruleset name="Qweepi.de">
+	<target host="qweepi.de" />
+	<target host="www.qweepi.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

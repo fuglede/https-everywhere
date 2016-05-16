@@ -1,0 +1,6 @@
+<ruleset name="Amavis.org">
+	<target host="amavis.org" />
+	<target host="www.amavis.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

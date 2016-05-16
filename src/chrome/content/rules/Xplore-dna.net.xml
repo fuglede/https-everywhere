@@ -1,0 +1,6 @@
+<ruleset name="Xplore-dna.net">
+	<target host="xplore-dna.net" />
+	<target host="www.xplore-dna.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

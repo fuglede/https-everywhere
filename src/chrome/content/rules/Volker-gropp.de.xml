@@ -1,0 +1,6 @@
+<ruleset name="Volker-gropp.de">
+	<target host="volker-gropp.de" />
+	<target host="www.volker-gropp.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

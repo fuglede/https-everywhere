@@ -1,0 +1,6 @@
+<ruleset name="Gofigure.fr">
+	<target host="gofigure.fr" />
+	<target host="www.gofigure.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

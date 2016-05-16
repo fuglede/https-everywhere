@@ -1,0 +1,6 @@
+<ruleset name="Flight1090.com">
+	<target host="flight1090.com" />
+	<target host="www.flight1090.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

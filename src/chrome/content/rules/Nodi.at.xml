@@ -1,0 +1,6 @@
+<ruleset name="Nodi.at">
+	<target host="nodi.at" />
+	<target host="www.nodi.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

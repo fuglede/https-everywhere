@@ -1,0 +1,6 @@
+<ruleset name="Xn--kysaku-cgb.org">
+	<target host="xn--kysaku-cgb.org" />
+	<target host="www.xn--kysaku-cgb.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

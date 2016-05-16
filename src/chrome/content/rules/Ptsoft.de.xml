@@ -1,0 +1,6 @@
+<ruleset name="Ptsoft.de">
+	<target host="ptsoft.de" />
+	<target host="www.ptsoft.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

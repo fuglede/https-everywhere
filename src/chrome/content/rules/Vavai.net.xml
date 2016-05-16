@@ -1,0 +1,6 @@
+<ruleset name="Vavai.net">
+	<target host="vavai.net" />
+	<target host="www.vavai.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

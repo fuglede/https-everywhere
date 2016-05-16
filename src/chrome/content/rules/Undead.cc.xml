@@ -1,0 +1,6 @@
+<ruleset name="Undead.cc">
+	<target host="undead.cc" />
+	<target host="www.undead.cc" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

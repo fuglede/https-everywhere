@@ -1,0 +1,6 @@
+<ruleset name="Nappies.co.nz">
+	<target host="nappies.co.nz" />
+	<target host="www.nappies.co.nz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

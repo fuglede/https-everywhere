@@ -1,0 +1,6 @@
+<ruleset name="Tapka.cz">
+	<target host="tapka.cz" />
+	<target host="www.tapka.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Diasdasemana.com">
+	<target host="diasdasemana.com" />
+	<target host="www.diasdasemana.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

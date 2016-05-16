@@ -1,0 +1,6 @@
+<ruleset name="Fwei.tk">
+	<target host="fwei.tk" />
+	<target host="www.fwei.tk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

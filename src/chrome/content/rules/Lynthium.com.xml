@@ -1,0 +1,6 @@
+<ruleset name="Lynthium.com">
+	<target host="lynthium.com" />
+	<target host="www.lynthium.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

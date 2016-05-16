@@ -1,0 +1,6 @@
+<ruleset name="Acabadosboston.com">
+	<target host="acabadosboston.com" />
+	<target host="www.acabadosboston.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

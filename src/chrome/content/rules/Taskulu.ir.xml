@@ -1,0 +1,6 @@
+<ruleset name="Taskulu.ir">
+	<target host="taskulu.ir" />
+	<target host="www.taskulu.ir" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

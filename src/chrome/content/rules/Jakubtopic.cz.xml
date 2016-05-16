@@ -1,0 +1,6 @@
+<ruleset name="Jakubtopic.cz">
+	<target host="jakubtopic.cz" />
+	<target host="www.jakubtopic.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

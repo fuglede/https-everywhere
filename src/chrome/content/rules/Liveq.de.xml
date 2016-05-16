@@ -1,0 +1,6 @@
+<ruleset name="Liveq.de">
+	<target host="liveq.de" />
+	<target host="www.liveq.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

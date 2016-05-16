@@ -1,0 +1,6 @@
+<ruleset name="Leichtathletik-ulm.de">
+	<target host="leichtathletik-ulm.de" />
+	<target host="www.leichtathletik-ulm.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

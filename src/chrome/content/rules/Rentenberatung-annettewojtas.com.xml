@@ -1,0 +1,6 @@
+<ruleset name="Rentenberatung-annettewojtas.com">
+	<target host="rentenberatung-annettewojtas.com" />
+	<target host="www.rentenberatung-annettewojtas.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

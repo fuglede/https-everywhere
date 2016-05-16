@@ -1,0 +1,6 @@
+<ruleset name="Bip.gov.sa">
+	<target host="bip.gov.sa" />
+	<target host="www.bip.gov.sa" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

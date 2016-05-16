@@ -1,0 +1,6 @@
+<ruleset name="Wail.net">
+	<target host="wail.net" />
+	<target host="www.wail.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

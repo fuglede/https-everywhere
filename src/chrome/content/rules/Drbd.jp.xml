@@ -1,0 +1,6 @@
+<ruleset name="Drbd.jp">
+	<target host="drbd.jp" />
+	<target host="www.drbd.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

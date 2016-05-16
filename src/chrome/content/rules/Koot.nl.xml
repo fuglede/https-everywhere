@@ -1,0 +1,6 @@
+<ruleset name="Koot.nl">
+	<target host="koot.nl" />
+	<target host="www.koot.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Webduck.nl">
+	<target host="webduck.nl" />
+	<target host="www.webduck.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

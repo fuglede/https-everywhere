@@ -1,0 +1,6 @@
+<ruleset name="Beavers.io">
+	<target host="beavers.io" />
+	<target host="www.beavers.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

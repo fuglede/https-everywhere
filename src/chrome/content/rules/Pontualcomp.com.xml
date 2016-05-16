@@ -1,0 +1,6 @@
+<ruleset name="Pontualcomp.com">
+	<target host="pontualcomp.com" />
+	<target host="www.pontualcomp.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

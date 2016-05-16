@@ -1,0 +1,6 @@
+<ruleset name="Tripax.de">
+	<target host="tripax.de" />
+	<target host="www.tripax.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

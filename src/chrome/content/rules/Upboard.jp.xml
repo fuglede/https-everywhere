@@ -1,0 +1,6 @@
+<ruleset name="Upboard.jp">
+	<target host="upboard.jp" />
+	<target host="www.upboard.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

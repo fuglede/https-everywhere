@@ -1,0 +1,6 @@
+<ruleset name="Pisexy.me">
+	<target host="pisexy.me" />
+	<target host="www.pisexy.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

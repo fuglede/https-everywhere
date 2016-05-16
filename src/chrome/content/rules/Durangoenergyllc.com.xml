@@ -1,0 +1,6 @@
+<ruleset name="Durangoenergyllc.com">
+	<target host="durangoenergyllc.com" />
+	<target host="www.durangoenergyllc.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="2programmers.net">
+	<target host="2programmers.net" />
+	<target host="www.2programmers.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

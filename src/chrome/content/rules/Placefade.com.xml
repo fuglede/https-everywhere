@@ -1,0 +1,6 @@
+<ruleset name="Placefade.com">
+	<target host="placefade.com" />
+	<target host="www.placefade.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

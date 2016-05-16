@@ -1,0 +1,6 @@
+<ruleset name="Antons.io">
+	<target host="antons.io" />
+	<target host="www.antons.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

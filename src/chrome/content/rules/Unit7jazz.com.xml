@@ -1,0 +1,6 @@
+<ruleset name="Unit7jazz.com">
+	<target host="unit7jazz.com" />
+	<target host="www.unit7jazz.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Moriz.net">
+	<target host="moriz.net" />
+	<target host="www.moriz.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Pridoc.se">
+	<target host="pridoc.se" />
+	<target host="www.pridoc.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

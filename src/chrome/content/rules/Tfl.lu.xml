@@ -1,0 +1,6 @@
+<ruleset name="Tfl.lu">
+	<target host="tfl.lu" />
+	<target host="www.tfl.lu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

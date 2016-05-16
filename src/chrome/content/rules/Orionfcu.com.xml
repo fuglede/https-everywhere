@@ -1,0 +1,6 @@
+<ruleset name="Orionfcu.com">
+	<target host="orionfcu.com" />
+	<target host="www.orionfcu.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

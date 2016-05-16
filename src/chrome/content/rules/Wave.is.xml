@@ -1,0 +1,6 @@
+<ruleset name="Wave.is">
+	<target host="wave.is" />
+	<target host="www.wave.is" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

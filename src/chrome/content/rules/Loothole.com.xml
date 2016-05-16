@@ -1,0 +1,6 @@
+<ruleset name="Loothole.com">
+	<target host="loothole.com" />
+	<target host="www.loothole.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

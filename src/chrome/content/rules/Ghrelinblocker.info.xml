@@ -1,0 +1,6 @@
+<ruleset name="Ghrelinblocker.info">
+	<target host="ghrelinblocker.info" />
+	<target host="www.ghrelinblocker.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

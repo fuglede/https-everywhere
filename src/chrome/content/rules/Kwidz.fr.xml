@@ -1,0 +1,6 @@
+<ruleset name="Kwidz.fr">
+	<target host="kwidz.fr" />
+	<target host="www.kwidz.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

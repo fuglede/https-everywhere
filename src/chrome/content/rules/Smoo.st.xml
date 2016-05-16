@@ -1,0 +1,6 @@
+<ruleset name="Smoo.st">
+	<target host="smoo.st" />
+	<target host="www.smoo.st" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

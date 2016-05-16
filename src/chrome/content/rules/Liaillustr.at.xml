@@ -1,0 +1,6 @@
+<ruleset name="Liaillustr.at">
+	<target host="liaillustr.at" />
+	<target host="www.liaillustr.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

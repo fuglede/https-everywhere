@@ -1,0 +1,6 @@
+<ruleset name="Schont.org">
+	<target host="schont.org" />
+	<target host="www.schont.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

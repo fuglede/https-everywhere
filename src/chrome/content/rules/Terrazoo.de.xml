@@ -1,0 +1,6 @@
+<ruleset name="Terrazoo.de">
+	<target host="terrazoo.de" />
+	<target host="www.terrazoo.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

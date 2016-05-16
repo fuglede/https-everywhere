@@ -1,0 +1,6 @@
+<ruleset name="Pinkcasino.co.uk">
+	<target host="pinkcasino.co.uk" />
+	<target host="www.pinkcasino.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

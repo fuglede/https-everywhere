@@ -1,0 +1,6 @@
+<ruleset name="Brinkhome.nl">
+	<target host="brinkhome.nl" />
+	<target host="www.brinkhome.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

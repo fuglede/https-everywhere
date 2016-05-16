@@ -1,0 +1,6 @@
+<ruleset name="Frasys.cloud">
+	<target host="frasys.cloud" />
+	<target host="www.frasys.cloud" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

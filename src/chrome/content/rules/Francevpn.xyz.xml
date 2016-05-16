@@ -1,0 +1,6 @@
+<ruleset name="Francevpn.xyz">
+	<target host="francevpn.xyz" />
+	<target host="www.francevpn.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

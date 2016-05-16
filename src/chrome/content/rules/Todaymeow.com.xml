@@ -1,0 +1,6 @@
+<ruleset name="Todaymeow.com">
+	<target host="todaymeow.com" />
+	<target host="www.todaymeow.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

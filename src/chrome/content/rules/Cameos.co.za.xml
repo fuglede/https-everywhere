@@ -1,0 +1,6 @@
+<ruleset name="Cameos.co.za">
+	<target host="cameos.co.za" />
+	<target host="www.cameos.co.za" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

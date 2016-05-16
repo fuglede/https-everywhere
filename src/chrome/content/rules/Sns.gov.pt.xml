@@ -1,0 +1,6 @@
+<ruleset name="Sns.gov.pt">
+	<target host="sns.gov.pt" />
+	<target host="www.sns.gov.pt" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

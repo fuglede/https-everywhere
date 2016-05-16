@@ -1,0 +1,6 @@
+<ruleset name="Skedify.me">
+	<target host="skedify.me" />
+	<target host="www.skedify.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

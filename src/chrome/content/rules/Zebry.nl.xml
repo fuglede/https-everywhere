@@ -1,0 +1,6 @@
+<ruleset name="Zebry.nl">
+	<target host="zebry.nl" />
+	<target host="www.zebry.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

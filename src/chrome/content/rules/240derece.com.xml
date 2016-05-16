@@ -1,0 +1,6 @@
+<ruleset name="240derece.com">
+	<target host="240derece.com" />
+	<target host="www.240derece.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

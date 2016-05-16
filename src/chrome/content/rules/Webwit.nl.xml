@@ -1,0 +1,6 @@
+<ruleset name="Webwit.nl">
+	<target host="webwit.nl" />
+	<target host="www.webwit.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

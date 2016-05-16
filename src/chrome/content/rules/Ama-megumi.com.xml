@@ -1,0 +1,6 @@
+<ruleset name="Ama-megumi.com">
+	<target host="ama-megumi.com" />
+	<target host="www.ama-megumi.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

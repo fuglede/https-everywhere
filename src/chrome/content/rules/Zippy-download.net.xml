@@ -1,0 +1,6 @@
+<ruleset name="Zippy-download.net">
+	<target host="zippy-download.net" />
+	<target host="www.zippy-download.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Stadtbauwerk.at">
+	<target host="stadtbauwerk.at" />
+	<target host="www.stadtbauwerk.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

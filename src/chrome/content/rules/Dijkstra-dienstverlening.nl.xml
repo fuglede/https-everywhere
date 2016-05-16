@@ -1,0 +1,6 @@
+<ruleset name="Dijkstra-dienstverlening.nl">
+	<target host="dijkstra-dienstverlening.nl" />
+	<target host="www.dijkstra-dienstverlening.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

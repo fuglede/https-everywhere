@@ -1,0 +1,6 @@
+<ruleset name="Mkp-deutschland.de">
+	<target host="mkp-deutschland.de" />
+	<target host="www.mkp-deutschland.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

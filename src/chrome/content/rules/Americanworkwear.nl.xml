@@ -1,0 +1,6 @@
+<ruleset name="Americanworkwear.nl">
+	<target host="americanworkwear.nl" />
+	<target host="www.americanworkwear.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

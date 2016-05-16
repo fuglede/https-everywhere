@@ -1,0 +1,6 @@
+<ruleset name="Idexxpublicationportal.com">
+	<target host="idexxpublicationportal.com" />
+	<target host="www.idexxpublicationportal.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

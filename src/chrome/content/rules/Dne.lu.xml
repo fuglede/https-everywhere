@@ -1,0 +1,6 @@
+<ruleset name="Dne.lu">
+	<target host="dne.lu" />
+	<target host="www.dne.lu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

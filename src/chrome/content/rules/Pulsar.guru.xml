@@ -1,0 +1,6 @@
+<ruleset name="Pulsar.guru">
+	<target host="pulsar.guru" />
+	<target host="www.pulsar.guru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

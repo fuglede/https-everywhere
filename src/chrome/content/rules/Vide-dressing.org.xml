@@ -1,0 +1,6 @@
+<ruleset name="Vide-dressing.org">
+	<target host="vide-dressing.org" />
+	<target host="www.vide-dressing.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

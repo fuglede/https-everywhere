@@ -1,0 +1,6 @@
+<ruleset name="Avg.club">
+	<target host="avg.club" />
+	<target host="www.avg.club" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

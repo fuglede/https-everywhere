@@ -1,0 +1,6 @@
+<ruleset name="Isogram.nl">
+	<target host="isogram.nl" />
+	<target host="www.isogram.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

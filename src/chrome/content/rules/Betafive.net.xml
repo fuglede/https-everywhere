@@ -1,0 +1,6 @@
+<ruleset name="Betafive.net">
+	<target host="betafive.net" />
+	<target host="www.betafive.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

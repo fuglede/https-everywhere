@@ -1,0 +1,6 @@
+<ruleset name="Smartsparrow.com">
+	<target host="smartsparrow.com" />
+	<target host="www.smartsparrow.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

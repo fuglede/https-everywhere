@@ -1,0 +1,6 @@
+<ruleset name="Todobazar.es">
+	<target host="todobazar.es" />
+	<target host="www.todobazar.es" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="In-flames.com">
+	<target host="in-flames.com" />
+	<target host="www.in-flames.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

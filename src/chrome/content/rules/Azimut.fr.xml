@@ -1,0 +1,6 @@
+<ruleset name="Azimut.fr">
+	<target host="azimut.fr" />
+	<target host="www.azimut.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

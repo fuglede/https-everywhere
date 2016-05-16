@@ -1,0 +1,6 @@
+<ruleset name="Pixipics.com">
+	<target host="pixipics.com" />
+	<target host="www.pixipics.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

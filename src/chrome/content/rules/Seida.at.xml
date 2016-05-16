@@ -1,0 +1,6 @@
+<ruleset name="Seida.at">
+	<target host="seida.at" />
+	<target host="www.seida.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

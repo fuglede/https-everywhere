@@ -1,0 +1,6 @@
+<ruleset name="Mallonline.com.br">
+	<target host="mallonline.com.br" />
+	<target host="www.mallonline.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

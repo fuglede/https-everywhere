@@ -1,0 +1,6 @@
+<ruleset name="Arbeitskreis-asyl-eningen.de">
+	<target host="arbeitskreis-asyl-eningen.de" />
+	<target host="www.arbeitskreis-asyl-eningen.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

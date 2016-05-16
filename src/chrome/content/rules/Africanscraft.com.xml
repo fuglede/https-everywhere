@@ -1,0 +1,6 @@
+<ruleset name="Africanscraft.com">
+	<target host="africanscraft.com" />
+	<target host="www.africanscraft.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

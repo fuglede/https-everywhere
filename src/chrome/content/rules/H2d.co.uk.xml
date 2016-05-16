@@ -1,0 +1,6 @@
+<ruleset name="H2d.co.uk">
+	<target host="h2d.co.uk" />
+	<target host="www.h2d.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

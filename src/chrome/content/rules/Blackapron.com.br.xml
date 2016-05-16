@@ -1,0 +1,6 @@
+<ruleset name="Blackapron.com.br">
+	<target host="blackapron.com.br" />
+	<target host="www.blackapron.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

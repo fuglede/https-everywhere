@@ -1,0 +1,6 @@
+<ruleset name="Fenno.net">
+	<target host="fenno.net" />
+	<target host="www.fenno.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

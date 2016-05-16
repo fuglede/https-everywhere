@@ -1,0 +1,6 @@
+<ruleset name="Pseudogik.com">
+	<target host="pseudogik.com" />
+	<target host="www.pseudogik.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

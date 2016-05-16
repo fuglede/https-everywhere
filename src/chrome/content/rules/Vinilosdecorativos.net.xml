@@ -1,0 +1,6 @@
+<ruleset name="Vinilosdecorativos.net">
+	<target host="vinilosdecorativos.net" />
+	<target host="www.vinilosdecorativos.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

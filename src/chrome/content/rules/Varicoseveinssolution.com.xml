@@ -1,0 +1,6 @@
+<ruleset name="Varicoseveinssolution.com">
+	<target host="varicoseveinssolution.com" />
+	<target host="www.varicoseveinssolution.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

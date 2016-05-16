@@ -1,0 +1,6 @@
+<ruleset name="Linmi.cc">
+	<target host="linmi.cc" />
+	<target host="www.linmi.cc" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

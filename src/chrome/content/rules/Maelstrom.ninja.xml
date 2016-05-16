@@ -1,0 +1,6 @@
+<ruleset name="Maelstrom.ninja">
+	<target host="maelstrom.ninja" />
+	<target host="www.maelstrom.ninja" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Theinitium.com">
+	<target host="theinitium.com" />
+	<target host="www.theinitium.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

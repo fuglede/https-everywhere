@@ -1,0 +1,6 @@
+<ruleset name="Nutrineers.com">
+	<target host="nutrineers.com" />
+	<target host="www.nutrineers.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

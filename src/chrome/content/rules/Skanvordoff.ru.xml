@@ -1,0 +1,6 @@
+<ruleset name="Skanvordoff.ru">
+	<target host="skanvordoff.ru" />
+	<target host="www.skanvordoff.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

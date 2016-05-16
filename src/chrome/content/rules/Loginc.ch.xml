@@ -1,0 +1,6 @@
+<ruleset name="Loginc.ch">
+	<target host="loginc.ch" />
+	<target host="www.loginc.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

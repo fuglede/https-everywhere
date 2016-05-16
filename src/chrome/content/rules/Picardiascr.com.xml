@@ -1,0 +1,6 @@
+<ruleset name="Picardiascr.com">
+	<target host="picardiascr.com" />
+	<target host="www.picardiascr.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

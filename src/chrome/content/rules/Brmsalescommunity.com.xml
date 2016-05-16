@@ -1,0 +1,6 @@
+<ruleset name="Brmsalescommunity.com">
+	<target host="brmsalescommunity.com" />
+	<target host="www.brmsalescommunity.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Theclubjersey.com">
+	<target host="theclubjersey.com" />
+	<target host="www.theclubjersey.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Emjainteractive.com">
+	<target host="emjainteractive.com" />
+	<target host="www.emjainteractive.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

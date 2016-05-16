@@ -1,0 +1,6 @@
+<ruleset name="Blank-guns-depot.com">
+	<target host="blank-guns-depot.com" />
+	<target host="www.blank-guns-depot.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Auverbox.ovh">
+	<target host="auverbox.ovh" />
+	<target host="www.auverbox.ovh" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

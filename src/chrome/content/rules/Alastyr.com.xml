@@ -1,0 +1,6 @@
+<ruleset name="Alastyr.com">
+	<target host="alastyr.com" />
+	<target host="www.alastyr.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

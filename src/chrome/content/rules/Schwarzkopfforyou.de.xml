@@ -1,0 +1,6 @@
+<ruleset name="Schwarzkopfforyou.de">
+	<target host="schwarzkopfforyou.de" />
+	<target host="www.schwarzkopfforyou.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

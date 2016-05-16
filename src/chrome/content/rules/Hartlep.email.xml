@@ -1,0 +1,6 @@
+<ruleset name="Hartlep.email">
+	<target host="hartlep.email" />
+	<target host="www.hartlep.email" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

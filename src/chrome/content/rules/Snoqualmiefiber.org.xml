@@ -1,0 +1,6 @@
+<ruleset name="Snoqualmiefiber.org">
+	<target host="snoqualmiefiber.org" />
+	<target host="www.snoqualmiefiber.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

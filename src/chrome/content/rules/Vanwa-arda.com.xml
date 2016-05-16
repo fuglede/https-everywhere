@@ -1,0 +1,6 @@
+<ruleset name="Vanwa-arda.com">
+	<target host="vanwa-arda.com" />
+	<target host="www.vanwa-arda.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

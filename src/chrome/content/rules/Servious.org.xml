@@ -1,0 +1,6 @@
+<ruleset name="Servious.org">
+	<target host="servious.org" />
+	<target host="www.servious.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

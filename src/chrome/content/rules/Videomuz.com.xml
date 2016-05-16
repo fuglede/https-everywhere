@@ -1,0 +1,6 @@
+<ruleset name="Videomuz.com">
+	<target host="videomuz.com" />
+	<target host="www.videomuz.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

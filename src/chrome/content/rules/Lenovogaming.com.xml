@@ -1,0 +1,6 @@
+<ruleset name="Lenovogaming.com">
+	<target host="lenovogaming.com" />
+	<target host="www.lenovogaming.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

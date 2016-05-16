@@ -1,0 +1,6 @@
+<ruleset name="Kaisyu-kagawa.jp">
+	<target host="kaisyu-kagawa.jp" />
+	<target host="www.kaisyu-kagawa.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

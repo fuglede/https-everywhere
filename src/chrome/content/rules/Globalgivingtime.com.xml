@@ -1,0 +1,6 @@
+<ruleset name="Globalgivingtime.com">
+	<target host="globalgivingtime.com" />
+	<target host="www.globalgivingtime.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

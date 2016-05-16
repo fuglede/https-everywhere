@@ -1,0 +1,6 @@
+<ruleset name="Runway2street.com">
+	<target host="runway2street.com" />
+	<target host="www.runway2street.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

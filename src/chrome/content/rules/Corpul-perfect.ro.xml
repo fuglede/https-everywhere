@@ -1,0 +1,6 @@
+<ruleset name="Corpul-perfect.ro">
+	<target host="corpul-perfect.ro" />
+	<target host="www.corpul-perfect.ro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

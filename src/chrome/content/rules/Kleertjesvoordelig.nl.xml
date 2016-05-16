@@ -1,0 +1,6 @@
+<ruleset name="Kleertjesvoordelig.nl">
+	<target host="kleertjesvoordelig.nl" />
+	<target host="www.kleertjesvoordelig.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

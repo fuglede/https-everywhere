@@ -1,0 +1,6 @@
+<ruleset name="Restaurant-oregano.de">
+	<target host="restaurant-oregano.de" />
+	<target host="www.restaurant-oregano.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

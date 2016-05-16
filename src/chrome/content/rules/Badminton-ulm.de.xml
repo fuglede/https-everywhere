@@ -1,0 +1,6 @@
+<ruleset name="Badminton-ulm.de">
+	<target host="badminton-ulm.de" />
+	<target host="www.badminton-ulm.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

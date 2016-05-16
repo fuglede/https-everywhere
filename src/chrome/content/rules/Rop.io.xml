@@ -1,0 +1,6 @@
+<ruleset name="Rop.io">
+	<target host="rop.io" />
+	<target host="www.rop.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

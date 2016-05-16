@@ -1,0 +1,6 @@
+<ruleset name="Xandocs.com">
+	<target host="xandocs.com" />
+	<target host="www.xandocs.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

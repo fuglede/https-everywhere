@@ -1,0 +1,6 @@
+<ruleset name="Funderburg.me">
+	<target host="funderburg.me" />
+	<target host="www.funderburg.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

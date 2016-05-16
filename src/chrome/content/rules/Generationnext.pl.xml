@@ -1,0 +1,6 @@
+<ruleset name="Generationnext.pl">
+	<target host="generationnext.pl" />
+	<target host="www.generationnext.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Abilitylist.org">
+	<target host="abilitylist.org" />
+	<target host="www.abilitylist.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

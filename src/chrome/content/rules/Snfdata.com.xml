@@ -1,0 +1,6 @@
+<ruleset name="Snfdata.com">
+	<target host="snfdata.com" />
+	<target host="www.snfdata.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

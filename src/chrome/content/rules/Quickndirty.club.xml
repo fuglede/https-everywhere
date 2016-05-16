@@ -1,0 +1,6 @@
+<ruleset name="Quickndirty.club">
+	<target host="quickndirty.club" />
+	<target host="www.quickndirty.club" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

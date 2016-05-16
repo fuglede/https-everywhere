@@ -1,0 +1,6 @@
+<ruleset name="Ime.moe">
+	<target host="ime.moe" />
+	<target host="www.ime.moe" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

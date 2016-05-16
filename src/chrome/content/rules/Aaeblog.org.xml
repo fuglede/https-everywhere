@@ -1,0 +1,6 @@
+<ruleset name="Aaeblog.org">
+	<target host="aaeblog.org" />
+	<target host="www.aaeblog.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

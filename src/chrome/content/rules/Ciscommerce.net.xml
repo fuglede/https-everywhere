@@ -1,0 +1,6 @@
+<ruleset name="Ciscommerce.net">
+	<target host="ciscommerce.net" />
+	<target host="www.ciscommerce.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

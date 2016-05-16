@@ -1,0 +1,6 @@
+<ruleset name="Sharepass.pw">
+	<target host="sharepass.pw" />
+	<target host="www.sharepass.pw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

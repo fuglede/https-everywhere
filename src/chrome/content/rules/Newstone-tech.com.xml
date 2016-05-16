@@ -1,0 +1,6 @@
+<ruleset name="Newstone-tech.com">
+	<target host="newstone-tech.com" />
+	<target host="www.newstone-tech.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

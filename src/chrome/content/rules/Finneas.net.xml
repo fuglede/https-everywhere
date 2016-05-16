@@ -1,0 +1,6 @@
+<ruleset name="Finneas.net">
+	<target host="finneas.net" />
+	<target host="www.finneas.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

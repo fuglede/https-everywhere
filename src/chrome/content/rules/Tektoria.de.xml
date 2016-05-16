@@ -1,0 +1,6 @@
+<ruleset name="Tektoria.de">
+	<target host="tektoria.de" />
+	<target host="www.tektoria.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Crealoq.com">
+	<target host="crealoq.com" />
+	<target host="www.crealoq.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

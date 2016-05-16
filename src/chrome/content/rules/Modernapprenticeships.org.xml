@@ -1,0 +1,6 @@
+<ruleset name="Modernapprenticeships.org">
+	<target host="modernapprenticeships.org" />
+	<target host="www.modernapprenticeships.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

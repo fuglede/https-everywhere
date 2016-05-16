@@ -1,0 +1,6 @@
+<ruleset name="Katiaetdavid.fr">
+	<target host="katiaetdavid.fr" />
+	<target host="www.katiaetdavid.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

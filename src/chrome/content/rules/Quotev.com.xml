@@ -1,0 +1,6 @@
+<ruleset name="Quotev.com">
+	<target host="quotev.com" />
+	<target host="www.quotev.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

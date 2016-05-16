@@ -1,0 +1,6 @@
+<ruleset name="Newmed.com.br">
+	<target host="newmed.com.br" />
+	<target host="www.newmed.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

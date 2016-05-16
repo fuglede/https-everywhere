@@ -1,0 +1,6 @@
+<ruleset name="Nerdjokes.de">
+	<target host="nerdjokes.de" />
+	<target host="www.nerdjokes.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

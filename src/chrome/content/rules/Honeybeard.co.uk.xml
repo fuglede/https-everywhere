@@ -1,0 +1,6 @@
+<ruleset name="Honeybeard.co.uk">
+	<target host="honeybeard.co.uk" />
+	<target host="www.honeybeard.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

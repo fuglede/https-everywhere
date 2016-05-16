@@ -1,0 +1,6 @@
+<ruleset name="Gnbonline.com">
+	<target host="gnbonline.com" />
+	<target host="www.gnbonline.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

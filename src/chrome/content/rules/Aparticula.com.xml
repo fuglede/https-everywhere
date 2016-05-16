@@ -1,0 +1,6 @@
+<ruleset name="Aparticula.com">
+	<target host="aparticula.com" />
+	<target host="www.aparticula.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

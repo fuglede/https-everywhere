@@ -1,0 +1,6 @@
+<ruleset name="Wispapp.com">
+	<target host="wispapp.com" />
+	<target host="www.wispapp.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

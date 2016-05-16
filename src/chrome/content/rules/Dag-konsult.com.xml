@@ -1,0 +1,6 @@
+<ruleset name="Dag-konsult.com">
+	<target host="dag-konsult.com" />
+	<target host="www.dag-konsult.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

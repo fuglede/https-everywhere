@@ -1,0 +1,6 @@
+<ruleset name="Buybaby.eu">
+	<target host="buybaby.eu" />
+	<target host="www.buybaby.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Alt-three.com">
+	<target host="alt-three.com" />
+	<target host="www.alt-three.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Upani.net">
+	<target host="upani.net" />
+	<target host="www.upani.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

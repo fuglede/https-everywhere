@@ -1,0 +1,6 @@
+<ruleset name="Skatclub-beratzhausen.de">
+	<target host="skatclub-beratzhausen.de" />
+	<target host="www.skatclub-beratzhausen.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

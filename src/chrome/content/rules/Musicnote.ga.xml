@@ -1,0 +1,6 @@
+<ruleset name="Musicnote.ga">
+	<target host="musicnote.ga" />
+	<target host="www.musicnote.ga" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

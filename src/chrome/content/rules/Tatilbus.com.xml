@@ -1,0 +1,6 @@
+<ruleset name="Tatilbus.com">
+	<target host="tatilbus.com" />
+	<target host="www.tatilbus.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

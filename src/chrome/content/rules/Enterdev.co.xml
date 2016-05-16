@@ -1,0 +1,6 @@
+<ruleset name="Enterdev.co">
+	<target host="enterdev.co" />
+	<target host="www.enterdev.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Al-shami.net">
+	<target host="al-shami.net" />
+	<target host="www.al-shami.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

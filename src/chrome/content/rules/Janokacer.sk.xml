@@ -1,0 +1,6 @@
+<ruleset name="Janokacer.sk">
+	<target host="janokacer.sk" />
+	<target host="www.janokacer.sk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

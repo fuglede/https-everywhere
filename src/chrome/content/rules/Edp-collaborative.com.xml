@@ -1,0 +1,6 @@
+<ruleset name="Edp-collaborative.com">
+	<target host="edp-collaborative.com" />
+	<target host="www.edp-collaborative.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

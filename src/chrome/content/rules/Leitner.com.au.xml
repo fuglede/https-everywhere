@@ -1,0 +1,6 @@
+<ruleset name="Leitner.com.au">
+	<target host="leitner.com.au" />
+	<target host="www.leitner.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

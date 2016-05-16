@@ -1,0 +1,6 @@
+<ruleset name="Whitestagforge.com">
+	<target host="whitestagforge.com" />
+	<target host="www.whitestagforge.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

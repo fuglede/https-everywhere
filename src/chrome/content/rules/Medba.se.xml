@@ -1,0 +1,6 @@
+<ruleset name="Medba.se">
+	<target host="medba.se" />
+	<target host="www.medba.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

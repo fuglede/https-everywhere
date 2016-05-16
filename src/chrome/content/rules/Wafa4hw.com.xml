@@ -1,0 +1,6 @@
+<ruleset name="Wafa4hw.com">
+	<target host="wafa4hw.com" />
+	<target host="www.wafa4hw.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

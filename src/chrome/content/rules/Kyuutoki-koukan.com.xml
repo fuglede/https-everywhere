@@ -1,0 +1,6 @@
+<ruleset name="Kyuutoki-koukan.com">
+	<target host="kyuutoki-koukan.com" />
+	<target host="www.kyuutoki-koukan.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

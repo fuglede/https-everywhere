@@ -1,0 +1,6 @@
+<ruleset name="Alterbaum.net">
+	<target host="alterbaum.net" />
+	<target host="www.alterbaum.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

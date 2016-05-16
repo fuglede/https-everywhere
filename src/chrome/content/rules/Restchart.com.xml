@@ -1,0 +1,6 @@
+<ruleset name="Restchart.com">
+	<target host="restchart.com" />
+	<target host="www.restchart.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

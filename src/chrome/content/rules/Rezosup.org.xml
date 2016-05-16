@@ -1,0 +1,6 @@
+<ruleset name="Rezosup.org">
+	<target host="rezosup.org" />
+	<target host="www.rezosup.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Pixelbash.de">
+	<target host="pixelbash.de" />
+	<target host="www.pixelbash.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

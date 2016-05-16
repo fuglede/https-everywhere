@@ -1,0 +1,6 @@
+<ruleset name="Seattlefabrication.com">
+	<target host="seattlefabrication.com" />
+	<target host="www.seattlefabrication.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Au2pb.net">
+	<target host="au2pb.net" />
+	<target host="www.au2pb.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

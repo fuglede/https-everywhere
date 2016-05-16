@@ -1,0 +1,6 @@
+<ruleset name="Dierenkruiden.nl">
+	<target host="dierenkruiden.nl" />
+	<target host="www.dierenkruiden.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

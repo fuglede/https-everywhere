@@ -1,0 +1,6 @@
+<ruleset name="Ao-dev.com">
+	<target host="ao-dev.com" />
+	<target host="www.ao-dev.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

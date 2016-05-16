@@ -1,0 +1,6 @@
+<ruleset name="Papercard.co.uk">
+	<target host="papercard.co.uk" />
+	<target host="www.papercard.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

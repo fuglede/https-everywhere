@@ -1,0 +1,6 @@
+<ruleset name="Perfectseourl.com">
+	<target host="perfectseourl.com" />
+	<target host="www.perfectseourl.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

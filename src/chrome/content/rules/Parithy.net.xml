@@ -1,0 +1,6 @@
+<ruleset name="Parithy.net">
+	<target host="parithy.net" />
+	<target host="www.parithy.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

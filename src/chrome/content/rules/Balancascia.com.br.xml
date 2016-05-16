@@ -1,0 +1,6 @@
+<ruleset name="Balancascia.com.br">
+	<target host="balancascia.com.br" />
+	<target host="www.balancascia.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

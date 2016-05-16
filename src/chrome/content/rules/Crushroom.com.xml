@@ -1,0 +1,6 @@
+<ruleset name="Crushroom.com">
+	<target host="crushroom.com" />
+	<target host="www.crushroom.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

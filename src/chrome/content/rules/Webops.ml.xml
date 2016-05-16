@@ -1,0 +1,6 @@
+<ruleset name="Webops.ml">
+	<target host="webops.ml" />
+	<target host="www.webops.ml" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Wpbullet.me">
+	<target host="wpbullet.me" />
+	<target host="www.wpbullet.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

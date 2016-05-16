@@ -1,0 +1,6 @@
+<ruleset name="Retallack.org.uk">
+	<target host="retallack.org.uk" />
+	<target host="www.retallack.org.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

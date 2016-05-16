@@ -1,0 +1,6 @@
+<ruleset name="Mytc.fr">
+	<target host="mytc.fr" />
+	<target host="www.mytc.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

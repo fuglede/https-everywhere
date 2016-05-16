@@ -1,0 +1,6 @@
+<ruleset name="Powercloud.technology">
+	<target host="powercloud.technology" />
+	<target host="www.powercloud.technology" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

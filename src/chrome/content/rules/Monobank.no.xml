@@ -1,0 +1,6 @@
+<ruleset name="Monobank.no">
+	<target host="monobank.no" />
+	<target host="www.monobank.no" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

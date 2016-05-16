@@ -1,0 +1,6 @@
+<ruleset name="Encfs.win">
+	<target host="encfs.win" />
+	<target host="www.encfs.win" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

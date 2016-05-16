@@ -1,0 +1,6 @@
+<ruleset name="Ccja.ro">
+	<target host="ccja.ro" />
+	<target host="www.ccja.ro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Myzone.com">
+	<target host="myzone.com" />
+	<target host="www.myzone.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

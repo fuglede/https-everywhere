@@ -1,0 +1,6 @@
+<ruleset name="Mcuong.tk">
+	<target host="mcuong.tk" />
+	<target host="www.mcuong.tk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

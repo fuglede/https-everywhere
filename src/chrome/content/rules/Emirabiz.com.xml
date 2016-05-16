@@ -1,0 +1,6 @@
+<ruleset name="Emirabiz.com">
+	<target host="emirabiz.com" />
+	<target host="www.emirabiz.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Thewindow.com">
+	<target host="thewindow.com" />
+	<target host="www.thewindow.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

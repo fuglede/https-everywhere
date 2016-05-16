@@ -1,0 +1,6 @@
+<ruleset name="Pawzandribbon.co.uk">
+	<target host="pawzandribbon.co.uk" />
+	<target host="www.pawzandribbon.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

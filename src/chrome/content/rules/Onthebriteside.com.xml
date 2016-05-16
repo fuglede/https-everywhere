@@ -1,0 +1,6 @@
+<ruleset name="Onthebriteside.com">
+	<target host="onthebriteside.com" />
+	<target host="www.onthebriteside.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

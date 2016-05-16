@@ -1,0 +1,6 @@
+<ruleset name="Mammothmail.org">
+	<target host="mammothmail.org" />
+	<target host="www.mammothmail.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

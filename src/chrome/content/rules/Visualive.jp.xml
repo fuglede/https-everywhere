@@ -1,0 +1,6 @@
+<ruleset name="Visualive.jp">
+	<target host="visualive.jp" />
+	<target host="www.visualive.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

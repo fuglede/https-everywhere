@@ -1,0 +1,6 @@
+<ruleset name="Utopianhomespa.com">
+	<target host="utopianhomespa.com" />
+	<target host="www.utopianhomespa.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Peakapp.nl">
+	<target host="peakapp.nl" />
+	<target host="www.peakapp.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

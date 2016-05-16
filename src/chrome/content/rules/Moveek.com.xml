@@ -1,0 +1,6 @@
+<ruleset name="Moveek.com">
+	<target host="moveek.com" />
+	<target host="www.moveek.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

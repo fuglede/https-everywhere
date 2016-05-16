@@ -1,0 +1,6 @@
+<ruleset name="Pekkapikkarainen.fi">
+	<target host="pekkapikkarainen.fi" />
+	<target host="www.pekkapikkarainen.fi" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

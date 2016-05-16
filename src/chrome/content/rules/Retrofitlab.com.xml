@@ -1,0 +1,6 @@
+<ruleset name="Retrofitlab.com">
+	<target host="retrofitlab.com" />
+	<target host="www.retrofitlab.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

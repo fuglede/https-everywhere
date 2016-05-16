@@ -1,0 +1,6 @@
+<ruleset name="Ilona.graphics">
+	<target host="ilona.graphics" />
+	<target host="www.ilona.graphics" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Pasbatik.com">
+	<target host="pasbatik.com" />
+	<target host="www.pasbatik.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

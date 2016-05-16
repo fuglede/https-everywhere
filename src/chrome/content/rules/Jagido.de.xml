@@ -1,0 +1,6 @@
+<ruleset name="Jagido.de">
+	<target host="jagido.de" />
+	<target host="www.jagido.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

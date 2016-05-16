@@ -1,0 +1,6 @@
+<ruleset name="Chotu.net">
+	<target host="chotu.net" />
+	<target host="www.chotu.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

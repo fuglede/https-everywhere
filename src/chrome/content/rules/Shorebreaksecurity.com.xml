@@ -1,0 +1,6 @@
+<ruleset name="Shorebreaksecurity.com">
+	<target host="shorebreaksecurity.com" />
+	<target host="www.shorebreaksecurity.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

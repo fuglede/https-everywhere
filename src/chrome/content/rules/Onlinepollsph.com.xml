@@ -1,0 +1,6 @@
+<ruleset name="Onlinepollsph.com">
+	<target host="onlinepollsph.com" />
+	<target host="www.onlinepollsph.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Pastie.se">
+	<target host="pastie.se" />
+	<target host="www.pastie.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

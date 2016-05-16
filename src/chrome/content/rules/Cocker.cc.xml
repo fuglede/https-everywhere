@@ -1,0 +1,6 @@
+<ruleset name="Cocker.cc">
+	<target host="cocker.cc" />
+	<target host="www.cocker.cc" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

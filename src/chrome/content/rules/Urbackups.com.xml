@@ -1,0 +1,6 @@
+<ruleset name="Urbackups.com">
+	<target host="urbackups.com" />
+	<target host="www.urbackups.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

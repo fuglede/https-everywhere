@@ -1,0 +1,6 @@
+<ruleset name="Nikomo.fi">
+	<target host="nikomo.fi" />
+	<target host="www.nikomo.fi" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

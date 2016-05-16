@@ -1,0 +1,6 @@
+<ruleset name="Chiffrofete.fr">
+	<target host="chiffrofete.fr" />
+	<target host="www.chiffrofete.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

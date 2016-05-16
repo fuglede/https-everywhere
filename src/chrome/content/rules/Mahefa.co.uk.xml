@@ -1,0 +1,6 @@
+<ruleset name="Mahefa.co.uk">
+	<target host="mahefa.co.uk" />
+	<target host="www.mahefa.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

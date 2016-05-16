@@ -1,0 +1,6 @@
+<ruleset name="Repustate.com">
+	<target host="repustate.com" />
+	<target host="www.repustate.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

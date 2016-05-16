@@ -1,0 +1,6 @@
+<ruleset name="Go.ax">
+	<target host="go.ax" />
+	<target host="www.go.ax" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

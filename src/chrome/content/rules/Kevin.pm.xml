@@ -1,0 +1,6 @@
+<ruleset name="Kevin.pm">
+	<target host="kevin.pm" />
+	<target host="www.kevin.pm" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

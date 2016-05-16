@@ -1,0 +1,6 @@
+<ruleset name="Yoga.dyndns-home.com">
+	<target host="yoga.dyndns-home.com" />
+	<target host="www.yoga.dyndns-home.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Honeycome.net">
+	<target host="honeycome.net" />
+	<target host="www.honeycome.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

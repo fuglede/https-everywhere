@@ -1,0 +1,6 @@
+<ruleset name="Nightwind.ga">
+	<target host="nightwind.ga" />
+	<target host="www.nightwind.ga" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Brideandgroomdirect.ie">
+	<target host="brideandgroomdirect.ie" />
+	<target host="www.brideandgroomdirect.ie" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

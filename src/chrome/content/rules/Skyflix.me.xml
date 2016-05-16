@@ -1,0 +1,6 @@
+<ruleset name="Skyflix.me">
+	<target host="skyflix.me" />
+	<target host="www.skyflix.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

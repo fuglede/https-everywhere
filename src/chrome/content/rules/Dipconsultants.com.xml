@@ -1,0 +1,6 @@
+<ruleset name="Dipconsultants.com">
+	<target host="dipconsultants.com" />
+	<target host="www.dipconsultants.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Griyabuanapratama.com">
+	<target host="griyabuanapratama.com" />
+	<target host="www.griyabuanapratama.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

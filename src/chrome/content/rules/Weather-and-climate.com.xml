@@ -1,0 +1,6 @@
+<ruleset name="Weather-and-climate.com">
+	<target host="weather-and-climate.com" />
+	<target host="www.weather-and-climate.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

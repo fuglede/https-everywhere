@@ -1,0 +1,6 @@
+<ruleset name="Vxapps.com">
+	<target host="vxapps.com" />
+	<target host="www.vxapps.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

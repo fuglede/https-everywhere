@@ -1,0 +1,6 @@
+<ruleset name="Drrr.wiki">
+	<target host="drrr.wiki" />
+	<target host="www.drrr.wiki" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

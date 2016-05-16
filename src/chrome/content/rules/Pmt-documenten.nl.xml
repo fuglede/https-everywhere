@@ -1,0 +1,6 @@
+<ruleset name="Pmt-documenten.nl">
+	<target host="pmt-documenten.nl" />
+	<target host="www.pmt-documenten.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

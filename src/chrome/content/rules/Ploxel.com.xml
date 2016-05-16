@@ -1,0 +1,6 @@
+<ruleset name="Ploxel.com">
+	<target host="ploxel.com" />
+	<target host="www.ploxel.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

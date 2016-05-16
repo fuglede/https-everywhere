@@ -1,0 +1,6 @@
+<ruleset name="Arvid.io">
+	<target host="arvid.io" />
+	<target host="www.arvid.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

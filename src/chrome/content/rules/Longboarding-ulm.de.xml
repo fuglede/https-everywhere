@@ -1,0 +1,6 @@
+<ruleset name="Longboarding-ulm.de">
+	<target host="longboarding-ulm.de" />
+	<target host="www.longboarding-ulm.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

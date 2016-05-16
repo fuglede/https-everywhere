@@ -1,0 +1,6 @@
+<ruleset name="Interference.io">
+	<target host="interference.io" />
+	<target host="www.interference.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

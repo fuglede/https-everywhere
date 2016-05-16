@@ -1,0 +1,6 @@
+<ruleset name="Billiger-mietwagen.de">
+	<target host="billiger-mietwagen.de" />
+	<target host="www.billiger-mietwagen.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

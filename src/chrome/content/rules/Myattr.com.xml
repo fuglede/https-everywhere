@@ -1,0 +1,6 @@
+<ruleset name="Myattr.com">
+	<target host="myattr.com" />
+	<target host="www.myattr.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Jungesforumkonstanz.de">
+	<target host="jungesforumkonstanz.de" />
+	<target host="www.jungesforumkonstanz.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

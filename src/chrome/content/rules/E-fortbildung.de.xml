@@ -1,0 +1,6 @@
+<ruleset name="E-fortbildung.de">
+	<target host="e-fortbildung.de" />
+	<target host="www.e-fortbildung.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

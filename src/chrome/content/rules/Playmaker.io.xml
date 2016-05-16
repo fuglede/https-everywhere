@@ -1,0 +1,6 @@
+<ruleset name="Playmaker.io">
+	<target host="playmaker.io" />
+	<target host="www.playmaker.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Tillseasyscore.com">
+	<target host="tillseasyscore.com" />
+	<target host="www.tillseasyscore.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

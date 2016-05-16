@@ -1,0 +1,6 @@
+<ruleset name="57aromas.com">
+	<target host="57aromas.com" />
+	<target host="www.57aromas.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

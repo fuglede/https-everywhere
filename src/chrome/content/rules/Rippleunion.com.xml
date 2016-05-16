@@ -1,0 +1,6 @@
+<ruleset name="Rippleunion.com">
+	<target host="rippleunion.com" />
+	<target host="www.rippleunion.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

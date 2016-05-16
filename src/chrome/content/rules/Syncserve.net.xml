@@ -1,0 +1,6 @@
+<ruleset name="Syncserve.net">
+	<target host="syncserve.net" />
+	<target host="www.syncserve.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

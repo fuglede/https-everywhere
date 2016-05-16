@@ -1,0 +1,6 @@
+<ruleset name="Pkgt.de">
+	<target host="pkgt.de" />
+	<target host="www.pkgt.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

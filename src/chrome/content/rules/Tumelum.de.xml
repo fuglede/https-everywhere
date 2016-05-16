@@ -1,0 +1,6 @@
+<ruleset name="Tumelum.de">
+	<target host="tumelum.de" />
+	<target host="www.tumelum.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

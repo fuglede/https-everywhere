@@ -1,0 +1,6 @@
+<ruleset name="Dash.rocks">
+	<target host="dash.rocks" />
+	<target host="www.dash.rocks" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

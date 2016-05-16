@@ -1,0 +1,6 @@
+<ruleset name="Windscribe.com">
+	<target host="windscribe.com" />
+	<target host="www.windscribe.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

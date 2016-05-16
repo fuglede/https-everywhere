@@ -1,0 +1,6 @@
+<ruleset name="Hdsmigrationtool.com">
+	<target host="hdsmigrationtool.com" />
+	<target host="www.hdsmigrationtool.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

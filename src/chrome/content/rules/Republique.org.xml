@@ -1,0 +1,6 @@
+<ruleset name="Republique.org">
+	<target host="republique.org" />
+	<target host="www.republique.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

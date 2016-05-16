@@ -1,0 +1,6 @@
+<ruleset name="Mobaircon.com">
+	<target host="mobaircon.com" />
+	<target host="www.mobaircon.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

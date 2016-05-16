@@ -1,0 +1,6 @@
+<ruleset name="Gampenhof.de">
+	<target host="gampenhof.de" />
+	<target host="www.gampenhof.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

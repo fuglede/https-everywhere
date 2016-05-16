@@ -1,0 +1,6 @@
+<ruleset name="Nomadproject.io">
+	<target host="nomadproject.io" />
+	<target host="www.nomadproject.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

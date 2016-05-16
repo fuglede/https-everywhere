@@ -1,0 +1,6 @@
+<ruleset name="Power99press.com">
+	<target host="power99press.com" />
+	<target host="www.power99press.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

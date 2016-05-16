@@ -1,0 +1,6 @@
+<ruleset name="Falkena.net">
+	<target host="falkena.net" />
+	<target host="www.falkena.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

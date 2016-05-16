@@ -1,0 +1,6 @@
+<ruleset name="Towandalibrary.org">
+	<target host="towandalibrary.org" />
+	<target host="www.towandalibrary.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Schokwekkend.nl">
+	<target host="schokwekkend.nl" />
+	<target host="www.schokwekkend.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Rikiki.org">
+	<target host="rikiki.org" />
+	<target host="www.rikiki.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Sakenomi.us">
+	<target host="sakenomi.us" />
+	<target host="www.sakenomi.us" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

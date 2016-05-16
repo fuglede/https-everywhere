@@ -1,0 +1,6 @@
+<ruleset name="Dsol.hu">
+	<target host="dsol.hu" />
+	<target host="www.dsol.hu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

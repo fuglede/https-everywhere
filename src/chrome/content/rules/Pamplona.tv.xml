@@ -1,0 +1,6 @@
+<ruleset name="Pamplona.tv">
+	<target host="pamplona.tv" />
+	<target host="www.pamplona.tv" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

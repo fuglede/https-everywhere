@@ -1,0 +1,6 @@
+<ruleset name="Xn--jp-6l5cs1yf3ivjsglphyv.net">
+	<target host="xn--jp-6l5cs1yf3ivjsglphyv.net" />
+	<target host="www.xn--jp-6l5cs1yf3ivjsglphyv.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

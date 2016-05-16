@@ -1,0 +1,6 @@
+<ruleset name="Hooray.beer">
+	<target host="hooray.beer" />
+	<target host="www.hooray.beer" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

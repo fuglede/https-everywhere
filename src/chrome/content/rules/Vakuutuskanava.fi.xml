@@ -1,0 +1,6 @@
+<ruleset name="Vakuutuskanava.fi">
+	<target host="vakuutuskanava.fi" />
+	<target host="www.vakuutuskanava.fi" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

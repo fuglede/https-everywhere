@@ -1,0 +1,6 @@
+<ruleset name="Head-shop.lv">
+	<target host="head-shop.lv" />
+	<target host="www.head-shop.lv" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

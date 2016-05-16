@@ -1,0 +1,6 @@
+<ruleset name="Oftn.org">
+	<target host="oftn.org" />
+	<target host="www.oftn.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

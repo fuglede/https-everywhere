@@ -1,0 +1,6 @@
+<ruleset name="Benhartmann.de">
+	<target host="benhartmann.de" />
+	<target host="www.benhartmann.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

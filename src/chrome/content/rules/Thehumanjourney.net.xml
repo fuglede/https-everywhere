@@ -1,0 +1,6 @@
+<ruleset name="Thehumanjourney.net">
+	<target host="thehumanjourney.net" />
+	<target host="www.thehumanjourney.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Pentagram.me">
+	<target host="pentagram.me" />
+	<target host="www.pentagram.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

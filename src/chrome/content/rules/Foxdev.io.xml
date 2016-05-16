@@ -1,0 +1,6 @@
+<ruleset name="Foxdev.io">
+	<target host="foxdev.io" />
+	<target host="www.foxdev.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

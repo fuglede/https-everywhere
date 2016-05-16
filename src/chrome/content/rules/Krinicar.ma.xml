@@ -1,0 +1,6 @@
+<ruleset name="Krinicar.ma">
+	<target host="krinicar.ma" />
+	<target host="www.krinicar.ma" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

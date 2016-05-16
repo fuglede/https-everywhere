@@ -1,0 +1,6 @@
+<ruleset name="Purplestar.li">
+	<target host="purplestar.li" />
+	<target host="www.purplestar.li" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

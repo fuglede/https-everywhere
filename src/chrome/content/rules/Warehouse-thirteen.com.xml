@@ -1,0 +1,6 @@
+<ruleset name="Warehouse-thirteen.com">
+	<target host="warehouse-thirteen.com" />
+	<target host="www.warehouse-thirteen.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

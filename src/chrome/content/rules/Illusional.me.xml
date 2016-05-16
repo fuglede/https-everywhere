@@ -1,0 +1,6 @@
+<ruleset name="Illusional.me">
+	<target host="illusional.me" />
+	<target host="www.illusional.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

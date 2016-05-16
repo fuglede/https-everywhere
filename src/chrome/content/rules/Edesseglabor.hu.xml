@@ -1,0 +1,6 @@
+<ruleset name="Edesseglabor.hu">
+	<target host="edesseglabor.hu" />
+	<target host="www.edesseglabor.hu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

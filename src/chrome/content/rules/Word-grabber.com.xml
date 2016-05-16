@@ -1,0 +1,6 @@
+<ruleset name="Word-grabber.com">
+	<target host="word-grabber.com" />
+	<target host="www.word-grabber.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

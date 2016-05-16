@@ -1,0 +1,6 @@
+<ruleset name="Shawcentral.ca">
+	<target host="shawcentral.ca" />
+	<target host="www.shawcentral.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

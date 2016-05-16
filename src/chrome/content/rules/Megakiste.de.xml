@@ -1,0 +1,6 @@
+<ruleset name="Megakiste.de">
+	<target host="megakiste.de" />
+	<target host="www.megakiste.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

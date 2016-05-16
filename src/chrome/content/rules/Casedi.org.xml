@@ -1,0 +1,6 @@
+<ruleset name="Casedi.org">
+	<target host="casedi.org" />
+	<target host="www.casedi.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

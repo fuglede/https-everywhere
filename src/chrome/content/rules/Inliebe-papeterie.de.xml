@@ -1,0 +1,6 @@
+<ruleset name="Inliebe-papeterie.de">
+	<target host="inliebe-papeterie.de" />
+	<target host="www.inliebe-papeterie.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

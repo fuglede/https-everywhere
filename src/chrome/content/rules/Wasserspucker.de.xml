@@ -1,0 +1,6 @@
+<ruleset name="Wasserspucker.de">
+	<target host="wasserspucker.de" />
+	<target host="www.wasserspucker.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Pansu.space">
+	<target host="pansu.space" />
+	<target host="www.pansu.space" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

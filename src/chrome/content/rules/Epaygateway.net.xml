@@ -1,0 +1,6 @@
+<ruleset name="Epaygateway.net">
+	<target host="epaygateway.net" />
+	<target host="www.epaygateway.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Iamveto.com">
+	<target host="iamveto.com" />
+	<target host="www.iamveto.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

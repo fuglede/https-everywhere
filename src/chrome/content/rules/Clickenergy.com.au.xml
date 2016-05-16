@@ -1,0 +1,6 @@
+<ruleset name="Clickenergy.com.au">
+	<target host="clickenergy.com.au" />
+	<target host="www.clickenergy.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

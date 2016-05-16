@@ -1,0 +1,6 @@
+<ruleset name="Simpleai.net">
+	<target host="simpleai.net" />
+	<target host="www.simpleai.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

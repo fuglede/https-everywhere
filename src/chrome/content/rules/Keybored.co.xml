@@ -1,0 +1,6 @@
+<ruleset name="Keybored.co">
+	<target host="keybored.co" />
+	<target host="www.keybored.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

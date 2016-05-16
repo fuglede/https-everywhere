@@ -1,0 +1,6 @@
+<ruleset name="Oost.io">
+	<target host="oost.io" />
+	<target host="www.oost.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Thtm.eu">
+	<target host="thtm.eu" />
+	<target host="www.thtm.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

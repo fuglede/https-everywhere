@@ -1,0 +1,6 @@
+<ruleset name="Cnam.net">
+	<target host="cnam.net" />
+	<target host="www.cnam.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

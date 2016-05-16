@@ -1,0 +1,6 @@
+<ruleset name="Intocities.de">
+	<target host="intocities.de" />
+	<target host="www.intocities.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

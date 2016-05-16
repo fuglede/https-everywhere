@@ -1,0 +1,6 @@
+<ruleset name="C3w.at">
+	<target host="c3w.at" />
+	<target host="www.c3w.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

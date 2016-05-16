@@ -1,0 +1,6 @@
+<ruleset name="Wollong.com.br">
+	<target host="wollong.com.br" />
+	<target host="www.wollong.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

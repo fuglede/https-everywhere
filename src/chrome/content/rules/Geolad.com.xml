@@ -1,0 +1,6 @@
+<ruleset name="Geolad.com">
+	<target host="geolad.com" />
+	<target host="www.geolad.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

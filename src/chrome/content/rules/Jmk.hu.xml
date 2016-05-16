@@ -1,0 +1,6 @@
+<ruleset name="Jmk.hu">
+	<target host="jmk.hu" />
+	<target host="www.jmk.hu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

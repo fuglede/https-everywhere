@@ -1,0 +1,6 @@
+<ruleset name="Head-shop.ee">
+	<target host="head-shop.ee" />
+	<target host="www.head-shop.ee" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

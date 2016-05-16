@@ -1,0 +1,6 @@
+<ruleset name="Luebeck4me.tools">
+	<target host="luebeck4me.tools" />
+	<target host="www.luebeck4me.tools" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

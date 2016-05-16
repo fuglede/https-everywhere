@@ -1,0 +1,6 @@
+<ruleset name="Superkonsult.se">
+	<target host="superkonsult.se" />
+	<target host="www.superkonsult.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

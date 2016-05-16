@@ -1,0 +1,6 @@
+<ruleset name="Geneau.net">
+	<target host="geneau.net" />
+	<target host="www.geneau.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

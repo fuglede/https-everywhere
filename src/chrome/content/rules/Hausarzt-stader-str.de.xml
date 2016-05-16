@@ -1,0 +1,6 @@
+<ruleset name="Hausarzt-stader-str.de">
+	<target host="hausarzt-stader-str.de" />
+	<target host="www.hausarzt-stader-str.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

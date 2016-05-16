@@ -1,0 +1,6 @@
+<ruleset name="Bananium.fr">
+	<target host="bananium.fr" />
+	<target host="www.bananium.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

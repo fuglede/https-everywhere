@@ -1,0 +1,6 @@
+<ruleset name="Radar.sx">
+	<target host="radar.sx" />
+	<target host="www.radar.sx" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

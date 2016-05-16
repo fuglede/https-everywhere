@@ -1,0 +1,6 @@
+<ruleset name="Pantou.org">
+	<target host="pantou.org" />
+	<target host="www.pantou.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Zundapp529.nl">
+	<target host="zundapp529.nl" />
+	<target host="www.zundapp529.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

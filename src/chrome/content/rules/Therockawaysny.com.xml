@@ -1,0 +1,6 @@
+<ruleset name="Therockawaysny.com">
+	<target host="therockawaysny.com" />
+	<target host="www.therockawaysny.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

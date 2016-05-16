@@ -1,0 +1,6 @@
+<ruleset name="Tourneypicks.org">
+	<target host="tourneypicks.org" />
+	<target host="www.tourneypicks.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

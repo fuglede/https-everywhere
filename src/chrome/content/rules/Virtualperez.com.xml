@@ -1,0 +1,6 @@
+<ruleset name="Virtualperez.com">
+	<target host="virtualperez.com" />
+	<target host="www.virtualperez.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

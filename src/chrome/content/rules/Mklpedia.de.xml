@@ -1,0 +1,6 @@
+<ruleset name="Mklpedia.de">
+	<target host="mklpedia.de" />
+	<target host="www.mklpedia.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

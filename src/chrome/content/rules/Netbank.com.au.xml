@@ -1,0 +1,6 @@
+<ruleset name="Netbank.com.au">
+	<target host="netbank.com.au" />
+	<target host="www.netbank.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

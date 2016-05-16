@@ -1,0 +1,6 @@
+<ruleset name="Aldes.co.za">
+	<target host="aldes.co.za" />
+	<target host="www.aldes.co.za" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

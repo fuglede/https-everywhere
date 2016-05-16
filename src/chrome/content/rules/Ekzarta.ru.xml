@@ -1,0 +1,6 @@
+<ruleset name="Ekzarta.ru">
+	<target host="ekzarta.ru" />
+	<target host="www.ekzarta.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

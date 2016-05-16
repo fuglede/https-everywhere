@@ -1,0 +1,6 @@
+<ruleset name="Othercode.nl">
+	<target host="othercode.nl" />
+	<target host="www.othercode.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

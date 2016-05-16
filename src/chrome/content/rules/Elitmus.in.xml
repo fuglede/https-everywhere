@@ -1,0 +1,6 @@
+<ruleset name="Elitmus.in">
+	<target host="elitmus.in" />
+	<target host="www.elitmus.in" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

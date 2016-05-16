@@ -1,0 +1,6 @@
+<ruleset name="Etalent.net">
+	<target host="etalent.net" />
+	<target host="www.etalent.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

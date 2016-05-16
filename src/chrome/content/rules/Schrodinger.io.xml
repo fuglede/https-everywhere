@@ -1,0 +1,6 @@
+<ruleset name="Schrodinger.io">
+	<target host="schrodinger.io" />
+	<target host="www.schrodinger.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

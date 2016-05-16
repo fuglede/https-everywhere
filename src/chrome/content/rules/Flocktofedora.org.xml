@@ -1,0 +1,6 @@
+<ruleset name="Flocktofedora.org">
+	<target host="flocktofedora.org" />
+	<target host="www.flocktofedora.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

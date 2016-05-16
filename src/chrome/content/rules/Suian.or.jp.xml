@@ -1,0 +1,6 @@
+<ruleset name="Suian.or.jp">
+	<target host="suian.or.jp" />
+	<target host="www.suian.or.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

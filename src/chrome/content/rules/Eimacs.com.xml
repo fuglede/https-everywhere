@@ -1,0 +1,6 @@
+<ruleset name="Eimacs.com">
+	<target host="eimacs.com" />
+	<target host="www.eimacs.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

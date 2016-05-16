@@ -1,0 +1,6 @@
+<ruleset name="Rcesoftware.com">
+	<target host="rcesoftware.com" />
+	<target host="www.rcesoftware.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

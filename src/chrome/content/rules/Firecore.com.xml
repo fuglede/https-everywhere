@@ -1,0 +1,6 @@
+<ruleset name="Firecore.com">
+	<target host="firecore.com" />
+	<target host="www.firecore.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Yourznc.com">
+	<target host="yourznc.com" />
+	<target host="www.yourznc.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

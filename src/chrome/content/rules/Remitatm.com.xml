@@ -1,0 +1,6 @@
+<ruleset name="Remitatm.com">
+	<target host="remitatm.com" />
+	<target host="www.remitatm.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

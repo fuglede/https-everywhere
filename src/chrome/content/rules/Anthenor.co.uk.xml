@@ -1,0 +1,6 @@
+<ruleset name="Anthenor.co.uk">
+	<target host="anthenor.co.uk" />
+	<target host="www.anthenor.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Ticketoplichting.nl">
+	<target host="ticketoplichting.nl" />
+	<target host="www.ticketoplichting.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

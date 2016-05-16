@@ -1,0 +1,6 @@
+<ruleset name="Memoviforyou.com">
+	<target host="memoviforyou.com" />
+	<target host="www.memoviforyou.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

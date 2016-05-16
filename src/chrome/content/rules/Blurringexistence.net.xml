@@ -1,0 +1,6 @@
+<ruleset name="Blurringexistence.net">
+	<target host="blurringexistence.net" />
+	<target host="www.blurringexistence.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Fischer-its.com">
+	<target host="fischer-its.com" />
+	<target host="www.fischer-its.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

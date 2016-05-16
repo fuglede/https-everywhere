@@ -1,0 +1,6 @@
+<ruleset name="Markom.rs">
+	<target host="markom.rs" />
+	<target host="www.markom.rs" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

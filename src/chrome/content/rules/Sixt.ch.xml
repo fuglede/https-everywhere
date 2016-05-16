@@ -1,0 +1,6 @@
+<ruleset name="Sixt.ch">
+	<target host="sixt.ch" />
+	<target host="www.sixt.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Silverpvp.com">
+	<target host="silverpvp.com" />
+	<target host="www.silverpvp.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

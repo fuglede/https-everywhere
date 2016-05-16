@@ -1,0 +1,6 @@
+<ruleset name="Qrlending.com">
+	<target host="qrlending.com" />
+	<target host="www.qrlending.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

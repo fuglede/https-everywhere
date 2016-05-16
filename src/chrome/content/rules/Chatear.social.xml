@@ -1,0 +1,6 @@
+<ruleset name="Chatear.social">
+	<target host="chatear.social" />
+	<target host="www.chatear.social" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

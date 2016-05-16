@@ -1,0 +1,6 @@
+<ruleset name="Hytec.org">
+	<target host="hytec.org" />
+	<target host="www.hytec.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Atiwsmt.com">
+	<target host="atiwsmt.com" />
+	<target host="www.atiwsmt.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

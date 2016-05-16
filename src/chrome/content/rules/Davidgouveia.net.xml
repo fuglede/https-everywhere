@@ -1,0 +1,6 @@
+<ruleset name="Davidgouveia.net">
+	<target host="davidgouveia.net" />
+	<target host="www.davidgouveia.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

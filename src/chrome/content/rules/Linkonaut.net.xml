@@ -1,0 +1,6 @@
+<ruleset name="Linkonaut.net">
+	<target host="linkonaut.net" />
+	<target host="www.linkonaut.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

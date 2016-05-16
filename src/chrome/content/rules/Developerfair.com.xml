@@ -1,0 +1,6 @@
+<ruleset name="Developerfair.com">
+	<target host="developerfair.com" />
+	<target host="www.developerfair.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Anglictinatabor.cz">
+	<target host="anglictinatabor.cz" />
+	<target host="www.anglictinatabor.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Instyledeco.com">
+	<target host="instyledeco.com" />
+	<target host="www.instyledeco.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

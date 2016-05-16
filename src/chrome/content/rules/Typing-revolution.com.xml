@@ -1,0 +1,6 @@
+<ruleset name="Typing-revolution.com">
+	<target host="typing-revolution.com" />
+	<target host="www.typing-revolution.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

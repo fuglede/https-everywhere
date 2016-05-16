@@ -1,0 +1,6 @@
+<ruleset name="Kaizenreporting.com">
+	<target host="kaizenreporting.com" />
+	<target host="www.kaizenreporting.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Goat.chat">
+	<target host="goat.chat" />
+	<target host="www.goat.chat" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

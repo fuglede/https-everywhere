@@ -1,0 +1,6 @@
+<ruleset name="Delacyauto.com">
+	<target host="delacyauto.com" />
+	<target host="www.delacyauto.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

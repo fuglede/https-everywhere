@@ -1,0 +1,6 @@
+<ruleset name="Sol-3.de">
+	<target host="sol-3.de" />
+	<target host="www.sol-3.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

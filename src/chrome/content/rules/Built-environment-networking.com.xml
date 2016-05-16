@@ -1,0 +1,6 @@
+<ruleset name="Built-environment-networking.com">
+	<target host="built-environment-networking.com" />
+	<target host="www.built-environment-networking.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

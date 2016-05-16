@@ -1,0 +1,6 @@
+<ruleset name="Soundaware.com">
+	<target host="soundaware.com" />
+	<target host="www.soundaware.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

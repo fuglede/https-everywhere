@@ -1,0 +1,6 @@
+<ruleset name="Schoene-moebel.at">
+	<target host="schoene-moebel.at" />
+	<target host="www.schoene-moebel.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

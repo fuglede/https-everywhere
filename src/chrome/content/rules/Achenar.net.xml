@@ -1,0 +1,6 @@
+<ruleset name="Achenar.net">
+	<target host="achenar.net" />
+	<target host="www.achenar.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

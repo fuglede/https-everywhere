@@ -1,0 +1,6 @@
+<ruleset name="Turbobit.ch">
+	<target host="turbobit.ch" />
+	<target host="www.turbobit.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

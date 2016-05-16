@@ -1,0 +1,6 @@
+<ruleset name="Calix.com">
+	<target host="calix.com" />
+	<target host="www.calix.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

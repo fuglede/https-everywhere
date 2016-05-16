@@ -1,0 +1,6 @@
+<ruleset name="Girlsnet.work">
+	<target host="girlsnet.work" />
+	<target host="www.girlsnet.work" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

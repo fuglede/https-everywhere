@@ -1,0 +1,6 @@
+<ruleset name="Fixingdns.com">
+	<target host="fixingdns.com" />
+	<target host="www.fixingdns.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Dmfd.net">
+	<target host="dmfd.net" />
+	<target host="www.dmfd.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

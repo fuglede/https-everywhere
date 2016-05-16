@@ -1,0 +1,6 @@
+<ruleset name="Bettingbusiness.ru">
+	<target host="bettingbusiness.ru" />
+	<target host="www.bettingbusiness.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

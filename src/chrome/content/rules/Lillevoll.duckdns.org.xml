@@ -1,0 +1,6 @@
+<ruleset name="Lillevoll.duckdns.org">
+	<target host="lillevoll.duckdns.org" />
+	<target host="www.lillevoll.duckdns.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Kamixa.se">
+	<target host="kamixa.se" />
+	<target host="www.kamixa.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Orangejasmine.org">
+	<target host="orangejasmine.org" />
+	<target host="www.orangejasmine.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

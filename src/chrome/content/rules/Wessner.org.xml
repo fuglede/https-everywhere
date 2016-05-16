@@ -1,0 +1,6 @@
+<ruleset name="Wessner.org">
+	<target host="wessner.org" />
+	<target host="www.wessner.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

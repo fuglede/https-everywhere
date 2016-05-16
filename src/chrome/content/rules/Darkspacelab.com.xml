@@ -1,0 +1,6 @@
+<ruleset name="Darkspacelab.com">
+	<target host="darkspacelab.com" />
+	<target host="www.darkspacelab.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

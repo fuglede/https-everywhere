@@ -1,0 +1,6 @@
+<ruleset name="Shakes4u.com">
+	<target host="shakes4u.com" />
+	<target host="www.shakes4u.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

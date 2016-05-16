@@ -1,0 +1,6 @@
+<ruleset name="Techassist.io">
+	<target host="techassist.io" />
+	<target host="www.techassist.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Neftebitum-kngk.ru">
+	<target host="neftebitum-kngk.ru" />
+	<target host="www.neftebitum-kngk.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

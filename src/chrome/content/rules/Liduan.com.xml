@@ -1,0 +1,6 @@
+<ruleset name="Liduan.com">
+	<target host="liduan.com" />
+	<target host="www.liduan.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

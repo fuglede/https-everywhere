@@ -1,0 +1,6 @@
+<ruleset name="Oecokraft.fr">
+	<target host="oecokraft.fr" />
+	<target host="www.oecokraft.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

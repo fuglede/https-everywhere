@@ -1,0 +1,6 @@
+<ruleset name="Soph.us">
+	<target host="soph.us" />
+	<target host="www.soph.us" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

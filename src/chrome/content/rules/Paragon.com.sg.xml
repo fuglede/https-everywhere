@@ -1,0 +1,6 @@
+<ruleset name="Paragon.com.sg">
+	<target host="paragon.com.sg" />
+	<target host="www.paragon.com.sg" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

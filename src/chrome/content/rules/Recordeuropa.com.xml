@@ -1,0 +1,6 @@
+<ruleset name="Recordeuropa.com">
+	<target host="recordeuropa.com" />
+	<target host="www.recordeuropa.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

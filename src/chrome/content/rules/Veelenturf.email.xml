@@ -1,0 +1,6 @@
+<ruleset name="Veelenturf.email">
+	<target host="veelenturf.email" />
+	<target host="www.veelenturf.email" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

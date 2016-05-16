@@ -1,0 +1,6 @@
+<ruleset name="Poussinooz.fr">
+	<target host="poussinooz.fr" />
+	<target host="www.poussinooz.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

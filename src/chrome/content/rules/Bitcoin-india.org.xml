@@ -1,0 +1,6 @@
+<ruleset name="Bitcoin-india.org">
+	<target host="bitcoin-india.org" />
+	<target host="www.bitcoin-india.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

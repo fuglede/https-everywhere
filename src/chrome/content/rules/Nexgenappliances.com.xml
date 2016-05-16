@@ -1,0 +1,6 @@
+<ruleset name="Nexgenappliances.com">
+	<target host="nexgenappliances.com" />
+	<target host="www.nexgenappliances.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

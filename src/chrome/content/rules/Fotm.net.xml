@@ -1,0 +1,6 @@
+<ruleset name="Fotm.net">
+	<target host="fotm.net" />
+	<target host="www.fotm.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

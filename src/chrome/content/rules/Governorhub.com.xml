@@ -1,0 +1,6 @@
+<ruleset name="Governorhub.com">
+	<target host="governorhub.com" />
+	<target host="www.governorhub.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Open.gl">
+	<target host="open.gl" />
+	<target host="www.open.gl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

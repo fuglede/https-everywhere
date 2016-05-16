@@ -1,0 +1,6 @@
+<ruleset name="Alexei.su">
+	<target host="alexei.su" />
+	<target host="www.alexei.su" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Jaymecd.rocks">
+	<target host="jaymecd.rocks" />
+	<target host="www.jaymecd.rocks" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

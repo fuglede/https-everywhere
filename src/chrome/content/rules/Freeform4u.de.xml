@@ -1,0 +1,6 @@
+<ruleset name="Freeform4u.de">
+	<target host="freeform4u.de" />
+	<target host="www.freeform4u.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

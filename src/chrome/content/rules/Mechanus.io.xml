@@ -1,0 +1,6 @@
+<ruleset name="Mechanus.io">
+	<target host="mechanus.io" />
+	<target host="www.mechanus.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

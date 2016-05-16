@@ -1,0 +1,6 @@
+<ruleset name="Luxus-russen.de">
+	<target host="luxus-russen.de" />
+	<target host="www.luxus-russen.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

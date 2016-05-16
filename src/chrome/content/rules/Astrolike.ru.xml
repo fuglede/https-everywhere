@@ -1,0 +1,6 @@
+<ruleset name="Astrolike.ru">
+	<target host="astrolike.ru" />
+	<target host="www.astrolike.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Wiw.org">
+	<target host="wiw.org" />
+	<target host="www.wiw.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

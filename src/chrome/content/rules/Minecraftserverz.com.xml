@@ -1,0 +1,6 @@
+<ruleset name="Minecraftserverz.com">
+	<target host="minecraftserverz.com" />
+	<target host="www.minecraftserverz.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

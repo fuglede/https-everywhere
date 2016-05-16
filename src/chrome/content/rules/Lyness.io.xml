@@ -1,0 +1,6 @@
+<ruleset name="Lyness.io">
+	<target host="lyness.io" />
+	<target host="www.lyness.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

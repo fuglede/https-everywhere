@@ -1,0 +1,6 @@
+<ruleset name="Consciousbranding.org.au">
+	<target host="consciousbranding.org.au" />
+	<target host="www.consciousbranding.org.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

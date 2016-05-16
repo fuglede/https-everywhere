@@ -1,0 +1,6 @@
+<ruleset name="Otaku-eshop.cz">
+	<target host="otaku-eshop.cz" />
+	<target host="www.otaku-eshop.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

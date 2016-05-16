@@ -1,0 +1,6 @@
+<ruleset name="Thelastsurprise.com">
+	<target host="thelastsurprise.com" />
+	<target host="www.thelastsurprise.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

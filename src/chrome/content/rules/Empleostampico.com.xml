@@ -1,0 +1,6 @@
+<ruleset name="Empleostampico.com">
+	<target host="empleostampico.com" />
+	<target host="www.empleostampico.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

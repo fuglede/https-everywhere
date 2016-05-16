@@ -1,0 +1,6 @@
+<ruleset name="Asasuou.pw">
+	<target host="asasuou.pw" />
+	<target host="www.asasuou.pw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

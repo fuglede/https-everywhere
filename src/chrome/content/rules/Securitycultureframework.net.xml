@@ -1,0 +1,6 @@
+<ruleset name="Securitycultureframework.net">
+	<target host="securitycultureframework.net" />
+	<target host="www.securitycultureframework.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

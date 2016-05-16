@@ -1,0 +1,6 @@
+<ruleset name="Simbast.com">
+	<target host="simbast.com" />
+	<target host="www.simbast.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

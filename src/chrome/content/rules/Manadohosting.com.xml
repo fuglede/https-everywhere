@@ -1,0 +1,6 @@
+<ruleset name="Manadohosting.com">
+	<target host="manadohosting.com" />
+	<target host="www.manadohosting.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

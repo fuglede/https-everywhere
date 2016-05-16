@@ -1,0 +1,6 @@
+<ruleset name="Onepluscamps.com">
+	<target host="onepluscamps.com" />
+	<target host="www.onepluscamps.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

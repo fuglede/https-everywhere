@@ -1,0 +1,6 @@
+<ruleset name="Mondar.io">
+	<target host="mondar.io" />
+	<target host="www.mondar.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

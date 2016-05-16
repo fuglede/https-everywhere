@@ -1,0 +1,6 @@
+<ruleset name="Connected-verhuurservice.nl">
+	<target host="connected-verhuurservice.nl" />
+	<target host="www.connected-verhuurservice.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

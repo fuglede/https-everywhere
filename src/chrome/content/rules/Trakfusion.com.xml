@@ -1,0 +1,6 @@
+<ruleset name="Trakfusion.com">
+	<target host="trakfusion.com" />
+	<target host="www.trakfusion.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

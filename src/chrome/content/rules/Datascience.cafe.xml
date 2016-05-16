@@ -1,0 +1,6 @@
+<ruleset name="Datascience.cafe">
+	<target host="datascience.cafe" />
+	<target host="www.datascience.cafe" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Mm13.at">
+	<target host="mm13.at" />
+	<target host="www.mm13.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

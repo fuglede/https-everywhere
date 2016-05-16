@@ -1,0 +1,6 @@
+<ruleset name="Sysmike.net">
+	<target host="sysmike.net" />
+	<target host="www.sysmike.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

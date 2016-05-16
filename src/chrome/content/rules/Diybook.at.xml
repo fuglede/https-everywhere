@@ -1,0 +1,6 @@
+<ruleset name="Diybook.at">
+	<target host="diybook.at" />
+	<target host="www.diybook.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

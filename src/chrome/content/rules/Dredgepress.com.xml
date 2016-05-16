@@ -1,0 +1,6 @@
+<ruleset name="Dredgepress.com">
+	<target host="dredgepress.com" />
+	<target host="www.dredgepress.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

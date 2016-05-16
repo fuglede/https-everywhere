@@ -1,0 +1,6 @@
+<ruleset name="Mountainadventureseminars.com">
+	<target host="mountainadventureseminars.com" />
+	<target host="www.mountainadventureseminars.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Spdepartamentos.com.br">
+	<target host="spdepartamentos.com.br" />
+	<target host="www.spdepartamentos.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Eyeonid.com">
+	<target host="eyeonid.com" />
+	<target host="www.eyeonid.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

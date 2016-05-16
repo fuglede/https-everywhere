@@ -1,0 +1,6 @@
+<ruleset name="Dokuboard.com">
+	<target host="dokuboard.com" />
+	<target host="www.dokuboard.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

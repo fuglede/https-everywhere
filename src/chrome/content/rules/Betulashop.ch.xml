@@ -1,0 +1,6 @@
+<ruleset name="Betulashop.ch">
+	<target host="betulashop.ch" />
+	<target host="www.betulashop.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

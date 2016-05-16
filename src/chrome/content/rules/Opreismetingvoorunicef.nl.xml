@@ -1,0 +1,6 @@
+<ruleset name="Opreismetingvoorunicef.nl">
+	<target host="opreismetingvoorunicef.nl" />
+	<target host="www.opreismetingvoorunicef.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

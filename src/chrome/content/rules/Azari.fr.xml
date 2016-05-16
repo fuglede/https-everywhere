@@ -1,0 +1,6 @@
+<ruleset name="Azari.fr">
+	<target host="azari.fr" />
+	<target host="www.azari.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

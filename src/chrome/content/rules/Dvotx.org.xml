@@ -1,0 +1,6 @@
+<ruleset name="Dvotx.org">
+	<target host="dvotx.org" />
+	<target host="www.dvotx.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

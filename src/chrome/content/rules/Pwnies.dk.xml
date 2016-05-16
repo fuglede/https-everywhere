@@ -1,0 +1,6 @@
+<ruleset name="Pwnies.dk">
+	<target host="pwnies.dk" />
+	<target host="www.pwnies.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Piratte.net">
+	<target host="piratte.net" />
+	<target host="www.piratte.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

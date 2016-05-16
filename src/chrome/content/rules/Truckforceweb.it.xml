@@ -1,0 +1,6 @@
+<ruleset name="Truckforceweb.it">
+	<target host="truckforceweb.it" />
+	<target host="www.truckforceweb.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

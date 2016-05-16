@@ -1,0 +1,6 @@
+<ruleset name="Psncardplus.se">
+	<target host="psncardplus.se" />
+	<target host="www.psncardplus.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

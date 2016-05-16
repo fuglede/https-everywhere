@@ -1,0 +1,6 @@
+<ruleset name="Tmi-produkter.se">
+	<target host="tmi-produkter.se" />
+	<target host="www.tmi-produkter.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

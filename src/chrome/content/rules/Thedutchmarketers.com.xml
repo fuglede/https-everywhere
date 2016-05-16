@@ -1,0 +1,6 @@
+<ruleset name="Thedutchmarketers.com">
+	<target host="thedutchmarketers.com" />
+	<target host="www.thedutchmarketers.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

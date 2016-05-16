@@ -1,0 +1,6 @@
+<ruleset name="Sangwon.io">
+	<target host="sangwon.io" />
+	<target host="www.sangwon.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

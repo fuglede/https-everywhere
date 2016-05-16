@@ -1,0 +1,6 @@
+<ruleset name="Candicontrols.com">
+	<target host="candicontrols.com" />
+	<target host="www.candicontrols.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

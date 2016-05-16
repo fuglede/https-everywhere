@@ -1,0 +1,6 @@
+<ruleset name="Undo.co.il">
+	<target host="undo.co.il" />
+	<target host="www.undo.co.il" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

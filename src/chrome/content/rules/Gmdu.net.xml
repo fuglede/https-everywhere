@@ -1,0 +1,6 @@
+<ruleset name="Gmdu.net">
+	<target host="gmdu.net" />
+	<target host="www.gmdu.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

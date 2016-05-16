@@ -1,0 +1,6 @@
+<ruleset name="Istdieweltschonuntergegangen.de">
+	<target host="istdieweltschonuntergegangen.de" />
+	<target host="www.istdieweltschonuntergegangen.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

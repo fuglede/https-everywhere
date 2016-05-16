@@ -1,0 +1,6 @@
+<ruleset name="Eoldb.org">
+	<target host="eoldb.org" />
+	<target host="www.eoldb.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

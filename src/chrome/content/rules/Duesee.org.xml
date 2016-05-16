@@ -1,0 +1,6 @@
+<ruleset name="Duesee.org">
+	<target host="duesee.org" />
+	<target host="www.duesee.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

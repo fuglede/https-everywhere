@@ -1,0 +1,6 @@
+<ruleset name="Affilie.de">
+	<target host="affilie.de" />
+	<target host="www.affilie.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Mytty.net">
+	<target host="mytty.net" />
+	<target host="www.mytty.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

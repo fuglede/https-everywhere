@@ -1,0 +1,6 @@
+<ruleset name="Hsir.me">
+	<target host="hsir.me" />
+	<target host="www.hsir.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

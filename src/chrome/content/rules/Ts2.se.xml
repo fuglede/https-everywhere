@@ -1,0 +1,6 @@
+<ruleset name="Ts2.se">
+	<target host="ts2.se" />
+	<target host="www.ts2.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Sendash.com">
+	<target host="sendash.com" />
+	<target host="www.sendash.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

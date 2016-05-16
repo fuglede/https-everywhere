@@ -1,0 +1,6 @@
+<ruleset name="Ziin.de">
+	<target host="ziin.de" />
+	<target host="www.ziin.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Wizzr.nl">
+	<target host="wizzr.nl" />
+	<target host="www.wizzr.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Daventryhomeeducation.club">
+	<target host="daventryhomeeducation.club" />
+	<target host="www.daventryhomeeducation.club" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

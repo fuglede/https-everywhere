@@ -1,0 +1,6 @@
+<ruleset name="Stat.ink">
+	<target host="stat.ink" />
+	<target host="www.stat.ink" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

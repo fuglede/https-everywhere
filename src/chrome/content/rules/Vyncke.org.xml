@@ -1,0 +1,6 @@
+<ruleset name="Vyncke.org">
+	<target host="vyncke.org" />
+	<target host="www.vyncke.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Fourchin.net">
+	<target host="fourchin.net" />
+	<target host="www.fourchin.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

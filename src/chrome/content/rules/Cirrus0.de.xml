@@ -1,0 +1,6 @@
+<ruleset name="Cirrus0.de">
+	<target host="cirrus0.de" />
+	<target host="www.cirrus0.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

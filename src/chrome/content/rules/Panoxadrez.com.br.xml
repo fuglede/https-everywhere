@@ -1,0 +1,6 @@
+<ruleset name="Panoxadrez.com.br">
+	<target host="panoxadrez.com.br" />
+	<target host="www.panoxadrez.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

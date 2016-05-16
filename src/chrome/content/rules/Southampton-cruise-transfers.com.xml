@@ -1,0 +1,6 @@
+<ruleset name="Southampton-cruise-transfers.com">
+	<target host="southampton-cruise-transfers.com" />
+	<target host="www.southampton-cruise-transfers.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

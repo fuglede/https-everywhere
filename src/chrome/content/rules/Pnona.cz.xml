@@ -1,0 +1,6 @@
+<ruleset name="Pnona.cz">
+	<target host="pnona.cz" />
+	<target host="www.pnona.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

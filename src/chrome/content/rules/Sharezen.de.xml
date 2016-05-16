@@ -1,0 +1,6 @@
+<ruleset name="Sharezen.de">
+	<target host="sharezen.de" />
+	<target host="www.sharezen.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Hackerforever.com">
+	<target host="hackerforever.com" />
+	<target host="www.hackerforever.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

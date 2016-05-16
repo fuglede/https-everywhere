@@ -1,0 +1,6 @@
+<ruleset name="Wohnungsbau-ludwigsburg.de">
+	<target host="wohnungsbau-ludwigsburg.de" />
+	<target host="www.wohnungsbau-ludwigsburg.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

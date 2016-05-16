@@ -1,0 +1,6 @@
+<ruleset name="Gflclan.ru">
+	<target host="gflclan.ru" />
+	<target host="www.gflclan.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

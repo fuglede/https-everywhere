@@ -1,0 +1,6 @@
+<ruleset name="Rgavmf.ru">
+	<target host="rgavmf.ru" />
+	<target host="www.rgavmf.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

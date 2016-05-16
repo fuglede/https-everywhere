@@ -1,0 +1,6 @@
+<ruleset name="Webstylemedia.com">
+	<target host="webstylemedia.com" />
+	<target host="www.webstylemedia.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

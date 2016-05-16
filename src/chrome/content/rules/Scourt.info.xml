@@ -1,0 +1,6 @@
+<ruleset name="Scourt.info">
+	<target host="scourt.info" />
+	<target host="www.scourt.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

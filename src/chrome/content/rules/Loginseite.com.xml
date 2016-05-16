@@ -1,0 +1,6 @@
+<ruleset name="Loginseite.com">
+	<target host="loginseite.com" />
+	<target host="www.loginseite.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="700.az">
+	<target host="700.az" />
+	<target host="www.700.az" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

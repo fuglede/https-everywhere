@@ -1,0 +1,6 @@
+<ruleset name="Selfdestruct.org">
+	<target host="selfdestruct.org" />
+	<target host="www.selfdestruct.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

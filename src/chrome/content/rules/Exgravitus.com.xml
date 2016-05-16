@@ -1,0 +1,6 @@
+<ruleset name="Exgravitus.com">
+	<target host="exgravitus.com" />
+	<target host="www.exgravitus.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

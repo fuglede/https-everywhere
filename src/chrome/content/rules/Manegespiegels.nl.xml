@@ -1,0 +1,6 @@
+<ruleset name="Manegespiegels.nl">
+	<target host="manegespiegels.nl" />
+	<target host="www.manegespiegels.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

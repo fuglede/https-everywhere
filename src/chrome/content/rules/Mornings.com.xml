@@ -1,0 +1,6 @@
+<ruleset name="Mornings.com">
+	<target host="mornings.com" />
+	<target host="www.mornings.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

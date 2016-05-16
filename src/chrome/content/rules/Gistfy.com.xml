@@ -1,0 +1,6 @@
+<ruleset name="Gistfy.com">
+	<target host="gistfy.com" />
+	<target host="www.gistfy.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

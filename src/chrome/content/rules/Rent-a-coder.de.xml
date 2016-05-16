@@ -1,0 +1,6 @@
+<ruleset name="Rent-a-coder.de">
+	<target host="rent-a-coder.de" />
+	<target host="www.rent-a-coder.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Fortnine.ca">
+	<target host="fortnine.ca" />
+	<target host="www.fortnine.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

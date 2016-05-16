@@ -1,0 +1,6 @@
+<ruleset name="Atlantichomes.com.au">
+	<target host="atlantichomes.com.au" />
+	<target host="www.atlantichomes.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

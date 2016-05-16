@@ -1,0 +1,6 @@
+<ruleset name="Pointpro.de">
+	<target host="pointpro.de" />
+	<target host="www.pointpro.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

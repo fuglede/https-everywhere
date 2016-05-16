@@ -1,0 +1,6 @@
+<ruleset name="Tomaspialek.cz">
+	<target host="tomaspialek.cz" />
+	<target host="www.tomaspialek.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

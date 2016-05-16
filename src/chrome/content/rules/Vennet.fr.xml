@@ -1,0 +1,6 @@
+<ruleset name="Vennet.fr">
+	<target host="vennet.fr" />
+	<target host="www.vennet.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

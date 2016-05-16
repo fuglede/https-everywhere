@@ -1,0 +1,6 @@
+<ruleset name="Vintageheartcoffee.com">
+	<target host="vintageheartcoffee.com" />
+	<target host="www.vintageheartcoffee.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

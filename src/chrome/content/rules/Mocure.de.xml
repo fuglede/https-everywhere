@@ -1,0 +1,6 @@
+<ruleset name="Mocure.de">
+	<target host="mocure.de" />
+	<target host="www.mocure.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

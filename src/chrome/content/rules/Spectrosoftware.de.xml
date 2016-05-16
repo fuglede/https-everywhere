@@ -1,0 +1,6 @@
+<ruleset name="Spectrosoftware.de">
+	<target host="spectrosoftware.de" />
+	<target host="www.spectrosoftware.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

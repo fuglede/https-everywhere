@@ -1,0 +1,6 @@
+<ruleset name="Bildiri.ci">
+	<target host="bildiri.ci" />
+	<target host="www.bildiri.ci" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Gs1.ro">
+	<target host="gs1.ro" />
+	<target host="www.gs1.ro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

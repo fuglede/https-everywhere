@@ -1,0 +1,6 @@
+<ruleset name="Nixien.fr">
+	<target host="nixien.fr" />
+	<target host="www.nixien.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

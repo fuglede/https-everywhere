@@ -1,0 +1,6 @@
+<ruleset name="Ceopedia.org">
+	<target host="ceopedia.org" />
+	<target host="www.ceopedia.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Ayumi.pw">
+	<target host="ayumi.pw" />
+	<target host="www.ayumi.pw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

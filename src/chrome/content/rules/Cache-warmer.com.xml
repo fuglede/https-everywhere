@@ -1,0 +1,6 @@
+<ruleset name="Cache-warmer.com">
+	<target host="cache-warmer.com" />
+	<target host="www.cache-warmer.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

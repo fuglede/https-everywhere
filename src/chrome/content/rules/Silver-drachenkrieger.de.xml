@@ -1,0 +1,6 @@
+<ruleset name="Silver-drachenkrieger.de">
+	<target host="silver-drachenkrieger.de" />
+	<target host="www.silver-drachenkrieger.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

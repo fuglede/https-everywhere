@@ -1,0 +1,6 @@
+<ruleset name="Atisoft.biz">
+	<target host="atisoft.biz" />
+	<target host="www.atisoft.biz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

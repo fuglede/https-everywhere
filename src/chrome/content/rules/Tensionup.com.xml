@@ -1,0 +1,6 @@
+<ruleset name="Tensionup.com">
+	<target host="tensionup.com" />
+	<target host="www.tensionup.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

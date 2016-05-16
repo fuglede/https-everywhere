@@ -1,0 +1,6 @@
+<ruleset name="Kalender.com">
+	<target host="kalender.com" />
+	<target host="www.kalender.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Cash-pos.com">
+	<target host="cash-pos.com" />
+	<target host="www.cash-pos.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

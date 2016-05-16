@@ -1,0 +1,6 @@
+<ruleset name="Drahcro.uk">
+	<target host="drahcro.uk" />
+	<target host="www.drahcro.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

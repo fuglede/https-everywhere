@@ -1,0 +1,6 @@
+<ruleset name="Nwra.com">
+	<target host="nwra.com" />
+	<target host="www.nwra.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

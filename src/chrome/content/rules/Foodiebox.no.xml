@@ -1,0 +1,6 @@
+<ruleset name="Foodiebox.no">
+	<target host="foodiebox.no" />
+	<target host="www.foodiebox.no" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

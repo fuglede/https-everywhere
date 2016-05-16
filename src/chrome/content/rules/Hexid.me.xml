@@ -1,0 +1,6 @@
+<ruleset name="Hexid.me">
+	<target host="hexid.me" />
+	<target host="www.hexid.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

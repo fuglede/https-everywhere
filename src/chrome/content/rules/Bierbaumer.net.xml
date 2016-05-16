@@ -1,0 +1,6 @@
+<ruleset name="Bierbaumer.net">
+	<target host="bierbaumer.net" />
+	<target host="www.bierbaumer.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

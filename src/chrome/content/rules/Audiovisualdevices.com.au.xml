@@ -1,0 +1,6 @@
+<ruleset name="Audiovisualdevices.com.au">
+	<target host="audiovisualdevices.com.au" />
+	<target host="www.audiovisualdevices.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

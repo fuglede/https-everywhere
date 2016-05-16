@@ -1,0 +1,6 @@
+<ruleset name="Vps-szerver-berles.hu">
+	<target host="vps-szerver-berles.hu" />
+	<target host="www.vps-szerver-berles.hu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

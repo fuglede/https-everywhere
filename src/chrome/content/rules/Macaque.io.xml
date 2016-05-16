@@ -1,0 +1,6 @@
+<ruleset name="Macaque.io">
+	<target host="macaque.io" />
+	<target host="www.macaque.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Jornadasciberdefensa2016.es">
+	<target host="jornadasciberdefensa2016.es" />
+	<target host="www.jornadasciberdefensa2016.es" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

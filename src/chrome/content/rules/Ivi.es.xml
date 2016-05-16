@@ -1,0 +1,6 @@
+<ruleset name="Ivi.es">
+	<target host="ivi.es" />
+	<target host="www.ivi.es" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

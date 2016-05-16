@@ -1,0 +1,6 @@
+<ruleset name="Bitref.com">
+	<target host="bitref.com" />
+	<target host="www.bitref.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

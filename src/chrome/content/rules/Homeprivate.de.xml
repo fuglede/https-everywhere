@@ -1,0 +1,6 @@
+<ruleset name="Homeprivate.de">
+	<target host="homeprivate.de" />
+	<target host="www.homeprivate.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

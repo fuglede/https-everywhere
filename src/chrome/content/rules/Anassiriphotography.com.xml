@@ -1,0 +1,6 @@
+<ruleset name="Anassiriphotography.com">
+	<target host="anassiriphotography.com" />
+	<target host="www.anassiriphotography.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

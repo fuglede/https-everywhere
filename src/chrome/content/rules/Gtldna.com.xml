@@ -1,0 +1,6 @@
+<ruleset name="Gtldna.com">
+	<target host="gtldna.com" />
+	<target host="www.gtldna.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Travelalerts.lu">
+	<target host="travelalerts.lu" />
+	<target host="www.travelalerts.lu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

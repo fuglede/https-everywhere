@@ -1,0 +1,6 @@
+<ruleset name="Disinclined.org">
+	<target host="disinclined.org" />
+	<target host="www.disinclined.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

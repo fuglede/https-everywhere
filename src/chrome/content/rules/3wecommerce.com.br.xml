@@ -1,0 +1,6 @@
+<ruleset name="3wecommerce.com.br">
+	<target host="3wecommerce.com.br" />
+	<target host="www.3wecommerce.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

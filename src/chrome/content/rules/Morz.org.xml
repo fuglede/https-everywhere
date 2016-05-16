@@ -1,0 +1,6 @@
+<ruleset name="Morz.org">
+	<target host="morz.org" />
+	<target host="www.morz.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

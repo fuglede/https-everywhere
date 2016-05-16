@@ -1,0 +1,6 @@
+<ruleset name="Sec-wiki.com">
+	<target host="sec-wiki.com" />
+	<target host="www.sec-wiki.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

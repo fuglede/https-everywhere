@@ -1,0 +1,6 @@
+<ruleset name="Dreamtechie.com">
+	<target host="dreamtechie.com" />
+	<target host="www.dreamtechie.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

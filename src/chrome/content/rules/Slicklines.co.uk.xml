@@ -1,0 +1,6 @@
+<ruleset name="Slicklines.co.uk">
+	<target host="slicklines.co.uk" />
+	<target host="www.slicklines.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

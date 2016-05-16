@@ -1,0 +1,6 @@
+<ruleset name="Mdwftw.com">
+	<target host="mdwftw.com" />
+	<target host="www.mdwftw.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

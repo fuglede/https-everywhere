@@ -1,0 +1,6 @@
+<ruleset name="Mhict.nl">
+	<target host="mhict.nl" />
+	<target host="www.mhict.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

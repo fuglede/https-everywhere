@@ -1,0 +1,6 @@
+<ruleset name="Tierisch-gespraechig.de">
+	<target host="tierisch-gespraechig.de" />
+	<target host="www.tierisch-gespraechig.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

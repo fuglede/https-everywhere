@@ -1,0 +1,6 @@
+<ruleset name="Major4agents.co.uk">
+	<target host="major4agents.co.uk" />
+	<target host="www.major4agents.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Niconiconi.xyz">
+	<target host="niconiconi.xyz" />
+	<target host="www.niconiconi.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

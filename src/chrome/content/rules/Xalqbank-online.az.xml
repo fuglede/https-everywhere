@@ -1,0 +1,6 @@
+<ruleset name="Xalqbank-online.az">
+	<target host="xalqbank-online.az" />
+	<target host="www.xalqbank-online.az" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

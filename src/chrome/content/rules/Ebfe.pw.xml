@@ -1,0 +1,6 @@
+<ruleset name="Ebfe.pw">
+	<target host="ebfe.pw" />
+	<target host="www.ebfe.pw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

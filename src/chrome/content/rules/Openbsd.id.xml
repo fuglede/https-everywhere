@@ -1,0 +1,6 @@
+<ruleset name="Openbsd.id">
+	<target host="openbsd.id" />
+	<target host="www.openbsd.id" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

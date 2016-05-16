@@ -1,0 +1,6 @@
+<ruleset name="Upay.ru">
+	<target host="upay.ru" />
+	<target host="www.upay.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

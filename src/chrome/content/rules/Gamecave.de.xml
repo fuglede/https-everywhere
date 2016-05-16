@@ -1,0 +1,6 @@
+<ruleset name="Gamecave.de">
+	<target host="gamecave.de" />
+	<target host="www.gamecave.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

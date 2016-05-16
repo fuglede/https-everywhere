@@ -1,0 +1,6 @@
+<ruleset name="Tickettoaster.de">
+	<target host="tickettoaster.de" />
+	<target host="www.tickettoaster.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

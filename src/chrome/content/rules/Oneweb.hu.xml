@@ -1,0 +1,6 @@
+<ruleset name="Oneweb.hu">
+	<target host="oneweb.hu" />
+	<target host="www.oneweb.hu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

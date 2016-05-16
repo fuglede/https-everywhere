@@ -1,0 +1,6 @@
+<ruleset name="Nagaragem.com.br">
+	<target host="nagaragem.com.br" />
+	<target host="www.nagaragem.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

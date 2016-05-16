@@ -1,0 +1,6 @@
+<ruleset name="Hardline.xyz">
+	<target host="hardline.xyz" />
+	<target host="www.hardline.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

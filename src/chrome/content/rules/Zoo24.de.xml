@@ -1,0 +1,6 @@
+<ruleset name="Zoo24.de">
+	<target host="zoo24.de" />
+	<target host="www.zoo24.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

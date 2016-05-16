@@ -1,0 +1,6 @@
+<ruleset name="Larbig-mortag.de">
+	<target host="larbig-mortag.de" />
+	<target host="www.larbig-mortag.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Futbol11.com">
+	<target host="futbol11.com" />
+	<target host="www.futbol11.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

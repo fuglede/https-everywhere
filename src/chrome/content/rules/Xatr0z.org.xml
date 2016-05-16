@@ -1,0 +1,6 @@
+<ruleset name="Xatr0z.org">
+	<target host="xatr0z.org" />
+	<target host="www.xatr0z.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

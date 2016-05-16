@@ -1,0 +1,6 @@
+<ruleset name="Visioflux-premium.com">
+	<target host="visioflux-premium.com" />
+	<target host="www.visioflux-premium.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

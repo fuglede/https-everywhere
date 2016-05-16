@@ -1,0 +1,6 @@
+<ruleset name="Homophoni.com">
+	<target host="homophoni.com" />
+	<target host="www.homophoni.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

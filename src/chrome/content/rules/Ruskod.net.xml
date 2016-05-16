@@ -1,0 +1,6 @@
+<ruleset name="Ruskod.net">
+	<target host="ruskod.net" />
+	<target host="www.ruskod.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

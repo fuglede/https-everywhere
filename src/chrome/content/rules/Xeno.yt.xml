@@ -1,0 +1,6 @@
+<ruleset name="Xeno.yt">
+	<target host="xeno.yt" />
+	<target host="www.xeno.yt" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

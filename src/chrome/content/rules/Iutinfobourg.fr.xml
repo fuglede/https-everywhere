@@ -1,0 +1,6 @@
+<ruleset name="Iutinfobourg.fr">
+	<target host="iutinfobourg.fr" />
+	<target host="www.iutinfobourg.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

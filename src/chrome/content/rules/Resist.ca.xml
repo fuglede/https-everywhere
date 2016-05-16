@@ -1,0 +1,6 @@
+<ruleset name="Resist.ca">
+	<target host="resist.ca" />
+	<target host="www.resist.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Selfie-france.fr">
+	<target host="selfie-france.fr" />
+	<target host="www.selfie-france.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

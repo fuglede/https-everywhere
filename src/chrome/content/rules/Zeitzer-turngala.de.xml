@@ -1,0 +1,6 @@
+<ruleset name="Zeitzer-turngala.de">
+	<target host="zeitzer-turngala.de" />
+	<target host="www.zeitzer-turngala.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

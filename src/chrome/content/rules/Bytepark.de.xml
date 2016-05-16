@@ -1,0 +1,6 @@
+<ruleset name="Bytepark.de">
+	<target host="bytepark.de" />
+	<target host="www.bytepark.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

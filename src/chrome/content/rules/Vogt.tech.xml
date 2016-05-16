@@ -1,0 +1,6 @@
+<ruleset name="Vogt.tech">
+	<target host="vogt.tech" />
+	<target host="www.vogt.tech" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

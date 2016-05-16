@@ -1,0 +1,6 @@
+<ruleset name="Kunstundunrat.de">
+	<target host="kunstundunrat.de" />
+	<target host="www.kunstundunrat.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

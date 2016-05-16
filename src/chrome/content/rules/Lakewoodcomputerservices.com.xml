@@ -1,0 +1,6 @@
+<ruleset name="Lakewoodcomputerservices.com">
+	<target host="lakewoodcomputerservices.com" />
+	<target host="www.lakewoodcomputerservices.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

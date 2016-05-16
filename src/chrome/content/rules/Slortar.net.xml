@@ -1,0 +1,6 @@
+<ruleset name="Slortar.net">
+	<target host="slortar.net" />
+	<target host="www.slortar.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

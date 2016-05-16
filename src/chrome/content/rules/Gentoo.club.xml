@@ -1,0 +1,6 @@
+<ruleset name="Gentoo.club">
+	<target host="gentoo.club" />
+	<target host="www.gentoo.club" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

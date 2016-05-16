@@ -1,0 +1,6 @@
+<ruleset name="Rannseier.org">
+	<target host="rannseier.org" />
+	<target host="www.rannseier.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Blueperil.de">
+	<target host="blueperil.de" />
+	<target host="www.blueperil.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Thrx.net">
+	<target host="thrx.net" />
+	<target host="www.thrx.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

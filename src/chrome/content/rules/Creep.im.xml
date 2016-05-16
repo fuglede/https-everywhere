@@ -1,0 +1,6 @@
+<ruleset name="Creep.im">
+	<target host="creep.im" />
+	<target host="www.creep.im" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

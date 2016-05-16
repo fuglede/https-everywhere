@@ -1,0 +1,6 @@
+<ruleset name="Directme.ga">
+	<target host="directme.ga" />
+	<target host="www.directme.ga" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

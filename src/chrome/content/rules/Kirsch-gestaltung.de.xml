@@ -1,0 +1,6 @@
+<ruleset name="Kirsch-gestaltung.de">
+	<target host="kirsch-gestaltung.de" />
+	<target host="www.kirsch-gestaltung.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

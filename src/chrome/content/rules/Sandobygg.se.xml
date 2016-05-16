@@ -1,0 +1,6 @@
+<ruleset name="Sandobygg.se">
+	<target host="sandobygg.se" />
+	<target host="www.sandobygg.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

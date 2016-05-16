@@ -1,0 +1,6 @@
+<ruleset name="Kvalita-1a.cz">
+	<target host="kvalita-1a.cz" />
+	<target host="www.kvalita-1a.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

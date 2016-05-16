@@ -1,0 +1,6 @@
+<ruleset name="Articaexports.com">
+	<target host="articaexports.com" />
+	<target host="www.articaexports.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

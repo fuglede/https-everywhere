@@ -1,0 +1,6 @@
+<ruleset name="Jobmob.co.il">
+	<target host="jobmob.co.il" />
+	<target host="www.jobmob.co.il" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

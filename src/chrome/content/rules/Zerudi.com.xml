@@ -1,0 +1,6 @@
+<ruleset name="Zerudi.com">
+	<target host="zerudi.com" />
+	<target host="www.zerudi.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

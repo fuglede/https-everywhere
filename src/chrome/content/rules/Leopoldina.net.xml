@@ -1,0 +1,6 @@
+<ruleset name="Leopoldina.net">
+	<target host="leopoldina.net" />
+	<target host="www.leopoldina.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

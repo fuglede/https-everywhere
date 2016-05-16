@@ -1,0 +1,6 @@
+<ruleset name="Fossewaygardencentre.co.uk">
+	<target host="fossewaygardencentre.co.uk" />
+	<target host="www.fossewaygardencentre.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

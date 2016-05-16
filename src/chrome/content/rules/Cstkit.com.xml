@@ -1,0 +1,6 @@
+<ruleset name="Cstkit.com">
+	<target host="cstkit.com" />
+	<target host="www.cstkit.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

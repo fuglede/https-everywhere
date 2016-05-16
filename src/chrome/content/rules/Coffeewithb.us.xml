@@ -1,0 +1,6 @@
+<ruleset name="Coffeewithb.us">
+	<target host="coffeewithb.us" />
+	<target host="www.coffeewithb.us" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

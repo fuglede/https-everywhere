@@ -1,0 +1,6 @@
+<ruleset name="Kensa-hiv.com">
+	<target host="kensa-hiv.com" />
+	<target host="www.kensa-hiv.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

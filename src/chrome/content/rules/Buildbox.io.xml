@@ -1,0 +1,6 @@
+<ruleset name="Buildbox.io">
+	<target host="buildbox.io" />
+	<target host="www.buildbox.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

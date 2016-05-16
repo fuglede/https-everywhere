@@ -1,0 +1,6 @@
+<ruleset name="Bitmoe.com">
+	<target host="bitmoe.com" />
+	<target host="www.bitmoe.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

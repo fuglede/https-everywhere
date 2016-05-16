@@ -1,0 +1,6 @@
+<ruleset name="Moonagic.com">
+	<target host="moonagic.com" />
+	<target host="www.moonagic.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Fillmysuitca.se">
+	<target host="fillmysuitca.se" />
+	<target host="www.fillmysuitca.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

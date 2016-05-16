@@ -1,0 +1,6 @@
+<ruleset name="Paulchen.at">
+	<target host="paulchen.at" />
+	<target host="www.paulchen.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

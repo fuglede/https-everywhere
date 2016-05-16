@@ -1,0 +1,6 @@
+<ruleset name="Overthinkingit.com">
+	<target host="overthinkingit.com" />
+	<target host="www.overthinkingit.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

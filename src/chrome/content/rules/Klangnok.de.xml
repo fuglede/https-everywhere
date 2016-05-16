@@ -1,0 +1,6 @@
+<ruleset name="Klangnok.de">
+	<target host="klangnok.de" />
+	<target host="www.klangnok.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

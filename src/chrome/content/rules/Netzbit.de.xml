@@ -1,0 +1,6 @@
+<ruleset name="Netzbit.de">
+	<target host="netzbit.de" />
+	<target host="www.netzbit.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

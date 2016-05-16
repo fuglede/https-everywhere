@@ -1,0 +1,6 @@
+<ruleset name="Sh-computers.uk">
+	<target host="sh-computers.uk" />
+	<target host="www.sh-computers.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

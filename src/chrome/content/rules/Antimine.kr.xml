@@ -1,0 +1,6 @@
+<ruleset name="Antimine.kr">
+	<target host="antimine.kr" />
+	<target host="www.antimine.kr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Casovi.cf">
+	<target host="casovi.cf" />
+	<target host="www.casovi.cf" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

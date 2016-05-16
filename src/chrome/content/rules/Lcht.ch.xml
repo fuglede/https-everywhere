@@ -1,0 +1,6 @@
+<ruleset name="Lcht.ch">
+	<target host="lcht.ch" />
+	<target host="www.lcht.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

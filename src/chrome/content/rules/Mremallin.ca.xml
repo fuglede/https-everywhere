@@ -1,0 +1,6 @@
+<ruleset name="Mremallin.ca">
+	<target host="mremallin.ca" />
+	<target host="www.mremallin.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

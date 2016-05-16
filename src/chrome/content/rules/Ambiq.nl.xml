@@ -1,0 +1,6 @@
+<ruleset name="Ambiq.nl">
+	<target host="ambiq.nl" />
+	<target host="www.ambiq.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Intimateperrierjouet.com">
+	<target host="intimateperrierjouet.com" />
+	<target host="www.intimateperrierjouet.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

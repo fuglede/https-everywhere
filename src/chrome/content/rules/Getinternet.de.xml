@@ -1,0 +1,6 @@
+<ruleset name="Getinternet.de">
+	<target host="getinternet.de" />
+	<target host="www.getinternet.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

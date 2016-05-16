@@ -1,0 +1,6 @@
+<ruleset name="Connect.ua">
+	<target host="connect.ua" />
+	<target host="www.connect.ua" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

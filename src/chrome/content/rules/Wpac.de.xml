@@ -1,0 +1,6 @@
+<ruleset name="Wpac.de">
+	<target host="wpac.de" />
+	<target host="www.wpac.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

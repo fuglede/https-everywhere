@@ -1,0 +1,6 @@
+<ruleset name="Szaszm.tk">
+	<target host="szaszm.tk" />
+	<target host="www.szaszm.tk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

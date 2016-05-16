@@ -1,0 +1,6 @@
+<ruleset name="Perlwork.nl">
+	<target host="perlwork.nl" />
+	<target host="www.perlwork.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

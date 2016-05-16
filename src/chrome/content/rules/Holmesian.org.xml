@@ -1,0 +1,6 @@
+<ruleset name="Holmesian.org">
+	<target host="holmesian.org" />
+	<target host="www.holmesian.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

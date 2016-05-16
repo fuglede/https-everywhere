@@ -1,0 +1,6 @@
+<ruleset name="Slowfood.es">
+	<target host="slowfood.es" />
+	<target host="www.slowfood.es" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

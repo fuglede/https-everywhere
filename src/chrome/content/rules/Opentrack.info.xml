@@ -1,0 +1,6 @@
+<ruleset name="Opentrack.info">
+	<target host="opentrack.info" />
+	<target host="www.opentrack.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Bukkenfan.jp">
+	<target host="bukkenfan.jp" />
+	<target host="www.bukkenfan.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

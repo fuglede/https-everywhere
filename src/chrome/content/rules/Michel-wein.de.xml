@@ -1,0 +1,6 @@
+<ruleset name="Michel-wein.de">
+	<target host="michel-wein.de" />
+	<target host="www.michel-wein.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="01electronica.com.ar">
+	<target host="01electronica.com.ar" />
+	<target host="www.01electronica.com.ar" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

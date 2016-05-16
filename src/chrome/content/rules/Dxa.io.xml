@@ -1,0 +1,6 @@
+<ruleset name="Dxa.io">
+	<target host="dxa.io" />
+	<target host="www.dxa.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

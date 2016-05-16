@@ -1,0 +1,6 @@
+<ruleset name="Beans-one.com">
+	<target host="beans-one.com" />
+	<target host="www.beans-one.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

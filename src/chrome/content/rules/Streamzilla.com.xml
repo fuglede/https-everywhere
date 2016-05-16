@@ -1,0 +1,6 @@
+<ruleset name="Streamzilla.com">
+	<target host="streamzilla.com" />
+	<target host="www.streamzilla.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

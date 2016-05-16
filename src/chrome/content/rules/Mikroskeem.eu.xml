@@ -1,0 +1,6 @@
+<ruleset name="Mikroskeem.eu">
+	<target host="mikroskeem.eu" />
+	<target host="www.mikroskeem.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

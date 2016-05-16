@@ -1,0 +1,6 @@
+<ruleset name="Heha.co">
+	<target host="heha.co" />
+	<target host="www.heha.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

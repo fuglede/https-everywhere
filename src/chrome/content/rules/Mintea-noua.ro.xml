@@ -1,0 +1,6 @@
+<ruleset name="Mintea-noua.ro">
+	<target host="mintea-noua.ro" />
+	<target host="www.mintea-noua.ro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

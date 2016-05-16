@@ -1,0 +1,6 @@
+<ruleset name="Mesmoque.com">
+	<target host="mesmoque.com" />
+	<target host="www.mesmoque.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

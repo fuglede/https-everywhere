@@ -1,0 +1,6 @@
+<ruleset name="Yu.gg">
+	<target host="yu.gg" />
+	<target host="www.yu.gg" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

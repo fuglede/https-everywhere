@@ -1,0 +1,6 @@
+<ruleset name="Alupferd.de">
+	<target host="alupferd.de" />
+	<target host="www.alupferd.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

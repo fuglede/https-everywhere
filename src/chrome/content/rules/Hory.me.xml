@@ -1,0 +1,6 @@
+<ruleset name="Hory.me">
+	<target host="hory.me" />
+	<target host="www.hory.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

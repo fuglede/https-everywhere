@@ -1,0 +1,6 @@
+<ruleset name="Caaroadside.ca">
+	<target host="caaroadside.ca" />
+	<target host="www.caaroadside.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

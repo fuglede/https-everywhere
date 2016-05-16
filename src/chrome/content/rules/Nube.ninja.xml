@@ -1,0 +1,6 @@
+<ruleset name="Nube.ninja">
+	<target host="nube.ninja" />
+	<target host="www.nube.ninja" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

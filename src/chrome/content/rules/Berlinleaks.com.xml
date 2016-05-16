@@ -1,0 +1,6 @@
+<ruleset name="Berlinleaks.com">
+	<target host="berlinleaks.com" />
+	<target host="www.berlinleaks.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

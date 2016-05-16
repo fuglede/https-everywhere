@@ -1,0 +1,6 @@
+<ruleset name="Rapidmodeler.de">
+	<target host="rapidmodeler.de" />
+	<target host="www.rapidmodeler.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

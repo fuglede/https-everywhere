@@ -1,0 +1,6 @@
+<ruleset name="Lorrimar.id.au">
+	<target host="lorrimar.id.au" />
+	<target host="www.lorrimar.id.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

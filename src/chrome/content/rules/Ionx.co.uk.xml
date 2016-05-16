@@ -1,0 +1,6 @@
+<ruleset name="Ionx.co.uk">
+	<target host="ionx.co.uk" />
+	<target host="www.ionx.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

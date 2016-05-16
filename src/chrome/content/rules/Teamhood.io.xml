@@ -1,0 +1,6 @@
+<ruleset name="Teamhood.io">
+	<target host="teamhood.io" />
+	<target host="www.teamhood.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

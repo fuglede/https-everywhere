@@ -1,0 +1,6 @@
+<ruleset name="Lojafazendoarte.com.br">
+	<target host="lojafazendoarte.com.br" />
+	<target host="www.lojafazendoarte.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

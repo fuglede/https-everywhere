@@ -1,0 +1,6 @@
+<ruleset name="Falsum.net">
+	<target host="falsum.net" />
+	<target host="www.falsum.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

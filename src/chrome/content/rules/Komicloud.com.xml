@@ -1,0 +1,6 @@
+<ruleset name="Komicloud.com">
+	<target host="komicloud.com" />
+	<target host="www.komicloud.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

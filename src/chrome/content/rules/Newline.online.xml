@@ -1,0 +1,6 @@
+<ruleset name="Newline.online">
+	<target host="newline.online" />
+	<target host="www.newline.online" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

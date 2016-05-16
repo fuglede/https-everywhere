@@ -1,0 +1,6 @@
+<ruleset name="Adboos.com">
+	<target host="adboos.com" />
+	<target host="www.adboos.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

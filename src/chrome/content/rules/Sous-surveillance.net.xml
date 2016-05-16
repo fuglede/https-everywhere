@@ -1,0 +1,6 @@
+<ruleset name="Sous-surveillance.net">
+	<target host="sous-surveillance.net" />
+	<target host="www.sous-surveillance.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

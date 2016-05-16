@@ -1,0 +1,6 @@
+<ruleset name="Froxlor.support">
+	<target host="froxlor.support" />
+	<target host="www.froxlor.support" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

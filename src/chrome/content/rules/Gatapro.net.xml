@@ -1,0 +1,6 @@
+<ruleset name="Gatapro.net">
+	<target host="gatapro.net" />
+	<target host="www.gatapro.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

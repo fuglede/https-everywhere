@@ -1,0 +1,6 @@
+<ruleset name="Raftrek.com">
+	<target host="raftrek.com" />
+	<target host="www.raftrek.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

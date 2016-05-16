@@ -1,0 +1,6 @@
+<ruleset name="Eelzak.nl">
+	<target host="eelzak.nl" />
+	<target host="www.eelzak.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

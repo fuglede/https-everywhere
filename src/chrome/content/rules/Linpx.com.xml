@@ -1,0 +1,6 @@
+<ruleset name="Linpx.com">
+	<target host="linpx.com" />
+	<target host="www.linpx.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

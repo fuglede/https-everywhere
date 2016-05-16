@@ -1,0 +1,6 @@
+<ruleset name="Cmahy.be">
+	<target host="cmahy.be" />
+	<target host="www.cmahy.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

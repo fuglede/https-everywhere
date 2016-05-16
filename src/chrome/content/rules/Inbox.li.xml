@@ -1,0 +1,6 @@
+<ruleset name="Inbox.li">
+	<target host="inbox.li" />
+	<target host="www.inbox.li" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

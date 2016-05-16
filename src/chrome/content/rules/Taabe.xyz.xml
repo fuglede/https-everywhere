@@ -1,0 +1,6 @@
+<ruleset name="Taabe.xyz">
+	<target host="taabe.xyz" />
+	<target host="www.taabe.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

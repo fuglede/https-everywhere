@@ -1,0 +1,6 @@
+<ruleset name="Fadilus.com">
+	<target host="fadilus.com" />
+	<target host="www.fadilus.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

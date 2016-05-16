@@ -1,0 +1,6 @@
+<ruleset name="Pluginsloaded.com">
+	<target host="pluginsloaded.com" />
+	<target host="www.pluginsloaded.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Whoshotya.de">
+	<target host="whoshotya.de" />
+	<target host="www.whoshotya.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

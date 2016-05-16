@@ -1,0 +1,6 @@
+<ruleset name="Kashdash.ca">
+	<target host="kashdash.ca" />
+	<target host="www.kashdash.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

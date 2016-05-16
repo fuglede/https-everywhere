@@ -1,0 +1,6 @@
+<ruleset name="Pennyapp.io">
+	<target host="pennyapp.io" />
+	<target host="www.pennyapp.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

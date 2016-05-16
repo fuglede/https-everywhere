@@ -1,0 +1,6 @@
+<ruleset name="Profidea.cz">
+	<target host="profidea.cz" />
+	<target host="www.profidea.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

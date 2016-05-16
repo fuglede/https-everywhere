@@ -1,0 +1,6 @@
+<ruleset name="Moegic.com">
+	<target host="moegic.com" />
+	<target host="www.moegic.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

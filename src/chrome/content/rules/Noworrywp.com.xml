@@ -1,0 +1,6 @@
+<ruleset name="Noworrywp.com">
+	<target host="noworrywp.com" />
+	<target host="www.noworrywp.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

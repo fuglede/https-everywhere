@@ -1,0 +1,6 @@
+<ruleset name="Sichere-kartenakzeptanz.de">
+	<target host="sichere-kartenakzeptanz.de" />
+	<target host="www.sichere-kartenakzeptanz.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

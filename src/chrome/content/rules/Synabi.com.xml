@@ -1,0 +1,6 @@
+<ruleset name="Synabi.com">
+	<target host="synabi.com" />
+	<target host="www.synabi.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Lapetussolutions.com">
+	<target host="lapetussolutions.com" />
+	<target host="www.lapetussolutions.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

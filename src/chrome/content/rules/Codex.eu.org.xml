@@ -1,0 +1,6 @@
+<ruleset name="Codex.eu.org">
+	<target host="codex.eu.org" />
+	<target host="www.codex.eu.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

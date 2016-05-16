@@ -1,0 +1,6 @@
+<ruleset name="Strictlysudo.com">
+	<target host="strictlysudo.com" />
+	<target host="www.strictlysudo.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

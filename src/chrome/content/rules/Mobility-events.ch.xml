@@ -1,0 +1,6 @@
+<ruleset name="Mobility-events.ch">
+	<target host="mobility-events.ch" />
+	<target host="www.mobility-events.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

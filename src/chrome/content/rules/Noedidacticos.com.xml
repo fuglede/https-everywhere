@@ -1,0 +1,6 @@
+<ruleset name="Noedidacticos.com">
+	<target host="noedidacticos.com" />
+	<target host="www.noedidacticos.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

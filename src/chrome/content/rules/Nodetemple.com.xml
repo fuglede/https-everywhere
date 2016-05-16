@@ -1,0 +1,6 @@
+<ruleset name="Nodetemple.com">
+	<target host="nodetemple.com" />
+	<target host="www.nodetemple.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

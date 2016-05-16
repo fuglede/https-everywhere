@@ -1,0 +1,6 @@
+<ruleset name="Ukchemicalresearch.org">
+	<target host="ukchemicalresearch.org" />
+	<target host="www.ukchemicalresearch.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

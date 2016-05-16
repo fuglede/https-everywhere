@@ -1,0 +1,6 @@
+<ruleset name="Arcticgov-1288.appspot.com">
+	<target host="arcticgov-1288.appspot.com" />
+	<target host="www.arcticgov-1288.appspot.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

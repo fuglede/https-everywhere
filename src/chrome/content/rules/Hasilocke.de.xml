@@ -1,0 +1,6 @@
+<ruleset name="Hasilocke.de">
+	<target host="hasilocke.de" />
+	<target host="www.hasilocke.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

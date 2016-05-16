@@ -1,0 +1,6 @@
+<ruleset name="Mark-a-hydrant.com">
+	<target host="mark-a-hydrant.com" />
+	<target host="www.mark-a-hydrant.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

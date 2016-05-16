@@ -1,0 +1,6 @@
+<ruleset name="Perfumes.net.br">
+	<target host="perfumes.net.br" />
+	<target host="www.perfumes.net.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

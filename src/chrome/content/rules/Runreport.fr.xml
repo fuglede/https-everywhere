@@ -1,0 +1,6 @@
+<ruleset name="Runreport.fr">
+	<target host="runreport.fr" />
+	<target host="www.runreport.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

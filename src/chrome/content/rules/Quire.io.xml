@@ -1,0 +1,6 @@
+<ruleset name="Quire.io">
+	<target host="quire.io" />
+	<target host="www.quire.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

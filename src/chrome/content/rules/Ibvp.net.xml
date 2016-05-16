@@ -1,0 +1,6 @@
+<ruleset name="Ibvp.net">
+	<target host="ibvp.net" />
+	<target host="www.ibvp.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

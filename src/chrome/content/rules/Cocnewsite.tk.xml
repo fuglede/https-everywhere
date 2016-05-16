@@ -1,0 +1,6 @@
+<ruleset name="Cocnewsite.tk">
+	<target host="cocnewsite.tk" />
+	<target host="www.cocnewsite.tk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

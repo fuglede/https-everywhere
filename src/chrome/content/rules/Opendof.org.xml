@@ -1,0 +1,6 @@
+<ruleset name="Opendof.org">
+	<target host="opendof.org" />
+	<target host="www.opendof.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

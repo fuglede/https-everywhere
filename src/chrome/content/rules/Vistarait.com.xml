@@ -1,0 +1,6 @@
+<ruleset name="Vistarait.com">
+	<target host="vistarait.com" />
+	<target host="www.vistarait.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Kintore.tv">
+	<target host="kintore.tv" />
+	<target host="www.kintore.tv" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

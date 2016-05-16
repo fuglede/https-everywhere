@@ -1,0 +1,6 @@
+<ruleset name="Armory.supplies">
+	<target host="armory.supplies" />
+	<target host="www.armory.supplies" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

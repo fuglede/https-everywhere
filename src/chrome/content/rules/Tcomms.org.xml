@@ -1,0 +1,6 @@
+<ruleset name="Tcomms.org">
+	<target host="tcomms.org" />
+	<target host="www.tcomms.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

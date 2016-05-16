@@ -1,0 +1,6 @@
+<ruleset name="Anderslind.dk">
+	<target host="anderslind.dk" />
+	<target host="www.anderslind.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Salmododia.net">
+	<target host="salmododia.net" />
+	<target host="www.salmododia.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

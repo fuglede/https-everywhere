@@ -1,0 +1,6 @@
+<ruleset name="Kryptomech.com">
+	<target host="kryptomech.com" />
+	<target host="www.kryptomech.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Photo.org.il">
+	<target host="photo.org.il" />
+	<target host="www.photo.org.il" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

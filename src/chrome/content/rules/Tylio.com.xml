@@ -1,0 +1,6 @@
+<ruleset name="Tylio.com">
+	<target host="tylio.com" />
+	<target host="www.tylio.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

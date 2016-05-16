@@ -1,0 +1,6 @@
+<ruleset name="Fatgeekflix.net">
+	<target host="fatgeekflix.net" />
+	<target host="www.fatgeekflix.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

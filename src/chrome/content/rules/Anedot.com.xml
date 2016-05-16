@@ -1,0 +1,6 @@
+<ruleset name="Anedot.com">
+	<target host="anedot.com" />
+	<target host="www.anedot.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

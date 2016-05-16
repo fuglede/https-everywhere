@@ -1,0 +1,6 @@
+<ruleset name="1on1on1.tv">
+	<target host="1on1on1.tv" />
+	<target host="www.1on1on1.tv" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

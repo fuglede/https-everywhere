@@ -1,0 +1,6 @@
+<ruleset name="Jumba.com.au">
+	<target host="jumba.com.au" />
+	<target host="www.jumba.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

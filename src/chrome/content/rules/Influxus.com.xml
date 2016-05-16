@@ -1,0 +1,6 @@
+<ruleset name="Influxus.com">
+	<target host="influxus.com" />
+	<target host="www.influxus.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

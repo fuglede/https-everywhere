@@ -1,0 +1,6 @@
+<ruleset name="Rotterdamjazz.info">
+	<target host="rotterdamjazz.info" />
+	<target host="www.rotterdamjazz.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

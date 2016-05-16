@@ -1,0 +1,6 @@
+<ruleset name="Pucssa.org">
+	<target host="pucssa.org" />
+	<target host="www.pucssa.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

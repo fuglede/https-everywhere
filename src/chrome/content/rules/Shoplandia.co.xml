@@ -1,0 +1,6 @@
+<ruleset name="Shoplandia.co">
+	<target host="shoplandia.co" />
+	<target host="www.shoplandia.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

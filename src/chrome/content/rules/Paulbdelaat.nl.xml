@@ -1,0 +1,6 @@
+<ruleset name="Paulbdelaat.nl">
+	<target host="paulbdelaat.nl" />
+	<target host="www.paulbdelaat.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

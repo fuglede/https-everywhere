@@ -1,0 +1,6 @@
+<ruleset name="Mydeos.com">
+	<target host="mydeos.com" />
+	<target host="www.mydeos.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

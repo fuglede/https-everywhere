@@ -1,0 +1,6 @@
+<ruleset name="Tonburi.jp">
+	<target host="tonburi.jp" />
+	<target host="www.tonburi.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

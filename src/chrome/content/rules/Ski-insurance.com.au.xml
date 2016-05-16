@@ -1,0 +1,6 @@
+<ruleset name="Ski-insurance.com.au">
+	<target host="ski-insurance.com.au" />
+	<target host="www.ski-insurance.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Lanbyte.se">
+	<target host="lanbyte.se" />
+	<target host="www.lanbyte.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

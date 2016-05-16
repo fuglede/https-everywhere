@@ -1,0 +1,6 @@
+<ruleset name="Pharynks.com">
+	<target host="pharynks.com" />
+	<target host="www.pharynks.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

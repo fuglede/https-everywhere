@@ -1,0 +1,6 @@
+<ruleset name="Wiz.biz">
+	<target host="wiz.biz" />
+	<target host="www.wiz.biz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

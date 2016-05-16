@@ -1,0 +1,6 @@
+<ruleset name="Smusg.com">
+	<target host="smusg.com" />
+	<target host="www.smusg.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Withustrading.com">
+	<target host="withustrading.com" />
+	<target host="www.withustrading.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

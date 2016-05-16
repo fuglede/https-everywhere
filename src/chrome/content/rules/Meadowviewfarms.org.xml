@@ -1,0 +1,6 @@
+<ruleset name="Meadowviewfarms.org">
+	<target host="meadowviewfarms.org" />
+	<target host="www.meadowviewfarms.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

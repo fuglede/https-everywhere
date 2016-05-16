@@ -1,0 +1,6 @@
+<ruleset name="Centromere.net">
+	<target host="centromere.net" />
+	<target host="www.centromere.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

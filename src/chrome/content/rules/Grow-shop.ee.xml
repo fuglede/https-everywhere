@@ -1,0 +1,6 @@
+<ruleset name="Grow-shop.ee">
+	<target host="grow-shop.ee" />
+	<target host="www.grow-shop.ee" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

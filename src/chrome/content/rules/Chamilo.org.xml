@@ -1,0 +1,6 @@
+<ruleset name="Chamilo.org">
+	<target host="chamilo.org" />
+	<target host="www.chamilo.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

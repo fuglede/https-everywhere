@@ -1,0 +1,6 @@
+<ruleset name="Pickr.co">
+	<target host="pickr.co" />
+	<target host="www.pickr.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

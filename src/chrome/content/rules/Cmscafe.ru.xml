@@ -1,0 +1,6 @@
+<ruleset name="Cmscafe.ru">
+	<target host="cmscafe.ru" />
+	<target host="www.cmscafe.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

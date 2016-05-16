@@ -1,0 +1,6 @@
+<ruleset name="Dbldub.net">
+	<target host="dbldub.net" />
+	<target host="www.dbldub.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

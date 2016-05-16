@@ -1,0 +1,6 @@
+<ruleset name="Acheconcursos.com.br">
+	<target host="acheconcursos.com.br" />
+	<target host="www.acheconcursos.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

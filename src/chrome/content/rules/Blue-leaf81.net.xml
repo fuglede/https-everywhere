@@ -1,0 +1,6 @@
+<ruleset name="Blue-leaf81.net">
+	<target host="blue-leaf81.net" />
+	<target host="www.blue-leaf81.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

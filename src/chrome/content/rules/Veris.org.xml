@@ -1,0 +1,6 @@
+<ruleset name="Veris.org">
+	<target host="veris.org" />
+	<target host="www.veris.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

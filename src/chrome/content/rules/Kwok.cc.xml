@@ -1,0 +1,6 @@
+<ruleset name="Kwok.cc">
+	<target host="kwok.cc" />
+	<target host="www.kwok.cc" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

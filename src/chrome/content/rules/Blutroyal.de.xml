@@ -1,0 +1,6 @@
+<ruleset name="Blutroyal.de">
+	<target host="blutroyal.de" />
+	<target host="www.blutroyal.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

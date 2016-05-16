@@ -1,0 +1,6 @@
+<ruleset name="Easysimplecrm.com">
+	<target host="easysimplecrm.com" />
+	<target host="www.easysimplecrm.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

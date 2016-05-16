@@ -1,0 +1,6 @@
+<ruleset name="Zdbl.de">
+	<target host="zdbl.de" />
+	<target host="www.zdbl.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

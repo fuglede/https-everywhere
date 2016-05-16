@@ -1,0 +1,6 @@
+<ruleset name="Whizzardry.net">
+	<target host="whizzardry.net" />
+	<target host="www.whizzardry.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

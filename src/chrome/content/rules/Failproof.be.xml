@@ -1,0 +1,6 @@
+<ruleset name="Failproof.be">
+	<target host="failproof.be" />
+	<target host="www.failproof.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

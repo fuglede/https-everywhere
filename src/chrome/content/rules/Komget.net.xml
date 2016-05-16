@@ -1,0 +1,6 @@
+<ruleset name="Komget.net">
+	<target host="komget.net" />
+	<target host="www.komget.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Craftinginredlipstick.com">
+	<target host="craftinginredlipstick.com" />
+	<target host="www.craftinginredlipstick.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

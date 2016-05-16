@@ -1,0 +1,6 @@
+<ruleset name="Marcel-preuss.de">
+	<target host="marcel-preuss.de" />
+	<target host="www.marcel-preuss.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

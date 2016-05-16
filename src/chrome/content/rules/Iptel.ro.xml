@@ -1,0 +1,6 @@
+<ruleset name="Iptel.ro">
+	<target host="iptel.ro" />
+	<target host="www.iptel.ro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

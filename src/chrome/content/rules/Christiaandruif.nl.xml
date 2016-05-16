@@ -1,0 +1,6 @@
+<ruleset name="Christiaandruif.nl">
+	<target host="christiaandruif.nl" />
+	<target host="www.christiaandruif.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

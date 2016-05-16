@@ -1,0 +1,6 @@
+<ruleset name="Cb-mybenefits.co.uk">
+	<target host="cb-mybenefits.co.uk" />
+	<target host="www.cb-mybenefits.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

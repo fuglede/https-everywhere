@@ -1,0 +1,6 @@
+<ruleset name="Festrip.com">
+	<target host="festrip.com" />
+	<target host="www.festrip.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

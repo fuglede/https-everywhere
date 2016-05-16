@@ -1,0 +1,6 @@
+<ruleset name="Cupidmentor.com">
+	<target host="cupidmentor.com" />
+	<target host="www.cupidmentor.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

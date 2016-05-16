@@ -1,0 +1,6 @@
+<ruleset name="Fx-calendar.com">
+	<target host="fx-calendar.com" />
+	<target host="www.fx-calendar.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

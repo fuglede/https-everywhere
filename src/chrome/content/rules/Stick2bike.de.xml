@@ -1,0 +1,6 @@
+<ruleset name="Stick2bike.de">
+	<target host="stick2bike.de" />
+	<target host="www.stick2bike.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

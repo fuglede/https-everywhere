@@ -1,0 +1,6 @@
+<ruleset name="Kamisama.xyz">
+	<target host="kamisama.xyz" />
+	<target host="www.kamisama.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

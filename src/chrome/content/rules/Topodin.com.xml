@@ -1,0 +1,6 @@
+<ruleset name="Topodin.com">
+	<target host="topodin.com" />
+	<target host="www.topodin.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

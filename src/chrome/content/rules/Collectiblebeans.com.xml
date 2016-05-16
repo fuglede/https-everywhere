@@ -1,0 +1,6 @@
+<ruleset name="Collectiblebeans.com">
+	<target host="collectiblebeans.com" />
+	<target host="www.collectiblebeans.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

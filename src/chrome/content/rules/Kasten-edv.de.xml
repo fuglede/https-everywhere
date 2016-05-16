@@ -1,0 +1,6 @@
+<ruleset name="Kasten-edv.de">
+	<target host="kasten-edv.de" />
+	<target host="www.kasten-edv.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

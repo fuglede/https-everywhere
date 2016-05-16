@@ -1,0 +1,6 @@
+<ruleset name="Hugocollignon.fr">
+	<target host="hugocollignon.fr" />
+	<target host="www.hugocollignon.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

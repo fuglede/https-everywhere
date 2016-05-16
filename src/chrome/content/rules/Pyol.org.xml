@@ -1,0 +1,6 @@
+<ruleset name="Pyol.org">
+	<target host="pyol.org" />
+	<target host="www.pyol.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Stroitelenmarket.bg">
+	<target host="stroitelenmarket.bg" />
+	<target host="www.stroitelenmarket.bg" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

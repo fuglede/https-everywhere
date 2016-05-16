@@ -1,0 +1,6 @@
+<ruleset name="Passions-restaurant-aruba.com">
+	<target host="passions-restaurant-aruba.com" />
+	<target host="www.passions-restaurant-aruba.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

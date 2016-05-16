@@ -1,0 +1,6 @@
+<ruleset name="Eytosh.net">
+	<target host="eytosh.net" />
+	<target host="www.eytosh.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

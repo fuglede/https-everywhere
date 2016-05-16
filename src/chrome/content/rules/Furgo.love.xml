@@ -1,0 +1,6 @@
+<ruleset name="Furgo.love">
+	<target host="furgo.love" />
+	<target host="www.furgo.love" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

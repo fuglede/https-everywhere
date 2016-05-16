@@ -1,0 +1,6 @@
+<ruleset name="Mmgazhomeloans.com">
+	<target host="mmgazhomeloans.com" />
+	<target host="www.mmgazhomeloans.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

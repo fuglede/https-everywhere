@@ -1,0 +1,6 @@
+<ruleset name="Yagihiro.tech">
+	<target host="yagihiro.tech" />
+	<target host="www.yagihiro.tech" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

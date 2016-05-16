@@ -1,0 +1,6 @@
+<ruleset name="Jahliveradio.com">
+	<target host="jahliveradio.com" />
+	<target host="www.jahliveradio.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

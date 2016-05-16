@@ -1,0 +1,6 @@
+<ruleset name="Compalytics.com">
+	<target host="compalytics.com" />
+	<target host="www.compalytics.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

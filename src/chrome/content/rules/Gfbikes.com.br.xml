@@ -1,0 +1,6 @@
+<ruleset name="Gfbikes.com.br">
+	<target host="gfbikes.com.br" />
+	<target host="www.gfbikes.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

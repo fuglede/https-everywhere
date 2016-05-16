@@ -1,0 +1,6 @@
+<ruleset name="Hiphopconvention.nl">
+	<target host="hiphopconvention.nl" />
+	<target host="www.hiphopconvention.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

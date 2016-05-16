@@ -1,0 +1,6 @@
+<ruleset name="Phra.gs">
+	<target host="phra.gs" />
+	<target host="www.phra.gs" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

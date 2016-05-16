@@ -1,0 +1,6 @@
+<ruleset name="Gtlfsonlinepay.com">
+	<target host="gtlfsonlinepay.com" />
+	<target host="www.gtlfsonlinepay.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

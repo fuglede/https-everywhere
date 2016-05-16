@@ -1,0 +1,6 @@
+<ruleset name="Cordlessdog.com">
+	<target host="cordlessdog.com" />
+	<target host="www.cordlessdog.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

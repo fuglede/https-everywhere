@@ -1,0 +1,6 @@
+<ruleset name="Asdpress.cn">
+	<target host="asdpress.cn" />
+	<target host="www.asdpress.cn" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

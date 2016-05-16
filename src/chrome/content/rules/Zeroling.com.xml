@@ -1,0 +1,6 @@
+<ruleset name="Zeroling.com">
+	<target host="zeroling.com" />
+	<target host="www.zeroling.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

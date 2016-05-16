@@ -1,0 +1,6 @@
+<ruleset name="Laminine.info">
+	<target host="laminine.info" />
+	<target host="www.laminine.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

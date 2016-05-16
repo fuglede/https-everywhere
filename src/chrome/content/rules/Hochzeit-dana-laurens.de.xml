@@ -1,0 +1,6 @@
+<ruleset name="Hochzeit-dana-laurens.de">
+	<target host="hochzeit-dana-laurens.de" />
+	<target host="www.hochzeit-dana-laurens.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

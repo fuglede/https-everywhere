@@ -1,0 +1,6 @@
+<ruleset name="Ecchidreams.com">
+	<target host="ecchidreams.com" />
+	<target host="www.ecchidreams.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

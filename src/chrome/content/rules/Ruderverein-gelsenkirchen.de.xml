@@ -1,0 +1,6 @@
+<ruleset name="Ruderverein-gelsenkirchen.de">
+	<target host="ruderverein-gelsenkirchen.de" />
+	<target host="www.ruderverein-gelsenkirchen.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

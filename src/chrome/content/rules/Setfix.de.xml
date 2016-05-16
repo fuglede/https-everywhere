@@ -1,0 +1,6 @@
+<ruleset name="Setfix.de">
+	<target host="setfix.de" />
+	<target host="www.setfix.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

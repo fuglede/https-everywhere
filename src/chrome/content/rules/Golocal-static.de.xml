@@ -1,0 +1,6 @@
+<ruleset name="Golocal-static.de">
+	<target host="golocal-static.de" />
+	<target host="www.golocal-static.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

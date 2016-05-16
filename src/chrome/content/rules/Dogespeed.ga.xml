@@ -1,0 +1,6 @@
+<ruleset name="Dogespeed.ga">
+	<target host="dogespeed.ga" />
+	<target host="www.dogespeed.ga" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

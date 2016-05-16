@@ -1,0 +1,6 @@
+<ruleset name="Whitelabelcashback.nl">
+	<target host="whitelabelcashback.nl" />
+	<target host="www.whitelabelcashback.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

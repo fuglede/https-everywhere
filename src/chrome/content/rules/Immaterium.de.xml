@@ -1,0 +1,6 @@
+<ruleset name="Immaterium.de">
+	<target host="immaterium.de" />
+	<target host="www.immaterium.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

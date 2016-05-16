@@ -1,0 +1,6 @@
+<ruleset name="Zeedroom.be">
+	<target host="zeedroom.be" />
+	<target host="www.zeedroom.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

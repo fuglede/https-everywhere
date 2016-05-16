@@ -1,0 +1,6 @@
+<ruleset name="Weisse-liste.de">
+	<target host="weisse-liste.de" />
+	<target host="www.weisse-liste.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

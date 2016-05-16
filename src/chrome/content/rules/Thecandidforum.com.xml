@@ -1,0 +1,6 @@
+<ruleset name="Thecandidforum.com">
+	<target host="thecandidforum.com" />
+	<target host="www.thecandidforum.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

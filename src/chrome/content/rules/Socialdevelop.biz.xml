@@ -1,0 +1,6 @@
+<ruleset name="Socialdevelop.biz">
+	<target host="socialdevelop.biz" />
+	<target host="www.socialdevelop.biz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

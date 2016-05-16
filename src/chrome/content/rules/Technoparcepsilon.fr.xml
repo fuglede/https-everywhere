@@ -1,0 +1,6 @@
+<ruleset name="Technoparcepsilon.fr">
+	<target host="technoparcepsilon.fr" />
+	<target host="www.technoparcepsilon.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

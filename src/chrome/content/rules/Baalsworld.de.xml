@@ -1,0 +1,6 @@
+<ruleset name="Baalsworld.de">
+	<target host="baalsworld.de" />
+	<target host="www.baalsworld.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

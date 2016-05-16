@@ -1,0 +1,6 @@
+<ruleset name="Cloudstrike.co">
+	<target host="cloudstrike.co" />
+	<target host="www.cloudstrike.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

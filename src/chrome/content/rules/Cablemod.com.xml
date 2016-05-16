@@ -1,0 +1,6 @@
+<ruleset name="Cablemod.com">
+	<target host="cablemod.com" />
+	<target host="www.cablemod.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Mixposure.com">
+	<target host="mixposure.com" />
+	<target host="www.mixposure.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

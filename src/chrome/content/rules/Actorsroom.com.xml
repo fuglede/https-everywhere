@@ -1,0 +1,6 @@
+<ruleset name="Actorsroom.com">
+	<target host="actorsroom.com" />
+	<target host="www.actorsroom.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

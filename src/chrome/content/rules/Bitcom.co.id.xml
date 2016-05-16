@@ -1,0 +1,6 @@
+<ruleset name="Bitcom.co.id">
+	<target host="bitcom.co.id" />
+	<target host="www.bitcom.co.id" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

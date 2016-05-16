@@ -1,0 +1,6 @@
+<ruleset name="Vinyculture.com">
+	<target host="vinyculture.com" />
+	<target host="www.vinyculture.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

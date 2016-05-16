@@ -1,0 +1,6 @@
+<ruleset name="Uptimenotguaranteed.com">
+	<target host="uptimenotguaranteed.com" />
+	<target host="www.uptimenotguaranteed.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

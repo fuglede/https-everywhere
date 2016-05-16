@@ -1,0 +1,6 @@
+<ruleset name="Smksi2.com">
+	<target host="smksi2.com" />
+	<target host="www.smksi2.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

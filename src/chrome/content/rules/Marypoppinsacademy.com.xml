@@ -1,0 +1,6 @@
+<ruleset name="Marypoppinsacademy.com">
+	<target host="marypoppinsacademy.com" />
+	<target host="www.marypoppinsacademy.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

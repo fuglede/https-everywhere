@@ -1,0 +1,6 @@
+<ruleset name="Azprep.us">
+	<target host="azprep.us" />
+	<target host="www.azprep.us" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

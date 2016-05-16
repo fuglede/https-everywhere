@@ -1,0 +1,6 @@
+<ruleset name="Jcaicedo.tk">
+	<target host="jcaicedo.tk" />
+	<target host="www.jcaicedo.tk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

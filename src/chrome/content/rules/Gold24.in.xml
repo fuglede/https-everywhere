@@ -1,0 +1,6 @@
+<ruleset name="Gold24.in">
+	<target host="gold24.in" />
+	<target host="www.gold24.in" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

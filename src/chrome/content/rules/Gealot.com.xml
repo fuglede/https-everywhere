@@ -1,0 +1,6 @@
+<ruleset name="Gealot.com">
+	<target host="gealot.com" />
+	<target host="www.gealot.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

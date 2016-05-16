@@ -1,0 +1,6 @@
+<ruleset name="Summitdis.nl">
+	<target host="summitdis.nl" />
+	<target host="www.summitdis.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

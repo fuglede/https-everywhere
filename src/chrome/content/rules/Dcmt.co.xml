@@ -1,0 +1,6 @@
+<ruleset name="Dcmt.co">
+	<target host="dcmt.co" />
+	<target host="www.dcmt.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

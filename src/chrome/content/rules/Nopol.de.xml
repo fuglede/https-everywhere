@@ -1,0 +1,6 @@
+<ruleset name="Nopol.de">
+	<target host="nopol.de" />
+	<target host="www.nopol.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

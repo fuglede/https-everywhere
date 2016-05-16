@@ -1,0 +1,6 @@
+<ruleset name="Psykobabble.org">
+	<target host="psykobabble.org" />
+	<target host="www.psykobabble.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

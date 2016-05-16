@@ -1,0 +1,6 @@
+<ruleset name="Team-one.racing">
+	<target host="team-one.racing" />
+	<target host="www.team-one.racing" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

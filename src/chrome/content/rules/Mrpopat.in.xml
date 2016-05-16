@@ -1,0 +1,6 @@
+<ruleset name="Mrpopat.in">
+	<target host="mrpopat.in" />
+	<target host="www.mrpopat.in" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

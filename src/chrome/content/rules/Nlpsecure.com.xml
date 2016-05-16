@@ -1,0 +1,6 @@
+<ruleset name="Nlpsecure.com">
+	<target host="nlpsecure.com" />
+	<target host="www.nlpsecure.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

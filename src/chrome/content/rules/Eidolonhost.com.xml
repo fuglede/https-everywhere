@@ -1,0 +1,6 @@
+<ruleset name="Eidolonhost.com">
+	<target host="eidolonhost.com" />
+	<target host="www.eidolonhost.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

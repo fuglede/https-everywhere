@@ -1,0 +1,6 @@
+<ruleset name="Wpfpd.org">
+	<target host="wpfpd.org" />
+	<target host="www.wpfpd.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

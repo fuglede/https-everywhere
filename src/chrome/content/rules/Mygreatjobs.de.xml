@@ -1,0 +1,6 @@
+<ruleset name="Mygreatjobs.de">
+	<target host="mygreatjobs.de" />
+	<target host="www.mygreatjobs.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

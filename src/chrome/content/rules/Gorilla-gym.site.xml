@@ -1,0 +1,6 @@
+<ruleset name="Gorilla-gym.site">
+	<target host="gorilla-gym.site" />
+	<target host="www.gorilla-gym.site" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Puryearlaw.com">
+	<target host="puryearlaw.com" />
+	<target host="www.puryearlaw.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

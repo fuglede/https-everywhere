@@ -1,0 +1,6 @@
+<ruleset name="Simplybuy.it">
+	<target host="simplybuy.it" />
+	<target host="www.simplybuy.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

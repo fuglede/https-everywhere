@@ -1,0 +1,6 @@
+<ruleset name="Meine-email-im.net">
+	<target host="meine-email-im.net" />
+	<target host="www.meine-email-im.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

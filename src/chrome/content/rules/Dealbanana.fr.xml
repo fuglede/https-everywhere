@@ -1,0 +1,6 @@
+<ruleset name="Dealbanana.fr">
+	<target host="dealbanana.fr" />
+	<target host="www.dealbanana.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

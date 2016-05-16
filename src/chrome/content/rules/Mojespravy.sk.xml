@@ -1,0 +1,6 @@
+<ruleset name="Mojespravy.sk">
+	<target host="mojespravy.sk" />
+	<target host="www.mojespravy.sk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

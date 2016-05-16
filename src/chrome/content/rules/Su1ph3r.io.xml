@@ -1,0 +1,6 @@
+<ruleset name="Su1ph3r.io">
+	<target host="su1ph3r.io" />
+	<target host="www.su1ph3r.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

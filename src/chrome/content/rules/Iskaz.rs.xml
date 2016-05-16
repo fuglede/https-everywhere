@@ -1,0 +1,6 @@
+<ruleset name="Iskaz.rs">
+	<target host="iskaz.rs" />
+	<target host="www.iskaz.rs" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

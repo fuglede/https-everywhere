@@ -1,0 +1,6 @@
+<ruleset name="Aa-tour.ru">
+	<target host="aa-tour.ru" />
+	<target host="www.aa-tour.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

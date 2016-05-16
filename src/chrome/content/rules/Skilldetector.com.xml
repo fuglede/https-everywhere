@@ -1,0 +1,6 @@
+<ruleset name="Skilldetector.com">
+	<target host="skilldetector.com" />
+	<target host="www.skilldetector.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Bcchack.com">
+	<target host="bcchack.com" />
+	<target host="www.bcchack.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

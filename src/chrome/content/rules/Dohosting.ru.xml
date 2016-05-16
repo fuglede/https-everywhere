@@ -1,0 +1,6 @@
+<ruleset name="Dohosting.ru">
+	<target host="dohosting.ru" />
+	<target host="www.dohosting.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

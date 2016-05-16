@@ -1,0 +1,6 @@
+<ruleset name="7kovrikov.ru">
+	<target host="7kovrikov.ru" />
+	<target host="www.7kovrikov.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Klaxn.org">
+	<target host="klaxn.org" />
+	<target host="www.klaxn.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

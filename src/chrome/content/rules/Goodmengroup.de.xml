@@ -1,0 +1,6 @@
+<ruleset name="Goodmengroup.de">
+	<target host="goodmengroup.de" />
+	<target host="www.goodmengroup.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

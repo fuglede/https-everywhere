@@ -1,0 +1,6 @@
+<ruleset name="Haveforeningen-enghaven.dk">
+	<target host="haveforeningen-enghaven.dk" />
+	<target host="www.haveforeningen-enghaven.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

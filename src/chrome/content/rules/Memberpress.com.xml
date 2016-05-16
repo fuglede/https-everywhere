@@ -1,0 +1,6 @@
+<ruleset name="Memberpress.com">
+	<target host="memberpress.com" />
+	<target host="www.memberpress.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

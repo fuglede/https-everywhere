@@ -1,0 +1,6 @@
+<ruleset name="Bittertooth.org">
+	<target host="bittertooth.org" />
+	<target host="www.bittertooth.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

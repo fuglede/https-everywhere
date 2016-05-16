@@ -1,0 +1,6 @@
+<ruleset name="Postblue.info">
+	<target host="postblue.info" />
+	<target host="www.postblue.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

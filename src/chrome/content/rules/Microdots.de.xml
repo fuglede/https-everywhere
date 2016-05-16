@@ -1,0 +1,6 @@
+<ruleset name="Microdots.de">
+	<target host="microdots.de" />
+	<target host="www.microdots.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

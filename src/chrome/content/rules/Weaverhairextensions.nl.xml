@@ -1,0 +1,6 @@
+<ruleset name="Weaverhairextensions.nl">
+	<target host="weaverhairextensions.nl" />
+	<target host="www.weaverhairextensions.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Pavlica.us">
+	<target host="pavlica.us" />
+	<target host="www.pavlica.us" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

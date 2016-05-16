@@ -1,0 +1,6 @@
+<ruleset name="T3rror.net">
+	<target host="t3rror.net" />
+	<target host="www.t3rror.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

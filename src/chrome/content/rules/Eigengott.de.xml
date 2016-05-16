@@ -1,0 +1,6 @@
+<ruleset name="Eigengott.de">
+	<target host="eigengott.de" />
+	<target host="www.eigengott.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

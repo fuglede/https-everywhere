@@ -1,0 +1,6 @@
+<ruleset name="Tool-taro.com">
+	<target host="tool-taro.com" />
+	<target host="www.tool-taro.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Trell.co.in">
+	<target host="trell.co.in" />
+	<target host="www.trell.co.in" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

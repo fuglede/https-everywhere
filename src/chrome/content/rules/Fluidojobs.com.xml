@@ -1,0 +1,6 @@
+<ruleset name="Fluidojobs.com">
+	<target host="fluidojobs.com" />
+	<target host="www.fluidojobs.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

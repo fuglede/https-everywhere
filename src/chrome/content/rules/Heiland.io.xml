@@ -1,0 +1,6 @@
+<ruleset name="Heiland.io">
+	<target host="heiland.io" />
+	<target host="www.heiland.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

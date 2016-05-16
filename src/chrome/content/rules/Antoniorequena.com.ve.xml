@@ -1,0 +1,6 @@
+<ruleset name="Antoniorequena.com.ve">
+	<target host="antoniorequena.com.ve" />
+	<target host="www.antoniorequena.com.ve" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

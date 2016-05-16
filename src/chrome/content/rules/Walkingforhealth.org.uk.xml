@@ -1,0 +1,6 @@
+<ruleset name="Walkingforhealth.org.uk">
+	<target host="walkingforhealth.org.uk" />
+	<target host="www.walkingforhealth.org.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

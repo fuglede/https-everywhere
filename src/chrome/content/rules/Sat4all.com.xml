@@ -1,0 +1,6 @@
+<ruleset name="Sat4all.com">
+	<target host="sat4all.com" />
+	<target host="www.sat4all.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

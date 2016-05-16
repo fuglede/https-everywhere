@@ -1,0 +1,6 @@
+<ruleset name="Sockeye.io">
+	<target host="sockeye.io" />
+	<target host="www.sockeye.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

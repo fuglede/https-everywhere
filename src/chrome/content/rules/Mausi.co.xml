@@ -1,0 +1,6 @@
+<ruleset name="Mausi.co">
+	<target host="mausi.co" />
+	<target host="www.mausi.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

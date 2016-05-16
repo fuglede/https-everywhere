@@ -1,0 +1,6 @@
+<ruleset name="10hz.de">
+	<target host="10hz.de" />
+	<target host="www.10hz.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

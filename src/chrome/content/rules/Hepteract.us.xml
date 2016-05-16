@@ -1,0 +1,6 @@
+<ruleset name="Hepteract.us">
+	<target host="hepteract.us" />
+	<target host="www.hepteract.us" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

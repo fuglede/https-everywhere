@@ -1,0 +1,6 @@
+<ruleset name="Theworldsend.eu">
+	<target host="theworldsend.eu" />
+	<target host="www.theworldsend.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

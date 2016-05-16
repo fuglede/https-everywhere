@@ -1,0 +1,6 @@
+<ruleset name="Interserved.com">
+	<target host="interserved.com" />
+	<target host="www.interserved.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

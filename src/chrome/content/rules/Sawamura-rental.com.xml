@@ -1,0 +1,6 @@
+<ruleset name="Sawamura-rental.com">
+	<target host="sawamura-rental.com" />
+	<target host="www.sawamura-rental.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

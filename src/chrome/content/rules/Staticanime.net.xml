@@ -1,0 +1,6 @@
+<ruleset name="Staticanime.net">
+	<target host="staticanime.net" />
+	<target host="www.staticanime.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

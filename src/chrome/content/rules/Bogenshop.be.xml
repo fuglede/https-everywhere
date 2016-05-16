@@ -1,0 +1,6 @@
+<ruleset name="Bogenshop.be">
+	<target host="bogenshop.be" />
+	<target host="www.bogenshop.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

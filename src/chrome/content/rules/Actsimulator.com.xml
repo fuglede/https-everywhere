@@ -1,0 +1,6 @@
+<ruleset name="Actsimulator.com">
+	<target host="actsimulator.com" />
+	<target host="www.actsimulator.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

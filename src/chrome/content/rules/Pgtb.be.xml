@@ -1,0 +1,6 @@
+<ruleset name="Pgtb.be">
+	<target host="pgtb.be" />
+	<target host="www.pgtb.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

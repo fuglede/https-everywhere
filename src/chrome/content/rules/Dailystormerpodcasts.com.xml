@@ -1,0 +1,6 @@
+<ruleset name="Dailystormerpodcasts.com">
+	<target host="dailystormerpodcasts.com" />
+	<target host="www.dailystormerpodcasts.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

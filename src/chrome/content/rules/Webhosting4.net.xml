@@ -1,0 +1,6 @@
+<ruleset name="Webhosting4.net">
+	<target host="webhosting4.net" />
+	<target host="www.webhosting4.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

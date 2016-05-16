@@ -1,0 +1,6 @@
+<ruleset name="Horosho.in">
+	<target host="horosho.in" />
+	<target host="www.horosho.in" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

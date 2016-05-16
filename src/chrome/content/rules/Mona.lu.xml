@@ -1,0 +1,6 @@
+<ruleset name="Mona.lu">
+	<target host="mona.lu" />
+	<target host="www.mona.lu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

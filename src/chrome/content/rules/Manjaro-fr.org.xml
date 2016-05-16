@@ -1,0 +1,6 @@
+<ruleset name="Manjaro-fr.org">
+	<target host="manjaro-fr.org" />
+	<target host="www.manjaro-fr.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

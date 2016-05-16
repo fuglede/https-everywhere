@@ -1,0 +1,6 @@
+<ruleset name="Bielsa.me">
+	<target host="bielsa.me" />
+	<target host="www.bielsa.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

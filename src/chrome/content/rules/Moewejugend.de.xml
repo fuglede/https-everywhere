@@ -1,0 +1,6 @@
+<ruleset name="Moewejugend.de">
+	<target host="moewejugend.de" />
+	<target host="www.moewejugend.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

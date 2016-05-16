@@ -1,0 +1,6 @@
+<ruleset name="Tretkowski.de">
+	<target host="tretkowski.de" />
+	<target host="www.tretkowski.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

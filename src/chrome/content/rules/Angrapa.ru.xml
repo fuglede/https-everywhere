@@ -1,0 +1,6 @@
+<ruleset name="Angrapa.ru">
+	<target host="angrapa.ru" />
+	<target host="www.angrapa.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

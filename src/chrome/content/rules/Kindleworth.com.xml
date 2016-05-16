@@ -1,0 +1,6 @@
+<ruleset name="Kindleworth.com">
+	<target host="kindleworth.com" />
+	<target host="www.kindleworth.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

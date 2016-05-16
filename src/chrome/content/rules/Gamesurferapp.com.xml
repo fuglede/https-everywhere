@@ -1,0 +1,6 @@
+<ruleset name="Gamesurferapp.com">
+	<target host="gamesurferapp.com" />
+	<target host="www.gamesurferapp.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

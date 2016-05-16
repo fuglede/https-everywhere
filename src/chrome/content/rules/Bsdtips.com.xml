@@ -1,0 +1,6 @@
+<ruleset name="Bsdtips.com">
+	<target host="bsdtips.com" />
+	<target host="www.bsdtips.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

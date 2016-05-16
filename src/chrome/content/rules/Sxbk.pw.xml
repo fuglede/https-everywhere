@@ -1,0 +1,6 @@
+<ruleset name="Sxbk.pw">
+	<target host="sxbk.pw" />
+	<target host="www.sxbk.pw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

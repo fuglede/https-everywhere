@@ -1,0 +1,6 @@
+<ruleset name="Open-bs.com">
+	<target host="open-bs.com" />
+	<target host="www.open-bs.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

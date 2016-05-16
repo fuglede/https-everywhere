@@ -1,0 +1,6 @@
+<ruleset name="Hentschke-invest.de">
+	<target host="hentschke-invest.de" />
+	<target host="www.hentschke-invest.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

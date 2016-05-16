@@ -1,0 +1,6 @@
+<ruleset name="B64.club">
+	<target host="b64.club" />
+	<target host="www.b64.club" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

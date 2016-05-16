@@ -1,0 +1,6 @@
+<ruleset name="Cecipu.gob.cl">
+	<target host="cecipu.gob.cl" />
+	<target host="www.cecipu.gob.cl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

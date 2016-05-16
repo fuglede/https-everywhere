@@ -1,0 +1,6 @@
+<ruleset name="Survature.com">
+	<target host="survature.com" />
+	<target host="www.survature.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

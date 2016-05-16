@@ -1,0 +1,6 @@
+<ruleset name="Phperformances.fr">
+	<target host="phperformances.fr" />
+	<target host="www.phperformances.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

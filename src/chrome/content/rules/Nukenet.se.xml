@@ -1,0 +1,6 @@
+<ruleset name="Nukenet.se">
+	<target host="nukenet.se" />
+	<target host="www.nukenet.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Solved.tips">
+	<target host="solved.tips" />
+	<target host="www.solved.tips" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

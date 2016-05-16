@@ -1,0 +1,6 @@
+<ruleset name="Nestedquotes.ca">
+	<target host="nestedquotes.ca" />
+	<target host="www.nestedquotes.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Nibiisclaim.com">
+	<target host="nibiisclaim.com" />
+	<target host="www.nibiisclaim.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

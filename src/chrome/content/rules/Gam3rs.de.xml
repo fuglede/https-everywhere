@@ -1,0 +1,6 @@
+<ruleset name="Gam3rs.de">
+	<target host="gam3rs.de" />
+	<target host="www.gam3rs.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

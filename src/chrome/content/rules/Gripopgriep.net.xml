@@ -1,0 +1,6 @@
+<ruleset name="Gripopgriep.net">
+	<target host="gripopgriep.net" />
+	<target host="www.gripopgriep.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

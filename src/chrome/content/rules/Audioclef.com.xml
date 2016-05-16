@@ -1,0 +1,6 @@
+<ruleset name="Audioclef.com">
+	<target host="audioclef.com" />
+	<target host="www.audioclef.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Wsv-grafenau.de">
+	<target host="wsv-grafenau.de" />
+	<target host="www.wsv-grafenau.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

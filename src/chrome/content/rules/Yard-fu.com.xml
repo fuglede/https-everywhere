@@ -1,0 +1,6 @@
+<ruleset name="Yard-fu.com">
+	<target host="yard-fu.com" />
+	<target host="www.yard-fu.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

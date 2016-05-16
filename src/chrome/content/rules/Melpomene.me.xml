@@ -1,0 +1,6 @@
+<ruleset name="Melpomene.me">
+	<target host="melpomene.me" />
+	<target host="www.melpomene.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

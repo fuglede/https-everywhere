@@ -1,0 +1,6 @@
+<ruleset name="Schroepfglas-versand.de">
+	<target host="schroepfglas-versand.de" />
+	<target host="www.schroepfglas-versand.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

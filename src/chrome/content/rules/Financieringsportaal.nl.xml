@@ -1,0 +1,6 @@
+<ruleset name="Financieringsportaal.nl">
+	<target host="financieringsportaal.nl" />
+	<target host="www.financieringsportaal.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

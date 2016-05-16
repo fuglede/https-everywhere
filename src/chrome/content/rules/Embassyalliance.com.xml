@@ -1,0 +1,6 @@
+<ruleset name="Embassyalliance.com">
+	<target host="embassyalliance.com" />
+	<target host="www.embassyalliance.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

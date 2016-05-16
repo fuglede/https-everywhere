@@ -1,0 +1,6 @@
+<ruleset name="Snow-online.de">
+	<target host="snow-online.de" />
+	<target host="www.snow-online.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

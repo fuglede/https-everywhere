@@ -1,0 +1,6 @@
+<ruleset name="Ict-concept.nl">
+	<target host="ict-concept.nl" />
+	<target host="www.ict-concept.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

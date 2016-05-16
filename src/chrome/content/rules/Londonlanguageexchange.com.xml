@@ -1,0 +1,6 @@
+<ruleset name="Londonlanguageexchange.com">
+	<target host="londonlanguageexchange.com" />
+	<target host="www.londonlanguageexchange.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

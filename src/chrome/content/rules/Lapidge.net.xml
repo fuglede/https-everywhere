@@ -1,0 +1,6 @@
+<ruleset name="Lapidge.net">
+	<target host="lapidge.net" />
+	<target host="www.lapidge.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Kaliaa.fi">
+	<target host="kaliaa.fi" />
+	<target host="www.kaliaa.fi" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

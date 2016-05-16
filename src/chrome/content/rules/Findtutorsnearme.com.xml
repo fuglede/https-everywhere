@@ -1,0 +1,6 @@
+<ruleset name="Findtutorsnearme.com">
+	<target host="findtutorsnearme.com" />
+	<target host="www.findtutorsnearme.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

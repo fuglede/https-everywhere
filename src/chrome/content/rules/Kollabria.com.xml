@@ -1,0 +1,6 @@
+<ruleset name="Kollabria.com">
+	<target host="kollabria.com" />
+	<target host="www.kollabria.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

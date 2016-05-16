@@ -1,0 +1,6 @@
+<ruleset name="Vendascidadedocarnaval.com.br">
+	<target host="vendascidadedocarnaval.com.br" />
+	<target host="www.vendascidadedocarnaval.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

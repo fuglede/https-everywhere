@@ -1,0 +1,6 @@
+<ruleset name="Melody-lyrics.com">
+	<target host="melody-lyrics.com" />
+	<target host="www.melody-lyrics.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

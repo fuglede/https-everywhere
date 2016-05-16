@@ -1,0 +1,6 @@
+<ruleset name="Liris-beautywelt.de">
+	<target host="liris-beautywelt.de" />
+	<target host="www.liris-beautywelt.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

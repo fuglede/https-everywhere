@@ -1,0 +1,6 @@
+<ruleset name="Smow.de">
+	<target host="smow.de" />
+	<target host="www.smow.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

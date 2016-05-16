@@ -1,0 +1,6 @@
+<ruleset name="Aniplus.ml">
+	<target host="aniplus.ml" />
+	<target host="www.aniplus.ml" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Youkaryote.org">
+	<target host="youkaryote.org" />
+	<target host="www.youkaryote.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Norandom.com">
+	<target host="norandom.com" />
+	<target host="www.norandom.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

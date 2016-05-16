@@ -1,0 +1,6 @@
+<ruleset name="Redigest.it">
+	<target host="redigest.it" />
+	<target host="www.redigest.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

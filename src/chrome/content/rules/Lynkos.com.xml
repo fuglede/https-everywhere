@@ -1,0 +1,6 @@
+<ruleset name="Lynkos.com">
+	<target host="lynkos.com" />
+	<target host="www.lynkos.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

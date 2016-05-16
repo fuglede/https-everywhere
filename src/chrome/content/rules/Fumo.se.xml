@@ -1,0 +1,6 @@
+<ruleset name="Fumo.se">
+	<target host="fumo.se" />
+	<target host="www.fumo.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

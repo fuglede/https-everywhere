@@ -1,0 +1,6 @@
+<ruleset name="Rushball.net">
+	<target host="rushball.net" />
+	<target host="www.rushball.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Afvallendoeje.nu">
+	<target host="afvallendoeje.nu" />
+	<target host="www.afvallendoeje.nu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

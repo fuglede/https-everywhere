@@ -1,0 +1,6 @@
+<ruleset name="Connectical.com">
+	<target host="connectical.com" />
+	<target host="www.connectical.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

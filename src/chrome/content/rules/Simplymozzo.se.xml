@@ -1,0 +1,6 @@
+<ruleset name="Simplymozzo.se">
+	<target host="simplymozzo.se" />
+	<target host="www.simplymozzo.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

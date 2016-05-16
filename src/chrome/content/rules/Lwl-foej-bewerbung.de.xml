@@ -1,0 +1,6 @@
+<ruleset name="Lwl-foej-bewerbung.de">
+	<target host="lwl-foej-bewerbung.de" />
+	<target host="www.lwl-foej-bewerbung.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Goben.ch">
+	<target host="goben.ch" />
+	<target host="www.goben.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Wikipasy.pl">
+	<target host="wikipasy.pl" />
+	<target host="www.wikipasy.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

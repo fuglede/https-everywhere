@@ -1,0 +1,6 @@
+<ruleset name="Walkmysteps.com">
+	<target host="walkmysteps.com" />
+	<target host="www.walkmysteps.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

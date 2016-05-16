@@ -1,0 +1,6 @@
+<ruleset name="Mein-webportal.de">
+	<target host="mein-webportal.de" />
+	<target host="www.mein-webportal.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

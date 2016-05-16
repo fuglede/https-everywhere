@@ -1,0 +1,6 @@
+<ruleset name="Driving-lessons.co.uk">
+	<target host="driving-lessons.co.uk" />
+	<target host="www.driving-lessons.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Datenreiter.gq">
+	<target host="datenreiter.gq" />
+	<target host="www.datenreiter.gq" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

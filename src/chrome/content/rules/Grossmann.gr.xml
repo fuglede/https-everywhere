@@ -1,0 +1,6 @@
+<ruleset name="Grossmann.gr">
+	<target host="grossmann.gr" />
+	<target host="www.grossmann.gr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

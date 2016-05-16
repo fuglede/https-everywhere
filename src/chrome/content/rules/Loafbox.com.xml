@@ -1,0 +1,6 @@
+<ruleset name="Loafbox.com">
+	<target host="loafbox.com" />
+	<target host="www.loafbox.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

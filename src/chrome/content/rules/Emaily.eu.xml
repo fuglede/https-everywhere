@@ -1,0 +1,6 @@
+<ruleset name="Emaily.eu">
+	<target host="emaily.eu" />
+	<target host="www.emaily.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

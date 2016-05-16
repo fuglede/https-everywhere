@@ -1,0 +1,6 @@
+<ruleset name="Powerwellness-korecki.de">
+	<target host="powerwellness-korecki.de" />
+	<target host="www.powerwellness-korecki.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

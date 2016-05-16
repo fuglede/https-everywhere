@@ -1,0 +1,6 @@
+<ruleset name="Redstickfestival.org">
+	<target host="redstickfestival.org" />
+	<target host="www.redstickfestival.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

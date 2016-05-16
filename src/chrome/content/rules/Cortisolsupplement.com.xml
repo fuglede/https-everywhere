@@ -1,0 +1,6 @@
+<ruleset name="Cortisolsupplement.com">
+	<target host="cortisolsupplement.com" />
+	<target host="www.cortisolsupplement.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

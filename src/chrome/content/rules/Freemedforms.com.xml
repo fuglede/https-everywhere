@@ -1,0 +1,6 @@
+<ruleset name="Freemedforms.com">
+	<target host="freemedforms.com" />
+	<target host="www.freemedforms.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

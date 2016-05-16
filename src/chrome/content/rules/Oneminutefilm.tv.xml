@@ -1,0 +1,6 @@
+<ruleset name="Oneminutefilm.tv">
+	<target host="oneminutefilm.tv" />
+	<target host="www.oneminutefilm.tv" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

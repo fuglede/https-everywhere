@@ -1,0 +1,6 @@
+<ruleset name="Akaoma.com">
+	<target host="akaoma.com" />
+	<target host="www.akaoma.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

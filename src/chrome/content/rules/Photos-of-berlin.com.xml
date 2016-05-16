@@ -1,0 +1,6 @@
+<ruleset name="Photos-of-berlin.com">
+	<target host="photos-of-berlin.com" />
+	<target host="www.photos-of-berlin.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

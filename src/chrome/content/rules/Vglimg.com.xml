@@ -1,0 +1,6 @@
+<ruleset name="Vglimg.com">
+	<target host="vglimg.com" />
+	<target host="www.vglimg.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

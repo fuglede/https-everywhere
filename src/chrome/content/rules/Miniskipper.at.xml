@@ -1,0 +1,6 @@
+<ruleset name="Miniskipper.at">
+	<target host="miniskipper.at" />
+	<target host="www.miniskipper.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

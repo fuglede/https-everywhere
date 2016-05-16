@@ -1,0 +1,6 @@
+<ruleset name="Nfrost.me">
+	<target host="nfrost.me" />
+	<target host="www.nfrost.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

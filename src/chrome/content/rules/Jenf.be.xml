@@ -1,0 +1,6 @@
+<ruleset name="Jenf.be">
+	<target host="jenf.be" />
+	<target host="www.jenf.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

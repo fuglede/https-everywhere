@@ -1,0 +1,6 @@
+<ruleset name="Ehrlichesbier.de">
+	<target host="ehrlichesbier.de" />
+	<target host="www.ehrlichesbier.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

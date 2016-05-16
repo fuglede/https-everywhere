@@ -1,0 +1,6 @@
+<ruleset name="Athensbusinessresources.us">
+	<target host="athensbusinessresources.us" />
+	<target host="www.athensbusinessresources.us" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

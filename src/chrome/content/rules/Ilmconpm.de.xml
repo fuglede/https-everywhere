@@ -1,0 +1,6 @@
+<ruleset name="Ilmconpm.de">
+	<target host="ilmconpm.de" />
+	<target host="www.ilmconpm.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Emielraaijmakers.nl">
+	<target host="emielraaijmakers.nl" />
+	<target host="www.emielraaijmakers.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

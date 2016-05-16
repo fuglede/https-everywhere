@@ -1,0 +1,6 @@
+<ruleset name="Lojavirtualfct.com.br">
+	<target host="lojavirtualfct.com.br" />
+	<target host="www.lojavirtualfct.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

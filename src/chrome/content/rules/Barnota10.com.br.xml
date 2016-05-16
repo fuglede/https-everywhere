@@ -1,0 +1,6 @@
+<ruleset name="Barnota10.com.br">
+	<target host="barnota10.com.br" />
+	<target host="www.barnota10.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

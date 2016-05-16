@@ -1,0 +1,6 @@
+<ruleset name="Paulinewesterman.nl">
+	<target host="paulinewesterman.nl" />
+	<target host="www.paulinewesterman.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Killerrobots.com">
+	<target host="killerrobots.com" />
+	<target host="www.killerrobots.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

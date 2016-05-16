@@ -1,0 +1,6 @@
+<ruleset name="Wienholding.at">
+	<target host="wienholding.at" />
+	<target host="www.wienholding.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Chabaudparfum.com">
+	<target host="chabaudparfum.com" />
+	<target host="www.chabaudparfum.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Modydev.club">
+	<target host="modydev.club" />
+	<target host="www.modydev.club" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

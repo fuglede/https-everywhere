@@ -1,0 +1,6 @@
+<ruleset name="Iterror.co">
+	<target host="iterror.co" />
+	<target host="www.iterror.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Costreportdata.com">
+	<target host="costreportdata.com" />
+	<target host="www.costreportdata.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

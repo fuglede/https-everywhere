@@ -1,0 +1,6 @@
+<ruleset name="Sunbritetv.com">
+	<target host="sunbritetv.com" />
+	<target host="www.sunbritetv.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

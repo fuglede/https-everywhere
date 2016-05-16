@@ -1,0 +1,6 @@
+<ruleset name="Cvtparking.com">
+	<target host="cvtparking.com" />
+	<target host="www.cvtparking.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

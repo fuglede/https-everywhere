@@ -1,0 +1,6 @@
+<ruleset name="Streamtwd.com">
+	<target host="streamtwd.com" />
+	<target host="www.streamtwd.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

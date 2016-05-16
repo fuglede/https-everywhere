@@ -1,0 +1,6 @@
+<ruleset name="Km-net.pl">
+	<target host="km-net.pl" />
+	<target host="www.km-net.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

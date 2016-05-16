@@ -1,0 +1,6 @@
+<ruleset name="Plfgr.eu.org">
+	<target host="plfgr.eu.org" />
+	<target host="www.plfgr.eu.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

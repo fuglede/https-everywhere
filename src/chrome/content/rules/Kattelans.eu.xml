@@ -1,0 +1,6 @@
+<ruleset name="Kattelans.eu">
+	<target host="kattelans.eu" />
+	<target host="www.kattelans.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

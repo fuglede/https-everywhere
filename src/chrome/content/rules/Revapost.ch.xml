@@ -1,0 +1,6 @@
+<ruleset name="Revapost.ch">
+	<target host="revapost.ch" />
+	<target host="www.revapost.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

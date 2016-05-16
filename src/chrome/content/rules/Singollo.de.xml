@@ -1,0 +1,6 @@
+<ruleset name="Singollo.de">
+	<target host="singollo.de" />
+	<target host="www.singollo.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

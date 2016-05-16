@@ -1,0 +1,6 @@
+<ruleset name="Rbtaxi.ru">
+	<target host="rbtaxi.ru" />
+	<target host="www.rbtaxi.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

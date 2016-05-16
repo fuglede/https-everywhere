@@ -1,0 +1,6 @@
+<ruleset name="Stoffe-monster.de">
+	<target host="stoffe-monster.de" />
+	<target host="www.stoffe-monster.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Tf2stadium.com">
+	<target host="tf2stadium.com" />
+	<target host="www.tf2stadium.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

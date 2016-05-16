@@ -1,0 +1,6 @@
+<ruleset name="Acompanhantes.pro">
+	<target host="acompanhantes.pro" />
+	<target host="www.acompanhantes.pro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Sharepointdrive.com">
+	<target host="sharepointdrive.com" />
+	<target host="www.sharepointdrive.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

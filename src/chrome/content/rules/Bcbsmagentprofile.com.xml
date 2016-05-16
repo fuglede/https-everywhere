@@ -1,0 +1,6 @@
+<ruleset name="Bcbsmagentprofile.com">
+	<target host="bcbsmagentprofile.com" />
+	<target host="www.bcbsmagentprofile.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Ecupcafe.com">
+	<target host="ecupcafe.com" />
+	<target host="www.ecupcafe.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

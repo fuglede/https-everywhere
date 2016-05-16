@@ -1,0 +1,6 @@
+<ruleset name="Bitfarm-archiv.com">
+	<target host="bitfarm-archiv.com" />
+	<target host="www.bitfarm-archiv.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

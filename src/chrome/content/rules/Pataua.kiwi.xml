@@ -1,0 +1,6 @@
+<ruleset name="Pataua.kiwi">
+	<target host="pataua.kiwi" />
+	<target host="www.pataua.kiwi" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

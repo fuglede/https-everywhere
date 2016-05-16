@@ -1,0 +1,6 @@
+<ruleset name="Indievelopment.nl">
+	<target host="indievelopment.nl" />
+	<target host="www.indievelopment.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

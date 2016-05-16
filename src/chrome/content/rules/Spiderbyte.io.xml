@@ -1,0 +1,6 @@
+<ruleset name="Spiderbyte.io">
+	<target host="spiderbyte.io" />
+	<target host="www.spiderbyte.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

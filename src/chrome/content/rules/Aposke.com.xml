@@ -1,0 +1,6 @@
+<ruleset name="Aposke.com">
+	<target host="aposke.com" />
+	<target host="www.aposke.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

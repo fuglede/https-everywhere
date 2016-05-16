@@ -1,0 +1,6 @@
+<ruleset name="Javalestari.com">
+	<target host="javalestari.com" />
+	<target host="www.javalestari.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

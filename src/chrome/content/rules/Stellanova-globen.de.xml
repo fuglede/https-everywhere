@@ -1,0 +1,6 @@
+<ruleset name="Stellanova-globen.de">
+	<target host="stellanova-globen.de" />
+	<target host="www.stellanova-globen.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

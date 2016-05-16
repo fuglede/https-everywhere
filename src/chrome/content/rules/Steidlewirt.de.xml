@@ -1,0 +1,6 @@
+<ruleset name="Steidlewirt.de">
+	<target host="steidlewirt.de" />
+	<target host="www.steidlewirt.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

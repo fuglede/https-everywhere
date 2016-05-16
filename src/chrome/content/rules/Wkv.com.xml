@@ -1,0 +1,6 @@
+<ruleset name="Wkv.com">
+	<target host="wkv.com" />
+	<target host="www.wkv.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

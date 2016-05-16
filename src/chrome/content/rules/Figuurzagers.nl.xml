@@ -1,0 +1,6 @@
+<ruleset name="Figuurzagers.nl">
+	<target host="figuurzagers.nl" />
+	<target host="www.figuurzagers.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

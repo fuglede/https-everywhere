@@ -1,0 +1,6 @@
+<ruleset name="Integrityingovernmentidaho.com">
+	<target host="integrityingovernmentidaho.com" />
+	<target host="www.integrityingovernmentidaho.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

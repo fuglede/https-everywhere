@@ -1,0 +1,6 @@
+<ruleset name="Bhuntr.com">
+	<target host="bhuntr.com" />
+	<target host="www.bhuntr.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

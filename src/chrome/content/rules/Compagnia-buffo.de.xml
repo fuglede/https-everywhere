@@ -1,0 +1,6 @@
+<ruleset name="Compagnia-buffo.de">
+	<target host="compagnia-buffo.de" />
+	<target host="www.compagnia-buffo.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

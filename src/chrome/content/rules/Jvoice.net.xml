@@ -1,0 +1,6 @@
+<ruleset name="Jvoice.net">
+	<target host="jvoice.net" />
+	<target host="www.jvoice.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

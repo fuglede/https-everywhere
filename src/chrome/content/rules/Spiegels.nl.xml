@@ -1,0 +1,6 @@
+<ruleset name="Spiegels.nl">
+	<target host="spiegels.nl" />
+	<target host="www.spiegels.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

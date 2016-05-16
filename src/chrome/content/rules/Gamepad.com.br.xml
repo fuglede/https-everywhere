@@ -1,0 +1,6 @@
+<ruleset name="Gamepad.com.br">
+	<target host="gamepad.com.br" />
+	<target host="www.gamepad.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

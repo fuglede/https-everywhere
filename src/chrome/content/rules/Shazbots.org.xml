@@ -1,0 +1,6 @@
+<ruleset name="Shazbots.org">
+	<target host="shazbots.org" />
+	<target host="www.shazbots.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

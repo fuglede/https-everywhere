@@ -1,0 +1,6 @@
+<ruleset name="Securitydesk.nl">
+	<target host="securitydesk.nl" />
+	<target host="www.securitydesk.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

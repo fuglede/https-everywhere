@@ -1,0 +1,6 @@
+<ruleset name="Invoicefinance.com">
+	<target host="invoicefinance.com" />
+	<target host="www.invoicefinance.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

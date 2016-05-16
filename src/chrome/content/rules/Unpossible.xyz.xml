@@ -1,0 +1,6 @@
+<ruleset name="Unpossible.xyz">
+	<target host="unpossible.xyz" />
+	<target host="www.unpossible.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

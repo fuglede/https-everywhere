@@ -1,0 +1,6 @@
+<ruleset name="Laventainnhotel-mailing.com">
+	<target host="laventainnhotel-mailing.com" />
+	<target host="www.laventainnhotel-mailing.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

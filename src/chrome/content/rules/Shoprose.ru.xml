@@ -1,0 +1,6 @@
+<ruleset name="Shoprose.ru">
+	<target host="shoprose.ru" />
+	<target host="www.shoprose.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

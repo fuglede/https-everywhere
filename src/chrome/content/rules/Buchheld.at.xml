@@ -1,0 +1,6 @@
+<ruleset name="Buchheld.at">
+	<target host="buchheld.at" />
+	<target host="www.buchheld.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Nameless-rom.org">
+	<target host="nameless-rom.org" />
+	<target host="www.nameless-rom.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

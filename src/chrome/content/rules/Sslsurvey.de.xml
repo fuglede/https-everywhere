@@ -1,0 +1,6 @@
+<ruleset name="Sslsurvey.de">
+	<target host="sslsurvey.de" />
+	<target host="www.sslsurvey.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

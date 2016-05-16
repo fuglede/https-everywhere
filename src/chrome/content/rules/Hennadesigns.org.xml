@@ -1,0 +1,6 @@
+<ruleset name="Hennadesigns.org">
+	<target host="hennadesigns.org" />
+	<target host="www.hennadesigns.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Misosi.ru">
+	<target host="misosi.ru" />
+	<target host="www.misosi.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

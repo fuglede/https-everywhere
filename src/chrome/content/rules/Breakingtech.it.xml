@@ -1,0 +1,6 @@
+<ruleset name="Breakingtech.it">
+	<target host="breakingtech.it" />
+	<target host="www.breakingtech.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

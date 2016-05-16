@@ -1,0 +1,6 @@
+<ruleset name="Octanio.com">
+	<target host="octanio.com" />
+	<target host="www.octanio.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

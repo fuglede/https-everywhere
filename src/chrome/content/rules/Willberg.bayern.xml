@@ -1,0 +1,6 @@
+<ruleset name="Willberg.bayern">
+	<target host="willberg.bayern" />
+	<target host="www.willberg.bayern" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

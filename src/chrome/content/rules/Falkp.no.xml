@@ -1,0 +1,6 @@
+<ruleset name="Falkp.no">
+	<target host="falkp.no" />
+	<target host="www.falkp.no" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

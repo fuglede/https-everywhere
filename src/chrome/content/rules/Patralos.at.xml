@@ -1,0 +1,6 @@
+<ruleset name="Patralos.at">
+	<target host="patralos.at" />
+	<target host="www.patralos.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Royalvisiongroup.com">
+	<target host="royalvisiongroup.com" />
+	<target host="www.royalvisiongroup.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

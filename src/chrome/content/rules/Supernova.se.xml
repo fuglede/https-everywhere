@@ -1,0 +1,6 @@
+<ruleset name="Supernova.se">
+	<target host="supernova.se" />
+	<target host="www.supernova.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

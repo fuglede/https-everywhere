@@ -1,0 +1,6 @@
+<ruleset name="Inchomatic.com">
+	<target host="inchomatic.com" />
+	<target host="www.inchomatic.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

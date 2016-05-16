@@ -1,0 +1,6 @@
+<ruleset name="Fleetify.co">
+	<target host="fleetify.co" />
+	<target host="www.fleetify.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

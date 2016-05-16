@@ -1,0 +1,6 @@
+<ruleset name="Wilddog.com">
+	<target host="wilddog.com" />
+	<target host="www.wilddog.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

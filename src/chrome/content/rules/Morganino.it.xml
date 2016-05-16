@@ -1,0 +1,6 @@
+<ruleset name="Morganino.it">
+	<target host="morganino.it" />
+	<target host="www.morganino.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

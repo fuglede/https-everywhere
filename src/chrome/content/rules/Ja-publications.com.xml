@@ -1,0 +1,6 @@
+<ruleset name="Ja-publications.com">
+	<target host="ja-publications.com" />
+	<target host="www.ja-publications.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

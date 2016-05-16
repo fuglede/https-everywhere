@@ -1,0 +1,6 @@
+<ruleset name="Nebra.io">
+	<target host="nebra.io" />
+	<target host="www.nebra.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

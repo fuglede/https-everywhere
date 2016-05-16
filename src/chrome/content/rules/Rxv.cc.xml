@@ -1,0 +1,6 @@
+<ruleset name="Rxv.cc">
+	<target host="rxv.cc" />
+	<target host="www.rxv.cc" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

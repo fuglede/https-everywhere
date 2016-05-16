@@ -1,0 +1,6 @@
+<ruleset name="Kitakemon.com">
+	<target host="kitakemon.com" />
+	<target host="www.kitakemon.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

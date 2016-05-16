@@ -1,0 +1,6 @@
+<ruleset name="Shibe.club">
+	<target host="shibe.club" />
+	<target host="www.shibe.club" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

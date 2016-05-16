@@ -1,0 +1,6 @@
+<ruleset name="Terrab.de">
+	<target host="terrab.de" />
+	<target host="www.terrab.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

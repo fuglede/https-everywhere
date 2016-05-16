@@ -1,0 +1,6 @@
+<ruleset name="Esec.rs">
+	<target host="esec.rs" />
+	<target host="www.esec.rs" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

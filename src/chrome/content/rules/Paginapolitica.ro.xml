@@ -1,0 +1,6 @@
+<ruleset name="Paginapolitica.ro">
+	<target host="paginapolitica.ro" />
+	<target host="www.paginapolitica.ro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

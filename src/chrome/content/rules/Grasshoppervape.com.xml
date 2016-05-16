@@ -1,0 +1,6 @@
+<ruleset name="Grasshoppervape.com">
+	<target host="grasshoppervape.com" />
+	<target host="www.grasshoppervape.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

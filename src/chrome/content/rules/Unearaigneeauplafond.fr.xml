@@ -1,0 +1,6 @@
+<ruleset name="Unearaigneeauplafond.fr">
+	<target host="unearaigneeauplafond.fr" />
+	<target host="www.unearaigneeauplafond.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

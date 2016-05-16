@@ -1,0 +1,6 @@
+<ruleset name="Pornohardware.com">
+	<target host="pornohardware.com" />
+	<target host="www.pornohardware.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

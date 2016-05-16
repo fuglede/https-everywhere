@@ -1,0 +1,6 @@
+<ruleset name="Ty2u.com">
+	<target host="ty2u.com" />
+	<target host="www.ty2u.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

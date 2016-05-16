@@ -1,0 +1,6 @@
+<ruleset name="Ethlan.fr">
+	<target host="ethlan.fr" />
+	<target host="www.ethlan.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Cyberhouse.at">
+	<target host="cyberhouse.at" />
+	<target host="www.cyberhouse.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

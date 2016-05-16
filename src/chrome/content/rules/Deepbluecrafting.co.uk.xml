@@ -1,0 +1,6 @@
+<ruleset name="Deepbluecrafting.co.uk">
+	<target host="deepbluecrafting.co.uk" />
+	<target host="www.deepbluecrafting.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

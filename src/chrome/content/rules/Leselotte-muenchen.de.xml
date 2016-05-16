@@ -1,0 +1,6 @@
+<ruleset name="Leselotte-muenchen.de">
+	<target host="leselotte-muenchen.de" />
+	<target host="www.leselotte-muenchen.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

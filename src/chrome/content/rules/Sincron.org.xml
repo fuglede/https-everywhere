@@ -1,0 +1,6 @@
+<ruleset name="Sincron.org">
+	<target host="sincron.org" />
+	<target host="www.sincron.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Schoolze.com">
+	<target host="schoolze.com" />
+	<target host="www.schoolze.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Cloverleaf.net">
+	<target host="cloverleaf.net" />
+	<target host="www.cloverleaf.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

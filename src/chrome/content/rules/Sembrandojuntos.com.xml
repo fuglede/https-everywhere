@@ -1,0 +1,6 @@
+<ruleset name="Sembrandojuntos.com">
+	<target host="sembrandojuntos.com" />
+	<target host="www.sembrandojuntos.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

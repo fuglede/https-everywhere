@@ -1,0 +1,6 @@
+<ruleset name="Porttitor.com.br">
+	<target host="porttitor.com.br" />
+	<target host="www.porttitor.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Schoop.me">
+	<target host="schoop.me" />
+	<target host="www.schoop.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

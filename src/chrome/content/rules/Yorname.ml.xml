@@ -1,0 +1,6 @@
+<ruleset name="Yorname.ml">
+	<target host="yorname.ml" />
+	<target host="www.yorname.ml" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

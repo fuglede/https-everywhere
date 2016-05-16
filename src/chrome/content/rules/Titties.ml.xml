@@ -1,0 +1,6 @@
+<ruleset name="Titties.ml">
+	<target host="titties.ml" />
+	<target host="www.titties.ml" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

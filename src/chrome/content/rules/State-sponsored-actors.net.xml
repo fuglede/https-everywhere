@@ -1,0 +1,6 @@
+<ruleset name="State-sponsored-actors.net">
+	<target host="state-sponsored-actors.net" />
+	<target host="www.state-sponsored-actors.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

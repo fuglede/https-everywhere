@@ -1,0 +1,6 @@
+<ruleset name="Allfordentist.com">
+	<target host="allfordentist.com" />
+	<target host="www.allfordentist.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

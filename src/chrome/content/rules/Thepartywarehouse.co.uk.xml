@@ -1,0 +1,6 @@
+<ruleset name="Thepartywarehouse.co.uk">
+	<target host="thepartywarehouse.co.uk" />
+	<target host="www.thepartywarehouse.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

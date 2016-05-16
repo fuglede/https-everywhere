@@ -1,0 +1,6 @@
+<ruleset name="Allthethings.co.nz">
+	<target host="allthethings.co.nz" />
+	<target host="www.allthethings.co.nz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

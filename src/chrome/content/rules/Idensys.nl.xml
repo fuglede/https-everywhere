@@ -1,0 +1,6 @@
+<ruleset name="Idensys.nl">
+	<target host="idensys.nl" />
+	<target host="www.idensys.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

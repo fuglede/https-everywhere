@@ -1,0 +1,6 @@
+<ruleset name="Sqlapius.net">
+	<target host="sqlapius.net" />
+	<target host="www.sqlapius.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

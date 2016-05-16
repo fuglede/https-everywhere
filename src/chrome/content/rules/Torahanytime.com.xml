@@ -1,0 +1,6 @@
+<ruleset name="Torahanytime.com">
+	<target host="torahanytime.com" />
+	<target host="www.torahanytime.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

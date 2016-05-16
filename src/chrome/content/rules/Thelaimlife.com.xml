@@ -1,0 +1,6 @@
+<ruleset name="Thelaimlife.com">
+	<target host="thelaimlife.com" />
+	<target host="www.thelaimlife.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

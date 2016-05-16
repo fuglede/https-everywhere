@@ -1,0 +1,6 @@
+<ruleset name="Cygnius.net">
+	<target host="cygnius.net" />
+	<target host="www.cygnius.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Svenskacasino.com">
+	<target host="svenskacasino.com" />
+	<target host="www.svenskacasino.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

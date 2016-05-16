@@ -1,0 +1,6 @@
+<ruleset name="Stabletoken.com">
+	<target host="stabletoken.com" />
+	<target host="www.stabletoken.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

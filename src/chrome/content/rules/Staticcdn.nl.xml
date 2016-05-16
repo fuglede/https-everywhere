@@ -1,0 +1,6 @@
+<ruleset name="Staticcdn.nl">
+	<target host="staticcdn.nl" />
+	<target host="www.staticcdn.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

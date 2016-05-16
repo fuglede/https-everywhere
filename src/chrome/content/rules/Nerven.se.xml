@@ -1,0 +1,6 @@
+<ruleset name="Nerven.se">
+	<target host="nerven.se" />
+	<target host="www.nerven.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

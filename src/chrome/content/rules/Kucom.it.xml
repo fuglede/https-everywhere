@@ -1,0 +1,6 @@
+<ruleset name="Kucom.it">
+	<target host="kucom.it" />
+	<target host="www.kucom.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

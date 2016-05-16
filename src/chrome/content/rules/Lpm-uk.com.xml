@@ -1,0 +1,6 @@
+<ruleset name="Lpm-uk.com">
+	<target host="lpm-uk.com" />
+	<target host="www.lpm-uk.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

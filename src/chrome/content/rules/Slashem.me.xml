@@ -1,0 +1,6 @@
+<ruleset name="Slashem.me">
+	<target host="slashem.me" />
+	<target host="www.slashem.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Dynamicnet.net">
+	<target host="dynamicnet.net" />
+	<target host="www.dynamicnet.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

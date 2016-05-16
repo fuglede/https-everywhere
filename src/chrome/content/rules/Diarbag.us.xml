@@ -1,0 +1,6 @@
+<ruleset name="Diarbag.us">
+	<target host="diarbag.us" />
+	<target host="www.diarbag.us" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Mirrorx.com">
+	<target host="mirrorx.com" />
+	<target host="www.mirrorx.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

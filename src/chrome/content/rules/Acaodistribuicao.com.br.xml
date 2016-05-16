@@ -1,0 +1,6 @@
+<ruleset name="Acaodistribuicao.com.br">
+	<target host="acaodistribuicao.com.br" />
+	<target host="www.acaodistribuicao.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

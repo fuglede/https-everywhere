@@ -1,0 +1,6 @@
+<ruleset name="Mccarty.io">
+	<target host="mccarty.io" />
+	<target host="www.mccarty.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

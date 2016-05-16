@@ -1,0 +1,6 @@
+<ruleset name="Dragonschool.org">
+	<target host="dragonschool.org" />
+	<target host="www.dragonschool.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

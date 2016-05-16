@@ -1,0 +1,6 @@
+<ruleset name="Afp548.tk">
+	<target host="afp548.tk" />
+	<target host="www.afp548.tk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

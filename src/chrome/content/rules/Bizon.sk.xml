@@ -1,0 +1,6 @@
+<ruleset name="Bizon.sk">
+	<target host="bizon.sk" />
+	<target host="www.bizon.sk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

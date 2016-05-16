@@ -1,0 +1,6 @@
+<ruleset name="Theseoframework.com">
+	<target host="theseoframework.com" />
+	<target host="www.theseoframework.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

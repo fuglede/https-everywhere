@@ -1,0 +1,6 @@
+<ruleset name="Interim-cto.de">
+	<target host="interim-cto.de" />
+	<target host="www.interim-cto.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

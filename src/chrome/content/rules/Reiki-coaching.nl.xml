@@ -1,0 +1,6 @@
+<ruleset name="Reiki-coaching.nl">
+	<target host="reiki-coaching.nl" />
+	<target host="www.reiki-coaching.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

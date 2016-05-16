@@ -1,0 +1,6 @@
+<ruleset name="Compiledworks.com">
+	<target host="compiledworks.com" />
+	<target host="www.compiledworks.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

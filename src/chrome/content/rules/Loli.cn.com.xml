@@ -1,0 +1,6 @@
+<ruleset name="Loli.cn.com">
+	<target host="loli.cn.com" />
+	<target host="www.loli.cn.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

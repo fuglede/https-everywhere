@@ -1,0 +1,6 @@
+<ruleset name="Hoffnungsschimmer-forum.de">
+	<target host="hoffnungsschimmer-forum.de" />
+	<target host="www.hoffnungsschimmer-forum.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

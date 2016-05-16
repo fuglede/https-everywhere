@@ -1,0 +1,6 @@
+<ruleset name="Aboutmyproperty.ca">
+	<target host="aboutmyproperty.ca" />
+	<target host="www.aboutmyproperty.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

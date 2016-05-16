@@ -1,0 +1,6 @@
+<ruleset name="Nolag.org">
+	<target host="nolag.org" />
+	<target host="www.nolag.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

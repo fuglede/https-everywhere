@@ -1,0 +1,6 @@
+<ruleset name="Cityoflaurel.org">
+	<target host="cityoflaurel.org" />
+	<target host="www.cityoflaurel.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

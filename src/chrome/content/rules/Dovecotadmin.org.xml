@@ -1,0 +1,6 @@
+<ruleset name="Dovecotadmin.org">
+	<target host="dovecotadmin.org" />
+	<target host="www.dovecotadmin.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

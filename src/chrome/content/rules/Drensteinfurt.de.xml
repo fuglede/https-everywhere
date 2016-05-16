@@ -1,0 +1,6 @@
+<ruleset name="Drensteinfurt.de">
+	<target host="drensteinfurt.de" />
+	<target host="www.drensteinfurt.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

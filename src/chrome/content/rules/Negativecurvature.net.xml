@@ -1,0 +1,6 @@
+<ruleset name="Negativecurvature.net">
+	<target host="negativecurvature.net" />
+	<target host="www.negativecurvature.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

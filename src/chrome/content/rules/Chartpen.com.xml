@@ -1,0 +1,6 @@
+<ruleset name="Chartpen.com">
+	<target host="chartpen.com" />
+	<target host="www.chartpen.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

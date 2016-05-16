@@ -1,0 +1,6 @@
+<ruleset name="Feliwyn.fr">
+	<target host="feliwyn.fr" />
+	<target host="www.feliwyn.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

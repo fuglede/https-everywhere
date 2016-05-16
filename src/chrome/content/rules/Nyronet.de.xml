@@ -1,0 +1,6 @@
+<ruleset name="Nyronet.de">
+	<target host="nyronet.de" />
+	<target host="www.nyronet.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Igk.de">
+	<target host="igk.de" />
+	<target host="www.igk.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

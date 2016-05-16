@@ -1,0 +1,6 @@
+<ruleset name="Own3d.ch">
+	<target host="own3d.ch" />
+	<target host="www.own3d.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

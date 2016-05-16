@@ -1,0 +1,6 @@
+<ruleset name="Sslcheck.nl">
+	<target host="sslcheck.nl" />
+	<target host="www.sslcheck.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

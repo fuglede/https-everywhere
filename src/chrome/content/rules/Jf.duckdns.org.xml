@@ -1,0 +1,6 @@
+<ruleset name="Jf.duckdns.org">
+	<target host="jf.duckdns.org" />
+	<target host="www.jf.duckdns.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

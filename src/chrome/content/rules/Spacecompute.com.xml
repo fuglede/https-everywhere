@@ -1,0 +1,6 @@
+<ruleset name="Spacecompute.com">
+	<target host="spacecompute.com" />
+	<target host="www.spacecompute.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

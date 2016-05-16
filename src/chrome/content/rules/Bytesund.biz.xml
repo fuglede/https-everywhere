@@ -1,0 +1,6 @@
+<ruleset name="Bytesund.biz">
+	<target host="bytesund.biz" />
+	<target host="www.bytesund.biz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

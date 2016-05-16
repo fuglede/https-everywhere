@@ -1,0 +1,6 @@
+<ruleset name="Cityofalbany.net">
+	<target host="cityofalbany.net" />
+	<target host="www.cityofalbany.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Boltdata.io">
+	<target host="boltdata.io" />
+	<target host="www.boltdata.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

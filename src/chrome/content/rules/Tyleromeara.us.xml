@@ -1,0 +1,6 @@
+<ruleset name="Tyleromeara.us">
+	<target host="tyleromeara.us" />
+	<target host="www.tyleromeara.us" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

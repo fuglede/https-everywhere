@@ -1,0 +1,6 @@
+<ruleset name="Mozoa.net">
+	<target host="mozoa.net" />
+	<target host="www.mozoa.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

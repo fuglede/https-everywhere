@@ -1,0 +1,6 @@
+<ruleset name="Firevap.org">
+	<target host="firevap.org" />
+	<target host="www.firevap.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

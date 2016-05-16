@@ -1,0 +1,6 @@
+<ruleset name="Lesdouceursdeliyana.com">
+	<target host="lesdouceursdeliyana.com" />
+	<target host="www.lesdouceursdeliyana.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

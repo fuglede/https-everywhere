@@ -1,0 +1,6 @@
+<ruleset name="Danieldk.eu">
+	<target host="danieldk.eu" />
+	<target host="www.danieldk.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

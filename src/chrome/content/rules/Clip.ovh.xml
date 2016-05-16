@@ -1,0 +1,6 @@
+<ruleset name="Clip.ovh">
+	<target host="clip.ovh" />
+	<target host="www.clip.ovh" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

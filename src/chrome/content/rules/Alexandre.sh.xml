@@ -1,0 +1,6 @@
+<ruleset name="Alexandre.sh">
+	<target host="alexandre.sh" />
+	<target host="www.alexandre.sh" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

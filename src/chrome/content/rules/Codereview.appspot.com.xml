@@ -1,0 +1,6 @@
+<ruleset name="Codereview.appspot.com">
+	<target host="codereview.appspot.com" />
+	<target host="www.codereview.appspot.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Medsafe.fr">
+	<target host="medsafe.fr" />
+	<target host="www.medsafe.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

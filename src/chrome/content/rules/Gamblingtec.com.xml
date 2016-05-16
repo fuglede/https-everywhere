@@ -1,0 +1,6 @@
+<ruleset name="Gamblingtec.com">
+	<target host="gamblingtec.com" />
+	<target host="www.gamblingtec.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Purplebricks.com">
+	<target host="purplebricks.com" />
+	<target host="www.purplebricks.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

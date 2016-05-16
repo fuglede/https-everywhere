@@ -1,0 +1,6 @@
+<ruleset name="Pepperworldhotshop.de">
+	<target host="pepperworldhotshop.de" />
+	<target host="www.pepperworldhotshop.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

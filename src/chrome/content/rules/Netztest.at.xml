@@ -1,0 +1,6 @@
+<ruleset name="Netztest.at">
+	<target host="netztest.at" />
+	<target host="www.netztest.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

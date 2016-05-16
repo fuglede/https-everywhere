@@ -1,0 +1,6 @@
+<ruleset name="Wordxtra.net">
+	<target host="wordxtra.net" />
+	<target host="www.wordxtra.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

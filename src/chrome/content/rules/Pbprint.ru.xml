@@ -1,0 +1,6 @@
+<ruleset name="Pbprint.ru">
+	<target host="pbprint.ru" />
+	<target host="www.pbprint.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

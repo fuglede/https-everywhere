@@ -1,0 +1,6 @@
+<ruleset name="Superdesc.com.br">
+	<target host="superdesc.com.br" />
+	<target host="www.superdesc.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

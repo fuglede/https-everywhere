@@ -1,0 +1,6 @@
+<ruleset name="Delta-data.ch">
+	<target host="delta-data.ch" />
+	<target host="www.delta-data.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Seq.tf">
+	<target host="seq.tf" />
+	<target host="www.seq.tf" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

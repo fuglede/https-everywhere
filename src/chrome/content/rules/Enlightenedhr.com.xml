@@ -1,0 +1,6 @@
+<ruleset name="Enlightenedhr.com">
+	<target host="enlightenedhr.com" />
+	<target host="www.enlightenedhr.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

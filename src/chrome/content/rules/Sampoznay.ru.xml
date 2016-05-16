@@ -1,0 +1,6 @@
+<ruleset name="Sampoznay.ru">
+	<target host="sampoznay.ru" />
+	<target host="www.sampoznay.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

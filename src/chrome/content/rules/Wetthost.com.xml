@@ -1,0 +1,6 @@
+<ruleset name="Wetthost.com">
+	<target host="wetthost.com" />
+	<target host="www.wetthost.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Textoplano.xyz">
+	<target host="textoplano.xyz" />
+	<target host="www.textoplano.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

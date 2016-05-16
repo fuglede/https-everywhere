@@ -1,0 +1,6 @@
+<ruleset name="Ztcaoll222.cn">
+	<target host="ztcaoll222.cn" />
+	<target host="www.ztcaoll222.cn" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Rawoil.com">
+	<target host="rawoil.com" />
+	<target host="www.rawoil.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

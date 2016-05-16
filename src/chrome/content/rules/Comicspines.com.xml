@@ -1,0 +1,6 @@
+<ruleset name="Comicspines.com">
+	<target host="comicspines.com" />
+	<target host="www.comicspines.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

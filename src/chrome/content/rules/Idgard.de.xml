@@ -1,0 +1,6 @@
+<ruleset name="Idgard.de">
+	<target host="idgard.de" />
+	<target host="www.idgard.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

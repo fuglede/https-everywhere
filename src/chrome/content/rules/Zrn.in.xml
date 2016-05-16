@@ -1,0 +1,6 @@
+<ruleset name="Zrn.in">
+	<target host="zrn.in" />
+	<target host="www.zrn.in" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

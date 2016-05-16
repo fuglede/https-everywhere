@@ -1,0 +1,6 @@
+<ruleset name="Oneminute.io">
+	<target host="oneminute.io" />
+	<target host="www.oneminute.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

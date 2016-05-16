@@ -1,0 +1,6 @@
+<ruleset name="Nartuk.com.ua">
+	<target host="nartuk.com.ua" />
+	<target host="www.nartuk.com.ua" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

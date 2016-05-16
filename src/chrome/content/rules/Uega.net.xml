@@ -1,0 +1,6 @@
+<ruleset name="Uega.net">
+	<target host="uega.net" />
+	<target host="www.uega.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

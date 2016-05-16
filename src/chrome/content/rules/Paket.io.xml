@@ -1,0 +1,6 @@
+<ruleset name="Paket.io">
+	<target host="paket.io" />
+	<target host="www.paket.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

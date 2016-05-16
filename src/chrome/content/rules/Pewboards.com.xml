@@ -1,0 +1,6 @@
+<ruleset name="Pewboards.com">
+	<target host="pewboards.com" />
+	<target host="www.pewboards.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

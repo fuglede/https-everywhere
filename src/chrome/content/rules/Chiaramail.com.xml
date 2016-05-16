@@ -1,0 +1,6 @@
+<ruleset name="Chiaramail.com">
+	<target host="chiaramail.com" />
+	<target host="www.chiaramail.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

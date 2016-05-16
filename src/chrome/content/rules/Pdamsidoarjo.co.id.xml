@@ -1,0 +1,6 @@
+<ruleset name="Pdamsidoarjo.co.id">
+	<target host="pdamsidoarjo.co.id" />
+	<target host="www.pdamsidoarjo.co.id" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

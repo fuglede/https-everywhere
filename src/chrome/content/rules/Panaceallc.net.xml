@@ -1,0 +1,6 @@
+<ruleset name="Panaceallc.net">
+	<target host="panaceallc.net" />
+	<target host="www.panaceallc.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

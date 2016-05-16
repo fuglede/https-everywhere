@@ -1,0 +1,6 @@
+<ruleset name="Furry.be">
+	<target host="furry.be" />
+	<target host="www.furry.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

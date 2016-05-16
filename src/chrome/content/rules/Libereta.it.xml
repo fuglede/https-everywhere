@@ -1,0 +1,6 @@
+<ruleset name="Libereta.it">
+	<target host="libereta.it" />
+	<target host="www.libereta.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

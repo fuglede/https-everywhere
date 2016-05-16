@@ -1,0 +1,6 @@
+<ruleset name="Gosharewood.com">
+	<target host="gosharewood.com" />
+	<target host="www.gosharewood.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

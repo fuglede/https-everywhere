@@ -1,0 +1,6 @@
+<ruleset name="Ottoproject.io">
+	<target host="ottoproject.io" />
+	<target host="www.ottoproject.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

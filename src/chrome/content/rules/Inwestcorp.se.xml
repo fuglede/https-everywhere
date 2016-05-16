@@ -1,0 +1,6 @@
+<ruleset name="Inwestcorp.se">
+	<target host="inwestcorp.se" />
+	<target host="www.inwestcorp.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

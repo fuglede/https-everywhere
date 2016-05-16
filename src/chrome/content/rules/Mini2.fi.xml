@@ -1,0 +1,6 @@
+<ruleset name="Mini2.fi">
+	<target host="mini2.fi" />
+	<target host="www.mini2.fi" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

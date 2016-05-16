@@ -1,0 +1,6 @@
+<ruleset name="Aussiehq.com.au">
+	<target host="aussiehq.com.au" />
+	<target host="www.aussiehq.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

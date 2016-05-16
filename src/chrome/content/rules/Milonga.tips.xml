@@ -1,0 +1,6 @@
+<ruleset name="Milonga.tips">
+	<target host="milonga.tips" />
+	<target host="www.milonga.tips" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

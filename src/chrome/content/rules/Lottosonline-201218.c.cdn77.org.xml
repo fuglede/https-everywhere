@@ -1,0 +1,6 @@
+<ruleset name="Lottosonline-201218.c.cdn77.org">
+	<target host="lottosonline-201218.c.cdn77.org" />
+	<target host="www.lottosonline-201218.c.cdn77.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

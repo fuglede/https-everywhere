@@ -1,0 +1,6 @@
+<ruleset name="Chatup.cf">
+	<target host="chatup.cf" />
+	<target host="www.chatup.cf" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

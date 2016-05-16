@@ -1,0 +1,6 @@
+<ruleset name="Virginiacrimeanalysisnetwork.org">
+	<target host="virginiacrimeanalysisnetwork.org" />
+	<target host="www.virginiacrimeanalysisnetwork.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

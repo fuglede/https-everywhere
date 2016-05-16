@@ -1,0 +1,6 @@
+<ruleset name="Softwarebetrieb.de">
+	<target host="softwarebetrieb.de" />
+	<target host="www.softwarebetrieb.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

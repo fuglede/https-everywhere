@@ -1,0 +1,6 @@
+<ruleset name="Edge-project.org">
+	<target host="edge-project.org" />
+	<target host="www.edge-project.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

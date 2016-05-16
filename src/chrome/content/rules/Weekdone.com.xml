@@ -1,0 +1,6 @@
+<ruleset name="Weekdone.com">
+	<target host="weekdone.com" />
+	<target host="www.weekdone.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

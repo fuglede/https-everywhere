@@ -1,0 +1,6 @@
+<ruleset name="Purewebmasters.com">
+	<target host="purewebmasters.com" />
+	<target host="www.purewebmasters.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

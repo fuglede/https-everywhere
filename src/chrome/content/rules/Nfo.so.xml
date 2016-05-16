@@ -1,0 +1,6 @@
+<ruleset name="Nfo.so">
+	<target host="nfo.so" />
+	<target host="www.nfo.so" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Einaros.is">
+	<target host="einaros.is" />
+	<target host="www.einaros.is" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

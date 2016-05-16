@@ -1,0 +1,6 @@
+<ruleset name="Spacedust.xyz">
+	<target host="spacedust.xyz" />
+	<target host="www.spacedust.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

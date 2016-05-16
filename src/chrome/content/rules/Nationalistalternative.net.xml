@@ -1,0 +1,6 @@
+<ruleset name="Nationalistalternative.net">
+	<target host="nationalistalternative.net" />
+	<target host="www.nationalistalternative.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

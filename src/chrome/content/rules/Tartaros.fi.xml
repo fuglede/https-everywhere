@@ -1,0 +1,6 @@
+<ruleset name="Tartaros.fi">
+	<target host="tartaros.fi" />
+	<target host="www.tartaros.fi" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

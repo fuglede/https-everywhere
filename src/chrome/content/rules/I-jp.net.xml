@@ -1,0 +1,6 @@
+<ruleset name="I-jp.net">
+	<target host="i-jp.net" />
+	<target host="www.i-jp.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

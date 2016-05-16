@@ -1,0 +1,6 @@
+<ruleset name="Ypiresia.fr">
+	<target host="ypiresia.fr" />
+	<target host="www.ypiresia.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

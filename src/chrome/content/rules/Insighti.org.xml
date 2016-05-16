@@ -1,0 +1,6 @@
+<ruleset name="Insighti.org">
+	<target host="insighti.org" />
+	<target host="www.insighti.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

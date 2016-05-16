@@ -1,0 +1,6 @@
+<ruleset name="Rointe.online">
+	<target host="rointe.online" />
+	<target host="www.rointe.online" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

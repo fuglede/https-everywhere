@@ -1,0 +1,6 @@
+<ruleset name="Hamali.bg">
+	<target host="hamali.bg" />
+	<target host="www.hamali.bg" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

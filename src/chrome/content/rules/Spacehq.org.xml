@@ -1,0 +1,6 @@
+<ruleset name="Spacehq.org">
+	<target host="spacehq.org" />
+	<target host="www.spacehq.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

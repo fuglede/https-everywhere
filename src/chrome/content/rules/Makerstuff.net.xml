@@ -1,0 +1,6 @@
+<ruleset name="Makerstuff.net">
+	<target host="makerstuff.net" />
+	<target host="www.makerstuff.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Minipainting.net">
+	<target host="minipainting.net" />
+	<target host="www.minipainting.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

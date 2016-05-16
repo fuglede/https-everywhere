@@ -1,0 +1,6 @@
+<ruleset name="Frickelboxx.de">
+	<target host="frickelboxx.de" />
+	<target host="www.frickelboxx.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

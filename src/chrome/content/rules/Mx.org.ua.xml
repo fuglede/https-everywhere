@@ -1,0 +1,6 @@
+<ruleset name="Mx.org.ua">
+	<target host="mx.org.ua" />
+	<target host="www.mx.org.ua" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

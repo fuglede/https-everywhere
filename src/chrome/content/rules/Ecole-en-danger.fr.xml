@@ -1,0 +1,6 @@
+<ruleset name="Ecole-en-danger.fr">
+	<target host="ecole-en-danger.fr" />
+	<target host="www.ecole-en-danger.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

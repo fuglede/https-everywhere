@@ -1,0 +1,6 @@
+<ruleset name="Ausnah.me">
+	<target host="ausnah.me" />
+	<target host="www.ausnah.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

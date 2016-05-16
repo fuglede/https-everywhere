@@ -1,0 +1,6 @@
+<ruleset name="Wa-stromerzeuger.de">
+	<target host="wa-stromerzeuger.de" />
+	<target host="www.wa-stromerzeuger.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

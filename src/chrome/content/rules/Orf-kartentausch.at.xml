@@ -1,0 +1,6 @@
+<ruleset name="Orf-kartentausch.at">
+	<target host="orf-kartentausch.at" />
+	<target host="www.orf-kartentausch.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

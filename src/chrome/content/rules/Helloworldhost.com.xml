@@ -1,0 +1,6 @@
+<ruleset name="Helloworldhost.com">
+	<target host="helloworldhost.com" />
+	<target host="www.helloworldhost.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Abmgood.com">
+	<target host="abmgood.com" />
+	<target host="www.abmgood.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

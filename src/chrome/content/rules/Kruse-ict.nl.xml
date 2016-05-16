@@ -1,0 +1,6 @@
+<ruleset name="Kruse-ict.nl">
+	<target host="kruse-ict.nl" />
+	<target host="www.kruse-ict.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

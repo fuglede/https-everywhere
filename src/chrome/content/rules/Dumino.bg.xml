@@ -1,0 +1,6 @@
+<ruleset name="Dumino.bg">
+	<target host="dumino.bg" />
+	<target host="www.dumino.bg" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

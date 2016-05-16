@@ -1,0 +1,6 @@
+<ruleset name="Hurd.is">
+	<target host="hurd.is" />
+	<target host="www.hurd.is" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

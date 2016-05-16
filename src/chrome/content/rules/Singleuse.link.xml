@@ -1,0 +1,6 @@
+<ruleset name="Singleuse.link">
+	<target host="singleuse.link" />
+	<target host="www.singleuse.link" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

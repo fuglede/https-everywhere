@@ -1,0 +1,6 @@
+<ruleset name="Postoven.com">
+	<target host="postoven.com" />
+	<target host="www.postoven.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

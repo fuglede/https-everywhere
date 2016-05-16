@@ -1,0 +1,6 @@
+<ruleset name="Ben-energy.com">
+	<target host="ben-energy.com" />
+	<target host="www.ben-energy.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

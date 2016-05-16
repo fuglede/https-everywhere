@@ -1,0 +1,6 @@
+<ruleset name="Annakosinska.pl">
+	<target host="annakosinska.pl" />
+	<target host="www.annakosinska.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

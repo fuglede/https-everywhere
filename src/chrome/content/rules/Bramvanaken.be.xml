@@ -1,0 +1,6 @@
+<ruleset name="Bramvanaken.be">
+	<target host="bramvanaken.be" />
+	<target host="www.bramvanaken.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Hqhost.net">
+	<target host="hqhost.net" />
+	<target host="www.hqhost.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Midea.bg">
+	<target host="midea.bg" />
+	<target host="www.midea.bg" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Freshdns.nl">
+	<target host="freshdns.nl" />
+	<target host="www.freshdns.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

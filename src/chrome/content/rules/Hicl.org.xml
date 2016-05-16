@@ -1,0 +1,6 @@
+<ruleset name="Hicl.org">
+	<target host="hicl.org" />
+	<target host="www.hicl.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

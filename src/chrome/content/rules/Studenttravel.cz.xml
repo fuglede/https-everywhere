@@ -1,0 +1,6 @@
+<ruleset name="Studenttravel.cz">
+	<target host="studenttravel.cz" />
+	<target host="www.studenttravel.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

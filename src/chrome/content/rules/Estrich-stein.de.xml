@@ -1,0 +1,6 @@
+<ruleset name="Estrich-stein.de">
+	<target host="estrich-stein.de" />
+	<target host="www.estrich-stein.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

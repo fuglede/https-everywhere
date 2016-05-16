@@ -1,0 +1,6 @@
+<ruleset name="On-stage.com">
+	<target host="on-stage.com" />
+	<target host="www.on-stage.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

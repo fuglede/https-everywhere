@@ -1,0 +1,6 @@
+<ruleset name="Rettet-uns.de">
+	<target host="rettet-uns.de" />
+	<target host="www.rettet-uns.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

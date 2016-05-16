@@ -1,0 +1,6 @@
+<ruleset name="Yellow-pages-israel.com">
+	<target host="yellow-pages-israel.com" />
+	<target host="www.yellow-pages-israel.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

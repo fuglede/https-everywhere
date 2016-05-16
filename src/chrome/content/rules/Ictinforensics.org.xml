@@ -1,0 +1,6 @@
+<ruleset name="Ictinforensics.org">
+	<target host="ictinforensics.org" />
+	<target host="www.ictinforensics.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

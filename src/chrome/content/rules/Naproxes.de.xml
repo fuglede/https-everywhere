@@ -1,0 +1,6 @@
+<ruleset name="Naproxes.de">
+	<target host="naproxes.de" />
+	<target host="www.naproxes.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

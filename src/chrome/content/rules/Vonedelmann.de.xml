@@ -1,0 +1,6 @@
+<ruleset name="Vonedelmann.de">
+	<target host="vonedelmann.de" />
+	<target host="www.vonedelmann.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Topmarine.se">
+	<target host="topmarine.se" />
+	<target host="www.topmarine.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

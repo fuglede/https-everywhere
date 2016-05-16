@@ -1,0 +1,6 @@
+<ruleset name="Rapido.nu">
+	<target host="rapido.nu" />
+	<target host="www.rapido.nu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

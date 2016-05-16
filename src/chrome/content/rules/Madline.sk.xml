@@ -1,0 +1,6 @@
+<ruleset name="Madline.sk">
+	<target host="madline.sk" />
+	<target host="www.madline.sk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

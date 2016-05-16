@@ -1,0 +1,6 @@
+<ruleset name="Sensibus.com">
+	<target host="sensibus.com" />
+	<target host="www.sensibus.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

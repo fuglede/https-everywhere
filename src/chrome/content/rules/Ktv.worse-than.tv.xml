@@ -1,0 +1,6 @@
+<ruleset name="Ktv.worse-than.tv">
+	<target host="ktv.worse-than.tv" />
+	<target host="www.ktv.worse-than.tv" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

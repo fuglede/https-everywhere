@@ -1,0 +1,6 @@
+<ruleset name="Adquisitio.it">
+	<target host="adquisitio.it" />
+	<target host="www.adquisitio.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

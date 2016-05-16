@@ -1,0 +1,6 @@
+<ruleset name="Experts-en-gestion.fr">
+	<target host="experts-en-gestion.fr" />
+	<target host="www.experts-en-gestion.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

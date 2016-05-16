@@ -1,0 +1,6 @@
+<ruleset name="Userify.com">
+	<target host="userify.com" />
+	<target host="www.userify.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

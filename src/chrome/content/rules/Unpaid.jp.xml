@@ -1,0 +1,6 @@
+<ruleset name="Unpaid.jp">
+	<target host="unpaid.jp" />
+	<target host="www.unpaid.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Etkaddict.com">
+	<target host="etkaddict.com" />
+	<target host="www.etkaddict.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

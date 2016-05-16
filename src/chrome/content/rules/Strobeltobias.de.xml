@@ -1,0 +1,6 @@
+<ruleset name="Strobeltobias.de">
+	<target host="strobeltobias.de" />
+	<target host="www.strobeltobias.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

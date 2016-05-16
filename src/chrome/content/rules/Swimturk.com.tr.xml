@@ -1,0 +1,6 @@
+<ruleset name="Swimturk.com.tr">
+	<target host="swimturk.com.tr" />
+	<target host="www.swimturk.com.tr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

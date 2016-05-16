@@ -1,0 +1,6 @@
+<ruleset name="Hogar123.es">
+	<target host="hogar123.es" />
+	<target host="www.hogar123.es" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

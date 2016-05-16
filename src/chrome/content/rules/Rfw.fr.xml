@@ -1,0 +1,6 @@
+<ruleset name="Rfw.fr">
+	<target host="rfw.fr" />
+	<target host="www.rfw.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

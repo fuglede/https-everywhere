@@ -1,0 +1,6 @@
+<ruleset name="Ungeheuer-it.de">
+	<target host="ungeheuer-it.de" />
+	<target host="www.ungeheuer-it.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

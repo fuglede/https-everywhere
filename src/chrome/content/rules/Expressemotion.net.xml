@@ -1,0 +1,6 @@
+<ruleset name="Expressemotion.net">
+	<target host="expressemotion.net" />
+	<target host="www.expressemotion.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

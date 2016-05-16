@@ -1,0 +1,6 @@
+<ruleset name="Myedisi.com">
+	<target host="myedisi.com" />
+	<target host="www.myedisi.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

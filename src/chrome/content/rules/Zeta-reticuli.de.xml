@@ -1,0 +1,6 @@
+<ruleset name="Zeta-reticuli.de">
+	<target host="zeta-reticuli.de" />
+	<target host="www.zeta-reticuli.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

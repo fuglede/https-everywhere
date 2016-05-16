@@ -1,0 +1,6 @@
+<ruleset name="Inlandlinks.eu">
+	<target host="inlandlinks.eu" />
+	<target host="www.inlandlinks.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

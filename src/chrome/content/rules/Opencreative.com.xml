@@ -1,0 +1,6 @@
+<ruleset name="Opencreative.com">
+	<target host="opencreative.com" />
+	<target host="www.opencreative.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

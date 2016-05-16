@@ -1,0 +1,6 @@
+<ruleset name="Cookmedical.com">
+	<target host="cookmedical.com" />
+	<target host="www.cookmedical.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

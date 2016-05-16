@@ -1,0 +1,6 @@
+<ruleset name="Fitzsim.org">
+	<target host="fitzsim.org" />
+	<target host="www.fitzsim.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

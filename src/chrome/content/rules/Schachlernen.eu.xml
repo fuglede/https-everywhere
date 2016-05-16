@@ -1,0 +1,6 @@
+<ruleset name="Schachlernen.eu">
+	<target host="schachlernen.eu" />
+	<target host="www.schachlernen.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

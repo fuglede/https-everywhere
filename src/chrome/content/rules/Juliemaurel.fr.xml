@@ -1,0 +1,6 @@
+<ruleset name="Juliemaurel.fr">
+	<target host="juliemaurel.fr" />
+	<target host="www.juliemaurel.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

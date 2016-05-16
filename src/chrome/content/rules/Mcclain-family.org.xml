@@ -1,0 +1,6 @@
+<ruleset name="Mcclain-family.org">
+	<target host="mcclain-family.org" />
+	<target host="www.mcclain-family.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

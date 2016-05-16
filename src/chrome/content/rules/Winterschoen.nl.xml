@@ -1,0 +1,6 @@
+<ruleset name="Winterschoen.nl">
+	<target host="winterschoen.nl" />
+	<target host="www.winterschoen.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

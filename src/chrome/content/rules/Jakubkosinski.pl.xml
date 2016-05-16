@@ -1,0 +1,6 @@
+<ruleset name="Jakubkosinski.pl">
+	<target host="jakubkosinski.pl" />
+	<target host="www.jakubkosinski.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

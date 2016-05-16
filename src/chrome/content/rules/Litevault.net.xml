@@ -1,0 +1,6 @@
+<ruleset name="Litevault.net">
+	<target host="litevault.net" />
+	<target host="www.litevault.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

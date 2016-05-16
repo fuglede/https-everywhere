@@ -1,0 +1,6 @@
+<ruleset name="Mukrim.id">
+	<target host="mukrim.id" />
+	<target host="www.mukrim.id" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

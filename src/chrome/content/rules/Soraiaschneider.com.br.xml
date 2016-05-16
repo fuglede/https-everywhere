@@ -1,0 +1,6 @@
+<ruleset name="Soraiaschneider.com.br">
+	<target host="soraiaschneider.com.br" />
+	<target host="www.soraiaschneider.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

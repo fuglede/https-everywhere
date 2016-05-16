@@ -1,0 +1,6 @@
+<ruleset name="Puddis.de">
+	<target host="puddis.de" />
+	<target host="www.puddis.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

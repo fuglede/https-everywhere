@@ -1,0 +1,6 @@
+<ruleset name="Designportaalbb.nl">
+	<target host="designportaalbb.nl" />
+	<target host="www.designportaalbb.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

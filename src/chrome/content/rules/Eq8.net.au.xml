@@ -1,0 +1,6 @@
+<ruleset name="Eq8.net.au">
+	<target host="eq8.net.au" />
+	<target host="www.eq8.net.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

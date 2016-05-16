@@ -1,0 +1,6 @@
+<ruleset name="Plaintray.com">
+	<target host="plaintray.com" />
+	<target host="www.plaintray.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

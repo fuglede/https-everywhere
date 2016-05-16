@@ -1,0 +1,6 @@
+<ruleset name="Lojadoarcomprimido.com.br">
+	<target host="lojadoarcomprimido.com.br" />
+	<target host="www.lojadoarcomprimido.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

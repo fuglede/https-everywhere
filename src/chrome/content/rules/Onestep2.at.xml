@@ -1,0 +1,6 @@
+<ruleset name="Onestep2.at">
+	<target host="onestep2.at" />
+	<target host="www.onestep2.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

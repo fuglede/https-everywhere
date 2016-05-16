@@ -1,0 +1,6 @@
+<ruleset name="Bitflip.fi">
+	<target host="bitflip.fi" />
+	<target host="www.bitflip.fi" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

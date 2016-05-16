@@ -1,0 +1,6 @@
+<ruleset name="Kubik-rubik.de">
+	<target host="kubik-rubik.de" />
+	<target host="www.kubik-rubik.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

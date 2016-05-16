@@ -1,0 +1,6 @@
+<ruleset name="Valles-blog.de">
+	<target host="valles-blog.de" />
+	<target host="www.valles-blog.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

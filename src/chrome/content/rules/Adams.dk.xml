@@ -1,0 +1,6 @@
+<ruleset name="Adams.dk">
+	<target host="adams.dk" />
+	<target host="www.adams.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

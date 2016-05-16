@@ -1,0 +1,6 @@
+<ruleset name="Carnaticalifornia.com">
+	<target host="carnaticalifornia.com" />
+	<target host="www.carnaticalifornia.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

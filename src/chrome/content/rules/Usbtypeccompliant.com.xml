@@ -1,0 +1,6 @@
+<ruleset name="Usbtypeccompliant.com">
+	<target host="usbtypeccompliant.com" />
+	<target host="www.usbtypeccompliant.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

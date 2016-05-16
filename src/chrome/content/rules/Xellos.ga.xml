@@ -1,0 +1,6 @@
+<ruleset name="Xellos.ga">
+	<target host="xellos.ga" />
+	<target host="www.xellos.ga" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

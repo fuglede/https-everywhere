@@ -1,0 +1,6 @@
+<ruleset name="Cheyennetattoowholesale.com">
+	<target host="cheyennetattoowholesale.com" />
+	<target host="www.cheyennetattoowholesale.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

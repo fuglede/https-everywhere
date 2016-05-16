@@ -1,0 +1,6 @@
+<ruleset name="Sliceone.com">
+	<target host="sliceone.com" />
+	<target host="www.sliceone.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

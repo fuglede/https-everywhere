@@ -1,0 +1,6 @@
+<ruleset name="Infra-con.dk">
+	<target host="infra-con.dk" />
+	<target host="www.infra-con.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

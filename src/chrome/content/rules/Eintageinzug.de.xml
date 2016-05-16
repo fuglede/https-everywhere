@@ -1,0 +1,6 @@
+<ruleset name="Eintageinzug.de">
+	<target host="eintageinzug.de" />
+	<target host="www.eintageinzug.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

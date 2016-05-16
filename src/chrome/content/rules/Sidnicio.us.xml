@@ -1,0 +1,6 @@
+<ruleset name="Sidnicio.us">
+	<target host="sidnicio.us" />
+	<target host="www.sidnicio.us" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

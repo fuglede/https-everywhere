@@ -1,0 +1,6 @@
+<ruleset name="Familybrown.org">
+	<target host="familybrown.org" />
+	<target host="www.familybrown.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

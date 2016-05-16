@@ -1,0 +1,6 @@
+<ruleset name="Wallingford.cc">
+	<target host="wallingford.cc" />
+	<target host="www.wallingford.cc" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

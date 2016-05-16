@@ -1,0 +1,6 @@
+<ruleset name="Zionvps.com">
+	<target host="zionvps.com" />
+	<target host="www.zionvps.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

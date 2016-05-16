@@ -1,0 +1,6 @@
+<ruleset name="Ifasec.de">
+	<target host="ifasec.de" />
+	<target host="www.ifasec.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

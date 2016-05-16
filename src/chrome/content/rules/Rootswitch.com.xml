@@ -1,0 +1,6 @@
+<ruleset name="Rootswitch.com">
+	<target host="rootswitch.com" />
+	<target host="www.rootswitch.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

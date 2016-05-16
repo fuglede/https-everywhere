@@ -1,0 +1,6 @@
+<ruleset name="Tradinghope.com">
+	<target host="tradinghope.com" />
+	<target host="www.tradinghope.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

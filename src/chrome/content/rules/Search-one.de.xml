@@ -1,0 +1,6 @@
+<ruleset name="Search-one.de">
+	<target host="search-one.de" />
+	<target host="www.search-one.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

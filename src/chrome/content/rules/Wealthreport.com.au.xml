@@ -1,0 +1,6 @@
+<ruleset name="Wealthreport.com.au">
+	<target host="wealthreport.com.au" />
+	<target host="www.wealthreport.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

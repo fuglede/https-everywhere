@@ -1,0 +1,6 @@
+<ruleset name="Dawndream.com">
+	<target host="dawndream.com" />
+	<target host="www.dawndream.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

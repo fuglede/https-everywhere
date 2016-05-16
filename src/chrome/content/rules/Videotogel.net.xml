@@ -1,0 +1,6 @@
+<ruleset name="Videotogel.net">
+	<target host="videotogel.net" />
+	<target host="www.videotogel.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

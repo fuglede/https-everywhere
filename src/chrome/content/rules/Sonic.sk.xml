@@ -1,0 +1,6 @@
+<ruleset name="Sonic.sk">
+	<target host="sonic.sk" />
+	<target host="www.sonic.sk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

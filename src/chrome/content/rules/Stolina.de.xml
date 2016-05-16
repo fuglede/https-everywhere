@@ -1,0 +1,6 @@
+<ruleset name="Stolina.de">
+	<target host="stolina.de" />
+	<target host="www.stolina.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

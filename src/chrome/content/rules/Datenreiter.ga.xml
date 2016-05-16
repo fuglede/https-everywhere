@@ -1,0 +1,6 @@
+<ruleset name="Datenreiter.ga">
+	<target host="datenreiter.ga" />
+	<target host="www.datenreiter.ga" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

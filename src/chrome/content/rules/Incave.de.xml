@@ -1,0 +1,6 @@
+<ruleset name="Incave.de">
+	<target host="incave.de" />
+	<target host="www.incave.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

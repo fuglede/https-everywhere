@@ -1,0 +1,6 @@
+<ruleset name="Reseacher.ru">
+	<target host="reseacher.ru" />
+	<target host="www.reseacher.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

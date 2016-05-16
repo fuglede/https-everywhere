@@ -1,0 +1,6 @@
+<ruleset name="Vangeluwedeberlaere.be">
+	<target host="vangeluwedeberlaere.be" />
+	<target host="www.vangeluwedeberlaere.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

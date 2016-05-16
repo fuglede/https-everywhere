@@ -1,0 +1,6 @@
+<ruleset name="Verifiedinvesting.com">
+	<target host="verifiedinvesting.com" />
+	<target host="www.verifiedinvesting.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

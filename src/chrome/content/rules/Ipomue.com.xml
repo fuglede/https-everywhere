@@ -1,0 +1,6 @@
+<ruleset name="Ipomue.com">
+	<target host="ipomue.com" />
+	<target host="www.ipomue.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

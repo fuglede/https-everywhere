@@ -1,0 +1,6 @@
+<ruleset name="Joyoflightyoga.nl">
+	<target host="joyoflightyoga.nl" />
+	<target host="www.joyoflightyoga.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

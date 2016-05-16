@@ -1,0 +1,6 @@
+<ruleset name="Taxisafmatosinhos.pt">
+	<target host="taxisafmatosinhos.pt" />
+	<target host="www.taxisafmatosinhos.pt" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

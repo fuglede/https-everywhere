@@ -1,0 +1,6 @@
+<ruleset name="Getts.ro">
+	<target host="getts.ro" />
+	<target host="www.getts.ro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

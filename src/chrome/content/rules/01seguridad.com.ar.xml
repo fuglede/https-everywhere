@@ -1,0 +1,6 @@
+<ruleset name="01seguridad.com.ar">
+	<target host="01seguridad.com.ar" />
+	<target host="www.01seguridad.com.ar" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

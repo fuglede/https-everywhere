@@ -1,0 +1,6 @@
+<ruleset name="Osticketawesome.com">
+	<target host="osticketawesome.com" />
+	<target host="www.osticketawesome.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

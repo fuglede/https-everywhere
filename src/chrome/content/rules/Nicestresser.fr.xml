@@ -1,0 +1,6 @@
+<ruleset name="Nicestresser.fr">
+	<target host="nicestresser.fr" />
+	<target host="www.nicestresser.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

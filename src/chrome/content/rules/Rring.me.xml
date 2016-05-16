@@ -1,0 +1,6 @@
+<ruleset name="Rring.me">
+	<target host="rring.me" />
+	<target host="www.rring.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

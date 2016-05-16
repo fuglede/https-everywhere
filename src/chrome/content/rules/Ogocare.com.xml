@@ -1,0 +1,6 @@
+<ruleset name="Ogocare.com">
+	<target host="ogocare.com" />
+	<target host="www.ogocare.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

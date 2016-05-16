@@ -1,0 +1,6 @@
+<ruleset name="Wscales.com">
+	<target host="wscales.com" />
+	<target host="www.wscales.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

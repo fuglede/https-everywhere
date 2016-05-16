@@ -1,0 +1,6 @@
+<ruleset name="Medusa.wtf">
+	<target host="medusa.wtf" />
+	<target host="www.medusa.wtf" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

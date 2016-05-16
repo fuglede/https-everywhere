@@ -1,0 +1,6 @@
+<ruleset name="1stcapital.com.sg">
+	<target host="1stcapital.com.sg" />
+	<target host="www.1stcapital.com.sg" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

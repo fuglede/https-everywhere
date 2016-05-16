@@ -1,0 +1,6 @@
+<ruleset name="Under30stravelinsurance.com.au">
+	<target host="under30stravelinsurance.com.au" />
+	<target host="www.under30stravelinsurance.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

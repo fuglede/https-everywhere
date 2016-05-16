@@ -1,0 +1,6 @@
+<ruleset name="Aisle3.space">
+	<target host="aisle3.space" />
+	<target host="www.aisle3.space" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

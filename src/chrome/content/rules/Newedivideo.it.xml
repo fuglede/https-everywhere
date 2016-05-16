@@ -1,0 +1,6 @@
+<ruleset name="Newedivideo.it">
+	<target host="newedivideo.it" />
+	<target host="www.newedivideo.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

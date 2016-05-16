@@ -1,0 +1,6 @@
+<ruleset name="Ejj.lol">
+	<target host="ejj.lol" />
+	<target host="www.ejj.lol" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Saba-piserver.info">
+	<target host="saba-piserver.info" />
+	<target host="www.saba-piserver.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

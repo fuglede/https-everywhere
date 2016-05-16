@@ -1,0 +1,6 @@
+<ruleset name="Netfactory.dk">
+	<target host="netfactory.dk" />
+	<target host="www.netfactory.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

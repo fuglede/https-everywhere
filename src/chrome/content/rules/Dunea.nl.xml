@@ -1,0 +1,6 @@
+<ruleset name="Dunea.nl">
+	<target host="dunea.nl" />
+	<target host="www.dunea.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

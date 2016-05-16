@@ -1,0 +1,6 @@
+<ruleset name="Mipiaci.com.au">
+	<target host="mipiaci.com.au" />
+	<target host="www.mipiaci.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

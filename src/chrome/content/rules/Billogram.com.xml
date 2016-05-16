@@ -1,0 +1,6 @@
+<ruleset name="Billogram.com">
+	<target host="billogram.com" />
+	<target host="www.billogram.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

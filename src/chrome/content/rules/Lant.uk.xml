@@ -1,0 +1,6 @@
+<ruleset name="Lant.uk">
+	<target host="lant.uk" />
+	<target host="www.lant.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

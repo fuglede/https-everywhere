@@ -1,0 +1,6 @@
+<ruleset name="Birdfeeder.online">
+	<target host="birdfeeder.online" />
+	<target host="www.birdfeeder.online" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

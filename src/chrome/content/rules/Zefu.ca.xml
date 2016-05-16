@@ -1,0 +1,6 @@
+<ruleset name="Zefu.ca">
+	<target host="zefu.ca" />
+	<target host="www.zefu.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

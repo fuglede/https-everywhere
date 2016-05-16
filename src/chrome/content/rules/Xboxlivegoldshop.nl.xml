@@ -1,0 +1,6 @@
+<ruleset name="Xboxlivegoldshop.nl">
+	<target host="xboxlivegoldshop.nl" />
+	<target host="www.xboxlivegoldshop.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

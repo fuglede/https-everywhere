@@ -1,0 +1,6 @@
+<ruleset name="Vleij.family">
+	<target host="vleij.family" />
+	<target host="www.vleij.family" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

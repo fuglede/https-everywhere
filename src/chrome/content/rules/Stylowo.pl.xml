@@ -1,0 +1,6 @@
+<ruleset name="Stylowo.pl">
+	<target host="stylowo.pl" />
+	<target host="www.stylowo.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

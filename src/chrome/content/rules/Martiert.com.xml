@@ -1,0 +1,6 @@
+<ruleset name="Martiert.com">
+	<target host="martiert.com" />
+	<target host="www.martiert.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

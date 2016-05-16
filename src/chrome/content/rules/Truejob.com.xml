@@ -1,0 +1,6 @@
+<ruleset name="Truejob.com">
+	<target host="truejob.com" />
+	<target host="www.truejob.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

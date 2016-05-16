@@ -1,0 +1,6 @@
+<ruleset name="Cybercod.com">
+	<target host="cybercod.com" />
+	<target host="www.cybercod.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

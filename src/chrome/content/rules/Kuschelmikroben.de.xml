@@ -1,0 +1,6 @@
+<ruleset name="Kuschelmikroben.de">
+	<target host="kuschelmikroben.de" />
+	<target host="www.kuschelmikroben.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

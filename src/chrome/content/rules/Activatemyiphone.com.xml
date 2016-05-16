@@ -1,0 +1,6 @@
+<ruleset name="Activatemyiphone.com">
+	<target host="activatemyiphone.com" />
+	<target host="www.activatemyiphone.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

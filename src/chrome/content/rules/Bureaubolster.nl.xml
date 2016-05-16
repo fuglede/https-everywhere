@@ -1,0 +1,6 @@
+<ruleset name="Bureaubolster.nl">
+	<target host="bureaubolster.nl" />
+	<target host="www.bureaubolster.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Natalt.org">
+	<target host="natalt.org" />
+	<target host="www.natalt.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Zettaplan.ru">
+	<target host="zettaplan.ru" />
+	<target host="www.zettaplan.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

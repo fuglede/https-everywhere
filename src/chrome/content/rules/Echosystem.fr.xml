@@ -1,0 +1,6 @@
+<ruleset name="Echosystem.fr">
+	<target host="echosystem.fr" />
+	<target host="www.echosystem.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

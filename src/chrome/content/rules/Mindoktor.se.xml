@@ -1,0 +1,6 @@
+<ruleset name="Mindoktor.se">
+	<target host="mindoktor.se" />
+	<target host="www.mindoktor.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

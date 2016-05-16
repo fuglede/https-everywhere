@@ -1,0 +1,6 @@
+<ruleset name="Portalzine.de">
+	<target host="portalzine.de" />
+	<target host="www.portalzine.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

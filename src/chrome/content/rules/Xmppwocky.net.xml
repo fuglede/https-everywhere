@@ -1,0 +1,6 @@
+<ruleset name="Xmppwocky.net">
+	<target host="xmppwocky.net" />
+	<target host="www.xmppwocky.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

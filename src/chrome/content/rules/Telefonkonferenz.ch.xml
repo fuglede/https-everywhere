@@ -1,0 +1,6 @@
+<ruleset name="Telefonkonferenz.ch">
+	<target host="telefonkonferenz.ch" />
+	<target host="www.telefonkonferenz.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

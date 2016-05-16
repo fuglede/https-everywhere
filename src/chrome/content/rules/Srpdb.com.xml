@@ -1,0 +1,6 @@
+<ruleset name="Srpdb.com">
+	<target host="srpdb.com" />
+	<target host="www.srpdb.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Bmone.net">
+	<target host="bmone.net" />
+	<target host="www.bmone.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

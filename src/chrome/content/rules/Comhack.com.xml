@@ -1,0 +1,6 @@
+<ruleset name="Comhack.com">
+	<target host="comhack.com" />
+	<target host="www.comhack.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

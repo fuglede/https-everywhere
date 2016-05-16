@@ -1,0 +1,6 @@
+<ruleset name="Sanradon.by">
+	<target host="sanradon.by" />
+	<target host="www.sanradon.by" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

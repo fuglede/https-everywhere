@@ -1,0 +1,6 @@
+<ruleset name="Management-ethics.com">
+	<target host="management-ethics.com" />
+	<target host="www.management-ethics.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

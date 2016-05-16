@@ -1,0 +1,6 @@
+<ruleset name="Hippies.com.br">
+	<target host="hippies.com.br" />
+	<target host="www.hippies.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

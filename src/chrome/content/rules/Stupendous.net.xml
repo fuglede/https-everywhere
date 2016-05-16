@@ -1,0 +1,6 @@
+<ruleset name="Stupendous.net">
+	<target host="stupendous.net" />
+	<target host="www.stupendous.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

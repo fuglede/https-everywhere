@@ -1,0 +1,6 @@
+<ruleset name="Paster.li">
+	<target host="paster.li" />
+	<target host="www.paster.li" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

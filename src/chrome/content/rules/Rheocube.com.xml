@@ -1,0 +1,6 @@
+<ruleset name="Rheocube.com">
+	<target host="rheocube.com" />
+	<target host="www.rheocube.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Timotrans.eu">
+	<target host="timotrans.eu" />
+	<target host="www.timotrans.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Centraldelances.net">
+	<target host="centraldelances.net" />
+	<target host="www.centraldelances.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

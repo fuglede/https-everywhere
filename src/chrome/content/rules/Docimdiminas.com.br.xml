@@ -1,0 +1,6 @@
+<ruleset name="Docimdiminas.com.br">
+	<target host="docimdiminas.com.br" />
+	<target host="www.docimdiminas.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

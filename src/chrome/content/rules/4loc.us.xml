@@ -1,0 +1,6 @@
+<ruleset name="4loc.us">
+	<target host="4loc.us" />
+	<target host="www.4loc.us" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

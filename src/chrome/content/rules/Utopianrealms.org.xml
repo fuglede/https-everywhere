@@ -1,0 +1,6 @@
+<ruleset name="Utopianrealms.org">
+	<target host="utopianrealms.org" />
+	<target host="www.utopianrealms.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

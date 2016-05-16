@@ -1,0 +1,6 @@
+<ruleset name="Cryptearth.de">
+	<target host="cryptearth.de" />
+	<target host="www.cryptearth.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

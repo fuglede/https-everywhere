@@ -1,0 +1,6 @@
+<ruleset name="Theclementinebutchers.com">
+	<target host="theclementinebutchers.com" />
+	<target host="www.theclementinebutchers.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

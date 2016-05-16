@@ -1,0 +1,6 @@
+<ruleset name="Maeg.net">
+	<target host="maeg.net" />
+	<target host="www.maeg.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

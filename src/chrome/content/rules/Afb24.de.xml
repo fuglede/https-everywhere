@@ -1,0 +1,6 @@
+<ruleset name="Afb24.de">
+	<target host="afb24.de" />
+	<target host="www.afb24.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

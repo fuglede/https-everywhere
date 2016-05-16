@@ -1,0 +1,6 @@
+<ruleset name="Iklive.org">
+	<target host="iklive.org" />
+	<target host="www.iklive.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

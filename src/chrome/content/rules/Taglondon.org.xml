@@ -1,0 +1,6 @@
+<ruleset name="Taglondon.org">
+	<target host="taglondon.org" />
+	<target host="www.taglondon.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

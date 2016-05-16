@@ -1,0 +1,6 @@
+<ruleset name="Marriottvetcareers.com">
+	<target host="marriottvetcareers.com" />
+	<target host="www.marriottvetcareers.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

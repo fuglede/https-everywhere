@@ -1,0 +1,6 @@
+<ruleset name="Cfxdesign.com">
+	<target host="cfxdesign.com" />
+	<target host="www.cfxdesign.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

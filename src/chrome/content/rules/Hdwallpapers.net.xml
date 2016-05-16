@@ -1,0 +1,6 @@
+<ruleset name="Hdwallpapers.net">
+	<target host="hdwallpapers.net" />
+	<target host="www.hdwallpapers.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Asianodor.com">
+	<target host="asianodor.com" />
+	<target host="www.asianodor.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

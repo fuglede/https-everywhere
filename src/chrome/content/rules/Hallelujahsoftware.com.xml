@@ -1,0 +1,6 @@
+<ruleset name="Hallelujahsoftware.com">
+	<target host="hallelujahsoftware.com" />
+	<target host="www.hallelujahsoftware.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Fotocerita.net">
+	<target host="fotocerita.net" />
+	<target host="www.fotocerita.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

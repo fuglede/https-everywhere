@@ -1,0 +1,6 @@
+<ruleset name="Tmppro.com">
+	<target host="tmppro.com" />
+	<target host="www.tmppro.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

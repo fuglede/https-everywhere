@@ -1,0 +1,6 @@
+<ruleset name="Htmue.org">
+	<target host="htmue.org" />
+	<target host="www.htmue.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

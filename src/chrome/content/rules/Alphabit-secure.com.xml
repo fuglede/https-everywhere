@@ -1,0 +1,6 @@
+<ruleset name="Alphabit-secure.com">
+	<target host="alphabit-secure.com" />
+	<target host="www.alphabit-secure.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

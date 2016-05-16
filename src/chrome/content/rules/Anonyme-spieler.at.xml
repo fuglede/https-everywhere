@@ -1,0 +1,6 @@
+<ruleset name="Anonyme-spieler.at">
+	<target host="anonyme-spieler.at" />
+	<target host="www.anonyme-spieler.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

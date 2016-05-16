@@ -1,0 +1,6 @@
+<ruleset name="Mizi.name">
+	<target host="mizi.name" />
+	<target host="www.mizi.name" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

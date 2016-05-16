@@ -1,0 +1,6 @@
+<ruleset name="Vistaalmar.es">
+	<target host="vistaalmar.es" />
+	<target host="www.vistaalmar.es" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

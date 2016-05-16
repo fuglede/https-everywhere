@@ -1,0 +1,6 @@
+<ruleset name="Wiberg.nu">
+	<target host="wiberg.nu" />
+	<target host="www.wiberg.nu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

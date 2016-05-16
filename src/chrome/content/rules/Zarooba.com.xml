@@ -1,0 +1,6 @@
+<ruleset name="Zarooba.com">
+	<target host="zarooba.com" />
+	<target host="www.zarooba.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

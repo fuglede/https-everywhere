@@ -1,0 +1,6 @@
+<ruleset name="Magenx.com">
+	<target host="magenx.com" />
+	<target host="www.magenx.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

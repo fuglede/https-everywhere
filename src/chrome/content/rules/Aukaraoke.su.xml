@@ -1,0 +1,6 @@
+<ruleset name="Aukaraoke.su">
+	<target host="aukaraoke.su" />
+	<target host="www.aukaraoke.su" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

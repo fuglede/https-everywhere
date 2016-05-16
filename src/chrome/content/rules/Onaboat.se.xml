@@ -1,0 +1,6 @@
+<ruleset name="Onaboat.se">
+	<target host="onaboat.se" />
+	<target host="www.onaboat.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

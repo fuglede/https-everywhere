@@ -1,0 +1,6 @@
+<ruleset name="Get-asterisk.ru">
+	<target host="get-asterisk.ru" />
+	<target host="www.get-asterisk.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

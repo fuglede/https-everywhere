@@ -1,0 +1,6 @@
+<ruleset name="Pastaf.com">
+	<target host="pastaf.com" />
+	<target host="www.pastaf.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

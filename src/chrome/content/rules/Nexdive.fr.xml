@@ -1,0 +1,6 @@
+<ruleset name="Nexdive.fr">
+	<target host="nexdive.fr" />
+	<target host="www.nexdive.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

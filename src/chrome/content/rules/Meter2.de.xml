@@ -1,0 +1,6 @@
+<ruleset name="Meter2.de">
+	<target host="meter2.de" />
+	<target host="www.meter2.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Mamaisonengascogne.com">
+	<target host="mamaisonengascogne.com" />
+	<target host="www.mamaisonengascogne.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

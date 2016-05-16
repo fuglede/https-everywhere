@@ -1,0 +1,6 @@
+<ruleset name="Jimgao.tk">
+	<target host="jimgao.tk" />
+	<target host="www.jimgao.tk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

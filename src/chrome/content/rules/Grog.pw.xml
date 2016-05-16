@@ -1,0 +1,6 @@
+<ruleset name="Grog.pw">
+	<target host="grog.pw" />
+	<target host="www.grog.pw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

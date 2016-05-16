@@ -1,0 +1,6 @@
+<ruleset name="Shoppp.co">
+	<target host="shoppp.co" />
+	<target host="www.shoppp.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

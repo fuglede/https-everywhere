@@ -1,0 +1,6 @@
+<ruleset name="Petchart.net">
+	<target host="petchart.net" />
+	<target host="www.petchart.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

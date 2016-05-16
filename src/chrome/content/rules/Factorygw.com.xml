@@ -1,0 +1,6 @@
+<ruleset name="Factorygw.com">
+	<target host="factorygw.com" />
+	<target host="www.factorygw.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

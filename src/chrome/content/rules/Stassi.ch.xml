@@ -1,0 +1,6 @@
+<ruleset name="Stassi.ch">
+	<target host="stassi.ch" />
+	<target host="www.stassi.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

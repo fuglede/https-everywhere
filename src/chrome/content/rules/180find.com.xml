@@ -1,0 +1,6 @@
+<ruleset name="180find.com">
+	<target host="180find.com" />
+	<target host="www.180find.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

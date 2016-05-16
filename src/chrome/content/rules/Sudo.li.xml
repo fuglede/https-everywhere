@@ -1,0 +1,6 @@
+<ruleset name="Sudo.li">
+	<target host="sudo.li" />
+	<target host="www.sudo.li" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

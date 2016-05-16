@@ -1,0 +1,6 @@
+<ruleset name="Revamed.com">
+	<target host="revamed.com" />
+	<target host="www.revamed.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

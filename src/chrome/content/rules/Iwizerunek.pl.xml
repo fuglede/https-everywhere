@@ -1,0 +1,6 @@
+<ruleset name="Iwizerunek.pl">
+	<target host="iwizerunek.pl" />
+	<target host="www.iwizerunek.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

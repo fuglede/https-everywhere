@@ -1,0 +1,6 @@
+<ruleset name="Jrvar.com">
+	<target host="jrvar.com" />
+	<target host="www.jrvar.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

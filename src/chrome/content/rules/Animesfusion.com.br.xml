@@ -1,0 +1,6 @@
+<ruleset name="Animesfusion.com.br">
+	<target host="animesfusion.com.br" />
+	<target host="www.animesfusion.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Romulusapp.com">
+	<target host="romulusapp.com" />
+	<target host="www.romulusapp.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Poris.web.id">
+	<target host="poris.web.id" />
+	<target host="www.poris.web.id" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

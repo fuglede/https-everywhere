@@ -1,0 +1,6 @@
+<ruleset name="Anycoin.me">
+	<target host="anycoin.me" />
+	<target host="www.anycoin.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

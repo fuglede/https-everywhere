@@ -1,0 +1,6 @@
+<ruleset name="Olymp-arts.world">
+	<target host="olymp-arts.world" />
+	<target host="www.olymp-arts.world" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

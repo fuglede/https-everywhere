@@ -1,0 +1,6 @@
+<ruleset name="Yetii.net">
+	<target host="yetii.net" />
+	<target host="www.yetii.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Kermadec.net">
+	<target host="kermadec.net" />
+	<target host="www.kermadec.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

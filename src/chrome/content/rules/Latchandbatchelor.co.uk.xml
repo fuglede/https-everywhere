@@ -1,0 +1,6 @@
+<ruleset name="Latchandbatchelor.co.uk">
+	<target host="latchandbatchelor.co.uk" />
+	<target host="www.latchandbatchelor.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

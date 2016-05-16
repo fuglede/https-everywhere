@@ -1,0 +1,6 @@
+<ruleset name="Lunarift.com">
+	<target host="lunarift.com" />
+	<target host="www.lunarift.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

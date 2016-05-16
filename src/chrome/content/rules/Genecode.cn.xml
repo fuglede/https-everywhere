@@ -1,0 +1,6 @@
+<ruleset name="Genecode.cn">
+	<target host="genecode.cn" />
+	<target host="www.genecode.cn" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

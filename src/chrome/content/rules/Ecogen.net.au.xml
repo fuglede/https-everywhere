@@ -1,0 +1,6 @@
+<ruleset name="Ecogen.net.au">
+	<target host="ecogen.net.au" />
+	<target host="www.ecogen.net.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

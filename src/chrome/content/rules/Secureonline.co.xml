@@ -1,0 +1,6 @@
+<ruleset name="Secureonline.co">
+	<target host="secureonline.co" />
+	<target host="www.secureonline.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

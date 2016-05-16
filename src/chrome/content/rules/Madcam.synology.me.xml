@@ -1,0 +1,6 @@
+<ruleset name="Madcam.synology.me">
+	<target host="madcam.synology.me" />
+	<target host="www.madcam.synology.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Bngsecure.com">
+	<target host="bngsecure.com" />
+	<target host="www.bngsecure.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Mindbodycontinuum.com">
+	<target host="mindbodycontinuum.com" />
+	<target host="www.mindbodycontinuum.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

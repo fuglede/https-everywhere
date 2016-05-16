@@ -1,0 +1,6 @@
+<ruleset name="Amitube.com">
+	<target host="amitube.com" />
+	<target host="www.amitube.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

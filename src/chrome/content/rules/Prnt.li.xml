@@ -1,0 +1,6 @@
+<ruleset name="Prnt.li">
+	<target host="prnt.li" />
+	<target host="www.prnt.li" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

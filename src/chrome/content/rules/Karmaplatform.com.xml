@@ -1,0 +1,6 @@
+<ruleset name="Karmaplatform.com">
+	<target host="karmaplatform.com" />
+	<target host="www.karmaplatform.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

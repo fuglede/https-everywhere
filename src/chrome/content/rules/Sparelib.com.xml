@@ -1,0 +1,6 @@
+<ruleset name="Sparelib.com">
+	<target host="sparelib.com" />
+	<target host="www.sparelib.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

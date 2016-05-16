@@ -1,0 +1,6 @@
+<ruleset name="Befundonline.de">
+	<target host="befundonline.de" />
+	<target host="www.befundonline.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Salserototal.com">
+	<target host="salserototal.com" />
+	<target host="www.salserototal.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Sqr-training.com">
+	<target host="sqr-training.com" />
+	<target host="www.sqr-training.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

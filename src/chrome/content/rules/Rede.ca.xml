@@ -1,0 +1,6 @@
+<ruleset name="Rede.ca">
+	<target host="rede.ca" />
+	<target host="www.rede.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

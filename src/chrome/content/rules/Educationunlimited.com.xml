@@ -1,0 +1,6 @@
+<ruleset name="Educationunlimited.com">
+	<target host="educationunlimited.com" />
+	<target host="www.educationunlimited.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

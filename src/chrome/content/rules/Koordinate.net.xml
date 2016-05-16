@@ -1,0 +1,6 @@
+<ruleset name="Koordinate.net">
+	<target host="koordinate.net" />
+	<target host="www.koordinate.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

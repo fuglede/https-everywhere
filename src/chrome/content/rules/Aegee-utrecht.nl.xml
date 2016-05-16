@@ -1,0 +1,6 @@
+<ruleset name="Aegee-utrecht.nl">
+	<target host="aegee-utrecht.nl" />
+	<target host="www.aegee-utrecht.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

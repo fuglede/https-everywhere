@@ -1,0 +1,6 @@
+<ruleset name="Cpuvinf.eu.org">
+	<target host="cpuvinf.eu.org" />
+	<target host="www.cpuvinf.eu.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

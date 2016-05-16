@@ -1,0 +1,6 @@
+<ruleset name="Bitvigor.com">
+	<target host="bitvigor.com" />
+	<target host="www.bitvigor.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Privatestatic.com">
+	<target host="privatestatic.com" />
+	<target host="www.privatestatic.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

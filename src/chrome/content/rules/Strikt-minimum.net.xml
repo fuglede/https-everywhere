@@ -1,0 +1,6 @@
+<ruleset name="Strikt-minimum.net">
+	<target host="strikt-minimum.net" />
+	<target host="www.strikt-minimum.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

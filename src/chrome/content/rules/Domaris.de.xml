@@ -1,0 +1,6 @@
+<ruleset name="Domaris.de">
+	<target host="domaris.de" />
+	<target host="www.domaris.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

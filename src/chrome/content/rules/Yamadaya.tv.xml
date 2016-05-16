@@ -1,0 +1,6 @@
+<ruleset name="Yamadaya.tv">
+	<target host="yamadaya.tv" />
+	<target host="www.yamadaya.tv" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

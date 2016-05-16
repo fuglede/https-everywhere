@@ -1,0 +1,6 @@
+<ruleset name="Kcad.pw">
+	<target host="kcad.pw" />
+	<target host="www.kcad.pw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Bpastudies.org">
+	<target host="bpastudies.org" />
+	<target host="www.bpastudies.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

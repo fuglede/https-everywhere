@@ -1,0 +1,6 @@
+<ruleset name="Scriptict.nl">
+	<target host="scriptict.nl" />
+	<target host="www.scriptict.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

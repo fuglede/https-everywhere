@@ -1,0 +1,6 @@
+<ruleset name="Centralstatecu.org">
+	<target host="centralstatecu.org" />
+	<target host="www.centralstatecu.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

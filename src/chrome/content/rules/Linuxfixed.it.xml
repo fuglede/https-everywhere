@@ -1,0 +1,6 @@
+<ruleset name="Linuxfixed.it">
+	<target host="linuxfixed.it" />
+	<target host="www.linuxfixed.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

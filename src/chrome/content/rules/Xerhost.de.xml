@@ -1,0 +1,6 @@
+<ruleset name="Xerhost.de">
+	<target host="xerhost.de" />
+	<target host="www.xerhost.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

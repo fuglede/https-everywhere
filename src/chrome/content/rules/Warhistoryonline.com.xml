@@ -1,0 +1,6 @@
+<ruleset name="Warhistoryonline.com">
+	<target host="warhistoryonline.com" />
+	<target host="www.warhistoryonline.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

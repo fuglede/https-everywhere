@@ -1,0 +1,6 @@
+<ruleset name="Mnemotiv.com">
+	<target host="mnemotiv.com" />
+	<target host="www.mnemotiv.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

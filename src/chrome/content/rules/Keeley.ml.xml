@@ -1,0 +1,6 @@
+<ruleset name="Keeley.ml">
+	<target host="keeley.ml" />
+	<target host="www.keeley.ml" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

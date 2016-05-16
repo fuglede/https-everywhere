@@ -1,0 +1,6 @@
+<ruleset name="Sphere.ms">
+	<target host="sphere.ms" />
+	<target host="www.sphere.ms" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

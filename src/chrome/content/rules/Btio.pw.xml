@@ -1,0 +1,6 @@
+<ruleset name="Btio.pw">
+	<target host="btio.pw" />
+	<target host="www.btio.pw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

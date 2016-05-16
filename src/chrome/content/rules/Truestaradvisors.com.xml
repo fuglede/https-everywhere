@@ -1,0 +1,6 @@
+<ruleset name="Truestaradvisors.com">
+	<target host="truestaradvisors.com" />
+	<target host="www.truestaradvisors.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

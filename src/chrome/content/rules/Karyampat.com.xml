@@ -1,0 +1,6 @@
+<ruleset name="Karyampat.com">
+	<target host="karyampat.com" />
+	<target host="www.karyampat.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

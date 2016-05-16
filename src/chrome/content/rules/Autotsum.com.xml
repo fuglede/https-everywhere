@@ -1,0 +1,6 @@
+<ruleset name="Autotsum.com">
+	<target host="autotsum.com" />
+	<target host="www.autotsum.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

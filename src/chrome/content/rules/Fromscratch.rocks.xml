@@ -1,0 +1,6 @@
+<ruleset name="Fromscratch.rocks">
+	<target host="fromscratch.rocks" />
+	<target host="www.fromscratch.rocks" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

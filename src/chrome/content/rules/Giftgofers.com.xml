@@ -1,0 +1,6 @@
+<ruleset name="Giftgofers.com">
+	<target host="giftgofers.com" />
+	<target host="www.giftgofers.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

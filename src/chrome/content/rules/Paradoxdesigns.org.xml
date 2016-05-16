@@ -1,0 +1,6 @@
+<ruleset name="Paradoxdesigns.org">
+	<target host="paradoxdesigns.org" />
+	<target host="www.paradoxdesigns.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

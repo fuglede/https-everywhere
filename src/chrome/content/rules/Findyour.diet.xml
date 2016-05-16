@@ -1,0 +1,6 @@
+<ruleset name="Findyour.diet">
+	<target host="findyour.diet" />
+	<target host="www.findyour.diet" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

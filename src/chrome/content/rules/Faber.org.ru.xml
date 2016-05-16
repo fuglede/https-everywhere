@@ -1,0 +1,6 @@
+<ruleset name="Faber.org.ru">
+	<target host="faber.org.ru" />
+	<target host="www.faber.org.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

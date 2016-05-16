@@ -1,0 +1,6 @@
+<ruleset name="Urban.melbourne">
+	<target host="urban.melbourne" />
+	<target host="www.urban.melbourne" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

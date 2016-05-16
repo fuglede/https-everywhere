@@ -1,0 +1,6 @@
+<ruleset name="Archlab.fr">
+	<target host="archlab.fr" />
+	<target host="www.archlab.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

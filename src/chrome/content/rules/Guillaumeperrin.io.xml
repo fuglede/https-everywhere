@@ -1,0 +1,6 @@
+<ruleset name="Guillaumeperrin.io">
+	<target host="guillaumeperrin.io" />
+	<target host="www.guillaumeperrin.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

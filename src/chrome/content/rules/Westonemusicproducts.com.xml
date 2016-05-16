@@ -1,0 +1,6 @@
+<ruleset name="Westonemusicproducts.com">
+	<target host="westonemusicproducts.com" />
+	<target host="www.westonemusicproducts.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

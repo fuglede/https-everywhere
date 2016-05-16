@@ -1,0 +1,6 @@
+<ruleset name="Wiblin.net">
+	<target host="wiblin.net" />
+	<target host="www.wiblin.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Spititout.it">
+	<target host="spititout.it" />
+	<target host="www.spititout.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

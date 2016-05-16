@@ -1,0 +1,6 @@
+<ruleset name="Kitabgaul.com">
+	<target host="kitabgaul.com" />
+	<target host="www.kitabgaul.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

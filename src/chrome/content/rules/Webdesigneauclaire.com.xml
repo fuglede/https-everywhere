@@ -1,0 +1,6 @@
+<ruleset name="Webdesigneauclaire.com">
+	<target host="webdesigneauclaire.com" />
+	<target host="www.webdesigneauclaire.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

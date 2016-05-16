@@ -1,0 +1,6 @@
+<ruleset name="Bbdos.ru">
+	<target host="bbdos.ru" />
+	<target host="www.bbdos.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

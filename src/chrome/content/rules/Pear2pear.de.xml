@@ -1,0 +1,6 @@
+<ruleset name="Pear2pear.de">
+	<target host="pear2pear.de" />
+	<target host="www.pear2pear.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

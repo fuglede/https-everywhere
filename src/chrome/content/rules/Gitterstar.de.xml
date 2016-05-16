@@ -1,0 +1,6 @@
+<ruleset name="Gitterstar.de">
+	<target host="gitterstar.de" />
+	<target host="www.gitterstar.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

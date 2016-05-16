@@ -1,0 +1,6 @@
+<ruleset name="Leedev.org">
+	<target host="leedev.org" />
+	<target host="www.leedev.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

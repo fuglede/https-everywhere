@@ -1,0 +1,6 @@
+<ruleset name="Predoiu.ro">
+	<target host="predoiu.ro" />
+	<target host="www.predoiu.ro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

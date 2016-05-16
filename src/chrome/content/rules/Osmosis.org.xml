@@ -1,0 +1,6 @@
+<ruleset name="Osmosis.org">
+	<target host="osmosis.org" />
+	<target host="www.osmosis.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

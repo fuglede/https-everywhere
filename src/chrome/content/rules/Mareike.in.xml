@@ -1,0 +1,6 @@
+<ruleset name="Mareike.in">
+	<target host="mareike.in" />
+	<target host="www.mareike.in" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

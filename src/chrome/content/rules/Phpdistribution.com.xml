@@ -1,0 +1,6 @@
+<ruleset name="Phpdistribution.com">
+	<target host="phpdistribution.com" />
+	<target host="www.phpdistribution.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

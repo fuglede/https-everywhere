@@ -1,0 +1,6 @@
+<ruleset name="Flamingkeys.com.au">
+	<target host="flamingkeys.com.au" />
+	<target host="www.flamingkeys.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

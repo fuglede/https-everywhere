@@ -1,0 +1,6 @@
+<ruleset name="Craftedge.xyz">
+	<target host="craftedge.xyz" />
+	<target host="www.craftedge.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

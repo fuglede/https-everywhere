@@ -1,0 +1,6 @@
+<ruleset name="Bjoern-brinkmann.de">
+	<target host="bjoern-brinkmann.de" />
+	<target host="www.bjoern-brinkmann.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Zimiao.moe">
+	<target host="zimiao.moe" />
+	<target host="www.zimiao.moe" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

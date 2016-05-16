@@ -1,0 +1,6 @@
+<ruleset name="Tailpuff.net">
+	<target host="tailpuff.net" />
+	<target host="www.tailpuff.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Soll-i.ch">
+	<target host="soll-i.ch" />
+	<target host="www.soll-i.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

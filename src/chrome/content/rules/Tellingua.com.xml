@@ -1,0 +1,6 @@
+<ruleset name="Tellingua.com">
+	<target host="tellingua.com" />
+	<target host="www.tellingua.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

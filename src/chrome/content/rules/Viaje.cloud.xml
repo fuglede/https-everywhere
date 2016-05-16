@@ -1,0 +1,6 @@
+<ruleset name="Viaje.cloud">
+	<target host="viaje.cloud" />
+	<target host="www.viaje.cloud" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="12vpn.org">
+	<target host="12vpn.org" />
+	<target host="www.12vpn.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

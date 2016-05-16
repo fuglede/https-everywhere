@@ -1,0 +1,6 @@
+<ruleset name="Mailer-dot.de">
+	<target host="mailer-dot.de" />
+	<target host="www.mailer-dot.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

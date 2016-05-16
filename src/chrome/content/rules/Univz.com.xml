@@ -1,0 +1,6 @@
+<ruleset name="Univz.com">
+	<target host="univz.com" />
+	<target host="www.univz.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

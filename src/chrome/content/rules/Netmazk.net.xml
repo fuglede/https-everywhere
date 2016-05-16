@@ -1,0 +1,6 @@
+<ruleset name="Netmazk.net">
+	<target host="netmazk.net" />
+	<target host="www.netmazk.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

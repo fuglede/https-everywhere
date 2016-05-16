@@ -1,0 +1,6 @@
+<ruleset name="Inzdr.com">
+	<target host="inzdr.com" />
+	<target host="www.inzdr.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

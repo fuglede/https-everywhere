@@ -1,0 +1,6 @@
+<ruleset name="Darkside.re">
+	<target host="darkside.re" />
+	<target host="www.darkside.re" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

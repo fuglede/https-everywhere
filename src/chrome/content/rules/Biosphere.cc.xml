@@ -1,0 +1,6 @@
+<ruleset name="Biosphere.cc">
+	<target host="biosphere.cc" />
+	<target host="www.biosphere.cc" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

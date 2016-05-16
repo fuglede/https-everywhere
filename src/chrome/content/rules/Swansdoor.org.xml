@@ -1,0 +1,6 @@
+<ruleset name="Swansdoor.org">
+	<target host="swansdoor.org" />
+	<target host="www.swansdoor.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

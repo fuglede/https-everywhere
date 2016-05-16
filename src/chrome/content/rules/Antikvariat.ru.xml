@@ -1,0 +1,6 @@
+<ruleset name="Antikvariat.ru">
+	<target host="antikvariat.ru" />
+	<target host="www.antikvariat.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

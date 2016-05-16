@@ -1,0 +1,6 @@
+<ruleset name="Stagingjobshq.com">
+	<target host="stagingjobshq.com" />
+	<target host="www.stagingjobshq.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

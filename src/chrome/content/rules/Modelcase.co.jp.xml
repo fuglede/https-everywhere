@@ -1,0 +1,6 @@
+<ruleset name="Modelcase.co.jp">
+	<target host="modelcase.co.jp" />
+	<target host="www.modelcase.co.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

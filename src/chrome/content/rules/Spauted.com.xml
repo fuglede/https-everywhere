@@ -1,0 +1,6 @@
+<ruleset name="Spauted.com">
+	<target host="spauted.com" />
+	<target host="www.spauted.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

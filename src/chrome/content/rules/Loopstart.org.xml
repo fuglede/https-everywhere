@@ -1,0 +1,6 @@
+<ruleset name="Loopstart.org">
+	<target host="loopstart.org" />
+	<target host="www.loopstart.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Asso-tec.fr">
+	<target host="asso-tec.fr" />
+	<target host="www.asso-tec.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Ceml.ch">
+	<target host="ceml.ch" />
+	<target host="www.ceml.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Cdn6.de">
+	<target host="cdn6.de" />
+	<target host="www.cdn6.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

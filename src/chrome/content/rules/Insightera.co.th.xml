@@ -1,0 +1,6 @@
+<ruleset name="Insightera.co.th">
+	<target host="insightera.co.th" />
+	<target host="www.insightera.co.th" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

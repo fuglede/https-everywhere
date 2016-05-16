@@ -1,0 +1,6 @@
+<ruleset name="Trondelan.no">
+	<target host="trondelan.no" />
+	<target host="www.trondelan.no" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

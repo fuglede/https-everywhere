@@ -1,0 +1,6 @@
+<ruleset name="Pumpgames.net">
+	<target host="pumpgames.net" />
+	<target host="www.pumpgames.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

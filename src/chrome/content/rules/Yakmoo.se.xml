@@ -1,0 +1,6 @@
+<ruleset name="Yakmoo.se">
+	<target host="yakmoo.se" />
+	<target host="www.yakmoo.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

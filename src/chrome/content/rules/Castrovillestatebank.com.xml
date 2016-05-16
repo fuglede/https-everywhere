@@ -1,0 +1,6 @@
+<ruleset name="Castrovillestatebank.com">
+	<target host="castrovillestatebank.com" />
+	<target host="www.castrovillestatebank.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

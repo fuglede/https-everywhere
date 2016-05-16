@@ -1,0 +1,6 @@
+<ruleset name="Lingerie.com.br">
+	<target host="lingerie.com.br" />
+	<target host="www.lingerie.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

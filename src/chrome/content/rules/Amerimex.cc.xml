@@ -1,0 +1,6 @@
+<ruleset name="Amerimex.cc">
+	<target host="amerimex.cc" />
+	<target host="www.amerimex.cc" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

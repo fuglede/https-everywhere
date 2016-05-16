@@ -1,0 +1,6 @@
+<ruleset name="Swiss-cyber-experts.ch">
+	<target host="swiss-cyber-experts.ch" />
+	<target host="www.swiss-cyber-experts.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Naminam.de">
+	<target host="naminam.de" />
+	<target host="www.naminam.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

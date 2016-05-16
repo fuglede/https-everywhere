@@ -1,0 +1,6 @@
+<ruleset name="Skatn.de">
+	<target host="skatn.de" />
+	<target host="www.skatn.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

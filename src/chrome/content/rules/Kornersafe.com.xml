@@ -1,0 +1,6 @@
+<ruleset name="Kornersafe.com">
+	<target host="kornersafe.com" />
+	<target host="www.kornersafe.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

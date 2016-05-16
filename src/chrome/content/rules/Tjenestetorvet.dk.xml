@@ -1,0 +1,6 @@
+<ruleset name="Tjenestetorvet.dk">
+	<target host="tjenestetorvet.dk" />
+	<target host="www.tjenestetorvet.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

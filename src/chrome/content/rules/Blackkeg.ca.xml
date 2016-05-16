@@ -1,0 +1,6 @@
+<ruleset name="Blackkeg.ca">
+	<target host="blackkeg.ca" />
+	<target host="www.blackkeg.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

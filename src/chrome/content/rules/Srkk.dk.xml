@@ -1,0 +1,6 @@
+<ruleset name="Srkk.dk">
+	<target host="srkk.dk" />
+	<target host="www.srkk.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

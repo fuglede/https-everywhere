@@ -1,0 +1,6 @@
+<ruleset name="Shiftplanning.com">
+	<target host="shiftplanning.com" />
+	<target host="www.shiftplanning.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

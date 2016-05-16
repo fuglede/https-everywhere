@@ -1,0 +1,6 @@
+<ruleset name="Crmaddon.com">
+	<target host="crmaddon.com" />
+	<target host="www.crmaddon.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

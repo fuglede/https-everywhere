@@ -1,0 +1,6 @@
+<ruleset name="Compuscan.co.za">
+	<target host="compuscan.co.za" />
+	<target host="www.compuscan.co.za" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

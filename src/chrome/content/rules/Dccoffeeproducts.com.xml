@@ -1,0 +1,6 @@
+<ruleset name="Dccoffeeproducts.com">
+	<target host="dccoffeeproducts.com" />
+	<target host="www.dccoffeeproducts.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

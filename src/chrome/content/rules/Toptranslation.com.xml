@@ -1,0 +1,6 @@
+<ruleset name="Toptranslation.com">
+	<target host="toptranslation.com" />
+	<target host="www.toptranslation.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

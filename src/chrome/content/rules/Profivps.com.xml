@@ -1,0 +1,6 @@
+<ruleset name="Profivps.com">
+	<target host="profivps.com" />
+	<target host="www.profivps.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

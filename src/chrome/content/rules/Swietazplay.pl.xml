@@ -1,0 +1,6 @@
+<ruleset name="Swietazplay.pl">
+	<target host="swietazplay.pl" />
+	<target host="www.swietazplay.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

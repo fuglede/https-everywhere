@@ -1,0 +1,6 @@
+<ruleset name="Clickandshoot.nl">
+	<target host="clickandshoot.nl" />
+	<target host="www.clickandshoot.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

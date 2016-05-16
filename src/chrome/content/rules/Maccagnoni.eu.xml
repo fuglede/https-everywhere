@@ -1,0 +1,6 @@
+<ruleset name="Maccagnoni.eu">
+	<target host="maccagnoni.eu" />
+	<target host="www.maccagnoni.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

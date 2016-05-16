@@ -1,0 +1,6 @@
+<ruleset name="Kamitech.ch">
+	<target host="kamitech.ch" />
+	<target host="www.kamitech.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

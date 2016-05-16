@@ -1,0 +1,6 @@
+<ruleset name="Prohus.net">
+	<target host="prohus.net" />
+	<target host="www.prohus.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Instantanement-deblocage.com">
+	<target host="instantanement-deblocage.com" />
+	<target host="www.instantanement-deblocage.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

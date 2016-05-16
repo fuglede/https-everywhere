@@ -1,0 +1,6 @@
+<ruleset name="Propershave.com">
+	<target host="propershave.com" />
+	<target host="www.propershave.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

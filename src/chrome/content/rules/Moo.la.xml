@@ -1,0 +1,6 @@
+<ruleset name="Moo.la">
+	<target host="moo.la" />
+	<target host="www.moo.la" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Foreveralone.io">
+	<target host="foreveralone.io" />
+	<target host="www.foreveralone.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

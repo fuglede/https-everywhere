@@ -1,0 +1,6 @@
+<ruleset name="Jmb.lv">
+	<target host="jmb.lv" />
+	<target host="www.jmb.lv" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Font-converter.net">
+	<target host="font-converter.net" />
+	<target host="www.font-converter.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Jewanddecoratie.nl">
+	<target host="jewanddecoratie.nl" />
+	<target host="www.jewanddecoratie.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

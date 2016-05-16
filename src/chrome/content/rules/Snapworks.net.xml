@@ -1,0 +1,6 @@
+<ruleset name="Snapworks.net">
+	<target host="snapworks.net" />
+	<target host="www.snapworks.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

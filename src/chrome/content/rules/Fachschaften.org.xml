@@ -1,0 +1,6 @@
+<ruleset name="Fachschaften.org">
+	<target host="fachschaften.org" />
+	<target host="www.fachschaften.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

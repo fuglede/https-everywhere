@@ -1,0 +1,6 @@
+<ruleset name="Brewtrackr.com">
+	<target host="brewtrackr.com" />
+	<target host="www.brewtrackr.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

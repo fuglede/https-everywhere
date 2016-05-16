@@ -1,0 +1,6 @@
+<ruleset name="Gryffin.ga">
+	<target host="gryffin.ga" />
+	<target host="www.gryffin.ga" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Daniel-steuer.de">
+	<target host="daniel-steuer.de" />
+	<target host="www.daniel-steuer.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

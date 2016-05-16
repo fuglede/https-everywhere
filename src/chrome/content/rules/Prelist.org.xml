@@ -1,0 +1,6 @@
+<ruleset name="Prelist.org">
+	<target host="prelist.org" />
+	<target host="www.prelist.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

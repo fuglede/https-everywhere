@@ -1,0 +1,6 @@
+<ruleset name="Litvideoserver.de">
+	<target host="litvideoserver.de" />
+	<target host="www.litvideoserver.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

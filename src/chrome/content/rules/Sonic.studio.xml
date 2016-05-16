@@ -1,0 +1,6 @@
+<ruleset name="Sonic.studio">
+	<target host="sonic.studio" />
+	<target host="www.sonic.studio" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

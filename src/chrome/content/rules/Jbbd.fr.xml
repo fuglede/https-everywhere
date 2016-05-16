@@ -1,0 +1,6 @@
+<ruleset name="Jbbd.fr">
+	<target host="jbbd.fr" />
+	<target host="www.jbbd.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

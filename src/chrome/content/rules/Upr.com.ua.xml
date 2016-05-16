@@ -1,0 +1,6 @@
+<ruleset name="Upr.com.ua">
+	<target host="upr.com.ua" />
+	<target host="www.upr.com.ua" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

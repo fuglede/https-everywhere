@@ -1,0 +1,6 @@
+<ruleset name="Transdirect.com.au">
+	<target host="transdirect.com.au" />
+	<target host="www.transdirect.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

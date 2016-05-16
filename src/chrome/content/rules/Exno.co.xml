@@ -1,0 +1,6 @@
+<ruleset name="Exno.co">
+	<target host="exno.co" />
+	<target host="www.exno.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

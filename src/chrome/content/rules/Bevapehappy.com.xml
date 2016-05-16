@@ -1,0 +1,6 @@
+<ruleset name="Bevapehappy.com">
+	<target host="bevapehappy.com" />
+	<target host="www.bevapehappy.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

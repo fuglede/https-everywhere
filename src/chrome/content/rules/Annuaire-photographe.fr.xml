@@ -1,0 +1,6 @@
+<ruleset name="Annuaire-photographe.fr">
+	<target host="annuaire-photographe.fr" />
+	<target host="www.annuaire-photographe.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

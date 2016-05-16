@@ -1,0 +1,6 @@
+<ruleset name="Biguixhe.net">
+	<target host="biguixhe.net" />
+	<target host="www.biguixhe.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

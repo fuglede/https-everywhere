@@ -1,0 +1,6 @@
+<ruleset name="Minikneet.nl">
+	<target host="minikneet.nl" />
+	<target host="www.minikneet.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

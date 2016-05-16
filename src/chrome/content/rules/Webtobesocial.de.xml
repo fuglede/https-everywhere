@@ -1,0 +1,6 @@
+<ruleset name="Webtobesocial.de">
+	<target host="webtobesocial.de" />
+	<target host="www.webtobesocial.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

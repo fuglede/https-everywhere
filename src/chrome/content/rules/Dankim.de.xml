@@ -1,0 +1,6 @@
+<ruleset name="Dankim.de">
+	<target host="dankim.de" />
+	<target host="www.dankim.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Netsystems.pro">
+	<target host="netsystems.pro" />
+	<target host="www.netsystems.pro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

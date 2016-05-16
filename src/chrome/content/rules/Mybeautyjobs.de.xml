@@ -1,0 +1,6 @@
+<ruleset name="Mybeautyjobs.de">
+	<target host="mybeautyjobs.de" />
+	<target host="www.mybeautyjobs.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

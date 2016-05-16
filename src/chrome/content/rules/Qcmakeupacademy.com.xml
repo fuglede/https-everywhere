@@ -1,0 +1,6 @@
+<ruleset name="Qcmakeupacademy.com">
+	<target host="qcmakeupacademy.com" />
+	<target host="www.qcmakeupacademy.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Never-afk.de">
+	<target host="never-afk.de" />
+	<target host="www.never-afk.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

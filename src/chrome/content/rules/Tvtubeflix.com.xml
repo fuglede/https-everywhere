@@ -1,0 +1,6 @@
+<ruleset name="Tvtubeflix.com">
+	<target host="tvtubeflix.com" />
+	<target host="www.tvtubeflix.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

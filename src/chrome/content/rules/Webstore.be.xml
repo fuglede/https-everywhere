@@ -1,0 +1,6 @@
+<ruleset name="Webstore.be">
+	<target host="webstore.be" />
+	<target host="www.webstore.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

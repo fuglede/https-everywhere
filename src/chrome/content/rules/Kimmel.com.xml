@@ -1,0 +1,6 @@
+<ruleset name="Kimmel.com">
+	<target host="kimmel.com" />
+	<target host="www.kimmel.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Cyberfrancais.ro">
+	<target host="cyberfrancais.ro" />
+	<target host="www.cyberfrancais.ro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

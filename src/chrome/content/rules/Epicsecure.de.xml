@@ -1,0 +1,6 @@
+<ruleset name="Epicsecure.de">
+	<target host="epicsecure.de" />
+	<target host="www.epicsecure.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

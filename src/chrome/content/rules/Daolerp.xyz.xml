@@ -1,0 +1,6 @@
+<ruleset name="Daolerp.xyz">
+	<target host="daolerp.xyz" />
+	<target host="www.daolerp.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

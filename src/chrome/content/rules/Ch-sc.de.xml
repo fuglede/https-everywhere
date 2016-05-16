@@ -1,0 +1,6 @@
+<ruleset name="Ch-sc.de">
+	<target host="ch-sc.de" />
+	<target host="www.ch-sc.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

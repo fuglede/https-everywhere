@@ -1,0 +1,6 @@
+<ruleset name="Drew.red">
+	<target host="drew.red" />
+	<target host="www.drew.red" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

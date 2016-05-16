@@ -1,0 +1,6 @@
+<ruleset name="Ib-wedler.de">
+	<target host="ib-wedler.de" />
+	<target host="www.ib-wedler.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

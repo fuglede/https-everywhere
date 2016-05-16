@@ -1,0 +1,6 @@
+<ruleset name="Student-scientist.org">
+	<target host="student-scientist.org" />
+	<target host="www.student-scientist.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Apibot.de">
+	<target host="apibot.de" />
+	<target host="www.apibot.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

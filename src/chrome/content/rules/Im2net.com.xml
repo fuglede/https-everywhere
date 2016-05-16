@@ -1,0 +1,6 @@
+<ruleset name="Im2net.com">
+	<target host="im2net.com" />
+	<target host="www.im2net.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Rokort.dk">
+	<target host="rokort.dk" />
+	<target host="www.rokort.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

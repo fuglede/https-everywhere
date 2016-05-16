@@ -1,0 +1,6 @@
+<ruleset name="Iqcn.co">
+	<target host="iqcn.co" />
+	<target host="www.iqcn.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Firstderm.com">
+	<target host="firstderm.com" />
+	<target host="www.firstderm.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

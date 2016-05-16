@@ -1,0 +1,6 @@
+<ruleset name="Tudoprafoto.com.br">
+	<target host="tudoprafoto.com.br" />
+	<target host="www.tudoprafoto.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

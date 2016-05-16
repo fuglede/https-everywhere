@@ -1,0 +1,6 @@
+<ruleset name="Uzo.cl">
+	<target host="uzo.cl" />
+	<target host="www.uzo.cl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Skalender.ch">
+	<target host="skalender.ch" />
+	<target host="www.skalender.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

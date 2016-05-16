@@ -1,0 +1,6 @@
+<ruleset name="Vazue.com">
+	<target host="vazue.com" />
+	<target host="www.vazue.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

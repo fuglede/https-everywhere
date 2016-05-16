@@ -1,0 +1,6 @@
+<ruleset name="Wbt-solutions.ch">
+	<target host="wbt-solutions.ch" />
+	<target host="www.wbt-solutions.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

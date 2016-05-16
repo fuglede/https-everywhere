@@ -1,0 +1,6 @@
+<ruleset name="Cestas10.com.br">
+	<target host="cestas10.com.br" />
+	<target host="www.cestas10.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

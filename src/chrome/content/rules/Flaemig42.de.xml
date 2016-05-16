@@ -1,0 +1,6 @@
+<ruleset name="Flaemig42.de">
+	<target host="flaemig42.de" />
+	<target host="www.flaemig42.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

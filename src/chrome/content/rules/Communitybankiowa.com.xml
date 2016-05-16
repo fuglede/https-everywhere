@@ -1,0 +1,6 @@
+<ruleset name="Communitybankiowa.com">
+	<target host="communitybankiowa.com" />
+	<target host="www.communitybankiowa.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

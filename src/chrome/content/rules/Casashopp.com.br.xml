@@ -1,0 +1,6 @@
+<ruleset name="Casashopp.com.br">
+	<target host="casashopp.com.br" />
+	<target host="www.casashopp.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

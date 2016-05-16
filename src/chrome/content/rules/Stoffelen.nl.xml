@@ -1,0 +1,6 @@
+<ruleset name="Stoffelen.nl">
+	<target host="stoffelen.nl" />
+	<target host="www.stoffelen.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

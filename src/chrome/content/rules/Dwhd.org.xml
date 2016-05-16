@@ -1,0 +1,6 @@
+<ruleset name="Dwhd.org">
+	<target host="dwhd.org" />
+	<target host="www.dwhd.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

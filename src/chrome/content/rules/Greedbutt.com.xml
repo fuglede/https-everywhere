@@ -1,0 +1,6 @@
+<ruleset name="Greedbutt.com">
+	<target host="greedbutt.com" />
+	<target host="www.greedbutt.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

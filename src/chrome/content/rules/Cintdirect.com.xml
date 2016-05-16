@@ -1,0 +1,6 @@
+<ruleset name="Cintdirect.com">
+	<target host="cintdirect.com" />
+	<target host="www.cintdirect.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Groovinads.com">
+	<target host="groovinads.com" />
+	<target host="www.groovinads.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

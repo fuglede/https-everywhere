@@ -1,0 +1,6 @@
+<ruleset name="Smart-ov.nl">
+	<target host="smart-ov.nl" />
+	<target host="www.smart-ov.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

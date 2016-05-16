@@ -1,0 +1,6 @@
+<ruleset name="Zertif.info">
+	<target host="zertif.info" />
+	<target host="www.zertif.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

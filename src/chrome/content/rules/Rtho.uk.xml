@@ -1,0 +1,6 @@
+<ruleset name="Rtho.uk">
+	<target host="rtho.uk" />
+	<target host="www.rtho.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

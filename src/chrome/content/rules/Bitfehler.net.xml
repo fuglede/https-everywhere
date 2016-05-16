@@ -1,0 +1,6 @@
+<ruleset name="Bitfehler.net">
+	<target host="bitfehler.net" />
+	<target host="www.bitfehler.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

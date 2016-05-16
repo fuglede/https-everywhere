@@ -1,0 +1,6 @@
+<ruleset name="Effex.ru">
+	<target host="effex.ru" />
+	<target host="www.effex.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

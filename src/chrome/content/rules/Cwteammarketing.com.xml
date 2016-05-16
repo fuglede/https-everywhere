@@ -1,0 +1,6 @@
+<ruleset name="Cwteammarketing.com">
+	<target host="cwteammarketing.com" />
+	<target host="www.cwteammarketing.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Muzykaprzeszladoplay.pl">
+	<target host="muzykaprzeszladoplay.pl" />
+	<target host="www.muzykaprzeszladoplay.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

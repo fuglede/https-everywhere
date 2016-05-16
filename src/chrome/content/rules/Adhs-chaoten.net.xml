@@ -1,0 +1,6 @@
+<ruleset name="Adhs-chaoten.net">
+	<target host="adhs-chaoten.net" />
+	<target host="www.adhs-chaoten.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

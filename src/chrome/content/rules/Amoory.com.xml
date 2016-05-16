@@ -1,0 +1,6 @@
+<ruleset name="Amoory.com">
+	<target host="amoory.com" />
+	<target host="www.amoory.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

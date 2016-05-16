@@ -1,0 +1,6 @@
+<ruleset name="Usitcolours.bg">
+	<target host="usitcolours.bg" />
+	<target host="www.usitcolours.bg" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Encryptio.com">
+	<target host="encryptio.com" />
+	<target host="www.encryptio.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

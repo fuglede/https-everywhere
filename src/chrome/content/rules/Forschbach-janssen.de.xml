@@ -1,0 +1,6 @@
+<ruleset name="Forschbach-janssen.de">
+	<target host="forschbach-janssen.de" />
+	<target host="www.forschbach-janssen.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

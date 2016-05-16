@@ -1,0 +1,6 @@
+<ruleset name="Threatcentral.io">
+	<target host="threatcentral.io" />
+	<target host="www.threatcentral.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

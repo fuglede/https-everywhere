@@ -1,0 +1,6 @@
+<ruleset name="Confirm365.com">
+	<target host="confirm365.com" />
+	<target host="www.confirm365.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

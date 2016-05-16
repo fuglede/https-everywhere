@@ -1,0 +1,6 @@
+<ruleset name="Ceritaseks.me">
+	<target host="ceritaseks.me" />
+	<target host="www.ceritaseks.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

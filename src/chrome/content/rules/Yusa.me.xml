@@ -1,0 +1,6 @@
+<ruleset name="Yusa.me">
+	<target host="yusa.me" />
+	<target host="www.yusa.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Cloudbolin.es">
+	<target host="cloudbolin.es" />
+	<target host="www.cloudbolin.es" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

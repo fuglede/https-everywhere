@@ -1,0 +1,6 @@
+<ruleset name="Lacentral.com">
+	<target host="lacentral.com" />
+	<target host="www.lacentral.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

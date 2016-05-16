@@ -1,0 +1,6 @@
+<ruleset name="In-depthoutdoors.com">
+	<target host="in-depthoutdoors.com" />
+	<target host="www.in-depthoutdoors.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

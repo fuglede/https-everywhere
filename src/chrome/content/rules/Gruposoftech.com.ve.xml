@@ -1,0 +1,6 @@
+<ruleset name="Gruposoftech.com.ve">
+	<target host="gruposoftech.com.ve" />
+	<target host="www.gruposoftech.com.ve" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

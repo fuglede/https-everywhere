@@ -1,0 +1,6 @@
+<ruleset name="Moegirl.org">
+	<target host="moegirl.org" />
+	<target host="www.moegirl.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

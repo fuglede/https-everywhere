@@ -1,0 +1,6 @@
+<ruleset name="Proust.media">
+	<target host="proust.media" />
+	<target host="www.proust.media" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

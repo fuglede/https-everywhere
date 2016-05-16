@@ -1,0 +1,6 @@
+<ruleset name="Rogue-e.xyz">
+	<target host="rogue-e.xyz" />
+	<target host="www.rogue-e.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

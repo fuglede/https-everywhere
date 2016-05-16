@@ -1,0 +1,6 @@
+<ruleset name="Vergleiche-tagesgeld.de">
+	<target host="vergleiche-tagesgeld.de" />
+	<target host="www.vergleiche-tagesgeld.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

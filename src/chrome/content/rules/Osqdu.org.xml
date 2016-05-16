@@ -1,0 +1,6 @@
+<ruleset name="Osqdu.org">
+	<target host="osqdu.org" />
+	<target host="www.osqdu.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

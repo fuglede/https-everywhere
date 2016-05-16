@@ -1,0 +1,6 @@
+<ruleset name="Lasercloud.ml">
+	<target host="lasercloud.ml" />
+	<target host="www.lasercloud.ml" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

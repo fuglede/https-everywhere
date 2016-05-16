@@ -1,0 +1,6 @@
+<ruleset name="Atletika.hu">
+	<target host="atletika.hu" />
+	<target host="www.atletika.hu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

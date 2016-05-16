@@ -1,0 +1,6 @@
+<ruleset name="Handiworker.com">
+	<target host="handiworker.com" />
+	<target host="www.handiworker.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

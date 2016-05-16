@@ -1,0 +1,6 @@
+<ruleset name="Mentz.info">
+	<target host="mentz.info" />
+	<target host="www.mentz.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

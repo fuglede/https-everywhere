@@ -1,0 +1,6 @@
+<ruleset name="Jumbox.xyz">
+	<target host="jumbox.xyz" />
+	<target host="www.jumbox.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

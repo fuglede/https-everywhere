@@ -1,0 +1,6 @@
+<ruleset name="Paravion.hu">
+	<target host="paravion.hu" />
+	<target host="www.paravion.hu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

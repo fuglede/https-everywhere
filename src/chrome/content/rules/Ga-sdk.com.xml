@@ -1,0 +1,6 @@
+<ruleset name="Ga-sdk.com">
+	<target host="ga-sdk.com" />
+	<target host="www.ga-sdk.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Onewpst.com">
+	<target host="onewpst.com" />
+	<target host="www.onewpst.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

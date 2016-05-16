@@ -1,0 +1,6 @@
+<ruleset name="Omniasl.com">
+	<target host="omniasl.com" />
+	<target host="www.omniasl.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

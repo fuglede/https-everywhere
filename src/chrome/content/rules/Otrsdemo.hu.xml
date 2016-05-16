@@ -1,0 +1,6 @@
+<ruleset name="Otrsdemo.hu">
+	<target host="otrsdemo.hu" />
+	<target host="www.otrsdemo.hu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Tentations-voyages.com">
+	<target host="tentations-voyages.com" />
+	<target host="www.tentations-voyages.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

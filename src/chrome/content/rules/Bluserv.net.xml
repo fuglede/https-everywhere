@@ -1,0 +1,6 @@
+<ruleset name="Bluserv.net">
+	<target host="bluserv.net" />
+	<target host="www.bluserv.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

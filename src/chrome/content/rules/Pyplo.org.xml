@@ -1,0 +1,6 @@
+<ruleset name="Pyplo.org">
+	<target host="pyplo.org" />
+	<target host="www.pyplo.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

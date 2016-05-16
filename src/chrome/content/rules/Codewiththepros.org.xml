@@ -1,0 +1,6 @@
+<ruleset name="Codewiththepros.org">
+	<target host="codewiththepros.org" />
+	<target host="www.codewiththepros.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Voorjou.com">
+	<target host="voorjou.com" />
+	<target host="www.voorjou.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

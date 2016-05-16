@@ -1,0 +1,6 @@
+<ruleset name="Trabbel.org">
+	<target host="trabbel.org" />
+	<target host="www.trabbel.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

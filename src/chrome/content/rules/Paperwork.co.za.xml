@@ -1,0 +1,6 @@
+<ruleset name="Paperwork.co.za">
+	<target host="paperwork.co.za" />
+	<target host="www.paperwork.co.za" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Unidevgroup.ru">
+	<target host="unidevgroup.ru" />
+	<target host="www.unidevgroup.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

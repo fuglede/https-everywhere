@@ -1,0 +1,6 @@
+<ruleset name="Teoversum.de">
+	<target host="teoversum.de" />
+	<target host="www.teoversum.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

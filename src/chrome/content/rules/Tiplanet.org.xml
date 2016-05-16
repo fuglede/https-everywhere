@@ -1,0 +1,6 @@
+<ruleset name="Tiplanet.org">
+	<target host="tiplanet.org" />
+	<target host="www.tiplanet.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

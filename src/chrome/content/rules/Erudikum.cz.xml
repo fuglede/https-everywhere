@@ -1,0 +1,6 @@
+<ruleset name="Erudikum.cz">
+	<target host="erudikum.cz" />
+	<target host="www.erudikum.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

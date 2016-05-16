@@ -1,0 +1,6 @@
+<ruleset name="Clubmix.co.kr">
+	<target host="clubmix.co.kr" />
+	<target host="www.clubmix.co.kr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

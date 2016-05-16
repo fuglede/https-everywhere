@@ -1,0 +1,6 @@
+<ruleset name="Elglobo.com.mx">
+	<target host="elglobo.com.mx" />
+	<target host="www.elglobo.com.mx" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

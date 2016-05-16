@@ -1,0 +1,6 @@
+<ruleset name="Normadoors.com">
+	<target host="normadoors.com" />
+	<target host="www.normadoors.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

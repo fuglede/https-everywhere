@@ -1,0 +1,6 @@
+<ruleset name="Diasp.cz">
+	<target host="diasp.cz" />
+	<target host="www.diasp.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

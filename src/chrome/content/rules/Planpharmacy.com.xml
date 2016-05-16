@@ -1,0 +1,6 @@
+<ruleset name="Planpharmacy.com">
+	<target host="planpharmacy.com" />
+	<target host="www.planpharmacy.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

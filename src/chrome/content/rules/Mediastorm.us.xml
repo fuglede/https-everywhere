@@ -1,0 +1,6 @@
+<ruleset name="Mediastorm.us">
+	<target host="mediastorm.us" />
+	<target host="www.mediastorm.us" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

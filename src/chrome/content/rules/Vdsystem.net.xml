@@ -1,0 +1,6 @@
+<ruleset name="Vdsystem.net">
+	<target host="vdsystem.net" />
+	<target host="www.vdsystem.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

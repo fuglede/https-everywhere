@@ -1,0 +1,6 @@
+<ruleset name="Ppipe.net">
+	<target host="ppipe.net" />
+	<target host="www.ppipe.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

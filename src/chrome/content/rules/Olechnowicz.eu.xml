@@ -1,0 +1,6 @@
+<ruleset name="Olechnowicz.eu">
+	<target host="olechnowicz.eu" />
+	<target host="www.olechnowicz.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="4455software.com">
+	<target host="4455software.com" />
+	<target host="www.4455software.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

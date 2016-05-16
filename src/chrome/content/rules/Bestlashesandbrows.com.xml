@@ -1,0 +1,6 @@
+<ruleset name="Bestlashesandbrows.com">
+	<target host="bestlashesandbrows.com" />
+	<target host="www.bestlashesandbrows.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

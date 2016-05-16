@@ -1,0 +1,6 @@
+<ruleset name="Aiw-thkoeln.online">
+	<target host="aiw-thkoeln.online" />
+	<target host="www.aiw-thkoeln.online" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

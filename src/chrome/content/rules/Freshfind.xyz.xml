@@ -1,0 +1,6 @@
+<ruleset name="Freshfind.xyz">
+	<target host="freshfind.xyz" />
+	<target host="www.freshfind.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Occentus.net">
+	<target host="occentus.net" />
+	<target host="www.occentus.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

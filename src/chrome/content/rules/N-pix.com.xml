@@ -1,0 +1,6 @@
+<ruleset name="N-pix.com">
+	<target host="n-pix.com" />
+	<target host="www.n-pix.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

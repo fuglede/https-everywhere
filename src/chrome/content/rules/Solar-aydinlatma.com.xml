@@ -1,0 +1,6 @@
+<ruleset name="Solar-aydinlatma.com">
+	<target host="solar-aydinlatma.com" />
+	<target host="www.solar-aydinlatma.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

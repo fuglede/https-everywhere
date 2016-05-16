@@ -1,0 +1,6 @@
+<ruleset name="Xn--ltimavuelta-3gb.es">
+	<target host="xn--ltimavuelta-3gb.es" />
+	<target host="www.xn--ltimavuelta-3gb.es" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Snelwerk.be">
+	<target host="snelwerk.be" />
+	<target host="www.snelwerk.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

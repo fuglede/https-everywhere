@@ -1,0 +1,6 @@
+<ruleset name="Gogenenglish.com">
+	<target host="gogenenglish.com" />
+	<target host="www.gogenenglish.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

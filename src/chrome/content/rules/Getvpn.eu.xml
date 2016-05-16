@@ -1,0 +1,6 @@
+<ruleset name="Getvpn.eu">
+	<target host="getvpn.eu" />
+	<target host="www.getvpn.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

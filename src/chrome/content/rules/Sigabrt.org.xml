@@ -1,0 +1,6 @@
+<ruleset name="Sigabrt.org">
+	<target host="sigabrt.org" />
+	<target host="www.sigabrt.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

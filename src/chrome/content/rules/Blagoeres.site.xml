@@ -1,0 +1,6 @@
+<ruleset name="Blagoeres.site">
+	<target host="blagoeres.site" />
+	<target host="www.blagoeres.site" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

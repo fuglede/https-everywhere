@@ -1,0 +1,6 @@
+<ruleset name="Griegshipbrokers.no">
+	<target host="griegshipbrokers.no" />
+	<target host="www.griegshipbrokers.no" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

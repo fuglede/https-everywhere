@@ -1,0 +1,6 @@
+<ruleset name="Deanmorgan.org">
+	<target host="deanmorgan.org" />
+	<target host="www.deanmorgan.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

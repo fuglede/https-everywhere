@@ -1,0 +1,6 @@
+<ruleset name="Coursella.com">
+	<target host="coursella.com" />
+	<target host="www.coursella.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

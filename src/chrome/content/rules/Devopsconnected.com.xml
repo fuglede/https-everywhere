@@ -1,0 +1,6 @@
+<ruleset name="Devopsconnected.com">
+	<target host="devopsconnected.com" />
+	<target host="www.devopsconnected.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

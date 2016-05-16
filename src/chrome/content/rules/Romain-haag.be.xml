@@ -1,0 +1,6 @@
+<ruleset name="Romain-haag.be">
+	<target host="romain-haag.be" />
+	<target host="www.romain-haag.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

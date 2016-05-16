@@ -1,0 +1,6 @@
+<ruleset name="Criticalaim.com">
+	<target host="criticalaim.com" />
+	<target host="www.criticalaim.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

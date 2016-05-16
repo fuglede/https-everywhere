@@ -1,0 +1,6 @@
+<ruleset name="Statixind.net">
+	<target host="statixind.net" />
+	<target host="www.statixind.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

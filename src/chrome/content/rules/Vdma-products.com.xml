@@ -1,0 +1,6 @@
+<ruleset name="Vdma-products.com">
+	<target host="vdma-products.com" />
+	<target host="www.vdma-products.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

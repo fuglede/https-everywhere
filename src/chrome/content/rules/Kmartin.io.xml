@@ -1,0 +1,6 @@
+<ruleset name="Kmartin.io">
+	<target host="kmartin.io" />
+	<target host="www.kmartin.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

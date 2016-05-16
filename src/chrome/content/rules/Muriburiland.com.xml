@@ -1,0 +1,6 @@
+<ruleset name="Muriburiland.com">
+	<target host="muriburiland.com" />
+	<target host="www.muriburiland.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

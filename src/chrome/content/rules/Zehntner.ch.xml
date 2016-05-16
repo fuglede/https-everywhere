@@ -1,0 +1,6 @@
+<ruleset name="Zehntner.ch">
+	<target host="zehntner.ch" />
+	<target host="www.zehntner.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

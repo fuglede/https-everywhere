@@ -1,0 +1,6 @@
+<ruleset name="Diablotine.rocks">
+	<target host="diablotine.rocks" />
+	<target host="www.diablotine.rocks" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

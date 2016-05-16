@@ -1,0 +1,6 @@
+<ruleset name="Denverark.com">
+	<target host="denverark.com" />
+	<target host="www.denverark.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

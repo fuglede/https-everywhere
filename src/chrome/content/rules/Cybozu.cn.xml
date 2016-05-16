@@ -1,0 +1,6 @@
+<ruleset name="Cybozu.cn">
+	<target host="cybozu.cn" />
+	<target host="www.cybozu.cn" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

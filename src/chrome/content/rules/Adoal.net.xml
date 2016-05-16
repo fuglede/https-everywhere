@@ -1,0 +1,6 @@
+<ruleset name="Adoal.net">
+	<target host="adoal.net" />
+	<target host="www.adoal.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

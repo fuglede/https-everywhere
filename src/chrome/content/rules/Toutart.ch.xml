@@ -1,0 +1,6 @@
+<ruleset name="Toutart.ch">
+	<target host="toutart.ch" />
+	<target host="www.toutart.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

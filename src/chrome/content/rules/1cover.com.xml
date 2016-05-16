@@ -1,0 +1,6 @@
+<ruleset name="1cover.com">
+	<target host="1cover.com" />
+	<target host="www.1cover.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

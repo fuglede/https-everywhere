@@ -1,0 +1,6 @@
+<ruleset name="Futuresonline.com">
+	<target host="futuresonline.com" />
+	<target host="www.futuresonline.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

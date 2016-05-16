@@ -1,0 +1,6 @@
+<ruleset name="Pipenny.net">
+	<target host="pipenny.net" />
+	<target host="www.pipenny.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

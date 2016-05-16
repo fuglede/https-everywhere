@@ -1,0 +1,6 @@
+<ruleset name="Meedoenzaanstad.nl">
+	<target host="meedoenzaanstad.nl" />
+	<target host="www.meedoenzaanstad.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Marutekmedia.co.id">
+	<target host="marutekmedia.co.id" />
+	<target host="www.marutekmedia.co.id" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

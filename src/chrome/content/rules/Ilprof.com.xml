@@ -1,0 +1,6 @@
+<ruleset name="Ilprof.com">
+	<target host="ilprof.com" />
+	<target host="www.ilprof.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

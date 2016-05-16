@@ -1,0 +1,6 @@
+<ruleset name="Snelxboxlivegold.nl">
+	<target host="snelxboxlivegold.nl" />
+	<target host="www.snelxboxlivegold.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

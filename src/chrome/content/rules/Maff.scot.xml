@@ -1,0 +1,6 @@
+<ruleset name="Maff.scot">
+	<target host="maff.scot" />
+	<target host="www.maff.scot" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

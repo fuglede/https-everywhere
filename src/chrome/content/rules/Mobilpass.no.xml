@@ -1,0 +1,6 @@
+<ruleset name="Mobilpass.no">
+	<target host="mobilpass.no" />
+	<target host="www.mobilpass.no" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

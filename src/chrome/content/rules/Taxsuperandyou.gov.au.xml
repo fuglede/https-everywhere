@@ -1,0 +1,6 @@
+<ruleset name="Taxsuperandyou.gov.au">
+	<target host="taxsuperandyou.gov.au" />
+	<target host="www.taxsuperandyou.gov.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

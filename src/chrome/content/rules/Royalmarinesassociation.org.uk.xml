@@ -1,0 +1,6 @@
+<ruleset name="Royalmarinesassociation.org.uk">
+	<target host="royalmarinesassociation.org.uk" />
+	<target host="www.royalmarinesassociation.org.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

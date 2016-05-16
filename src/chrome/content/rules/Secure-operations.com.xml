@@ -1,0 +1,6 @@
+<ruleset name="Secure-operations.com">
+	<target host="secure-operations.com" />
+	<target host="www.secure-operations.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

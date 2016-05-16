@@ -1,0 +1,6 @@
+<ruleset name="Advancedseotool.it">
+	<target host="advancedseotool.it" />
+	<target host="www.advancedseotool.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

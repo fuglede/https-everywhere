@@ -1,0 +1,6 @@
+<ruleset name="Friendsofpurdon.org">
+	<target host="friendsofpurdon.org" />
+	<target host="www.friendsofpurdon.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

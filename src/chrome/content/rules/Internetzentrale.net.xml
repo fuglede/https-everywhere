@@ -1,0 +1,6 @@
+<ruleset name="Internetzentrale.net">
+	<target host="internetzentrale.net" />
+	<target host="www.internetzentrale.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

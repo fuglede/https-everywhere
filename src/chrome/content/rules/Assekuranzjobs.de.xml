@@ -1,0 +1,6 @@
+<ruleset name="Assekuranzjobs.de">
+	<target host="assekuranzjobs.de" />
+	<target host="www.assekuranzjobs.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

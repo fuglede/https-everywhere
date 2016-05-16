@@ -1,0 +1,6 @@
+<ruleset name="Feng.plus">
+	<target host="feng.plus" />
+	<target host="www.feng.plus" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

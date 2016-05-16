@@ -1,0 +1,6 @@
+<ruleset name="Mauwiks.cf">
+	<target host="mauwiks.cf" />
+	<target host="www.mauwiks.cf" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

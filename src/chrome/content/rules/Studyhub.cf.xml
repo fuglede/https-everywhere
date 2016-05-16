@@ -1,0 +1,6 @@
+<ruleset name="Studyhub.cf">
+	<target host="studyhub.cf" />
+	<target host="www.studyhub.cf" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

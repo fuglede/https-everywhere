@@ -1,0 +1,6 @@
+<ruleset name="Sp.rw">
+	<target host="sp.rw" />
+	<target host="www.sp.rw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

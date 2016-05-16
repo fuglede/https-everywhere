@@ -1,0 +1,6 @@
+<ruleset name="Forex-calendar.ru">
+	<target host="forex-calendar.ru" />
+	<target host="www.forex-calendar.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

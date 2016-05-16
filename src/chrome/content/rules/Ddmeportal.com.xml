@@ -1,0 +1,6 @@
+<ruleset name="Ddmeportal.com">
+	<target host="ddmeportal.com" />
+	<target host="www.ddmeportal.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

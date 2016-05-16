@@ -1,0 +1,6 @@
+<ruleset name="Fecik.sk">
+	<target host="fecik.sk" />
+	<target host="www.fecik.sk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

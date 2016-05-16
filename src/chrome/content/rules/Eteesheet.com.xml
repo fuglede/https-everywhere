@@ -1,0 +1,6 @@
+<ruleset name="Eteesheet.com">
+	<target host="eteesheet.com" />
+	<target host="www.eteesheet.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

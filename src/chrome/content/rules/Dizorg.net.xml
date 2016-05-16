@@ -1,0 +1,6 @@
+<ruleset name="Dizorg.net">
+	<target host="dizorg.net" />
+	<target host="www.dizorg.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

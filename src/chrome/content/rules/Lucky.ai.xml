@@ -1,0 +1,6 @@
+<ruleset name="Lucky.ai">
+	<target host="lucky.ai" />
+	<target host="www.lucky.ai" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

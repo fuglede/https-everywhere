@@ -1,0 +1,6 @@
+<ruleset name="Nocs.cn">
+	<target host="nocs.cn" />
+	<target host="www.nocs.cn" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

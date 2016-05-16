@@ -1,0 +1,6 @@
+<ruleset name="Ofcourselanguages.com">
+	<target host="ofcourselanguages.com" />
+	<target host="www.ofcourselanguages.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

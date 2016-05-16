@@ -1,0 +1,6 @@
+<ruleset name="Koketteriet.se">
+	<target host="koketteriet.se" />
+	<target host="www.koketteriet.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

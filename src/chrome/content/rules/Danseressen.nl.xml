@@ -1,0 +1,6 @@
+<ruleset name="Danseressen.nl">
+	<target host="danseressen.nl" />
+	<target host="www.danseressen.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

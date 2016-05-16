@@ -1,0 +1,6 @@
+<ruleset name="Caizx.com">
+	<target host="caizx.com" />
+	<target host="www.caizx.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Masternetindonesia.web.id">
+	<target host="masternetindonesia.web.id" />
+	<target host="www.masternetindonesia.web.id" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Mitell.jp">
+	<target host="mitell.jp" />
+	<target host="www.mitell.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

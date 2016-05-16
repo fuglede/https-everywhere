@@ -1,0 +1,6 @@
+<ruleset name="Poiema.com.sg">
+	<target host="poiema.com.sg" />
+	<target host="www.poiema.com.sg" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

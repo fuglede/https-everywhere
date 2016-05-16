@@ -1,0 +1,6 @@
+<ruleset name="D-training.de">
+	<target host="d-training.de" />
+	<target host="www.d-training.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

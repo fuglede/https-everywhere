@@ -1,0 +1,6 @@
+<ruleset name="Internaldh.com">
+	<target host="internaldh.com" />
+	<target host="www.internaldh.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

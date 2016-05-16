@@ -1,0 +1,6 @@
+<ruleset name="Indusfastremit-ca.com">
+	<target host="indusfastremit-ca.com" />
+	<target host="www.indusfastremit-ca.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

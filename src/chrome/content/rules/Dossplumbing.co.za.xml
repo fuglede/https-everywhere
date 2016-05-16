@@ -1,0 +1,6 @@
+<ruleset name="Dossplumbing.co.za">
+	<target host="dossplumbing.co.za" />
+	<target host="www.dossplumbing.co.za" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

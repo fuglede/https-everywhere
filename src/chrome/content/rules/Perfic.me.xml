@@ -1,0 +1,6 @@
+<ruleset name="Perfic.me">
+	<target host="perfic.me" />
+	<target host="www.perfic.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

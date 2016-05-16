@@ -1,0 +1,6 @@
+<ruleset name="Ciubotaru.tk">
+	<target host="ciubotaru.tk" />
+	<target host="www.ciubotaru.tk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

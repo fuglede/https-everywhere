@@ -1,0 +1,6 @@
+<ruleset name="Developfx.com">
+	<target host="developfx.com" />
+	<target host="www.developfx.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

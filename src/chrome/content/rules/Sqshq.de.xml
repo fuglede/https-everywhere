@@ -1,0 +1,6 @@
+<ruleset name="Sqshq.de">
+	<target host="sqshq.de" />
+	<target host="www.sqshq.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

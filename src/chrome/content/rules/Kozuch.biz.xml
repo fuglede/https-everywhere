@@ -1,0 +1,6 @@
+<ruleset name="Kozuch.biz">
+	<target host="kozuch.biz" />
+	<target host="www.kozuch.biz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

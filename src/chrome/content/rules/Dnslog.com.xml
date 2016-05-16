@@ -1,0 +1,6 @@
+<ruleset name="Dnslog.com">
+	<target host="dnslog.com" />
+	<target host="www.dnslog.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

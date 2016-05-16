@@ -1,0 +1,6 @@
+<ruleset name="Qrara.net">
+	<target host="qrara.net" />
+	<target host="www.qrara.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

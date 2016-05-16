@@ -1,0 +1,6 @@
+<ruleset name="Ashutoshmishra.org">
+	<target host="ashutoshmishra.org" />
+	<target host="www.ashutoshmishra.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Ecosmetico.ro">
+	<target host="ecosmetico.ro" />
+	<target host="www.ecosmetico.ro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

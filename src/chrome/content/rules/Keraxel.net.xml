@@ -1,0 +1,6 @@
+<ruleset name="Keraxel.net">
+	<target host="keraxel.net" />
+	<target host="www.keraxel.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

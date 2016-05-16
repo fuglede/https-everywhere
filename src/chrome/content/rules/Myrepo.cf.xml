@@ -1,0 +1,6 @@
+<ruleset name="Myrepo.cf">
+	<target host="myrepo.cf" />
+	<target host="www.myrepo.cf" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

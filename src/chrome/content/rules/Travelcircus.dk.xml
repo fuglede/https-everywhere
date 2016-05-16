@@ -1,0 +1,6 @@
+<ruleset name="Travelcircus.dk">
+	<target host="travelcircus.dk" />
+	<target host="www.travelcircus.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Gokoruri.moe">
+	<target host="gokoruri.moe" />
+	<target host="www.gokoruri.moe" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

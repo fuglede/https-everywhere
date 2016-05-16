@@ -1,0 +1,6 @@
+<ruleset name="Lufthansaexperts.com">
+	<target host="lufthansaexperts.com" />
+	<target host="www.lufthansaexperts.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

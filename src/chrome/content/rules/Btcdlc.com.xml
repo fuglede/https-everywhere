@@ -1,0 +1,6 @@
+<ruleset name="Btcdlc.com">
+	<target host="btcdlc.com" />
+	<target host="www.btcdlc.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

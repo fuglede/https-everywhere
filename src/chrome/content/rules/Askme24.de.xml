@@ -1,0 +1,6 @@
+<ruleset name="Askme24.de">
+	<target host="askme24.de" />
+	<target host="www.askme24.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

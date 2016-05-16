@@ -1,0 +1,6 @@
+<ruleset name="Acslinks.com">
+	<target host="acslinks.com" />
+	<target host="www.acslinks.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

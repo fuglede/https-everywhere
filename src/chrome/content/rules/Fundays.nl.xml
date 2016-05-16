@@ -1,0 +1,6 @@
+<ruleset name="Fundays.nl">
+	<target host="fundays.nl" />
+	<target host="www.fundays.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Optometriepunt.nl">
+	<target host="optometriepunt.nl" />
+	<target host="www.optometriepunt.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

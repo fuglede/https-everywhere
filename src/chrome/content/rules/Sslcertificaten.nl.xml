@@ -1,0 +1,6 @@
+<ruleset name="Sslcertificaten.nl">
+	<target host="sslcertificaten.nl" />
+	<target host="www.sslcertificaten.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

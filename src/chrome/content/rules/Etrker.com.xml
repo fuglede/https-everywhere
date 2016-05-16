@@ -1,0 +1,6 @@
+<ruleset name="Etrker.com">
+	<target host="etrker.com" />
+	<target host="www.etrker.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

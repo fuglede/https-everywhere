@@ -1,0 +1,6 @@
+<ruleset name="Tupu.info">
+	<target host="tupu.info" />
+	<target host="www.tupu.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Urspringer.de">
+	<target host="urspringer.de" />
+	<target host="www.urspringer.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

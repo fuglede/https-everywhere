@@ -1,0 +1,6 @@
+<ruleset name="Paisaone.com">
+	<target host="paisaone.com" />
+	<target host="www.paisaone.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

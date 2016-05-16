@@ -1,0 +1,6 @@
+<ruleset name="Mamakabu.com">
+	<target host="mamakabu.com" />
+	<target host="www.mamakabu.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

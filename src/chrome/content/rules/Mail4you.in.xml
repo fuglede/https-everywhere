@@ -1,0 +1,6 @@
+<ruleset name="Mail4you.in">
+	<target host="mail4you.in" />
+	<target host="www.mail4you.in" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

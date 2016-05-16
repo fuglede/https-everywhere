@@ -1,0 +1,6 @@
+<ruleset name="Doubleavineyards.com">
+	<target host="doubleavineyards.com" />
+	<target host="www.doubleavineyards.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Istheapplestoredown.de">
+	<target host="istheapplestoredown.de" />
+	<target host="www.istheapplestoredown.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Outside.nz">
+	<target host="outside.nz" />
+	<target host="www.outside.nz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

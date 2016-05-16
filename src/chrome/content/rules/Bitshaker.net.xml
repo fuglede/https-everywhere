@@ -1,0 +1,6 @@
+<ruleset name="Bitshaker.net">
+	<target host="bitshaker.net" />
+	<target host="www.bitshaker.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Livedemo.io">
+	<target host="livedemo.io" />
+	<target host="www.livedemo.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Jix.im">
+	<target host="jix.im" />
+	<target host="www.jix.im" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Grosvenorcasinos.com">
+	<target host="grosvenorcasinos.com" />
+	<target host="www.grosvenorcasinos.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

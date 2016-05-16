@@ -1,0 +1,6 @@
+<ruleset name="Pahae.de">
+	<target host="pahae.de" />
+	<target host="www.pahae.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

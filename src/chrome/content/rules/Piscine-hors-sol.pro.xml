@@ -1,0 +1,6 @@
+<ruleset name="Piscine-hors-sol.pro">
+	<target host="piscine-hors-sol.pro" />
+	<target host="www.piscine-hors-sol.pro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Jointoweb.com">
+	<target host="jointoweb.com" />
+	<target host="www.jointoweb.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

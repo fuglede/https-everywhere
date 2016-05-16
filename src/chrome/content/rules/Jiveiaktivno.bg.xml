@@ -1,0 +1,6 @@
+<ruleset name="Jiveiaktivno.bg">
+	<target host="jiveiaktivno.bg" />
+	<target host="www.jiveiaktivno.bg" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Gdpventure.com">
+	<target host="gdpventure.com" />
+	<target host="www.gdpventure.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

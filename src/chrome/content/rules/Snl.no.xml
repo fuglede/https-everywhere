@@ -1,0 +1,6 @@
+<ruleset name="Snl.no">
+	<target host="snl.no" />
+	<target host="www.snl.no" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

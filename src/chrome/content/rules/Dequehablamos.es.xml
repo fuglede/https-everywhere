@@ -1,0 +1,6 @@
+<ruleset name="Dequehablamos.es">
+	<target host="dequehablamos.es" />
+	<target host="www.dequehablamos.es" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

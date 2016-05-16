@@ -1,0 +1,6 @@
+<ruleset name="Mcl.gg">
+	<target host="mcl.gg" />
+	<target host="www.mcl.gg" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

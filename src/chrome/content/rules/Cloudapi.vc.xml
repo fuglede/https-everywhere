@@ -1,0 +1,6 @@
+<ruleset name="Cloudapi.vc">
+	<target host="cloudapi.vc" />
+	<target host="www.cloudapi.vc" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

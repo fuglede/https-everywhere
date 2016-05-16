@@ -1,0 +1,6 @@
+<ruleset name="Ntp.technology">
+	<target host="ntp.technology" />
+	<target host="www.ntp.technology" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

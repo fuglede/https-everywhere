@@ -1,0 +1,6 @@
+<ruleset name="Riveroakscomputing.com">
+	<target host="riveroakscomputing.com" />
+	<target host="www.riveroakscomputing.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

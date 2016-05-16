@@ -1,0 +1,6 @@
+<ruleset name="Yourchoicevalmennus.fi">
+	<target host="yourchoicevalmennus.fi" />
+	<target host="www.yourchoicevalmennus.fi" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

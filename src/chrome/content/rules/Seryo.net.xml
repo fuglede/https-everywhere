@@ -1,0 +1,6 @@
+<ruleset name="Seryo.net">
+	<target host="seryo.net" />
+	<target host="www.seryo.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

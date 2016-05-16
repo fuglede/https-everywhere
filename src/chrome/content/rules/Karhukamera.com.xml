@@ -1,0 +1,6 @@
+<ruleset name="Karhukamera.com">
+	<target host="karhukamera.com" />
+	<target host="www.karhukamera.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

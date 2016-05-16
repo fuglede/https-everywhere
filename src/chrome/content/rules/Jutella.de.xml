@@ -1,0 +1,6 @@
+<ruleset name="Jutella.de">
+	<target host="jutella.de" />
+	<target host="www.jutella.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

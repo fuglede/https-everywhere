@@ -1,0 +1,6 @@
+<ruleset name="Convert.im">
+	<target host="convert.im" />
+	<target host="www.convert.im" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

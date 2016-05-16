@@ -1,0 +1,6 @@
+<ruleset name="Nl-ix.net">
+	<target host="nl-ix.net" />
+	<target host="www.nl-ix.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

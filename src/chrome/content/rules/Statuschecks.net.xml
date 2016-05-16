@@ -1,0 +1,6 @@
+<ruleset name="Statuschecks.net">
+	<target host="statuschecks.net" />
+	<target host="www.statuschecks.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

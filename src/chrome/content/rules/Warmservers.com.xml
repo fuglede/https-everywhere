@@ -1,0 +1,6 @@
+<ruleset name="Warmservers.com">
+	<target host="warmservers.com" />
+	<target host="www.warmservers.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

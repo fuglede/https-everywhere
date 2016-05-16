@@ -1,0 +1,6 @@
+<ruleset name="Hpisavageforum.com">
+	<target host="hpisavageforum.com" />
+	<target host="www.hpisavageforum.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

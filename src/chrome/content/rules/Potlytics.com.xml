@@ -1,0 +1,6 @@
+<ruleset name="Potlytics.com">
+	<target host="potlytics.com" />
+	<target host="www.potlytics.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Noobunbox.net">
+	<target host="noobunbox.net" />
+	<target host="www.noobunbox.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Whisp.ly">
+	<target host="whisp.ly" />
+	<target host="www.whisp.ly" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

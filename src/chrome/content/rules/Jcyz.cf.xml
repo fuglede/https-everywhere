@@ -1,0 +1,6 @@
+<ruleset name="Jcyz.cf">
+	<target host="jcyz.cf" />
+	<target host="www.jcyz.cf" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Cfan.space">
+	<target host="cfan.space" />
+	<target host="www.cfan.space" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Che03.com">
+	<target host="che03.com" />
+	<target host="www.che03.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

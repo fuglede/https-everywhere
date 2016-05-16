@@ -1,0 +1,6 @@
+<ruleset name="Sdeu.fr">
+	<target host="sdeu.fr" />
+	<target host="www.sdeu.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

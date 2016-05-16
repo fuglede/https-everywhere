@@ -1,0 +1,6 @@
+<ruleset name="Iamwb.me">
+	<target host="iamwb.me" />
+	<target host="www.iamwb.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

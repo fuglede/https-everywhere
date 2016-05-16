@@ -1,0 +1,6 @@
+<ruleset name="Maplesurvey.com">
+	<target host="maplesurvey.com" />
+	<target host="www.maplesurvey.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

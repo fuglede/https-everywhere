@@ -1,0 +1,6 @@
+<ruleset name="Magiklimited.co.uk">
+	<target host="magiklimited.co.uk" />
+	<target host="www.magiklimited.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

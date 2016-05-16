@@ -1,0 +1,6 @@
+<ruleset name="Rheuma-online.de">
+	<target host="rheuma-online.de" />
+	<target host="www.rheuma-online.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

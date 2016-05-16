@@ -1,0 +1,6 @@
+<ruleset name="Elegantcv.com">
+	<target host="elegantcv.com" />
+	<target host="www.elegantcv.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

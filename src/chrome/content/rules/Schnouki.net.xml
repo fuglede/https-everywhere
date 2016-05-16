@@ -1,0 +1,6 @@
+<ruleset name="Schnouki.net">
+	<target host="schnouki.net" />
+	<target host="www.schnouki.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

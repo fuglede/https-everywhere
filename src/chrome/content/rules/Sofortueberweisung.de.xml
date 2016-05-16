@@ -1,0 +1,6 @@
+<ruleset name="Sofortueberweisung.de">
+	<target host="sofortueberweisung.de" />
+	<target host="www.sofortueberweisung.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

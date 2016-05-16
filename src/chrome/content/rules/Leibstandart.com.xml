@@ -1,0 +1,6 @@
+<ruleset name="Leibstandart.com">
+	<target host="leibstandart.com" />
+	<target host="www.leibstandart.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

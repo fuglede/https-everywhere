@@ -1,0 +1,6 @@
+<ruleset name="Warped.com">
+	<target host="warped.com" />
+	<target host="www.warped.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

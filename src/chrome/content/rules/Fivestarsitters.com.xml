@@ -1,0 +1,6 @@
+<ruleset name="Fivestarsitters.com">
+	<target host="fivestarsitters.com" />
+	<target host="www.fivestarsitters.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

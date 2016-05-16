@@ -1,0 +1,6 @@
+<ruleset name="Cyberdp.org">
+	<target host="cyberdp.org" />
+	<target host="www.cyberdp.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

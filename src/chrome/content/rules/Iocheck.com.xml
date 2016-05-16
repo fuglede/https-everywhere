@@ -1,0 +1,6 @@
+<ruleset name="Iocheck.com">
+	<target host="iocheck.com" />
+	<target host="www.iocheck.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

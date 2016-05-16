@@ -1,0 +1,6 @@
+<ruleset name="Jxu.ca">
+	<target host="jxu.ca" />
+	<target host="www.jxu.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

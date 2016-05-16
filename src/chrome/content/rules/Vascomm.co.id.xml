@@ -1,0 +1,6 @@
+<ruleset name="Vascomm.co.id">
+	<target host="vascomm.co.id" />
+	<target host="www.vascomm.co.id" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Legarage.org">
+	<target host="legarage.org" />
+	<target host="www.legarage.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

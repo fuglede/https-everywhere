@@ -1,0 +1,6 @@
+<ruleset name="Apachehaus.de">
+	<target host="apachehaus.de" />
+	<target host="www.apachehaus.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

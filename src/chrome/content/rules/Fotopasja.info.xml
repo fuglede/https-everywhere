@@ -1,0 +1,6 @@
+<ruleset name="Fotopasja.info">
+	<target host="fotopasja.info" />
+	<target host="www.fotopasja.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

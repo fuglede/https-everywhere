@@ -1,0 +1,6 @@
+<ruleset name="Briefbutler.ch">
+	<target host="briefbutler.ch" />
+	<target host="www.briefbutler.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

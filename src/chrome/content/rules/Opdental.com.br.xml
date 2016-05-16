@@ -1,0 +1,6 @@
+<ruleset name="Opdental.com.br">
+	<target host="opdental.com.br" />
+	<target host="www.opdental.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

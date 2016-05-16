@@ -1,0 +1,6 @@
+<ruleset name="Ecohabitatsireland.org">
+	<target host="ecohabitatsireland.org" />
+	<target host="www.ecohabitatsireland.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

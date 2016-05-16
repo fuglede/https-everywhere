@@ -1,0 +1,6 @@
+<ruleset name="Ovpn.to">
+	<target host="ovpn.to" />
+	<target host="www.ovpn.to" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Coimmvest.com">
+	<target host="coimmvest.com" />
+	<target host="www.coimmvest.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

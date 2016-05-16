@@ -1,0 +1,6 @@
+<ruleset name="Itjmailingze.com">
+	<target host="itjmailingze.com" />
+	<target host="www.itjmailingze.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

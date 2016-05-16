@@ -1,0 +1,6 @@
+<ruleset name="Hashimah.ca">
+	<target host="hashimah.ca" />
+	<target host="www.hashimah.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

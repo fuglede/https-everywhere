@@ -1,0 +1,6 @@
+<ruleset name="Alecpap.com">
+	<target host="alecpap.com" />
+	<target host="www.alecpap.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

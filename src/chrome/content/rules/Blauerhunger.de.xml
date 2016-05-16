@@ -1,0 +1,6 @@
+<ruleset name="Blauerhunger.de">
+	<target host="blauerhunger.de" />
+	<target host="www.blauerhunger.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

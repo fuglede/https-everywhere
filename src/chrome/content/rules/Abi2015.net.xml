@@ -1,0 +1,6 @@
+<ruleset name="Abi2015.net">
+	<target host="abi2015.net" />
+	<target host="www.abi2015.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

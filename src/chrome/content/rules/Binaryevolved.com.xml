@@ -1,0 +1,6 @@
+<ruleset name="Binaryevolved.com">
+	<target host="binaryevolved.com" />
+	<target host="www.binaryevolved.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

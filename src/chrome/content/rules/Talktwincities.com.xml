@@ -1,0 +1,6 @@
+<ruleset name="Talktwincities.com">
+	<target host="talktwincities.com" />
+	<target host="www.talktwincities.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

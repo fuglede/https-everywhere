@@ -1,0 +1,6 @@
+<ruleset name="Datenkeks.de">
+	<target host="datenkeks.de" />
+	<target host="www.datenkeks.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Hiexmerida-mailing.com">
+	<target host="hiexmerida-mailing.com" />
+	<target host="www.hiexmerida-mailing.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

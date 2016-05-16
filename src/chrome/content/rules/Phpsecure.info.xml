@@ -1,0 +1,6 @@
+<ruleset name="Phpsecure.info">
+	<target host="phpsecure.info" />
+	<target host="www.phpsecure.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

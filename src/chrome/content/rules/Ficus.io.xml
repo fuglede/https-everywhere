@@ -1,0 +1,6 @@
+<ruleset name="Ficus.io">
+	<target host="ficus.io" />
+	<target host="www.ficus.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Powerentertainment.tv">
+	<target host="powerentertainment.tv" />
+	<target host="www.powerentertainment.tv" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

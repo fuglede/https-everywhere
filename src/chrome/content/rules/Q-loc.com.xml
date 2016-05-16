@@ -1,0 +1,6 @@
+<ruleset name="Q-loc.com">
+	<target host="q-loc.com" />
+	<target host="www.q-loc.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

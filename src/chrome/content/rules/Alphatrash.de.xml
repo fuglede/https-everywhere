@@ -1,0 +1,6 @@
+<ruleset name="Alphatrash.de">
+	<target host="alphatrash.de" />
+	<target host="www.alphatrash.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

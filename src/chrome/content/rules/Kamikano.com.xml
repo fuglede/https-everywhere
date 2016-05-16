@@ -1,0 +1,6 @@
+<ruleset name="Kamikano.com">
+	<target host="kamikano.com" />
+	<target host="www.kamikano.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Dnsd.io">
+	<target host="dnsd.io" />
+	<target host="www.dnsd.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

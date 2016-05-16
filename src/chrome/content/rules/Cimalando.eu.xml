@@ -1,0 +1,6 @@
+<ruleset name="Cimalando.eu">
+	<target host="cimalando.eu" />
+	<target host="www.cimalando.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

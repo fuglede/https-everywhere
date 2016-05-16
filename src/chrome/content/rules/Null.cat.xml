@@ -1,0 +1,6 @@
+<ruleset name="Null.cat">
+	<target host="null.cat" />
+	<target host="www.null.cat" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

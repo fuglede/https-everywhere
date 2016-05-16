@@ -1,0 +1,6 @@
+<ruleset name="Spaggel.nl">
+	<target host="spaggel.nl" />
+	<target host="www.spaggel.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

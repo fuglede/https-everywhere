@@ -1,0 +1,6 @@
+<ruleset name="Cyberwire.nl">
+	<target host="cyberwire.nl" />
+	<target host="www.cyberwire.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

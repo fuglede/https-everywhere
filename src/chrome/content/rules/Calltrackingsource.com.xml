@@ -1,0 +1,6 @@
+<ruleset name="Calltrackingsource.com">
+	<target host="calltrackingsource.com" />
+	<target host="www.calltrackingsource.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

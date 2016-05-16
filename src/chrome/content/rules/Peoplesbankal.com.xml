@@ -1,0 +1,6 @@
+<ruleset name="Peoplesbankal.com">
+	<target host="peoplesbankal.com" />
+	<target host="www.peoplesbankal.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

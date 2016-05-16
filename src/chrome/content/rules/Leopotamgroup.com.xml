@@ -1,0 +1,6 @@
+<ruleset name="Leopotamgroup.com">
+	<target host="leopotamgroup.com" />
+	<target host="www.leopotamgroup.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

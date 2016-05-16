@@ -1,0 +1,6 @@
+<ruleset name="Mplant.io">
+	<target host="mplant.io" />
+	<target host="www.mplant.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

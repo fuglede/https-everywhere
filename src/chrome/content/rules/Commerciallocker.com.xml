@@ -1,0 +1,6 @@
+<ruleset name="Commerciallocker.com">
+	<target host="commerciallocker.com" />
+	<target host="www.commerciallocker.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

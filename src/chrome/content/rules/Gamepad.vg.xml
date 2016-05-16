@@ -1,0 +1,6 @@
+<ruleset name="Gamepad.vg">
+	<target host="gamepad.vg" />
+	<target host="www.gamepad.vg" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

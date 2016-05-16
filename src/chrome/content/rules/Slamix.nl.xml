@@ -1,0 +1,6 @@
+<ruleset name="Slamix.nl">
+	<target host="slamix.nl" />
+	<target host="www.slamix.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

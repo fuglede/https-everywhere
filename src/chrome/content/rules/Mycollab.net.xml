@@ -1,0 +1,6 @@
+<ruleset name="Mycollab.net">
+	<target host="mycollab.net" />
+	<target host="www.mycollab.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

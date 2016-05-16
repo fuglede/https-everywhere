@@ -1,0 +1,6 @@
+<ruleset name="Varunagw.com">
+	<target host="varunagw.com" />
+	<target host="www.varunagw.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

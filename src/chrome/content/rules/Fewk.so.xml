@@ -1,0 +1,6 @@
+<ruleset name="Fewk.so">
+	<target host="fewk.so" />
+	<target host="www.fewk.so" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

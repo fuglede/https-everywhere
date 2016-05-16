@@ -1,0 +1,6 @@
+<ruleset name="Nohup.com">
+	<target host="nohup.com" />
+	<target host="www.nohup.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Techorbiter.com">
+	<target host="techorbiter.com" />
+	<target host="www.techorbiter.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

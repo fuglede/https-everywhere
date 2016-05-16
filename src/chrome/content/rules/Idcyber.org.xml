@@ -1,0 +1,6 @@
+<ruleset name="Idcyber.org">
+	<target host="idcyber.org" />
+	<target host="www.idcyber.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

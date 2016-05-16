@@ -1,0 +1,6 @@
+<ruleset name="Randomcage.com">
+	<target host="randomcage.com" />
+	<target host="www.randomcage.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

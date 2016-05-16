@@ -1,0 +1,6 @@
+<ruleset name="Chb-compware.de">
+	<target host="chb-compware.de" />
+	<target host="www.chb-compware.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

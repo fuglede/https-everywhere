@@ -1,0 +1,6 @@
+<ruleset name="Igarcom.com">
+	<target host="igarcom.com" />
+	<target host="www.igarcom.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

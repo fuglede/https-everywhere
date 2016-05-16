@@ -1,0 +1,6 @@
+<ruleset name="Hostsecured.co.uk">
+	<target host="hostsecured.co.uk" />
+	<target host="www.hostsecured.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Sesha.co.za">
+	<target host="sesha.co.za" />
+	<target host="www.sesha.co.za" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

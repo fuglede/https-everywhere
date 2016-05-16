@@ -1,0 +1,6 @@
+<ruleset name="Bluescloud.xyz">
+	<target host="bluescloud.xyz" />
+	<target host="www.bluescloud.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

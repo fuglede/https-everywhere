@@ -1,0 +1,6 @@
+<ruleset name="Transverify.com">
+	<target host="transverify.com" />
+	<target host="www.transverify.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Crazydomains.in">
+	<target host="crazydomains.in" />
+	<target host="www.crazydomains.in" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

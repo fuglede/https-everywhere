@@ -1,0 +1,6 @@
+<ruleset name="Asr.li">
+	<target host="asr.li" />
+	<target host="www.asr.li" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

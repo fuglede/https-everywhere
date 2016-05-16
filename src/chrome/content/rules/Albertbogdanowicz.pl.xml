@@ -1,0 +1,6 @@
+<ruleset name="Albertbogdanowicz.pl">
+	<target host="albertbogdanowicz.pl" />
+	<target host="www.albertbogdanowicz.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

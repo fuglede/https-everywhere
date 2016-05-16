@@ -1,0 +1,6 @@
+<ruleset name="Dibowsky.net">
+	<target host="dibowsky.net" />
+	<target host="www.dibowsky.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

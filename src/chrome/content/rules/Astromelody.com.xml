@@ -1,0 +1,6 @@
+<ruleset name="Astromelody.com">
+	<target host="astromelody.com" />
+	<target host="www.astromelody.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Zwartzaad.info">
+	<target host="zwartzaad.info" />
+	<target host="www.zwartzaad.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

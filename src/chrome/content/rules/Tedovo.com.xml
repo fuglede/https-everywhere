@@ -1,0 +1,6 @@
+<ruleset name="Tedovo.com">
+	<target host="tedovo.com" />
+	<target host="www.tedovo.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

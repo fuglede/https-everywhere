@@ -1,0 +1,6 @@
+<ruleset name="Qolnsarangkot.org">
+	<target host="qolnsarangkot.org" />
+	<target host="www.qolnsarangkot.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

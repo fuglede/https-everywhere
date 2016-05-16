@@ -1,0 +1,6 @@
+<ruleset name="Pushapp.org">
+	<target host="pushapp.org" />
+	<target host="www.pushapp.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Getseatswap.com">
+	<target host="getseatswap.com" />
+	<target host="www.getseatswap.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

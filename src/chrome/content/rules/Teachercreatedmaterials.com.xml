@@ -1,0 +1,6 @@
+<ruleset name="Teachercreatedmaterials.com">
+	<target host="teachercreatedmaterials.com" />
+	<target host="www.teachercreatedmaterials.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

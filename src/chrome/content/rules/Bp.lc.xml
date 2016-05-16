@@ -1,0 +1,6 @@
+<ruleset name="Bp.lc">
+	<target host="bp.lc" />
+	<target host="www.bp.lc" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

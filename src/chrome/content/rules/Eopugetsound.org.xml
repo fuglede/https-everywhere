@@ -1,0 +1,6 @@
+<ruleset name="Eopugetsound.org">
+	<target host="eopugetsound.org" />
+	<target host="www.eopugetsound.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

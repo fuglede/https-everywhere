@@ -1,0 +1,6 @@
+<ruleset name="Unpkg.com">
+	<target host="unpkg.com" />
+	<target host="www.unpkg.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

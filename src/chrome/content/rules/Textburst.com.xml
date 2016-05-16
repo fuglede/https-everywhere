@@ -1,0 +1,6 @@
+<ruleset name="Textburst.com">
+	<target host="textburst.com" />
+	<target host="www.textburst.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

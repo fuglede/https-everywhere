@@ -1,0 +1,6 @@
+<ruleset name="Racius.com">
+	<target host="racius.com" />
+	<target host="www.racius.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

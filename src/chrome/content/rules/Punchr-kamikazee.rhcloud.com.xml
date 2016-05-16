@@ -1,0 +1,6 @@
+<ruleset name="Punchr-kamikazee.rhcloud.com">
+	<target host="punchr-kamikazee.rhcloud.com" />
+	<target host="www.punchr-kamikazee.rhcloud.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

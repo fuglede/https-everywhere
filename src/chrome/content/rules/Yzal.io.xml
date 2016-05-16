@@ -1,0 +1,6 @@
+<ruleset name="Yzal.io">
+	<target host="yzal.io" />
+	<target host="www.yzal.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

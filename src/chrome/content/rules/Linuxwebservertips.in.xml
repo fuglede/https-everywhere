@@ -1,0 +1,6 @@
+<ruleset name="Linuxwebservertips.in">
+	<target host="linuxwebservertips.in" />
+	<target host="www.linuxwebservertips.in" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

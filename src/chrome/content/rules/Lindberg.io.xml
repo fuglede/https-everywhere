@@ -1,0 +1,6 @@
+<ruleset name="Lindberg.io">
+	<target host="lindberg.io" />
+	<target host="www.lindberg.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

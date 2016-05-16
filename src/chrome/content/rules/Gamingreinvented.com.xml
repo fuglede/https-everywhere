@@ -1,0 +1,6 @@
+<ruleset name="Gamingreinvented.com">
+	<target host="gamingreinvented.com" />
+	<target host="www.gamingreinvented.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Orientalart.nl">
+	<target host="orientalart.nl" />
+	<target host="www.orientalart.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

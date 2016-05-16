@@ -1,0 +1,6 @@
+<ruleset name="Takk.pl">
+	<target host="takk.pl" />
+	<target host="www.takk.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

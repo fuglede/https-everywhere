@@ -1,0 +1,6 @@
+<ruleset name="Videomail.io">
+	<target host="videomail.io" />
+	<target host="www.videomail.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

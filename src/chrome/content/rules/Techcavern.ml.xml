@@ -1,0 +1,6 @@
+<ruleset name="Techcavern.ml">
+	<target host="techcavern.ml" />
+	<target host="www.techcavern.ml" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

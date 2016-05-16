@@ -1,0 +1,6 @@
+<ruleset name="Koerper-wie-seele.de">
+	<target host="koerper-wie-seele.de" />
+	<target host="www.koerper-wie-seele.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

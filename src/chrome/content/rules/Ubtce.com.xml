@@ -1,0 +1,6 @@
+<ruleset name="Ubtce.com">
+	<target host="ubtce.com" />
+	<target host="www.ubtce.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

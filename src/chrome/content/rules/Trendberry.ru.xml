@@ -1,0 +1,6 @@
+<ruleset name="Trendberry.ru">
+	<target host="trendberry.ru" />
+	<target host="www.trendberry.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

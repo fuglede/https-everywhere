@@ -1,0 +1,6 @@
+<ruleset name="Housemaadiah.org">
+	<target host="housemaadiah.org" />
+	<target host="www.housemaadiah.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

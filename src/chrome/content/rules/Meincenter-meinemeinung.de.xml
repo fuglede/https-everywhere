@@ -1,0 +1,6 @@
+<ruleset name="Meincenter-meinemeinung.de">
+	<target host="meincenter-meinemeinung.de" />
+	<target host="www.meincenter-meinemeinung.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

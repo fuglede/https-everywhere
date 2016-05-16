@@ -1,0 +1,6 @@
+<ruleset name="Familiegrottendieck.de">
+	<target host="familiegrottendieck.de" />
+	<target host="www.familiegrottendieck.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

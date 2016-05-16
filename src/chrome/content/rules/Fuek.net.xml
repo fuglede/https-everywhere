@@ -1,0 +1,6 @@
+<ruleset name="Fuek.net">
+	<target host="fuek.net" />
+	<target host="www.fuek.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

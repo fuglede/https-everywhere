@@ -1,0 +1,6 @@
+<ruleset name="Flamme-von-anor.de">
+	<target host="flamme-von-anor.de" />
+	<target host="www.flamme-von-anor.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

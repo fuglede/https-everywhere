@@ -1,0 +1,6 @@
+<ruleset name="Heavensinferno.net">
+	<target host="heavensinferno.net" />
+	<target host="www.heavensinferno.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

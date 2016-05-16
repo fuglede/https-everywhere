@@ -1,0 +1,6 @@
+<ruleset name="Trollscave.xyz">
+	<target host="trollscave.xyz" />
+	<target host="www.trollscave.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

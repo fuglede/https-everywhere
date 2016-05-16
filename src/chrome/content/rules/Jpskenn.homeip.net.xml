@@ -1,0 +1,6 @@
+<ruleset name="Jpskenn.homeip.net">
+	<target host="jpskenn.homeip.net" />
+	<target host="www.jpskenn.homeip.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

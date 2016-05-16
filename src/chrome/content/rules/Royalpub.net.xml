@@ -1,0 +1,6 @@
+<ruleset name="Royalpub.net">
+	<target host="royalpub.net" />
+	<target host="www.royalpub.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Spaark.io">
+	<target host="spaark.io" />
+	<target host="www.spaark.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

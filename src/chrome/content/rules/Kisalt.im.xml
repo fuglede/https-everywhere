@@ -1,0 +1,6 @@
+<ruleset name="Kisalt.im">
+	<target host="kisalt.im" />
+	<target host="www.kisalt.im" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

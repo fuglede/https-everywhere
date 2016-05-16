@@ -1,0 +1,6 @@
+<ruleset name="Dbx.ovh">
+	<target host="dbx.ovh" />
+	<target host="www.dbx.ovh" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

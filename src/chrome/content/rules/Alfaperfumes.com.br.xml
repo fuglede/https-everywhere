@@ -1,0 +1,6 @@
+<ruleset name="Alfaperfumes.com.br">
+	<target host="alfaperfumes.com.br" />
+	<target host="www.alfaperfumes.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

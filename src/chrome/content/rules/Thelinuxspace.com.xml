@@ -1,0 +1,6 @@
+<ruleset name="Thelinuxspace.com">
+	<target host="thelinuxspace.com" />
+	<target host="www.thelinuxspace.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

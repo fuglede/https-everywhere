@@ -1,0 +1,6 @@
+<ruleset name="Gameink.net">
+	<target host="gameink.net" />
+	<target host="www.gameink.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

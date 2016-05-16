@@ -1,0 +1,6 @@
+<ruleset name="Dotadata.me">
+	<target host="dotadata.me" />
+	<target host="www.dotadata.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

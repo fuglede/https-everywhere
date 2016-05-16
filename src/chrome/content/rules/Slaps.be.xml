@@ -1,0 +1,6 @@
+<ruleset name="Slaps.be">
+	<target host="slaps.be" />
+	<target host="www.slaps.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

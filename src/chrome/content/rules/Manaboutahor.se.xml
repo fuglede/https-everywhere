@@ -1,0 +1,6 @@
+<ruleset name="Manaboutahor.se">
+	<target host="manaboutahor.se" />
+	<target host="www.manaboutahor.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

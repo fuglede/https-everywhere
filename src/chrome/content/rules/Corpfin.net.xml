@@ -1,0 +1,6 @@
+<ruleset name="Corpfin.net">
+	<target host="corpfin.net" />
+	<target host="www.corpfin.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Sectun.com">
+	<target host="sectun.com" />
+	<target host="www.sectun.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

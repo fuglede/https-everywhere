@@ -1,0 +1,6 @@
+<ruleset name="Rolemaster.net">
+	<target host="rolemaster.net" />
+	<target host="www.rolemaster.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

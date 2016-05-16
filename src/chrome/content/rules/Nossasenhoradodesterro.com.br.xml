@@ -1,0 +1,6 @@
+<ruleset name="Nossasenhoradodesterro.com.br">
+	<target host="nossasenhoradodesterro.com.br" />
+	<target host="www.nossasenhoradodesterro.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Saorsat.ie">
+	<target host="saorsat.ie" />
+	<target host="www.saorsat.ie" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

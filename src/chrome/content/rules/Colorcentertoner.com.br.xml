@@ -1,0 +1,6 @@
+<ruleset name="Colorcentertoner.com.br">
+	<target host="colorcentertoner.com.br" />
+	<target host="www.colorcentertoner.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

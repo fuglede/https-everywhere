@@ -1,0 +1,6 @@
+<ruleset name="Plumlocosoft.com">
+	<target host="plumlocosoft.com" />
+	<target host="www.plumlocosoft.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

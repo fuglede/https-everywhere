@@ -1,0 +1,6 @@
+<ruleset name="Noez.de">
+	<target host="noez.de" />
+	<target host="www.noez.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

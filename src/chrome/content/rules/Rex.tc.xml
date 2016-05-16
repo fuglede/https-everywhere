@@ -1,0 +1,6 @@
+<ruleset name="Rex.tc">
+	<target host="rex.tc" />
+	<target host="www.rex.tc" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

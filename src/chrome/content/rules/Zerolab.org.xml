@@ -1,0 +1,6 @@
+<ruleset name="Zerolab.org">
+	<target host="zerolab.org" />
+	<target host="www.zerolab.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

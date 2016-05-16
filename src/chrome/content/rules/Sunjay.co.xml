@@ -1,0 +1,6 @@
+<ruleset name="Sunjay.co">
+	<target host="sunjay.co" />
+	<target host="www.sunjay.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

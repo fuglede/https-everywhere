@@ -1,0 +1,6 @@
+<ruleset name="Bildschirmflackern.de">
+	<target host="bildschirmflackern.de" />
+	<target host="www.bildschirmflackern.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

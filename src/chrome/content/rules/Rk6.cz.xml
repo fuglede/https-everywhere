@@ -1,0 +1,6 @@
+<ruleset name="Rk6.cz">
+	<target host="rk6.cz" />
+	<target host="www.rk6.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

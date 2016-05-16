@@ -1,0 +1,6 @@
+<ruleset name="Smallchat.nl">
+	<target host="smallchat.nl" />
+	<target host="www.smallchat.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

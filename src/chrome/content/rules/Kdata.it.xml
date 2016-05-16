@@ -1,0 +1,6 @@
+<ruleset name="Kdata.it">
+	<target host="kdata.it" />
+	<target host="www.kdata.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Jicc.tech">
+	<target host="jicc.tech" />
+	<target host="www.jicc.tech" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

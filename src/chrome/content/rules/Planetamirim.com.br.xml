@@ -1,0 +1,6 @@
+<ruleset name="Planetamirim.com.br">
+	<target host="planetamirim.com.br" />
+	<target host="www.planetamirim.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Stockhaus.ninja">
+	<target host="stockhaus.ninja" />
+	<target host="www.stockhaus.ninja" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

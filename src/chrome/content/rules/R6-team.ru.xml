@@ -1,0 +1,6 @@
+<ruleset name="R6-team.ru">
+	<target host="r6-team.ru" />
+	<target host="www.r6-team.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

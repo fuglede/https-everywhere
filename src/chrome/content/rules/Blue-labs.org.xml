@@ -1,0 +1,6 @@
+<ruleset name="Blue-labs.org">
+	<target host="blue-labs.org" />
+	<target host="www.blue-labs.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

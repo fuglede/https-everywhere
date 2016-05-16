@@ -1,0 +1,6 @@
+<ruleset name="Mygate.at">
+	<target host="mygate.at" />
+	<target host="www.mygate.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

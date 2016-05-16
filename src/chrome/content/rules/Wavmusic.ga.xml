@@ -1,0 +1,6 @@
+<ruleset name="Wavmusic.ga">
+	<target host="wavmusic.ga" />
+	<target host="www.wavmusic.ga" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

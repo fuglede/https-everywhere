@@ -1,0 +1,6 @@
+<ruleset name="Hovie.at">
+	<target host="hovie.at" />
+	<target host="www.hovie.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

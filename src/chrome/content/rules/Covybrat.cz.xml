@@ -1,0 +1,6 @@
+<ruleset name="Covybrat.cz">
+	<target host="covybrat.cz" />
+	<target host="www.covybrat.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

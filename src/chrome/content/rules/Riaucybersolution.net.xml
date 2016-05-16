@@ -1,0 +1,6 @@
+<ruleset name="Riaucybersolution.net">
+	<target host="riaucybersolution.net" />
+	<target host="www.riaucybersolution.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

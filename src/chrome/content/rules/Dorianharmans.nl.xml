@@ -1,0 +1,6 @@
+<ruleset name="Dorianharmans.nl">
+	<target host="dorianharmans.nl" />
+	<target host="www.dorianharmans.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

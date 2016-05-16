@@ -1,0 +1,6 @@
+<ruleset name="Anduril.de">
+	<target host="anduril.de" />
+	<target host="www.anduril.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

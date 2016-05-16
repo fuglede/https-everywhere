@@ -1,0 +1,6 @@
+<ruleset name="Tradeacademy.in">
+	<target host="tradeacademy.in" />
+	<target host="www.tradeacademy.in" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

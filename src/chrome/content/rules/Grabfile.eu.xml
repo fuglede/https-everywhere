@@ -1,0 +1,6 @@
+<ruleset name="Grabfile.eu">
+	<target host="grabfile.eu" />
+	<target host="www.grabfile.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

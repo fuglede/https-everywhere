@@ -1,0 +1,6 @@
+<ruleset name="Bijuslu.com.br">
+	<target host="bijuslu.com.br" />
+	<target host="www.bijuslu.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

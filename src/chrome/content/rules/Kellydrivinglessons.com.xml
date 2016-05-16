@@ -1,0 +1,6 @@
+<ruleset name="Kellydrivinglessons.com">
+	<target host="kellydrivinglessons.com" />
+	<target host="www.kellydrivinglessons.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

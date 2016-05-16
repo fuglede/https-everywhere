@@ -1,0 +1,6 @@
+<ruleset name="Netvizura.co.uk">
+	<target host="netvizura.co.uk" />
+	<target host="www.netvizura.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

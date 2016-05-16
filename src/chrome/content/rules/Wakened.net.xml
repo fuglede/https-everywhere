@@ -1,0 +1,6 @@
+<ruleset name="Wakened.net">
+	<target host="wakened.net" />
+	<target host="www.wakened.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

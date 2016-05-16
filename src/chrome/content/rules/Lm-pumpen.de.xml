@@ -1,0 +1,6 @@
+<ruleset name="Lm-pumpen.de">
+	<target host="lm-pumpen.de" />
+	<target host="www.lm-pumpen.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

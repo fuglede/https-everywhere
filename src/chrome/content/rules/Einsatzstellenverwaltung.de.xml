@@ -1,0 +1,6 @@
+<ruleset name="Einsatzstellenverwaltung.de">
+	<target host="einsatzstellenverwaltung.de" />
+	<target host="www.einsatzstellenverwaltung.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

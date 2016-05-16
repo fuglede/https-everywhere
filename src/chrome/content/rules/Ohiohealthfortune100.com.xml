@@ -1,0 +1,6 @@
+<ruleset name="Ohiohealthfortune100.com">
+	<target host="ohiohealthfortune100.com" />
+	<target host="www.ohiohealthfortune100.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

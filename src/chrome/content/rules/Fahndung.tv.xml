@@ -1,0 +1,6 @@
+<ruleset name="Fahndung.tv">
+	<target host="fahndung.tv" />
+	<target host="www.fahndung.tv" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

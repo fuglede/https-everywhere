@@ -1,0 +1,6 @@
+<ruleset name="Reserve-online.net">
+	<target host="reserve-online.net" />
+	<target host="www.reserve-online.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

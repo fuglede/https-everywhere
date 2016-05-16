@@ -1,0 +1,6 @@
+<ruleset name="Crepuscule.ch">
+	<target host="crepuscule.ch" />
+	<target host="www.crepuscule.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

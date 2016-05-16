@@ -1,0 +1,6 @@
+<ruleset name="Peername.com">
+	<target host="peername.com" />
+	<target host="www.peername.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

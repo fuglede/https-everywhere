@@ -1,0 +1,6 @@
+<ruleset name="Szentistvanpt.sk">
+	<target host="szentistvanpt.sk" />
+	<target host="www.szentistvanpt.sk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

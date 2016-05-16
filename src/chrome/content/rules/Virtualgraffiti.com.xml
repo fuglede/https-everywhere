@@ -1,0 +1,6 @@
+<ruleset name="Virtualgraffiti.com">
+	<target host="virtualgraffiti.com" />
+	<target host="www.virtualgraffiti.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

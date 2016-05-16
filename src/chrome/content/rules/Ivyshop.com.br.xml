@@ -1,0 +1,6 @@
+<ruleset name="Ivyshop.com.br">
+	<target host="ivyshop.com.br" />
+	<target host="www.ivyshop.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

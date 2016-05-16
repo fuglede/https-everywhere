@@ -1,0 +1,6 @@
+<ruleset name="Tbarter.com">
+	<target host="tbarter.com" />
+	<target host="www.tbarter.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

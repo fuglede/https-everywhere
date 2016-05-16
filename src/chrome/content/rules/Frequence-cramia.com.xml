@@ -1,0 +1,6 @@
+<ruleset name="Frequence-cramia.com">
+	<target host="frequence-cramia.com" />
+	<target host="www.frequence-cramia.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Evolutionlending.co.uk">
+	<target host="evolutionlending.co.uk" />
+	<target host="www.evolutionlending.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

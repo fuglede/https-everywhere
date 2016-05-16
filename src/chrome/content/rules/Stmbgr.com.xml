@@ -1,0 +1,6 @@
+<ruleset name="Stmbgr.com">
+	<target host="stmbgr.com" />
+	<target host="www.stmbgr.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

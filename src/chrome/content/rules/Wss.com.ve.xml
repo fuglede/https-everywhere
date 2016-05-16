@@ -1,0 +1,6 @@
+<ruleset name="Wss.com.ve">
+	<target host="wss.com.ve" />
+	<target host="www.wss.com.ve" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

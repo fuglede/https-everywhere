@@ -1,0 +1,6 @@
+<ruleset name="Hipstercat.fr">
+	<target host="hipstercat.fr" />
+	<target host="www.hipstercat.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="No17sifangjie.cc">
+	<target host="no17sifangjie.cc" />
+	<target host="www.no17sifangjie.cc" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

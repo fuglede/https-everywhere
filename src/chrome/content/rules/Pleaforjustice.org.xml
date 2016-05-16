@@ -1,0 +1,6 @@
+<ruleset name="Pleaforjustice.org">
+	<target host="pleaforjustice.org" />
+	<target host="www.pleaforjustice.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Jubbo.fr">
+	<target host="jubbo.fr" />
+	<target host="www.jubbo.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Stageirites.fr">
+	<target host="stageirites.fr" />
+	<target host="www.stageirites.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

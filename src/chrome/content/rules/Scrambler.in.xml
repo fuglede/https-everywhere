@@ -1,0 +1,6 @@
+<ruleset name="Scrambler.in">
+	<target host="scrambler.in" />
+	<target host="www.scrambler.in" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

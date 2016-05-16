@@ -1,0 +1,6 @@
+<ruleset name="Rubbermaidoutlet.com">
+	<target host="rubbermaidoutlet.com" />
+	<target host="www.rubbermaidoutlet.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

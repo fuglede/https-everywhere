@@ -1,0 +1,6 @@
+<ruleset name="Subseq.net">
+	<target host="subseq.net" />
+	<target host="www.subseq.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

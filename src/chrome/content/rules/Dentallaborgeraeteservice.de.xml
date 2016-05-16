@@ -1,0 +1,6 @@
+<ruleset name="Dentallaborgeraeteservice.de">
+	<target host="dentallaborgeraeteservice.de" />
+	<target host="www.dentallaborgeraeteservice.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

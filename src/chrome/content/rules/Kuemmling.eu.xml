@@ -1,0 +1,6 @@
+<ruleset name="Kuemmling.eu">
+	<target host="kuemmling.eu" />
+	<target host="www.kuemmling.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

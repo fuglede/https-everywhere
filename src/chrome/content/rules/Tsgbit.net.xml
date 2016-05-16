@@ -1,0 +1,6 @@
+<ruleset name="Tsgbit.net">
+	<target host="tsgbit.net" />
+	<target host="www.tsgbit.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

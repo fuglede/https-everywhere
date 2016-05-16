@@ -1,0 +1,6 @@
+<ruleset name="Betz.ro">
+	<target host="betz.ro" />
+	<target host="www.betz.ro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

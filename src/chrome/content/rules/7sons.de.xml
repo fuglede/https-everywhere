@@ -1,0 +1,6 @@
+<ruleset name="7sons.de">
+	<target host="7sons.de" />
+	<target host="www.7sons.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

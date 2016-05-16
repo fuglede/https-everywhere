@@ -1,0 +1,6 @@
+<ruleset name="Overalglas.nl">
+	<target host="overalglas.nl" />
+	<target host="www.overalglas.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

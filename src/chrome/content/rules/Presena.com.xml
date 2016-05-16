@@ -1,0 +1,6 @@
+<ruleset name="Presena.com">
+	<target host="presena.com" />
+	<target host="www.presena.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

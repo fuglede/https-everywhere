@@ -1,0 +1,6 @@
+<ruleset name="Glitch.in">
+	<target host="glitch.in" />
+	<target host="www.glitch.in" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

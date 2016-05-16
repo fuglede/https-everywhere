@@ -1,0 +1,6 @@
+<ruleset name="Freemyipod.org">
+	<target host="freemyipod.org" />
+	<target host="www.freemyipod.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

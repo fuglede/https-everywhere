@@ -1,0 +1,6 @@
+<ruleset name="Payslipview.com">
+	<target host="payslipview.com" />
+	<target host="www.payslipview.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

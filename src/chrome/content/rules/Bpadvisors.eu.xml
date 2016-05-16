@@ -1,0 +1,6 @@
+<ruleset name="Bpadvisors.eu">
+	<target host="bpadvisors.eu" />
+	<target host="www.bpadvisors.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

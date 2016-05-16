@@ -1,0 +1,6 @@
+<ruleset name="Clifflu.net">
+	<target host="clifflu.net" />
+	<target host="www.clifflu.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

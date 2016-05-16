@@ -1,0 +1,6 @@
+<ruleset name="Cairo-bound.com">
+	<target host="cairo-bound.com" />
+	<target host="www.cairo-bound.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

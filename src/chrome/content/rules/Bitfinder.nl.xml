@@ -1,0 +1,6 @@
+<ruleset name="Bitfinder.nl">
+	<target host="bitfinder.nl" />
+	<target host="www.bitfinder.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

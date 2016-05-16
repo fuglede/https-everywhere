@@ -1,0 +1,6 @@
+<ruleset name="Hetpecsetesvendeghaz.hu">
+	<target host="hetpecsetesvendeghaz.hu" />
+	<target host="www.hetpecsetesvendeghaz.hu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

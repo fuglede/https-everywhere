@@ -1,0 +1,6 @@
+<ruleset name="Secularethos.com">
+	<target host="secularethos.com" />
+	<target host="www.secularethos.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

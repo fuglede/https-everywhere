@@ -1,0 +1,6 @@
+<ruleset name="Lug-freising.de">
+	<target host="lug-freising.de" />
+	<target host="www.lug-freising.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

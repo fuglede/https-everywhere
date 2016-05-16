@@ -1,0 +1,6 @@
+<ruleset name="Travelinsurance.co.nz">
+	<target host="travelinsurance.co.nz" />
+	<target host="www.travelinsurance.co.nz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

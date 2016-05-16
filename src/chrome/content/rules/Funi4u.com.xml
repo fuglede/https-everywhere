@@ -1,0 +1,6 @@
+<ruleset name="Funi4u.com">
+	<target host="funi4u.com" />
+	<target host="www.funi4u.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

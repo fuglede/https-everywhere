@@ -1,0 +1,6 @@
+<ruleset name="Streams.dyndns.org">
+	<target host="streams.dyndns.org" />
+	<target host="www.streams.dyndns.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

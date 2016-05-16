@@ -1,0 +1,6 @@
+<ruleset name="Callhub.io">
+	<target host="callhub.io" />
+	<target host="www.callhub.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

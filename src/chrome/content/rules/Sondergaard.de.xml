@@ -1,0 +1,6 @@
+<ruleset name="Sondergaard.de">
+	<target host="sondergaard.de" />
+	<target host="www.sondergaard.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

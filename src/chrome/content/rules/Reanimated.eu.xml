@@ -1,0 +1,6 @@
+<ruleset name="Reanimated.eu">
+	<target host="reanimated.eu" />
+	<target host="www.reanimated.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

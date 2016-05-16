@@ -1,0 +1,6 @@
+<ruleset name="Krypteia.org">
+	<target host="krypteia.org" />
+	<target host="www.krypteia.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

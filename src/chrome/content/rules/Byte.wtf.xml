@@ -1,0 +1,6 @@
+<ruleset name="Byte.wtf">
+	<target host="byte.wtf" />
+	<target host="www.byte.wtf" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Starpeak.org">
+	<target host="starpeak.org" />
+	<target host="www.starpeak.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

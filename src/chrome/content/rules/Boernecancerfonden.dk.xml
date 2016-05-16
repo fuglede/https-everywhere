@@ -1,0 +1,6 @@
+<ruleset name="Boernecancerfonden.dk">
+	<target host="boernecancerfonden.dk" />
+	<target host="www.boernecancerfonden.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

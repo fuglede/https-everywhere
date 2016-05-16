@@ -1,0 +1,6 @@
+<ruleset name="Mma-acareporting.com">
+	<target host="mma-acareporting.com" />
+	<target host="www.mma-acareporting.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

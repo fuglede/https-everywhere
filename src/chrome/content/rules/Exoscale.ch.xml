@@ -1,0 +1,6 @@
+<ruleset name="Exoscale.ch">
+	<target host="exoscale.ch" />
+	<target host="www.exoscale.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

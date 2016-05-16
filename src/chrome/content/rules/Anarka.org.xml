@@ -1,0 +1,6 @@
+<ruleset name="Anarka.org">
+	<target host="anarka.org" />
+	<target host="www.anarka.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

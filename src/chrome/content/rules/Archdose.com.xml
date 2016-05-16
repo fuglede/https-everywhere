@@ -1,0 +1,6 @@
+<ruleset name="Archdose.com">
+	<target host="archdose.com" />
+	<target host="www.archdose.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

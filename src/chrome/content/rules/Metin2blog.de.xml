@@ -1,0 +1,6 @@
+<ruleset name="Metin2blog.de">
+	<target host="metin2blog.de" />
+	<target host="www.metin2blog.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

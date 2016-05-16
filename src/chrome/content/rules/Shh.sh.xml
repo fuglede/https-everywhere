@@ -1,0 +1,6 @@
+<ruleset name="Shh.sh">
+	<target host="shh.sh" />
+	<target host="www.shh.sh" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

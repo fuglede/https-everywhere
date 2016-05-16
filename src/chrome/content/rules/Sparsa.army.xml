@@ -1,0 +1,6 @@
+<ruleset name="Sparsa.army">
+	<target host="sparsa.army" />
+	<target host="www.sparsa.army" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

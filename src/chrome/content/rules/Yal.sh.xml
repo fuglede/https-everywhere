@@ -1,0 +1,6 @@
+<ruleset name="Yal.sh">
+	<target host="yal.sh" />
+	<target host="www.yal.sh" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

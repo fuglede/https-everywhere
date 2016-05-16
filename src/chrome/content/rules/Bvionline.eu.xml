@@ -1,0 +1,6 @@
+<ruleset name="Bvionline.eu">
+	<target host="bvionline.eu" />
+	<target host="www.bvionline.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

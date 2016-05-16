@@ -1,0 +1,6 @@
+<ruleset name="Familie-kupschke.de">
+	<target host="familie-kupschke.de" />
+	<target host="www.familie-kupschke.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

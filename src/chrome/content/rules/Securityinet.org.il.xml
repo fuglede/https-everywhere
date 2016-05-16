@@ -1,0 +1,6 @@
+<ruleset name="Securityinet.org.il">
+	<target host="securityinet.org.il" />
+	<target host="www.securityinet.org.il" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

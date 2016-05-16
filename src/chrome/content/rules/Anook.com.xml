@@ -1,0 +1,6 @@
+<ruleset name="Anook.com">
+	<target host="anook.com" />
+	<target host="www.anook.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

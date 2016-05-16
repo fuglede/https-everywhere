@@ -1,0 +1,6 @@
+<ruleset name="Aleksib.fi">
+	<target host="aleksib.fi" />
+	<target host="www.aleksib.fi" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

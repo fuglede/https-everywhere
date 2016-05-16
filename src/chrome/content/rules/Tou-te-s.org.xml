@@ -1,0 +1,6 @@
+<ruleset name="Tou-te-s.org">
+	<target host="tou-te-s.org" />
+	<target host="www.tou-te-s.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

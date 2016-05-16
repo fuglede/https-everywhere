@@ -1,0 +1,6 @@
+<ruleset name="Hydromarketonline.com">
+	<target host="hydromarketonline.com" />
+	<target host="www.hydromarketonline.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

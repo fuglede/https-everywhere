@@ -1,0 +1,6 @@
+<ruleset name="Florian-thie.de">
+	<target host="florian-thie.de" />
+	<target host="www.florian-thie.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

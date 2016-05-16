@@ -1,0 +1,6 @@
+<ruleset name="Duncancmt.com">
+	<target host="duncancmt.com" />
+	<target host="www.duncancmt.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

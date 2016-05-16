@@ -1,0 +1,6 @@
+<ruleset name="Libscode.com">
+	<target host="libscode.com" />
+	<target host="www.libscode.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

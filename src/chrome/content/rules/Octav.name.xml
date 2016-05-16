@@ -1,0 +1,6 @@
+<ruleset name="Octav.name">
+	<target host="octav.name" />
+	<target host="www.octav.name" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

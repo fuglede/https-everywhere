@@ -1,0 +1,6 @@
+<ruleset name="Megashur.se">
+	<target host="megashur.se" />
+	<target host="www.megashur.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

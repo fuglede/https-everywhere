@@ -1,0 +1,6 @@
+<ruleset name="Factys.es">
+	<target host="factys.es" />
+	<target host="www.factys.es" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

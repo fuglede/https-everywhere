@@ -1,0 +1,6 @@
+<ruleset name="Inspy.me">
+	<target host="inspy.me" />
+	<target host="www.inspy.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

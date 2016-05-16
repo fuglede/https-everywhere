@@ -1,0 +1,6 @@
+<ruleset name="Goodenough.nz">
+	<target host="goodenough.nz" />
+	<target host="www.goodenough.nz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

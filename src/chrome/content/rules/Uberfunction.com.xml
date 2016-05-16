@@ -1,0 +1,6 @@
+<ruleset name="Uberfunction.com">
+	<target host="uberfunction.com" />
+	<target host="www.uberfunction.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

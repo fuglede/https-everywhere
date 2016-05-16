@@ -1,0 +1,6 @@
+<ruleset name="Jamiemagee.dk">
+	<target host="jamiemagee.dk" />
+	<target host="www.jamiemagee.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

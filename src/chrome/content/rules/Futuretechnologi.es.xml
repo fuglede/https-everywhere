@@ -1,0 +1,6 @@
+<ruleset name="Futuretechnologi.es">
+	<target host="futuretechnologi.es" />
+	<target host="www.futuretechnologi.es" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Moviesabout.net">
+	<target host="moviesabout.net" />
+	<target host="www.moviesabout.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

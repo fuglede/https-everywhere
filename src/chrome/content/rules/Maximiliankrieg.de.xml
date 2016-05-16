@@ -1,0 +1,6 @@
+<ruleset name="Maximiliankrieg.de">
+	<target host="maximiliankrieg.de" />
+	<target host="www.maximiliankrieg.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

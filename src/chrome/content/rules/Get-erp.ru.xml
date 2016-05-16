@@ -1,0 +1,6 @@
+<ruleset name="Get-erp.ru">
+	<target host="get-erp.ru" />
+	<target host="www.get-erp.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

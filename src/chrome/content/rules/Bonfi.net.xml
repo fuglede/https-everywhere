@@ -1,0 +1,6 @@
+<ruleset name="Bonfi.net">
+	<target host="bonfi.net" />
+	<target host="www.bonfi.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

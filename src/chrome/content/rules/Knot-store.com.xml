@@ -1,0 +1,6 @@
+<ruleset name="Knot-store.com">
+	<target host="knot-store.com" />
+	<target host="www.knot-store.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Wikimilk.org">
+	<target host="wikimilk.org" />
+	<target host="www.wikimilk.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

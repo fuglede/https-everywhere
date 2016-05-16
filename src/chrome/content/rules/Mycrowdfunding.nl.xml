@@ -1,0 +1,6 @@
+<ruleset name="Mycrowdfunding.nl">
+	<target host="mycrowdfunding.nl" />
+	<target host="www.mycrowdfunding.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

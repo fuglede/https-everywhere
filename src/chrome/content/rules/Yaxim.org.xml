@@ -1,0 +1,6 @@
+<ruleset name="Yaxim.org">
+	<target host="yaxim.org" />
+	<target host="www.yaxim.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

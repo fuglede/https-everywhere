@@ -1,0 +1,6 @@
+<ruleset name="Quranserver.net">
+	<target host="quranserver.net" />
+	<target host="www.quranserver.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

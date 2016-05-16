@@ -1,0 +1,6 @@
+<ruleset name="Jackf.me">
+	<target host="jackf.me" />
+	<target host="www.jackf.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

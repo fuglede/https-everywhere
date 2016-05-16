@@ -1,0 +1,6 @@
+<ruleset name="Enviam.de">
+	<target host="enviam.de" />
+	<target host="www.enviam.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

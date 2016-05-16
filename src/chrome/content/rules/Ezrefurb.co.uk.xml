@@ -1,0 +1,6 @@
+<ruleset name="Ezrefurb.co.uk">
+	<target host="ezrefurb.co.uk" />
+	<target host="www.ezrefurb.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

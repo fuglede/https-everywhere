@@ -1,0 +1,6 @@
+<ruleset name="Nixo.net">
+	<target host="nixo.net" />
+	<target host="www.nixo.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

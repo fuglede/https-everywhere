@@ -1,0 +1,6 @@
+<ruleset name="Miyoshi-kikaku.com">
+	<target host="miyoshi-kikaku.com" />
+	<target host="www.miyoshi-kikaku.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Porndig.com">
+	<target host="porndig.com" />
+	<target host="www.porndig.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

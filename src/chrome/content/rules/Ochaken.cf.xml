@@ -1,0 +1,6 @@
+<ruleset name="Ochaken.cf">
+	<target host="ochaken.cf" />
+	<target host="www.ochaken.cf" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

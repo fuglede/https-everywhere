@@ -1,0 +1,6 @@
+<ruleset name="Edition-neue-moderne.de">
+	<target host="edition-neue-moderne.de" />
+	<target host="www.edition-neue-moderne.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

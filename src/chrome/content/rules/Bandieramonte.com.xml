@@ -1,0 +1,6 @@
+<ruleset name="Bandieramonte.com">
+	<target host="bandieramonte.com" />
+	<target host="www.bandieramonte.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

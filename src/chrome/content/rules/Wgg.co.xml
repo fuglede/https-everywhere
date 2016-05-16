@@ -1,0 +1,6 @@
+<ruleset name="Wgg.co">
+	<target host="wgg.co" />
+	<target host="www.wgg.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

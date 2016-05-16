@@ -1,0 +1,6 @@
+<ruleset name="Envyus.info">
+	<target host="envyus.info" />
+	<target host="www.envyus.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

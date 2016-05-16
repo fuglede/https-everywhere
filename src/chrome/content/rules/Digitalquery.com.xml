@@ -1,0 +1,6 @@
+<ruleset name="Digitalquery.com">
+	<target host="digitalquery.com" />
+	<target host="www.digitalquery.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

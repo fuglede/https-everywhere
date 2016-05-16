@@ -1,0 +1,6 @@
+<ruleset name="Preparetheword.com">
+	<target host="preparetheword.com" />
+	<target host="www.preparetheword.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

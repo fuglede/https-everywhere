@@ -1,0 +1,6 @@
+<ruleset name="Ngv.im">
+	<target host="ngv.im" />
+	<target host="www.ngv.im" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

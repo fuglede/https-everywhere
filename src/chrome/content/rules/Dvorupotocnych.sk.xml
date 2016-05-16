@@ -1,0 +1,6 @@
+<ruleset name="Dvorupotocnych.sk">
+	<target host="dvorupotocnych.sk" />
+	<target host="www.dvorupotocnych.sk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Glasschmuck-millefiori.de">
+	<target host="glasschmuck-millefiori.de" />
+	<target host="www.glasschmuck-millefiori.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

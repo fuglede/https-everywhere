@@ -1,0 +1,6 @@
+<ruleset name="Wirc.gr">
+	<target host="wirc.gr" />
+	<target host="www.wirc.gr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Codeplay.org">
+	<target host="codeplay.org" />
+	<target host="www.codeplay.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

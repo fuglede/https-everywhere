@@ -1,0 +1,6 @@
+<ruleset name="Tofu.im">
+	<target host="tofu.im" />
+	<target host="www.tofu.im" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

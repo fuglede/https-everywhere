@@ -1,0 +1,6 @@
+<ruleset name="Tosteberg.se">
+	<target host="tosteberg.se" />
+	<target host="www.tosteberg.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

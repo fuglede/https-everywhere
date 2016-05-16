@@ -1,0 +1,6 @@
+<ruleset name="Vantien.com">
+	<target host="vantien.com" />
+	<target host="www.vantien.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

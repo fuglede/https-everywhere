@@ -1,0 +1,6 @@
+<ruleset name="Depixion.agency">
+	<target host="depixion.agency" />
+	<target host="www.depixion.agency" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

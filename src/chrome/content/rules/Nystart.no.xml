@@ -1,0 +1,6 @@
+<ruleset name="Nystart.no">
+	<target host="nystart.no" />
+	<target host="www.nystart.no" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

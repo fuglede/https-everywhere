@@ -1,0 +1,6 @@
+<ruleset name="Liverpoolmutualhomes.org">
+	<target host="liverpoolmutualhomes.org" />
+	<target host="www.liverpoolmutualhomes.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

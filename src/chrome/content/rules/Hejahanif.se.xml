@@ -1,0 +1,6 @@
+<ruleset name="Hejahanif.se">
+	<target host="hejahanif.se" />
+	<target host="www.hejahanif.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

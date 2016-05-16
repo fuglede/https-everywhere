@@ -1,0 +1,6 @@
+<ruleset name="Nodespin.com">
+	<target host="nodespin.com" />
+	<target host="www.nodespin.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

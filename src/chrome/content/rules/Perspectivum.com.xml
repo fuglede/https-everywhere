@@ -1,0 +1,6 @@
+<ruleset name="Perspectivum.com">
+	<target host="perspectivum.com" />
+	<target host="www.perspectivum.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

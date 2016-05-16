@@ -1,0 +1,6 @@
+<ruleset name="Torv.rocks">
+	<target host="torv.rocks" />
+	<target host="www.torv.rocks" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

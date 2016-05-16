@@ -1,0 +1,6 @@
+<ruleset name="Midair.io">
+	<target host="midair.io" />
+	<target host="www.midair.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

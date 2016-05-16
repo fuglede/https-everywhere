@@ -1,0 +1,6 @@
+<ruleset name="Pgpm.io">
+	<target host="pgpm.io" />
+	<target host="www.pgpm.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

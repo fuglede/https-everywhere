@@ -1,0 +1,6 @@
+<ruleset name="Lkvs.duckdns.org">
+	<target host="lkvs.duckdns.org" />
+	<target host="www.lkvs.duckdns.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

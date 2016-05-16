@@ -1,0 +1,6 @@
+<ruleset name="Encryptedaudience.com">
+	<target host="encryptedaudience.com" />
+	<target host="www.encryptedaudience.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

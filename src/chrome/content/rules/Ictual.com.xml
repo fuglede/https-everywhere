@@ -1,0 +1,6 @@
+<ruleset name="Ictual.com">
+	<target host="ictual.com" />
+	<target host="www.ictual.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

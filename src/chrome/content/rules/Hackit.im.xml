@@ -1,0 +1,6 @@
+<ruleset name="Hackit.im">
+	<target host="hackit.im" />
+	<target host="www.hackit.im" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

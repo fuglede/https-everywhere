@@ -1,0 +1,6 @@
+<ruleset name="Nyamie.com">
+	<target host="nyamie.com" />
+	<target host="www.nyamie.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

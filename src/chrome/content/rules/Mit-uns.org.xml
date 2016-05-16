@@ -1,0 +1,6 @@
+<ruleset name="Mit-uns.org">
+	<target host="mit-uns.org" />
+	<target host="www.mit-uns.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

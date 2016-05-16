@@ -1,0 +1,6 @@
+<ruleset name="Dn42.eu">
+	<target host="dn42.eu" />
+	<target host="www.dn42.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

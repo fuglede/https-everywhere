@@ -1,0 +1,6 @@
+<ruleset name="Acisonline.net">
+	<target host="acisonline.net" />
+	<target host="www.acisonline.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

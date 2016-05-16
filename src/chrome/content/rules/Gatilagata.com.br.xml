@@ -1,0 +1,6 @@
+<ruleset name="Gatilagata.com.br">
+	<target host="gatilagata.com.br" />
+	<target host="www.gatilagata.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

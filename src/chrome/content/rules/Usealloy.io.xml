@@ -1,0 +1,6 @@
+<ruleset name="Usealloy.io">
+	<target host="usealloy.io" />
+	<target host="www.usealloy.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

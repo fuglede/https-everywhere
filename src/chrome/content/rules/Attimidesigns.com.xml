@@ -1,0 +1,6 @@
+<ruleset name="Attimidesigns.com">
+	<target host="attimidesigns.com" />
+	<target host="www.attimidesigns.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

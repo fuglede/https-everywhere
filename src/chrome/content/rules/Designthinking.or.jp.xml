@@ -1,0 +1,6 @@
+<ruleset name="Designthinking.or.jp">
+	<target host="designthinking.or.jp" />
+	<target host="www.designthinking.or.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Genuu.com">
+	<target host="genuu.com" />
+	<target host="www.genuu.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

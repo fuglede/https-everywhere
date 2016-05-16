@@ -1,0 +1,6 @@
+<ruleset name="Projectbenson.com">
+	<target host="projectbenson.com" />
+	<target host="www.projectbenson.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

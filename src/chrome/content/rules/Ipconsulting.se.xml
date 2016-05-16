@@ -1,0 +1,6 @@
+<ruleset name="Ipconsulting.se">
+	<target host="ipconsulting.se" />
+	<target host="www.ipconsulting.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Klausbrinch.dk">
+	<target host="klausbrinch.dk" />
+	<target host="www.klausbrinch.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

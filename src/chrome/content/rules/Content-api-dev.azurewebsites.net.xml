@@ -1,0 +1,6 @@
+<ruleset name="Content-api-dev.azurewebsites.net">
+	<target host="content-api-dev.azurewebsites.net" />
+	<target host="www.content-api-dev.azurewebsites.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

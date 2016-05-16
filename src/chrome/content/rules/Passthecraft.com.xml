@@ -1,0 +1,6 @@
+<ruleset name="Passthecraft.com">
+	<target host="passthecraft.com" />
+	<target host="www.passthecraft.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

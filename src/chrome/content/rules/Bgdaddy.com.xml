@@ -1,0 +1,6 @@
+<ruleset name="Bgdaddy.com">
+	<target host="bgdaddy.com" />
+	<target host="www.bgdaddy.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

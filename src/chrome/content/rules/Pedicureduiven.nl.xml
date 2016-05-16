@@ -1,0 +1,6 @@
+<ruleset name="Pedicureduiven.nl">
+	<target host="pedicureduiven.nl" />
+	<target host="www.pedicureduiven.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Moran-haynal.com">
+	<target host="moran-haynal.com" />
+	<target host="www.moran-haynal.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

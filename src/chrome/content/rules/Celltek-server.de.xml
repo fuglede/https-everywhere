@@ -1,0 +1,6 @@
+<ruleset name="Celltek-server.de">
+	<target host="celltek-server.de" />
+	<target host="www.celltek-server.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

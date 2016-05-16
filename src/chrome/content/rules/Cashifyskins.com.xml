@@ -1,0 +1,6 @@
+<ruleset name="Cashifyskins.com">
+	<target host="cashifyskins.com" />
+	<target host="www.cashifyskins.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

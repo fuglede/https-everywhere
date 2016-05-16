@@ -1,0 +1,6 @@
+<ruleset name="Gesiwista.net">
+	<target host="gesiwista.net" />
+	<target host="www.gesiwista.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

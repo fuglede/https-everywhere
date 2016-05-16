@@ -1,0 +1,6 @@
+<ruleset name="Kirstin-peters.de">
+	<target host="kirstin-peters.de" />
+	<target host="www.kirstin-peters.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

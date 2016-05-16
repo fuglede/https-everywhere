@@ -1,0 +1,6 @@
+<ruleset name="Silicagel.ca">
+	<target host="silicagel.ca" />
+	<target host="www.silicagel.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

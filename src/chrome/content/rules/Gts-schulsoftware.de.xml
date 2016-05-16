@@ -1,0 +1,6 @@
+<ruleset name="Gts-schulsoftware.de">
+	<target host="gts-schulsoftware.de" />
+	<target host="www.gts-schulsoftware.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

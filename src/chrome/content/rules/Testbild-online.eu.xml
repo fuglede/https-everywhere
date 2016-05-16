@@ -1,0 +1,6 @@
+<ruleset name="Testbild-online.eu">
+	<target host="testbild-online.eu" />
+	<target host="www.testbild-online.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

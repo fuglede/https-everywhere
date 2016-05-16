@@ -1,0 +1,6 @@
+<ruleset name="Lcti.biz">
+	<target host="lcti.biz" />
+	<target host="www.lcti.biz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

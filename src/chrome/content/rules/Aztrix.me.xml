@@ -1,0 +1,6 @@
+<ruleset name="Aztrix.me">
+	<target host="aztrix.me" />
+	<target host="www.aztrix.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

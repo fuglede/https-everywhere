@@ -1,0 +1,6 @@
+<ruleset name="Ideadozz.hu">
+	<target host="ideadozz.hu" />
+	<target host="www.ideadozz.hu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

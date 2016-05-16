@@ -1,0 +1,6 @@
+<ruleset name="Gsnort.com">
+	<target host="gsnort.com" />
+	<target host="www.gsnort.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Drivenes.net">
+	<target host="drivenes.net" />
+	<target host="www.drivenes.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

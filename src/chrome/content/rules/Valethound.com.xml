@@ -1,0 +1,6 @@
+<ruleset name="Valethound.com">
+	<target host="valethound.com" />
+	<target host="www.valethound.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

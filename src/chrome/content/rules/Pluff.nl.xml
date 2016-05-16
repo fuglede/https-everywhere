@@ -1,0 +1,6 @@
+<ruleset name="Pluff.nl">
+	<target host="pluff.nl" />
+	<target host="www.pluff.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

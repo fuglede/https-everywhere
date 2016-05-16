@@ -1,0 +1,6 @@
+<ruleset name="Paytwopay.com">
+	<target host="paytwopay.com" />
+	<target host="www.paytwopay.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Exon.io">
+	<target host="exon.io" />
+	<target host="www.exon.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

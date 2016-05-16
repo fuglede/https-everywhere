@@ -1,0 +1,6 @@
+<ruleset name="Alertwire.com">
+	<target host="alertwire.com" />
+	<target host="www.alertwire.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

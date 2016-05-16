@@ -1,0 +1,6 @@
+<ruleset name="Cyph.audio">
+	<target host="cyph.audio" />
+	<target host="www.cyph.audio" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Ixds.org">
+	<target host="ixds.org" />
+	<target host="www.ixds.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Stationaryjourney.com">
+	<target host="stationaryjourney.com" />
+	<target host="www.stationaryjourney.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Rousseaumetal.com">
+	<target host="rousseaumetal.com" />
+	<target host="www.rousseaumetal.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

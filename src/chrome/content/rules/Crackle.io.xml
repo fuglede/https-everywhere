@@ -1,0 +1,6 @@
+<ruleset name="Crackle.io">
+	<target host="crackle.io" />
+	<target host="www.crackle.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

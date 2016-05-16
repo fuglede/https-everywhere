@@ -1,0 +1,6 @@
+<ruleset name="Nzb.cat">
+	<target host="nzb.cat" />
+	<target host="www.nzb.cat" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

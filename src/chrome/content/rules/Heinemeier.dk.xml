@@ -1,0 +1,6 @@
+<ruleset name="Heinemeier.dk">
+	<target host="heinemeier.dk" />
+	<target host="www.heinemeier.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

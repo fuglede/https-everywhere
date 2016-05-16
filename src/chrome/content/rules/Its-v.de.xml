@@ -1,0 +1,6 @@
+<ruleset name="Its-v.de">
+	<target host="its-v.de" />
+	<target host="www.its-v.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

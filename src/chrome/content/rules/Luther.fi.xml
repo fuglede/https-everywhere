@@ -1,0 +1,6 @@
+<ruleset name="Luther.fi">
+	<target host="luther.fi" />
+	<target host="www.luther.fi" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

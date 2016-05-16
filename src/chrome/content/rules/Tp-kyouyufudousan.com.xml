@@ -1,0 +1,6 @@
+<ruleset name="Tp-kyouyufudousan.com">
+	<target host="tp-kyouyufudousan.com" />
+	<target host="www.tp-kyouyufudousan.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

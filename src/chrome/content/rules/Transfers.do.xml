@@ -1,0 +1,6 @@
+<ruleset name="Transfers.do">
+	<target host="transfers.do" />
+	<target host="www.transfers.do" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

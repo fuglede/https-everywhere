@@ -1,0 +1,6 @@
+<ruleset name="Rappelkiste-bornheim.de">
+	<target host="rappelkiste-bornheim.de" />
+	<target host="www.rappelkiste-bornheim.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

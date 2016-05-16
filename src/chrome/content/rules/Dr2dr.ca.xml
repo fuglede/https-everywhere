@@ -1,0 +1,6 @@
+<ruleset name="Dr2dr.ca">
+	<target host="dr2dr.ca" />
+	<target host="www.dr2dr.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

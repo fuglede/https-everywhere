@@ -1,0 +1,6 @@
+<ruleset name="Scrapings.net">
+	<target host="scrapings.net" />
+	<target host="www.scrapings.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

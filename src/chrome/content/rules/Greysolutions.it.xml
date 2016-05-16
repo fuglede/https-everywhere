@@ -1,0 +1,6 @@
+<ruleset name="Greysolutions.it">
+	<target host="greysolutions.it" />
+	<target host="www.greysolutions.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

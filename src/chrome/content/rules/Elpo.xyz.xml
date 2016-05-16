@@ -1,0 +1,6 @@
+<ruleset name="Elpo.xyz">
+	<target host="elpo.xyz" />
+	<target host="www.elpo.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Randc.org">
+	<target host="randc.org" />
+	<target host="www.randc.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

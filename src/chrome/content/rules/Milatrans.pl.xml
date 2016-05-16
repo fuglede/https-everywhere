@@ -1,0 +1,6 @@
+<ruleset name="Milatrans.pl">
+	<target host="milatrans.pl" />
+	<target host="www.milatrans.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

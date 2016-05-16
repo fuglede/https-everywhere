@@ -1,0 +1,6 @@
+<ruleset name="Jackdelik.de">
+	<target host="jackdelik.de" />
+	<target host="www.jackdelik.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

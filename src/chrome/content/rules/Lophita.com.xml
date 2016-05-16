@@ -1,0 +1,6 @@
+<ruleset name="Lophita.com">
+	<target host="lophita.com" />
+	<target host="www.lophita.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

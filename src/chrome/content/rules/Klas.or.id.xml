@@ -1,0 +1,6 @@
+<ruleset name="Klas.or.id">
+	<target host="klas.or.id" />
+	<target host="www.klas.or.id" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

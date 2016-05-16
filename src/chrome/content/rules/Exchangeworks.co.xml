@@ -1,0 +1,6 @@
+<ruleset name="Exchangeworks.co">
+	<target host="exchangeworks.co" />
+	<target host="www.exchangeworks.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

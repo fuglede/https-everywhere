@@ -1,0 +1,6 @@
+<ruleset name="Gravitechthai.com">
+	<target host="gravitechthai.com" />
+	<target host="www.gravitechthai.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

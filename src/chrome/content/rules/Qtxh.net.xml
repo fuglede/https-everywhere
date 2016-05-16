@@ -1,0 +1,6 @@
+<ruleset name="Qtxh.net">
+	<target host="qtxh.net" />
+	<target host="www.qtxh.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

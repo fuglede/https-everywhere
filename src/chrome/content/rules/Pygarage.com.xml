@@ -1,0 +1,6 @@
+<ruleset name="Pygarage.com">
+	<target host="pygarage.com" />
+	<target host="www.pygarage.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

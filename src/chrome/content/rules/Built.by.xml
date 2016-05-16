@@ -1,0 +1,6 @@
+<ruleset name="Built.by">
+	<target host="built.by" />
+	<target host="www.built.by" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

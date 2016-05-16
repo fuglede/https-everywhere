@@ -1,0 +1,6 @@
+<ruleset name="Routedlogic.net">
+	<target host="routedlogic.net" />
+	<target host="www.routedlogic.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

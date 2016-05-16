@@ -1,0 +1,6 @@
+<ruleset name="Yapbreak.fr">
+	<target host="yapbreak.fr" />
+	<target host="www.yapbreak.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

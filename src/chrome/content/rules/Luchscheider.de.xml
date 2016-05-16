@@ -1,0 +1,6 @@
+<ruleset name="Luchscheider.de">
+	<target host="luchscheider.de" />
+	<target host="www.luchscheider.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

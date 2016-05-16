@@ -1,0 +1,6 @@
+<ruleset name="Guava.studio">
+	<target host="guava.studio" />
+	<target host="www.guava.studio" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="E-lifetechnology.com">
+	<target host="e-lifetechnology.com" />
+	<target host="www.e-lifetechnology.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

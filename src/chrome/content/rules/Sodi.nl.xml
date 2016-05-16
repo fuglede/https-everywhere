@@ -1,0 +1,6 @@
+<ruleset name="Sodi.nl">
+	<target host="sodi.nl" />
+	<target host="www.sodi.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

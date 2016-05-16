@@ -1,0 +1,6 @@
+<ruleset name="Corgicloud.com">
+	<target host="corgicloud.com" />
+	<target host="www.corgicloud.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

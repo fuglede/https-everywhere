@@ -1,0 +1,6 @@
+<ruleset name="Compeuphoria.com">
+	<target host="compeuphoria.com" />
+	<target host="www.compeuphoria.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

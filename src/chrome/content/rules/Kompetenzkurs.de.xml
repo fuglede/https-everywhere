@@ -1,0 +1,6 @@
+<ruleset name="Kompetenzkurs.de">
+	<target host="kompetenzkurs.de" />
+	<target host="www.kompetenzkurs.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

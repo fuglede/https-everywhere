@@ -1,0 +1,6 @@
+<ruleset name="Cyberspect.io">
+	<target host="cyberspect.io" />
+	<target host="www.cyberspect.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

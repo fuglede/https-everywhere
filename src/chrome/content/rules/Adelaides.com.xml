@@ -1,0 +1,6 @@
+<ruleset name="Adelaides.com">
+	<target host="adelaides.com" />
+	<target host="www.adelaides.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

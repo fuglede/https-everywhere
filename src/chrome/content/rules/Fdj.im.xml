@@ -1,0 +1,6 @@
+<ruleset name="Fdj.im">
+	<target host="fdj.im" />
+	<target host="www.fdj.im" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

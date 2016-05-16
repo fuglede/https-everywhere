@@ -1,0 +1,6 @@
+<ruleset name="Siciliadigitale.pro">
+	<target host="siciliadigitale.pro" />
+	<target host="www.siciliadigitale.pro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

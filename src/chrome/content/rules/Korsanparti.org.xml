@@ -1,0 +1,6 @@
+<ruleset name="Korsanparti.org">
+	<target host="korsanparti.org" />
+	<target host="www.korsanparti.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

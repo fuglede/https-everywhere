@@ -1,0 +1,6 @@
+<ruleset name="Sessionslogning.dk">
+	<target host="sessionslogning.dk" />
+	<target host="www.sessionslogning.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

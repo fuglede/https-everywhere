@@ -1,0 +1,6 @@
+<ruleset name="Totem-international.com">
+	<target host="totem-international.com" />
+	<target host="www.totem-international.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

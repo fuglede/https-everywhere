@@ -1,0 +1,6 @@
+<ruleset name="Cyclebeads.com">
+	<target host="cyclebeads.com" />
+	<target host="www.cyclebeads.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

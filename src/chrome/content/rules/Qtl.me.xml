@@ -1,0 +1,6 @@
+<ruleset name="Qtl.me">
+	<target host="qtl.me" />
+	<target host="www.qtl.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

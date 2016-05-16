@@ -1,0 +1,6 @@
+<ruleset name="Ardtrade.ru">
+	<target host="ardtrade.ru" />
+	<target host="www.ardtrade.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

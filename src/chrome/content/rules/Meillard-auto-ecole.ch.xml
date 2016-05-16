@@ -1,0 +1,6 @@
+<ruleset name="Meillard-auto-ecole.ch">
+	<target host="meillard-auto-ecole.ch" />
+	<target host="www.meillard-auto-ecole.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

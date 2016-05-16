@@ -1,0 +1,6 @@
+<ruleset name="Rapidresearch.me">
+	<target host="rapidresearch.me" />
+	<target host="www.rapidresearch.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

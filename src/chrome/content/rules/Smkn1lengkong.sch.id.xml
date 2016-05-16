@@ -1,0 +1,6 @@
+<ruleset name="Smkn1lengkong.sch.id">
+	<target host="smkn1lengkong.sch.id" />
+	<target host="www.smkn1lengkong.sch.id" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

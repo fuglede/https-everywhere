@@ -1,0 +1,6 @@
+<ruleset name="Finditez.com">
+	<target host="finditez.com" />
+	<target host="www.finditez.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

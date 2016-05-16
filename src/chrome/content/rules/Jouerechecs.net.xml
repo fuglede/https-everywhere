@@ -1,0 +1,6 @@
+<ruleset name="Jouerechecs.net">
+	<target host="jouerechecs.net" />
+	<target host="www.jouerechecs.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

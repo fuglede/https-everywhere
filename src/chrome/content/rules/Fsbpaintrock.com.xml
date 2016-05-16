@@ -1,0 +1,6 @@
+<ruleset name="Fsbpaintrock.com">
+	<target host="fsbpaintrock.com" />
+	<target host="www.fsbpaintrock.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Xotika.tv">
+	<target host="xotika.tv" />
+	<target host="www.xotika.tv" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

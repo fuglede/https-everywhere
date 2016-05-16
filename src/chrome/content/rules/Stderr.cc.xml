@@ -1,0 +1,6 @@
+<ruleset name="Stderr.cc">
+	<target host="stderr.cc" />
+	<target host="www.stderr.cc" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

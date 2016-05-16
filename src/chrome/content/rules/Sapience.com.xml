@@ -1,0 +1,6 @@
+<ruleset name="Sapience.com">
+	<target host="sapience.com" />
+	<target host="www.sapience.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

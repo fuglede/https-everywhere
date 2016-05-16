@@ -1,0 +1,6 @@
+<ruleset name="Themerchandiser.net">
+	<target host="themerchandiser.net" />
+	<target host="www.themerchandiser.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Ananke.io">
+	<target host="ananke.io" />
+	<target host="www.ananke.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

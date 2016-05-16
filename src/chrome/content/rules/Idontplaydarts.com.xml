@@ -1,0 +1,6 @@
+<ruleset name="Idontplaydarts.com">
+	<target host="idontplaydarts.com" />
+	<target host="www.idontplaydarts.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

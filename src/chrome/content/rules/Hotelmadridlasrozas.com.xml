@@ -1,0 +1,6 @@
+<ruleset name="Hotelmadridlasrozas.com">
+	<target host="hotelmadridlasrozas.com" />
+	<target host="www.hotelmadridlasrozas.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

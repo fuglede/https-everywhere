@@ -1,0 +1,6 @@
+<ruleset name="Rcnitrotalk.com">
+	<target host="rcnitrotalk.com" />
+	<target host="www.rcnitrotalk.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

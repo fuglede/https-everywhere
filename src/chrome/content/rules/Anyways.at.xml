@@ -1,0 +1,6 @@
+<ruleset name="Anyways.at">
+	<target host="anyways.at" />
+	<target host="www.anyways.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

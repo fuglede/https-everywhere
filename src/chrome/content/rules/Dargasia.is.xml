@@ -1,0 +1,6 @@
+<ruleset name="Dargasia.is">
+	<target host="dargasia.is" />
+	<target host="www.dargasia.is" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

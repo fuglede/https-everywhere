@@ -1,0 +1,6 @@
+<ruleset name="Ytimg.com">
+	<target host="ytimg.com" />
+	<target host="www.ytimg.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

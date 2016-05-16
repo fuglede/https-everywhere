@@ -1,0 +1,6 @@
+<ruleset name="Amacide.net">
+	<target host="amacide.net" />
+	<target host="www.amacide.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

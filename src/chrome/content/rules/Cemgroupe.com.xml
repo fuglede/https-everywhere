@@ -1,0 +1,6 @@
+<ruleset name="Cemgroupe.com">
+	<target host="cemgroupe.com" />
+	<target host="www.cemgroupe.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

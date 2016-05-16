@@ -1,0 +1,6 @@
+<ruleset name="Chuckame.fr">
+	<target host="chuckame.fr" />
+	<target host="www.chuckame.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

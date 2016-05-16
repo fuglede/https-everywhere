@@ -1,0 +1,6 @@
+<ruleset name="Thkb.net">
+	<target host="thkb.net" />
+	<target host="www.thkb.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

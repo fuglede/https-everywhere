@@ -1,0 +1,6 @@
+<ruleset name="Pasteros.io">
+	<target host="pasteros.io" />
+	<target host="www.pasteros.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

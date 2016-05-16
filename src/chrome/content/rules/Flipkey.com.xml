@@ -1,0 +1,6 @@
+<ruleset name="Flipkey.com">
+	<target host="flipkey.com" />
+	<target host="www.flipkey.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

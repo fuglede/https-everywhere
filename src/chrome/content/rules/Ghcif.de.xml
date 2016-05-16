@@ -1,0 +1,6 @@
+<ruleset name="Ghcif.de">
+	<target host="ghcif.de" />
+	<target host="www.ghcif.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Potomania.cz">
+	<target host="potomania.cz" />
+	<target host="www.potomania.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

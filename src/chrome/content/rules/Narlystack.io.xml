@@ -1,0 +1,6 @@
+<ruleset name="Narlystack.io">
+	<target host="narlystack.io" />
+	<target host="www.narlystack.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

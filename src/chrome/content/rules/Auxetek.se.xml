@@ -1,0 +1,6 @@
+<ruleset name="Auxetek.se">
+	<target host="auxetek.se" />
+	<target host="www.auxetek.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

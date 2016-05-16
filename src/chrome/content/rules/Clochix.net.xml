@@ -1,0 +1,6 @@
+<ruleset name="Clochix.net">
+	<target host="clochix.net" />
+	<target host="www.clochix.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

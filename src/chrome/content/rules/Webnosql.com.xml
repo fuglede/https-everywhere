@@ -1,0 +1,6 @@
+<ruleset name="Webnosql.com">
+	<target host="webnosql.com" />
+	<target host="www.webnosql.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

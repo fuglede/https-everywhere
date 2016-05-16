@@ -1,0 +1,6 @@
+<ruleset name="Babacasino.net">
+	<target host="babacasino.net" />
+	<target host="www.babacasino.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

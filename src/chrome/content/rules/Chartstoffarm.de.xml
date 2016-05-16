@@ -1,0 +1,6 @@
+<ruleset name="Chartstoffarm.de">
+	<target host="chartstoffarm.de" />
+	<target host="www.chartstoffarm.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

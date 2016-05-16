@@ -1,0 +1,6 @@
+<ruleset name="Ip2country.info">
+	<target host="ip2country.info" />
+	<target host="www.ip2country.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

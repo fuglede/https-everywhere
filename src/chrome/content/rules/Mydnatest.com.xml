@@ -1,0 +1,6 @@
+<ruleset name="Mydnatest.com">
+	<target host="mydnatest.com" />
+	<target host="www.mydnatest.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

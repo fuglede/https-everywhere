@@ -1,0 +1,6 @@
+<ruleset name="Opentrash.org">
+	<target host="opentrash.org" />
+	<target host="www.opentrash.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

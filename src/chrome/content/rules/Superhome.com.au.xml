@@ -1,0 +1,6 @@
+<ruleset name="Superhome.com.au">
+	<target host="superhome.com.au" />
+	<target host="www.superhome.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

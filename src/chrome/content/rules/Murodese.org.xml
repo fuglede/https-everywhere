@@ -1,0 +1,6 @@
+<ruleset name="Murodese.org">
+	<target host="murodese.org" />
+	<target host="www.murodese.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

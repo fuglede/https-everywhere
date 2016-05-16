@@ -1,0 +1,6 @@
+<ruleset name="Drugagodba.si">
+	<target host="drugagodba.si" />
+	<target host="www.drugagodba.si" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

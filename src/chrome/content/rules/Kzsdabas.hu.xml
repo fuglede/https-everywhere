@@ -1,0 +1,6 @@
+<ruleset name="Kzsdabas.hu">
+	<target host="kzsdabas.hu" />
+	<target host="www.kzsdabas.hu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

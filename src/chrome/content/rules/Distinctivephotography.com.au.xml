@@ -1,0 +1,6 @@
+<ruleset name="Distinctivephotography.com.au">
+	<target host="distinctivephotography.com.au" />
+	<target host="www.distinctivephotography.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

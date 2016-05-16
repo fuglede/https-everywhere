@@ -1,0 +1,6 @@
+<ruleset name="Srv47.de">
+	<target host="srv47.de" />
+	<target host="www.srv47.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

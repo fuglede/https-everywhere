@@ -1,0 +1,6 @@
+<ruleset name="Streampanel.net">
+	<target host="streampanel.net" />
+	<target host="www.streampanel.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

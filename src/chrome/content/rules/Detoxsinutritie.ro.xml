@@ -1,0 +1,6 @@
+<ruleset name="Detoxsinutritie.ro">
+	<target host="detoxsinutritie.ro" />
+	<target host="www.detoxsinutritie.ro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

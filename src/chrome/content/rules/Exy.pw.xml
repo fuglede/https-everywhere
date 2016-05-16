@@ -1,0 +1,6 @@
+<ruleset name="Exy.pw">
+	<target host="exy.pw" />
+	<target host="www.exy.pw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

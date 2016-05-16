@@ -1,0 +1,6 @@
+<ruleset name="Vipmusic.ga">
+	<target host="vipmusic.ga" />
+	<target host="www.vipmusic.ga" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

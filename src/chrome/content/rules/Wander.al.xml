@@ -1,0 +1,6 @@
+<ruleset name="Wander.al">
+	<target host="wander.al" />
+	<target host="www.wander.al" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Swaleacademiestrust.org.uk">
+	<target host="swaleacademiestrust.org.uk" />
+	<target host="www.swaleacademiestrust.org.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

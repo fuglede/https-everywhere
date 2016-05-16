@@ -1,0 +1,6 @@
+<ruleset name="Aduvi.de">
+	<target host="aduvi.de" />
+	<target host="www.aduvi.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

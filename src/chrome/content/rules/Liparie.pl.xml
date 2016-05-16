@@ -1,0 +1,6 @@
+<ruleset name="Liparie.pl">
+	<target host="liparie.pl" />
+	<target host="www.liparie.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

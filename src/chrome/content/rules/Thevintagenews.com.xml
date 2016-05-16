@@ -1,0 +1,6 @@
+<ruleset name="Thevintagenews.com">
+	<target host="thevintagenews.com" />
+	<target host="www.thevintagenews.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

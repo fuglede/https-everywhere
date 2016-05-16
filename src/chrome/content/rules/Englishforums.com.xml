@@ -1,0 +1,6 @@
+<ruleset name="Englishforums.com">
+	<target host="englishforums.com" />
+	<target host="www.englishforums.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

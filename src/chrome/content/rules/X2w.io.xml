@@ -1,0 +1,6 @@
+<ruleset name="X2w.io">
+	<target host="x2w.io" />
+	<target host="www.x2w.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Jozzy.cf">
+	<target host="jozzy.cf" />
+	<target host="www.jozzy.cf" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

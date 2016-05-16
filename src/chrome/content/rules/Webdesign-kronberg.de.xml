@@ -1,0 +1,6 @@
+<ruleset name="Webdesign-kronberg.de">
+	<target host="webdesign-kronberg.de" />
+	<target host="www.webdesign-kronberg.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

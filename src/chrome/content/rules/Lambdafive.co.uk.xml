@@ -1,0 +1,6 @@
+<ruleset name="Lambdafive.co.uk">
+	<target host="lambdafive.co.uk" />
+	<target host="www.lambdafive.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Paperturn.com">
+	<target host="paperturn.com" />
+	<target host="www.paperturn.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

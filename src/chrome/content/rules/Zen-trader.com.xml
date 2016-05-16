@@ -1,0 +1,6 @@
+<ruleset name="Zen-trader.com">
+	<target host="zen-trader.com" />
+	<target host="www.zen-trader.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

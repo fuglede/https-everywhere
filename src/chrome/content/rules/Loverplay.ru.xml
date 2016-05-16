@@ -1,0 +1,6 @@
+<ruleset name="Loverplay.ru">
+	<target host="loverplay.ru" />
+	<target host="www.loverplay.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

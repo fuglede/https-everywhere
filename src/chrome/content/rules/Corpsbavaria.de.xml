@@ -1,0 +1,6 @@
+<ruleset name="Corpsbavaria.de">
+	<target host="corpsbavaria.de" />
+	<target host="www.corpsbavaria.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Nkc.sh">
+	<target host="nkc.sh" />
+	<target host="www.nkc.sh" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

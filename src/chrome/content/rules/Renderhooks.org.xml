@@ -1,0 +1,6 @@
+<ruleset name="Renderhooks.org">
+	<target host="renderhooks.org" />
+	<target host="www.renderhooks.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Crowd.supply">
+	<target host="crowd.supply" />
+	<target host="www.crowd.supply" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

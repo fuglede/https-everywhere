@@ -1,0 +1,6 @@
+<ruleset name="4ourty2.org">
+	<target host="4ourty2.org" />
+	<target host="www.4ourty2.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

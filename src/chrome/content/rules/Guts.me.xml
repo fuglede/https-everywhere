@@ -1,0 +1,6 @@
+<ruleset name="Guts.me">
+	<target host="guts.me" />
+	<target host="www.guts.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

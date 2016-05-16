@@ -1,0 +1,6 @@
+<ruleset name="Regionale.org">
+	<target host="regionale.org" />
+	<target host="www.regionale.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

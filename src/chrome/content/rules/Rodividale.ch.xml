@@ -1,0 +1,6 @@
+<ruleset name="Rodividale.ch">
+	<target host="rodividale.ch" />
+	<target host="www.rodividale.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

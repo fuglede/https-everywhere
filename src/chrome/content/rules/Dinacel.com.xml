@@ -1,0 +1,6 @@
+<ruleset name="Dinacel.com">
+	<target host="dinacel.com" />
+	<target host="www.dinacel.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

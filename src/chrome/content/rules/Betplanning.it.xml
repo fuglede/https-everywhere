@@ -1,0 +1,6 @@
+<ruleset name="Betplanning.it">
+	<target host="betplanning.it" />
+	<target host="www.betplanning.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

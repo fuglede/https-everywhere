@@ -1,0 +1,6 @@
+<ruleset name="Suave.io">
+	<target host="suave.io" />
+	<target host="www.suave.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

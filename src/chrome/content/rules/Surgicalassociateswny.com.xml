@@ -1,0 +1,6 @@
+<ruleset name="Surgicalassociateswny.com">
+	<target host="surgicalassociateswny.com" />
+	<target host="www.surgicalassociateswny.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

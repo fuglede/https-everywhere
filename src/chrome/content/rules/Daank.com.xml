@@ -1,0 +1,6 @@
+<ruleset name="Daank.com">
+	<target host="daank.com" />
+	<target host="www.daank.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

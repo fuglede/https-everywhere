@@ -1,0 +1,6 @@
+<ruleset name="60ych.net">
+	<target host="60ych.net" />
+	<target host="www.60ych.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

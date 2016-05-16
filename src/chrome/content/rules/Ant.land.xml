@@ -1,0 +1,6 @@
+<ruleset name="Ant.land">
+	<target host="ant.land" />
+	<target host="www.ant.land" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

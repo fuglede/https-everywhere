@@ -1,0 +1,6 @@
+<ruleset name="Bible-maroc.com">
+	<target host="bible-maroc.com" />
+	<target host="www.bible-maroc.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

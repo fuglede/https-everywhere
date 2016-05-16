@@ -1,0 +1,6 @@
+<ruleset name="Promecon-gmbh.de">
+	<target host="promecon-gmbh.de" />
+	<target host="www.promecon-gmbh.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

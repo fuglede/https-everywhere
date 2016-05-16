@@ -1,0 +1,6 @@
+<ruleset name="Flexinvesting.fi">
+	<target host="flexinvesting.fi" />
+	<target host="www.flexinvesting.fi" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

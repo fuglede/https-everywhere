@@ -1,0 +1,6 @@
+<ruleset name="Clearkonjac.com">
+	<target host="clearkonjac.com" />
+	<target host="www.clearkonjac.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

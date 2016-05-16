@@ -1,0 +1,6 @@
+<ruleset name="Jazz-alliance.org">
+	<target host="jazz-alliance.org" />
+	<target host="www.jazz-alliance.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

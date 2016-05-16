@@ -1,0 +1,6 @@
+<ruleset name="Fokkusu.fi">
+	<target host="fokkusu.fi" />
+	<target host="www.fokkusu.fi" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="E-tmf.org">
+	<target host="e-tmf.org" />
+	<target host="www.e-tmf.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

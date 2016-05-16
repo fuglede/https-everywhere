@@ -1,0 +1,6 @@
+<ruleset name="Sabaoth.id">
+	<target host="sabaoth.id" />
+	<target host="www.sabaoth.id" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

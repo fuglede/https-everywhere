@@ -1,0 +1,6 @@
+<ruleset name="Vrobert.fr">
+	<target host="vrobert.fr" />
+	<target host="www.vrobert.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

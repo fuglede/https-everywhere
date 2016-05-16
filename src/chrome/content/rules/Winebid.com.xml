@@ -1,0 +1,6 @@
+<ruleset name="Winebid.com">
+	<target host="winebid.com" />
+	<target host="www.winebid.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

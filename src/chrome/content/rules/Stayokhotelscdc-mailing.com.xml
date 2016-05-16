@@ -1,0 +1,6 @@
+<ruleset name="Stayokhotelscdc-mailing.com">
+	<target host="stayokhotelscdc-mailing.com" />
+	<target host="www.stayokhotelscdc-mailing.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

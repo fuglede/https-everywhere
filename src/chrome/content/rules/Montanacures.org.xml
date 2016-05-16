@@ -1,0 +1,6 @@
+<ruleset name="Montanacures.org">
+	<target host="montanacures.org" />
+	<target host="www.montanacures.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

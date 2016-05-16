@@ -1,0 +1,6 @@
+<ruleset name="Zuoyun.me">
+	<target host="zuoyun.me" />
+	<target host="www.zuoyun.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

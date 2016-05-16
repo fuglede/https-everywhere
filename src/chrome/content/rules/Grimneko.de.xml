@@ -1,0 +1,6 @@
+<ruleset name="Grimneko.de">
+	<target host="grimneko.de" />
+	<target host="www.grimneko.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

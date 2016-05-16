@@ -1,0 +1,6 @@
+<ruleset name="Nuubistorque.com">
+	<target host="nuubistorque.com" />
+	<target host="www.nuubistorque.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

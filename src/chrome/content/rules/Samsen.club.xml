@@ -1,0 +1,6 @@
+<ruleset name="Samsen.club">
+	<target host="samsen.club" />
+	<target host="www.samsen.club" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

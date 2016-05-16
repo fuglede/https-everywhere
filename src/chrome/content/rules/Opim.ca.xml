@@ -1,0 +1,6 @@
+<ruleset name="Opim.ca">
+	<target host="opim.ca" />
+	<target host="www.opim.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

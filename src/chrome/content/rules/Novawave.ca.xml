@@ -1,0 +1,6 @@
+<ruleset name="Novawave.ca">
+	<target host="novawave.ca" />
+	<target host="www.novawave.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

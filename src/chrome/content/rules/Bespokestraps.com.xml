@@ -1,0 +1,6 @@
+<ruleset name="Bespokestraps.com">
+	<target host="bespokestraps.com" />
+	<target host="www.bespokestraps.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

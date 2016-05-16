@@ -1,0 +1,6 @@
+<ruleset name="Garantieabschluss.de">
+	<target host="garantieabschluss.de" />
+	<target host="www.garantieabschluss.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

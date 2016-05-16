@@ -1,0 +1,6 @@
+<ruleset name="Ecorus.eu">
+	<target host="ecorus.eu" />
+	<target host="www.ecorus.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

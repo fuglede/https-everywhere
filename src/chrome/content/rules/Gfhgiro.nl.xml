@@ -1,0 +1,6 @@
+<ruleset name="Gfhgiro.nl">
+	<target host="gfhgiro.nl" />
+	<target host="www.gfhgiro.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

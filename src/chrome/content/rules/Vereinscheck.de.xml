@@ -1,0 +1,6 @@
+<ruleset name="Vereinscheck.de">
+	<target host="vereinscheck.de" />
+	<target host="www.vereinscheck.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Theanalyticsacademy.com">
+	<target host="theanalyticsacademy.com" />
+	<target host="www.theanalyticsacademy.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

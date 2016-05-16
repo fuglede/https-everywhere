@@ -1,0 +1,6 @@
+<ruleset name="Whiskeyriver.co.uk">
+	<target host="whiskeyriver.co.uk" />
+	<target host="www.whiskeyriver.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

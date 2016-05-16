@@ -1,0 +1,6 @@
+<ruleset name="Witting.pw">
+	<target host="witting.pw" />
+	<target host="www.witting.pw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

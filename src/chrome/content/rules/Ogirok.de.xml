@@ -1,0 +1,6 @@
+<ruleset name="Ogirok.de">
+	<target host="ogirok.de" />
+	<target host="www.ogirok.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

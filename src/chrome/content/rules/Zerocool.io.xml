@@ -1,0 +1,6 @@
+<ruleset name="Zerocool.io">
+	<target host="zerocool.io" />
+	<target host="www.zerocool.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Dentistglasgow.com">
+	<target host="dentistglasgow.com" />
+	<target host="www.dentistglasgow.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

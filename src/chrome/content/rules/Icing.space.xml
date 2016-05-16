@@ -1,0 +1,6 @@
+<ruleset name="Icing.space">
+	<target host="icing.space" />
+	<target host="www.icing.space" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

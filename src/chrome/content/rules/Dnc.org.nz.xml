@@ -1,0 +1,6 @@
+<ruleset name="Dnc.org.nz">
+	<target host="dnc.org.nz" />
+	<target host="www.dnc.org.nz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

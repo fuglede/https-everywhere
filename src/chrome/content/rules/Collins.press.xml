@@ -1,0 +1,6 @@
+<ruleset name="Collins.press">
+	<target host="collins.press" />
+	<target host="www.collins.press" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

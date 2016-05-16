@@ -1,0 +1,6 @@
+<ruleset name="Mundogospel.com.br">
+	<target host="mundogospel.com.br" />
+	<target host="www.mundogospel.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

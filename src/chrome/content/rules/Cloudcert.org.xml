@@ -1,0 +1,6 @@
+<ruleset name="Cloudcert.org">
+	<target host="cloudcert.org" />
+	<target host="www.cloudcert.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Compliance-systeme.de">
+	<target host="compliance-systeme.de" />
+	<target host="www.compliance-systeme.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

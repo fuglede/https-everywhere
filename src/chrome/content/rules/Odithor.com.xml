@@ -1,0 +1,6 @@
+<ruleset name="Odithor.com">
+	<target host="odithor.com" />
+	<target host="www.odithor.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

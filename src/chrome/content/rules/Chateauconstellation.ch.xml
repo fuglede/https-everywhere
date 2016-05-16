@@ -1,0 +1,6 @@
+<ruleset name="Chateauconstellation.ch">
+	<target host="chateauconstellation.ch" />
+	<target host="www.chateauconstellation.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Mareike-in-frankreich.de">
+	<target host="mareike-in-frankreich.de" />
+	<target host="www.mareike-in-frankreich.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

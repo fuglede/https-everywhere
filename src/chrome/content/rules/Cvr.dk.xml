@@ -1,0 +1,6 @@
+<ruleset name="Cvr.dk">
+	<target host="cvr.dk" />
+	<target host="www.cvr.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

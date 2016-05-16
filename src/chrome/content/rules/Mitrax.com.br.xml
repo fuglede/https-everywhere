@@ -1,0 +1,6 @@
+<ruleset name="Mitrax.com.br">
+	<target host="mitrax.com.br" />
+	<target host="www.mitrax.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

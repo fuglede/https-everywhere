@@ -1,0 +1,6 @@
+<ruleset name="Dallmeier.net">
+	<target host="dallmeier.net" />
+	<target host="www.dallmeier.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

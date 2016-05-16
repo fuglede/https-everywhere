@@ -1,0 +1,6 @@
+<ruleset name="0x21.ru">
+	<target host="0x21.ru" />
+	<target host="www.0x21.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

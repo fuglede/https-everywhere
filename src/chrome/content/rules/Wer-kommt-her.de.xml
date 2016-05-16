@@ -1,0 +1,6 @@
+<ruleset name="Wer-kommt-her.de">
+	<target host="wer-kommt-her.de" />
+	<target host="www.wer-kommt-her.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

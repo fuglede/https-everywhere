@@ -1,0 +1,6 @@
+<ruleset name="Kdm-online.de">
+	<target host="kdm-online.de" />
+	<target host="www.kdm-online.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

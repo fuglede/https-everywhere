@@ -1,0 +1,6 @@
+<ruleset name="Ray-works.de">
+	<target host="ray-works.de" />
+	<target host="www.ray-works.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

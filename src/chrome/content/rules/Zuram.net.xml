@@ -1,0 +1,6 @@
+<ruleset name="Zuram.net">
+	<target host="zuram.net" />
+	<target host="www.zuram.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Obsidianirc.net">
+	<target host="obsidianirc.net" />
+	<target host="www.obsidianirc.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

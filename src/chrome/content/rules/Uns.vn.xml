@@ -1,0 +1,6 @@
+<ruleset name="Uns.vn">
+	<target host="uns.vn" />
+	<target host="www.uns.vn" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

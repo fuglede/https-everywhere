@@ -1,0 +1,6 @@
+<ruleset name="1001.best">
+	<target host="1001.best" />
+	<target host="www.1001.best" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

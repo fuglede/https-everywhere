@@ -1,0 +1,6 @@
+<ruleset name="Fullautomotivo.com.br">
+	<target host="fullautomotivo.com.br" />
+	<target host="www.fullautomotivo.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

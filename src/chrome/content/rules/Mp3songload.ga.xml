@@ -1,0 +1,6 @@
+<ruleset name="Mp3songload.ga">
+	<target host="mp3songload.ga" />
+	<target host="www.mp3songload.ga" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

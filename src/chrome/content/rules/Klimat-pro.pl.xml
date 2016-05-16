@@ -1,0 +1,6 @@
+<ruleset name="Klimat-pro.pl">
+	<target host="klimat-pro.pl" />
+	<target host="www.klimat-pro.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

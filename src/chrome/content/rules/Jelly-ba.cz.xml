@@ -1,0 +1,6 @@
+<ruleset name="Jelly-ba.cz">
+	<target host="jelly-ba.cz" />
+	<target host="www.jelly-ba.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

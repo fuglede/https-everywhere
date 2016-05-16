@@ -1,0 +1,6 @@
+<ruleset name="Olmari.fi">
+	<target host="olmari.fi" />
+	<target host="www.olmari.fi" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

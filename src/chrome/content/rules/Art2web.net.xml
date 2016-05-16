@@ -1,0 +1,6 @@
+<ruleset name="Art2web.net">
+	<target host="art2web.net" />
+	<target host="www.art2web.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

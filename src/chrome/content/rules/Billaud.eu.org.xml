@@ -1,0 +1,6 @@
+<ruleset name="Billaud.eu.org">
+	<target host="billaud.eu.org" />
+	<target host="www.billaud.eu.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

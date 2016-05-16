@@ -1,0 +1,6 @@
+<ruleset name="Guffr.it">
+	<target host="guffr.it" />
+	<target host="www.guffr.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

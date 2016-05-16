@@ -1,0 +1,6 @@
+<ruleset name="Cranesafe.com">
+	<target host="cranesafe.com" />
+	<target host="www.cranesafe.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

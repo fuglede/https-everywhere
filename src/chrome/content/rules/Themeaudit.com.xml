@@ -1,0 +1,6 @@
+<ruleset name="Themeaudit.com">
+	<target host="themeaudit.com" />
+	<target host="www.themeaudit.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

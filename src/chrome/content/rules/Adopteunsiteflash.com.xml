@@ -1,0 +1,6 @@
+<ruleset name="Adopteunsiteflash.com">
+	<target host="adopteunsiteflash.com" />
+	<target host="www.adopteunsiteflash.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

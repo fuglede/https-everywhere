@@ -1,0 +1,6 @@
+<ruleset name="Cirfi.com">
+	<target host="cirfi.com" />
+	<target host="www.cirfi.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

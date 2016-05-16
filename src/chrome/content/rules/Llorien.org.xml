@@ -1,0 +1,6 @@
+<ruleset name="Llorien.org">
+	<target host="llorien.org" />
+	<target host="www.llorien.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

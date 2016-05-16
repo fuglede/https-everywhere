@@ -1,0 +1,6 @@
+<ruleset name="Prescotonline.co.uk">
+	<target host="prescotonline.co.uk" />
+	<target host="www.prescotonline.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

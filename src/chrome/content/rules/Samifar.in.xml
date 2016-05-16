@@ -1,0 +1,6 @@
+<ruleset name="Samifar.in">
+	<target host="samifar.in" />
+	<target host="www.samifar.in" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

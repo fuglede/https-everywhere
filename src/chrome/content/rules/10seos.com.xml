@@ -1,0 +1,6 @@
+<ruleset name="10seos.com">
+	<target host="10seos.com" />
+	<target host="www.10seos.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

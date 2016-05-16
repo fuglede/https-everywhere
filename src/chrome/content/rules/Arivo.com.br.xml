@@ -1,0 +1,6 @@
+<ruleset name="Arivo.com.br">
+	<target host="arivo.com.br" />
+	<target host="www.arivo.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

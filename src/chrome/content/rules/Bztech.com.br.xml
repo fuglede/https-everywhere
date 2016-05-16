@@ -1,0 +1,6 @@
+<ruleset name="Bztech.com.br">
+	<target host="bztech.com.br" />
+	<target host="www.bztech.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

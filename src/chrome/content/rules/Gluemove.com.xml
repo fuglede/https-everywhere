@@ -1,0 +1,6 @@
+<ruleset name="Gluemove.com">
+	<target host="gluemove.com" />
+	<target host="www.gluemove.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

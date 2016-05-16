@@ -1,0 +1,6 @@
+<ruleset name="Karateka.org">
+	<target host="karateka.org" />
+	<target host="www.karateka.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

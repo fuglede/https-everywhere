@@ -1,0 +1,6 @@
+<ruleset name="Success-insights.com">
+	<target host="success-insights.com" />
+	<target host="www.success-insights.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

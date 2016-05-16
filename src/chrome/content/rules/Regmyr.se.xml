@@ -1,0 +1,6 @@
+<ruleset name="Regmyr.se">
+	<target host="regmyr.se" />
+	<target host="www.regmyr.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

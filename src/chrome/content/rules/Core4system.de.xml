@@ -1,0 +1,6 @@
+<ruleset name="Core4system.de">
+	<target host="core4system.de" />
+	<target host="www.core4system.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

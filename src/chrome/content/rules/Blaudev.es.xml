@@ -1,0 +1,6 @@
+<ruleset name="Blaudev.es">
+	<target host="blaudev.es" />
+	<target host="www.blaudev.es" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

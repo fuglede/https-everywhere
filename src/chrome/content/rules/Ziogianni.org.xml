@@ -1,0 +1,6 @@
+<ruleset name="Ziogianni.org">
+	<target host="ziogianni.org" />
+	<target host="www.ziogianni.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

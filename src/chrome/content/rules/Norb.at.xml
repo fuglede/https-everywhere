@@ -1,0 +1,6 @@
+<ruleset name="Norb.at">
+	<target host="norb.at" />
+	<target host="www.norb.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

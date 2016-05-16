@@ -1,0 +1,6 @@
+<ruleset name="Aanmpc.com">
+	<target host="aanmpc.com" />
+	<target host="www.aanmpc.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

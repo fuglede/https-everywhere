@@ -1,0 +1,6 @@
+<ruleset name="Vault21.net">
+	<target host="vault21.net" />
+	<target host="www.vault21.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

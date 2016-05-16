@@ -1,0 +1,6 @@
+<ruleset name="Everymove.org">
+	<target host="everymove.org" />
+	<target host="www.everymove.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

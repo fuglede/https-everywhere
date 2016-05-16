@@ -1,0 +1,6 @@
+<ruleset name="Zscales.com">
+	<target host="zscales.com" />
+	<target host="www.zscales.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

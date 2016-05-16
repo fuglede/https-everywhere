@@ -1,0 +1,6 @@
+<ruleset name="Ptbx.co">
+	<target host="ptbx.co" />
+	<target host="www.ptbx.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

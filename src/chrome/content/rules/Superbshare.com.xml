@@ -1,0 +1,6 @@
+<ruleset name="Superbshare.com">
+	<target host="superbshare.com" />
+	<target host="www.superbshare.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Freeyourstuff.eu">
+	<target host="freeyourstuff.eu" />
+	<target host="www.freeyourstuff.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="8thportsmouth.org.uk">
+	<target host="8thportsmouth.org.uk" />
+	<target host="www.8thportsmouth.org.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

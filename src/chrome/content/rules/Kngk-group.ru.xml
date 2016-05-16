@@ -1,0 +1,6 @@
+<ruleset name="Kngk-group.ru">
+	<target host="kngk-group.ru" />
+	<target host="www.kngk-group.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

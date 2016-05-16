@@ -1,0 +1,6 @@
+<ruleset name="Am3.se">
+	<target host="am3.se" />
+	<target host="www.am3.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

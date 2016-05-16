@@ -1,0 +1,6 @@
+<ruleset name="Brainvation.de">
+	<target host="brainvation.de" />
+	<target host="www.brainvation.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

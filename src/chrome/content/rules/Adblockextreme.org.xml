@@ -1,0 +1,6 @@
+<ruleset name="Adblockextreme.org">
+	<target host="adblockextreme.org" />
+	<target host="www.adblockextreme.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

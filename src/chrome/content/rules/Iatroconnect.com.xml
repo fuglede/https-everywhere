@@ -1,0 +1,6 @@
+<ruleset name="Iatroconnect.com">
+	<target host="iatroconnect.com" />
+	<target host="www.iatroconnect.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

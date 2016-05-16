@@ -1,0 +1,6 @@
+<ruleset name="Dfekt.no">
+	<target host="dfekt.no" />
+	<target host="www.dfekt.no" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

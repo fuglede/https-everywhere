@@ -1,0 +1,6 @@
+<ruleset name="Eaglebook.com">
+	<target host="eaglebook.com" />
+	<target host="www.eaglebook.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

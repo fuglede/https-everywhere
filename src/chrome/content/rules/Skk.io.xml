@@ -1,0 +1,6 @@
+<ruleset name="Skk.io">
+	<target host="skk.io" />
+	<target host="www.skk.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

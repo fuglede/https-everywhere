@@ -1,0 +1,6 @@
+<ruleset name="Caasd.org">
+	<target host="caasd.org" />
+	<target host="www.caasd.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

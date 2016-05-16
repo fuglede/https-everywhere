@@ -1,0 +1,6 @@
+<ruleset name="Thegvoffice.net">
+	<target host="thegvoffice.net" />
+	<target host="www.thegvoffice.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

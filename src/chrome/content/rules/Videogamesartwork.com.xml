@@ -1,0 +1,6 @@
+<ruleset name="Videogamesartwork.com">
+	<target host="videogamesartwork.com" />
+	<target host="www.videogamesartwork.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

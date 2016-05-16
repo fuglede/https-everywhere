@@ -1,0 +1,6 @@
+<ruleset name="Sharesplitter.com">
+	<target host="sharesplitter.com" />
+	<target host="www.sharesplitter.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

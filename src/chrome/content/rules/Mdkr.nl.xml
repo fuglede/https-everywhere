@@ -1,0 +1,6 @@
+<ruleset name="Mdkr.nl">
+	<target host="mdkr.nl" />
+	<target host="www.mdkr.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Outwork.be">
+	<target host="outwork.be" />
+	<target host="www.outwork.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

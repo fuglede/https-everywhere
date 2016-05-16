@@ -1,0 +1,6 @@
+<ruleset name="Firexarxa.de">
+	<target host="firexarxa.de" />
+	<target host="www.firexarxa.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

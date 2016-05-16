@@ -1,0 +1,6 @@
+<ruleset name="Stichtingsticky.nl">
+	<target host="stichtingsticky.nl" />
+	<target host="www.stichtingsticky.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

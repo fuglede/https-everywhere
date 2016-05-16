@@ -1,0 +1,6 @@
+<ruleset name="Yurei.net">
+	<target host="yurei.net" />
+	<target host="www.yurei.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

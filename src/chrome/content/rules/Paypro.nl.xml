@@ -1,0 +1,6 @@
+<ruleset name="Paypro.nl">
+	<target host="paypro.nl" />
+	<target host="www.paypro.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Zirtue.io">
+	<target host="zirtue.io" />
+	<target host="www.zirtue.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

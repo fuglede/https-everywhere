@@ -1,0 +1,6 @@
+<ruleset name="Holzschneider.net">
+	<target host="holzschneider.net" />
+	<target host="www.holzschneider.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

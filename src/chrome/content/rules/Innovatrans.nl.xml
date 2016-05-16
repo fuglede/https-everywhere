@@ -1,0 +1,6 @@
+<ruleset name="Innovatrans.nl">
+	<target host="innovatrans.nl" />
+	<target host="www.innovatrans.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

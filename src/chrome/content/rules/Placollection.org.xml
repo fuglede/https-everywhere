@@ -1,0 +1,6 @@
+<ruleset name="Placollection.org">
+	<target host="placollection.org" />
+	<target host="www.placollection.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

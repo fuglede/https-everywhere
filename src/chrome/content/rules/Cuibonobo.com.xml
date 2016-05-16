@@ -1,0 +1,6 @@
+<ruleset name="Cuibonobo.com">
+	<target host="cuibonobo.com" />
+	<target host="www.cuibonobo.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Geeq.ch">
+	<target host="geeq.ch" />
+	<target host="www.geeq.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

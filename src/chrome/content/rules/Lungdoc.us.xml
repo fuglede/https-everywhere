@@ -1,0 +1,6 @@
+<ruleset name="Lungdoc.us">
+	<target host="lungdoc.us" />
+	<target host="www.lungdoc.us" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

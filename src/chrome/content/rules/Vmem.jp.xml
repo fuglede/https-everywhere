@@ -1,0 +1,6 @@
+<ruleset name="Vmem.jp">
+	<target host="vmem.jp" />
+	<target host="www.vmem.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

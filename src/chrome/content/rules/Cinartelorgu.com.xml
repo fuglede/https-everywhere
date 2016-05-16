@@ -1,0 +1,6 @@
+<ruleset name="Cinartelorgu.com">
+	<target host="cinartelorgu.com" />
+	<target host="www.cinartelorgu.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

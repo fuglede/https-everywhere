@@ -1,0 +1,6 @@
+<ruleset name="Fundacionhijosdelsol.org">
+	<target host="fundacionhijosdelsol.org" />
+	<target host="www.fundacionhijosdelsol.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

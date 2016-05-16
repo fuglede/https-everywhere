@@ -1,0 +1,6 @@
+<ruleset name="Xqin.net">
+	<target host="xqin.net" />
+	<target host="www.xqin.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

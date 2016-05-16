@@ -1,0 +1,6 @@
+<ruleset name="Gotgenes.com">
+	<target host="gotgenes.com" />
+	<target host="www.gotgenes.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Computersystems.guru">
+	<target host="computersystems.guru" />
+	<target host="www.computersystems.guru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

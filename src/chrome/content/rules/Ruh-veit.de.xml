@@ -1,0 +1,6 @@
+<ruleset name="Ruh-veit.de">
+	<target host="ruh-veit.de" />
+	<target host="www.ruh-veit.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

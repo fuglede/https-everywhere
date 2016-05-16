@@ -1,0 +1,6 @@
+<ruleset name="Essexcosmeticdentists.co.uk">
+	<target host="essexcosmeticdentists.co.uk" />
+	<target host="www.essexcosmeticdentists.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

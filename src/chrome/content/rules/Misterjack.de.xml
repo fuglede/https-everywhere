@@ -1,0 +1,6 @@
+<ruleset name="Misterjack.de">
+	<target host="misterjack.de" />
+	<target host="www.misterjack.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

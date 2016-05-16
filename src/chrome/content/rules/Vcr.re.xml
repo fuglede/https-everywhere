@@ -1,0 +1,6 @@
+<ruleset name="Vcr.re">
+	<target host="vcr.re" />
+	<target host="www.vcr.re" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

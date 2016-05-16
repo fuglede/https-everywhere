@@ -1,0 +1,6 @@
+<ruleset name="Fnb-griffinonline.com">
+	<target host="fnb-griffinonline.com" />
+	<target host="www.fnb-griffinonline.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

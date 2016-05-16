@@ -1,0 +1,6 @@
+<ruleset name="Coindam.com">
+	<target host="coindam.com" />
+	<target host="www.coindam.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

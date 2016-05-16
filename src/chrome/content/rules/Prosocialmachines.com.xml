@@ -1,0 +1,6 @@
+<ruleset name="Prosocialmachines.com">
+	<target host="prosocialmachines.com" />
+	<target host="www.prosocialmachines.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

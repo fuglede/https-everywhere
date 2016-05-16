@@ -1,0 +1,6 @@
+<ruleset name="Truweight.in">
+	<target host="truweight.in" />
+	<target host="www.truweight.in" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

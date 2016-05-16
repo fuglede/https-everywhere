@@ -1,0 +1,6 @@
+<ruleset name="Opentexon.com">
+	<target host="opentexon.com" />
+	<target host="www.opentexon.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

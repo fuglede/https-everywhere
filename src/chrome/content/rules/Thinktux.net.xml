@@ -1,0 +1,6 @@
+<ruleset name="Thinktux.net">
+	<target host="thinktux.net" />
+	<target host="www.thinktux.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

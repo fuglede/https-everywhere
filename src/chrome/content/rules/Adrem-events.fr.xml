@@ -1,0 +1,6 @@
+<ruleset name="Adrem-events.fr">
+	<target host="adrem-events.fr" />
+	<target host="www.adrem-events.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

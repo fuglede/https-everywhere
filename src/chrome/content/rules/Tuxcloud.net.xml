@@ -1,0 +1,6 @@
+<ruleset name="Tuxcloud.net">
+	<target host="tuxcloud.net" />
+	<target host="www.tuxcloud.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Knightsblog.de">
+	<target host="knightsblog.de" />
+	<target host="www.knightsblog.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

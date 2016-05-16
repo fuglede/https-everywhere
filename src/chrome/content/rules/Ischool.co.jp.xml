@@ -1,0 +1,6 @@
+<ruleset name="Ischool.co.jp">
+	<target host="ischool.co.jp" />
+	<target host="www.ischool.co.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

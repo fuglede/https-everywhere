@@ -1,0 +1,6 @@
+<ruleset name="Artmoney.com">
+	<target host="artmoney.com" />
+	<target host="www.artmoney.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

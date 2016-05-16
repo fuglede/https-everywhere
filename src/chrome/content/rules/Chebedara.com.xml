@@ -1,0 +1,6 @@
+<ruleset name="Chebedara.com">
+	<target host="chebedara.com" />
+	<target host="www.chebedara.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

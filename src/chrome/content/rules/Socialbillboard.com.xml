@@ -1,0 +1,6 @@
+<ruleset name="Socialbillboard.com">
+	<target host="socialbillboard.com" />
+	<target host="www.socialbillboard.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

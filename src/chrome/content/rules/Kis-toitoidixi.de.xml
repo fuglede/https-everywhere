@@ -1,0 +1,6 @@
+<ruleset name="Kis-toitoidixi.de">
+	<target host="kis-toitoidixi.de" />
+	<target host="www.kis-toitoidixi.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

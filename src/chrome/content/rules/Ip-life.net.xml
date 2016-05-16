@@ -1,0 +1,6 @@
+<ruleset name="Ip-life.net">
+	<target host="ip-life.net" />
+	<target host="www.ip-life.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

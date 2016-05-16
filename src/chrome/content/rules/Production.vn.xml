@@ -1,0 +1,6 @@
+<ruleset name="Production.vn">
+	<target host="production.vn" />
+	<target host="www.production.vn" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

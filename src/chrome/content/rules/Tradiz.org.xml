@@ -1,0 +1,6 @@
+<ruleset name="Tradiz.org">
+	<target host="tradiz.org" />
+	<target host="www.tradiz.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Vnd.cloud">
+	<target host="vnd.cloud" />
+	<target host="www.vnd.cloud" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

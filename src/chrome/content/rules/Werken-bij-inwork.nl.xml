@@ -1,0 +1,6 @@
+<ruleset name="Werken-bij-inwork.nl">
+	<target host="werken-bij-inwork.nl" />
+	<target host="www.werken-bij-inwork.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

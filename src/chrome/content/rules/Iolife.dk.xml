@@ -1,0 +1,6 @@
+<ruleset name="Iolife.dk">
+	<target host="iolife.dk" />
+	<target host="www.iolife.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

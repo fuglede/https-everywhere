@@ -1,0 +1,6 @@
+<ruleset name="Bbuio.com">
+	<target host="bbuio.com" />
+	<target host="www.bbuio.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

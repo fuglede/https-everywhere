@@ -1,0 +1,6 @@
+<ruleset name="Wildfoerster.org">
+	<target host="wildfoerster.org" />
+	<target host="www.wildfoerster.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

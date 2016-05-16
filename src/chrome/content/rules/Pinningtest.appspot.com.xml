@@ -1,0 +1,6 @@
+<ruleset name="Pinningtest.appspot.com">
+	<target host="pinningtest.appspot.com" />
+	<target host="www.pinningtest.appspot.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

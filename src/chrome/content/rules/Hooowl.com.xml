@@ -1,0 +1,6 @@
+<ruleset name="Hooowl.com">
+	<target host="hooowl.com" />
+	<target host="www.hooowl.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Jazzinutrecht.info">
+	<target host="jazzinutrecht.info" />
+	<target host="www.jazzinutrecht.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

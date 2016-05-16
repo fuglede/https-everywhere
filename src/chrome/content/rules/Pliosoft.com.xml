@@ -1,0 +1,6 @@
+<ruleset name="Pliosoft.com">
+	<target host="pliosoft.com" />
+	<target host="www.pliosoft.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Lvrsystems.com">
+	<target host="lvrsystems.com" />
+	<target host="www.lvrsystems.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

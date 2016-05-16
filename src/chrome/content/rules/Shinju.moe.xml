@@ -1,0 +1,6 @@
+<ruleset name="Shinju.moe">
+	<target host="shinju.moe" />
+	<target host="www.shinju.moe" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

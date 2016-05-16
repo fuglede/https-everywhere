@@ -1,0 +1,6 @@
+<ruleset name="Uptic.net">
+	<target host="uptic.net" />
+	<target host="www.uptic.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Ehrenamt-skpfcw.de">
+	<target host="ehrenamt-skpfcw.de" />
+	<target host="www.ehrenamt-skpfcw.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

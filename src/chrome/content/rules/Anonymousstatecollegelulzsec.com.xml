@@ -1,0 +1,6 @@
+<ruleset name="Anonymousstatecollegelulzsec.com">
+	<target host="anonymousstatecollegelulzsec.com" />
+	<target host="www.anonymousstatecollegelulzsec.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

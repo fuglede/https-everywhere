@@ -1,0 +1,6 @@
+<ruleset name="Malfait.nl">
+	<target host="malfait.nl" />
+	<target host="www.malfait.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

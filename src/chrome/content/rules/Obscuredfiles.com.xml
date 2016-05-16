@@ -1,0 +1,6 @@
+<ruleset name="Obscuredfiles.com">
+	<target host="obscuredfiles.com" />
+	<target host="www.obscuredfiles.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

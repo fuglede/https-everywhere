@@ -1,0 +1,6 @@
+<ruleset name="Dailylifefinancial.com">
+	<target host="dailylifefinancial.com" />
+	<target host="www.dailylifefinancial.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

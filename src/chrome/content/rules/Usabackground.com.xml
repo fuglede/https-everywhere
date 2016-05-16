@@ -1,0 +1,6 @@
+<ruleset name="Usabackground.com">
+	<target host="usabackground.com" />
+	<target host="www.usabackground.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Thescientists.nl">
+	<target host="thescientists.nl" />
+	<target host="www.thescientists.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

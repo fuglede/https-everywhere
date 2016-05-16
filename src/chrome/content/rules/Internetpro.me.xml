@@ -1,0 +1,6 @@
+<ruleset name="Internetpro.me">
+	<target host="internetpro.me" />
+	<target host="www.internetpro.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

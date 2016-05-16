@@ -1,0 +1,6 @@
+<ruleset name="365healthworld.com">
+	<target host="365healthworld.com" />
+	<target host="www.365healthworld.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

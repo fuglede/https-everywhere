@@ -1,0 +1,6 @@
+<ruleset name="Eq-serve.com">
+	<target host="eq-serve.com" />
+	<target host="www.eq-serve.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

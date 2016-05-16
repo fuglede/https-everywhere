@@ -1,0 +1,6 @@
+<ruleset name="Autimatisering.nl">
+	<target host="autimatisering.nl" />
+	<target host="www.autimatisering.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

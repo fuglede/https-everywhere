@@ -1,0 +1,6 @@
+<ruleset name="Diversified-services.net">
+	<target host="diversified-services.net" />
+	<target host="www.diversified-services.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

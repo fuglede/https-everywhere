@@ -1,0 +1,6 @@
+<ruleset name="Ezimoeko.net">
+	<target host="ezimoeko.net" />
+	<target host="www.ezimoeko.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

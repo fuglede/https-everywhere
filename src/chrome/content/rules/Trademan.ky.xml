@@ -1,0 +1,6 @@
+<ruleset name="Trademan.ky">
+	<target host="trademan.ky" />
+	<target host="www.trademan.ky" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

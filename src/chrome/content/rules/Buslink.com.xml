@@ -1,0 +1,6 @@
+<ruleset name="Buslink.com">
+	<target host="buslink.com" />
+	<target host="www.buslink.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

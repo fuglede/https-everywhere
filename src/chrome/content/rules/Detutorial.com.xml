@@ -1,0 +1,6 @@
+<ruleset name="Detutorial.com">
+	<target host="detutorial.com" />
+	<target host="www.detutorial.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

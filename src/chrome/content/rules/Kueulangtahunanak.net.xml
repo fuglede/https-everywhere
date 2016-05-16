@@ -1,0 +1,6 @@
+<ruleset name="Kueulangtahunanak.net">
+	<target host="kueulangtahunanak.net" />
+	<target host="www.kueulangtahunanak.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

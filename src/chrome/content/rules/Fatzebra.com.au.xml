@@ -1,0 +1,6 @@
+<ruleset name="Fatzebra.com.au">
+	<target host="fatzebra.com.au" />
+	<target host="www.fatzebra.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

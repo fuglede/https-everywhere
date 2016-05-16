@@ -1,0 +1,6 @@
+<ruleset name="Supcro.com">
+	<target host="supcro.com" />
+	<target host="www.supcro.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

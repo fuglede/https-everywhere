@@ -1,0 +1,6 @@
+<ruleset name="Parpaing-paillette.net">
+	<target host="parpaing-paillette.net" />
+	<target host="www.parpaing-paillette.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Feedhq.org">
+	<target host="feedhq.org" />
+	<target host="www.feedhq.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Gz-benz.com">
+	<target host="gz-benz.com" />
+	<target host="www.gz-benz.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

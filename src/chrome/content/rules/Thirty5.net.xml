@@ -1,0 +1,6 @@
+<ruleset name="Thirty5.net">
+	<target host="thirty5.net" />
+	<target host="www.thirty5.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

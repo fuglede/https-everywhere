@@ -1,0 +1,6 @@
+<ruleset name="Studysmart.ch">
+	<target host="studysmart.ch" />
+	<target host="www.studysmart.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

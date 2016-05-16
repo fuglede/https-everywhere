@@ -1,0 +1,6 @@
+<ruleset name="Discofitta.com">
+	<target host="discofitta.com" />
+	<target host="www.discofitta.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Ethosinfo.com">
+	<target host="ethosinfo.com" />
+	<target host="www.ethosinfo.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

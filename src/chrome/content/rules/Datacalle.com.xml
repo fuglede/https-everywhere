@@ -1,0 +1,6 @@
+<ruleset name="Datacalle.com">
+	<target host="datacalle.com" />
+	<target host="www.datacalle.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

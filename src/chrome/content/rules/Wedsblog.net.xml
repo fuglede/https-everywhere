@@ -1,0 +1,6 @@
+<ruleset name="Wedsblog.net">
+	<target host="wedsblog.net" />
+	<target host="www.wedsblog.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

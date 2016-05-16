@@ -1,0 +1,6 @@
+<ruleset name="Smartshiftme.com">
+	<target host="smartshiftme.com" />
+	<target host="www.smartshiftme.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

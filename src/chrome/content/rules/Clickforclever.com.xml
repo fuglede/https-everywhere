@@ -1,0 +1,6 @@
+<ruleset name="Clickforclever.com">
+	<target host="clickforclever.com" />
+	<target host="www.clickforclever.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

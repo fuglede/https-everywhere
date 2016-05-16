@@ -1,0 +1,6 @@
+<ruleset name="Taravancil.com">
+	<target host="taravancil.com" />
+	<target host="www.taravancil.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

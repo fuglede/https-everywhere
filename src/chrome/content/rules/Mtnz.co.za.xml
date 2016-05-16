@@ -1,0 +1,6 @@
+<ruleset name="Mtnz.co.za">
+	<target host="mtnz.co.za" />
+	<target host="www.mtnz.co.za" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

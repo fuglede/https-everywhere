@@ -1,0 +1,6 @@
+<ruleset name="Ecomlane.com">
+	<target host="ecomlane.com" />
+	<target host="www.ecomlane.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

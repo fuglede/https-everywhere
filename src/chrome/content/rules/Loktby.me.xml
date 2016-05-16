@@ -1,0 +1,6 @@
+<ruleset name="Loktby.me">
+	<target host="loktby.me" />
+	<target host="www.loktby.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

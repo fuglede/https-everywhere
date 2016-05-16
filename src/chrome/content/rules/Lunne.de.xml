@@ -1,0 +1,6 @@
+<ruleset name="Lunne.de">
+	<target host="lunne.de" />
+	<target host="www.lunne.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

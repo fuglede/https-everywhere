@@ -1,0 +1,6 @@
+<ruleset name="Budskap.eu">
+	<target host="budskap.eu" />
+	<target host="www.budskap.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

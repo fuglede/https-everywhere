@@ -1,0 +1,6 @@
+<ruleset name="Carey.li">
+	<target host="carey.li" />
+	<target host="www.carey.li" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

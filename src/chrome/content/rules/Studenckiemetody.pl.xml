@@ -1,0 +1,6 @@
+<ruleset name="Studenckiemetody.pl">
+	<target host="studenckiemetody.pl" />
+	<target host="www.studenckiemetody.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

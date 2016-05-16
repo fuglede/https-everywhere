@@ -1,0 +1,6 @@
+<ruleset name="Bacnutrients.com">
+	<target host="bacnutrients.com" />
+	<target host="www.bacnutrients.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

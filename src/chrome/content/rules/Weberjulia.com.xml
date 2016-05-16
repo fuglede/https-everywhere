@@ -1,0 +1,6 @@
+<ruleset name="Weberjulia.com">
+	<target host="weberjulia.com" />
+	<target host="www.weberjulia.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

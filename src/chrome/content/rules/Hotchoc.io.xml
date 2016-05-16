@@ -1,0 +1,6 @@
+<ruleset name="Hotchoc.io">
+	<target host="hotchoc.io" />
+	<target host="www.hotchoc.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

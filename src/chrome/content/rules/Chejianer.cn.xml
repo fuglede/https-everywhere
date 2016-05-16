@@ -1,0 +1,6 @@
+<ruleset name="Chejianer.cn">
+	<target host="chejianer.cn" />
+	<target host="www.chejianer.cn" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

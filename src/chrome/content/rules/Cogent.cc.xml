@@ -1,0 +1,6 @@
+<ruleset name="Cogent.cc">
+	<target host="cogent.cc" />
+	<target host="www.cogent.cc" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

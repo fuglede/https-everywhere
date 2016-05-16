@@ -1,0 +1,6 @@
+<ruleset name="Andre-ballensiefen.de">
+	<target host="andre-ballensiefen.de" />
+	<target host="www.andre-ballensiefen.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

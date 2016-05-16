@@ -1,0 +1,6 @@
+<ruleset name="Rusempire.ru">
+	<target host="rusempire.ru" />
+	<target host="www.rusempire.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Kid-dachau.de">
+	<target host="kid-dachau.de" />
+	<target host="www.kid-dachau.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

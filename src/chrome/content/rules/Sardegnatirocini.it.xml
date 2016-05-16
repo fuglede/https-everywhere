@@ -1,0 +1,6 @@
+<ruleset name="Sardegnatirocini.it">
+	<target host="sardegnatirocini.it" />
+	<target host="www.sardegnatirocini.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

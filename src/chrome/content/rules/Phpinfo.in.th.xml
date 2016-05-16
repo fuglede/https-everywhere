@@ -1,0 +1,6 @@
+<ruleset name="Phpinfo.in.th">
+	<target host="phpinfo.in.th" />
+	<target host="www.phpinfo.in.th" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

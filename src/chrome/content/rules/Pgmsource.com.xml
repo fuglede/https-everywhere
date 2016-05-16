@@ -1,0 +1,6 @@
+<ruleset name="Pgmsource.com">
+	<target host="pgmsource.com" />
+	<target host="www.pgmsource.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

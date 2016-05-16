@@ -1,0 +1,6 @@
+<ruleset name="Beyondpricing.com">
+	<target host="beyondpricing.com" />
+	<target host="www.beyondpricing.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

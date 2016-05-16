@@ -1,0 +1,6 @@
+<ruleset name="Bestbeards.ca">
+	<target host="bestbeards.ca" />
+	<target host="www.bestbeards.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

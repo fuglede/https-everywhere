@@ -1,0 +1,6 @@
+<ruleset name="Gifzilla.net">
+	<target host="gifzilla.net" />
+	<target host="www.gifzilla.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

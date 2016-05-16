@@ -1,0 +1,6 @@
+<ruleset name="Rhynl.io">
+	<target host="rhynl.io" />
+	<target host="www.rhynl.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Dprd-wonogirikab.go.id">
+	<target host="dprd-wonogirikab.go.id" />
+	<target host="www.dprd-wonogirikab.go.id" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

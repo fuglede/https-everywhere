@@ -1,0 +1,6 @@
+<ruleset name="Pridetechdesign.com">
+	<target host="pridetechdesign.com" />
+	<target host="www.pridetechdesign.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

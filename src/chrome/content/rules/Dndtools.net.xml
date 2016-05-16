@@ -1,0 +1,6 @@
+<ruleset name="Dndtools.net">
+	<target host="dndtools.net" />
+	<target host="www.dndtools.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

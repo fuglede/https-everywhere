@@ -1,0 +1,6 @@
+<ruleset name="Escortcollege.com">
+	<target host="escortcollege.com" />
+	<target host="www.escortcollege.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

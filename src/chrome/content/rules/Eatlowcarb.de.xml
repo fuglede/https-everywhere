@@ -1,0 +1,6 @@
+<ruleset name="Eatlowcarb.de">
+	<target host="eatlowcarb.de" />
+	<target host="www.eatlowcarb.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

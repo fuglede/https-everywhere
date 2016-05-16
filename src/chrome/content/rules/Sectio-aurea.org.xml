@@ -1,0 +1,6 @@
+<ruleset name="Sectio-aurea.org">
+	<target host="sectio-aurea.org" />
+	<target host="www.sectio-aurea.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

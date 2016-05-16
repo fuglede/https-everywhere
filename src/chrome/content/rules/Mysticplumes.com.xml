@@ -1,0 +1,6 @@
+<ruleset name="Mysticplumes.com">
+	<target host="mysticplumes.com" />
+	<target host="www.mysticplumes.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

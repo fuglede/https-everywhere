@@ -1,0 +1,6 @@
+<ruleset name="Asiashop.com.br">
+	<target host="asiashop.com.br" />
+	<target host="www.asiashop.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

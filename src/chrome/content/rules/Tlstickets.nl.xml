@@ -1,0 +1,6 @@
+<ruleset name="Tlstickets.nl">
+	<target host="tlstickets.nl" />
+	<target host="www.tlstickets.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

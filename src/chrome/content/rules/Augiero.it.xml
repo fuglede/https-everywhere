@@ -1,0 +1,6 @@
+<ruleset name="Augiero.it">
+	<target host="augiero.it" />
+	<target host="www.augiero.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

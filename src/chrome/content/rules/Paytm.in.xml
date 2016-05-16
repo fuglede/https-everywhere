@@ -1,0 +1,6 @@
+<ruleset name="Paytm.in">
+	<target host="paytm.in" />
+	<target host="www.paytm.in" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

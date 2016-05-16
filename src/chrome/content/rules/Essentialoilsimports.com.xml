@@ -1,0 +1,6 @@
+<ruleset name="Essentialoilsimports.com">
+	<target host="essentialoilsimports.com" />
+	<target host="www.essentialoilsimports.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

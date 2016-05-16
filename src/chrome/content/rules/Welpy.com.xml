@@ -1,0 +1,6 @@
+<ruleset name="Welpy.com">
+	<target host="welpy.com" />
+	<target host="www.welpy.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

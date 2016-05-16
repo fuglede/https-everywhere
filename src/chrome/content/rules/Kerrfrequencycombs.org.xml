@@ -1,0 +1,6 @@
+<ruleset name="Kerrfrequencycombs.org">
+	<target host="kerrfrequencycombs.org" />
+	<target host="www.kerrfrequencycombs.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Paberr.net">
+	<target host="paberr.net" />
+	<target host="www.paberr.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

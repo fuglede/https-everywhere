@@ -1,0 +1,6 @@
+<ruleset name="Thecharlestonwaldorf.com">
+	<target host="thecharlestonwaldorf.com" />
+	<target host="www.thecharlestonwaldorf.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Koniecfica.sk">
+	<target host="koniecfica.sk" />
+	<target host="www.koniecfica.sk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

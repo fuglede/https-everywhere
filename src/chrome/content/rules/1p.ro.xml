@@ -1,0 +1,6 @@
+<ruleset name="1p.ro">
+	<target host="1p.ro" />
+	<target host="www.1p.ro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

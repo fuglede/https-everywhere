@@ -1,0 +1,6 @@
+<ruleset name="Draw.uy">
+	<target host="draw.uy" />
+	<target host="www.draw.uy" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

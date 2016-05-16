@@ -1,0 +1,6 @@
+<ruleset name="Adastra.re">
+	<target host="adastra.re" />
+	<target host="www.adastra.re" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

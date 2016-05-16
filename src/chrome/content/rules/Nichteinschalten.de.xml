@@ -1,0 +1,6 @@
+<ruleset name="Nichteinschalten.de">
+	<target host="nichteinschalten.de" />
+	<target host="www.nichteinschalten.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

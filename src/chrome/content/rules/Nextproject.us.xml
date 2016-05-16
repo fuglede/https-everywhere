@@ -1,0 +1,6 @@
+<ruleset name="Nextproject.us">
+	<target host="nextproject.us" />
+	<target host="www.nextproject.us" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

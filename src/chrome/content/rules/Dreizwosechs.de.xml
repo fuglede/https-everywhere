@@ -1,0 +1,6 @@
+<ruleset name="Dreizwosechs.de">
+	<target host="dreizwosechs.de" />
+	<target host="www.dreizwosechs.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

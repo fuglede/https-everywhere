@@ -1,0 +1,6 @@
+<ruleset name="Sectia22.ro">
+	<target host="sectia22.ro" />
+	<target host="www.sectia22.ro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

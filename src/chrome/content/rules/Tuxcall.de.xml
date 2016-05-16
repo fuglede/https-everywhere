@@ -1,0 +1,6 @@
+<ruleset name="Tuxcall.de">
+	<target host="tuxcall.de" />
+	<target host="www.tuxcall.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

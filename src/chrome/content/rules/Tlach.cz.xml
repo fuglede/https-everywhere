@@ -1,0 +1,6 @@
+<ruleset name="Tlach.cz">
+	<target host="tlach.cz" />
+	<target host="www.tlach.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

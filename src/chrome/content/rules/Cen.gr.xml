@@ -1,0 +1,6 @@
+<ruleset name="Cen.gr">
+	<target host="cen.gr" />
+	<target host="www.cen.gr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

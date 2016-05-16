@@ -1,0 +1,6 @@
+<ruleset name="Vincitraining.com">
+	<target host="vincitraining.com" />
+	<target host="www.vincitraining.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

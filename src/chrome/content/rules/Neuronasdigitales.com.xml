@@ -1,0 +1,6 @@
+<ruleset name="Neuronasdigitales.com">
+	<target host="neuronasdigitales.com" />
+	<target host="www.neuronasdigitales.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

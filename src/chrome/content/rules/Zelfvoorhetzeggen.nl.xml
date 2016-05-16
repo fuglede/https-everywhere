@@ -1,0 +1,6 @@
+<ruleset name="Zelfvoorhetzeggen.nl">
+	<target host="zelfvoorhetzeggen.nl" />
+	<target host="www.zelfvoorhetzeggen.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

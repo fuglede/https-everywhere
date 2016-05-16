@@ -1,0 +1,6 @@
+<ruleset name="Sftool.gov">
+	<target host="sftool.gov" />
+	<target host="www.sftool.gov" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

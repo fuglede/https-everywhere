@@ -1,0 +1,6 @@
+<ruleset name="Sby.de">
+	<target host="sby.de" />
+	<target host="www.sby.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

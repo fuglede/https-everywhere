@@ -1,0 +1,6 @@
+<ruleset name="Mygreek.fm">
+	<target host="mygreek.fm" />
+	<target host="www.mygreek.fm" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Franta.email">
+	<target host="franta.email" />
+	<target host="www.franta.email" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

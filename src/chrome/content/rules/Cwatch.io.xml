@@ -1,0 +1,6 @@
+<ruleset name="Cwatch.io">
+	<target host="cwatch.io" />
+	<target host="www.cwatch.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

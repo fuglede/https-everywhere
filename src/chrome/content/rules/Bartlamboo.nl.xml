@@ -1,0 +1,6 @@
+<ruleset name="Bartlamboo.nl">
+	<target host="bartlamboo.nl" />
+	<target host="www.bartlamboo.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

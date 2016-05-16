@@ -1,0 +1,6 @@
+<ruleset name="Zespia.tw">
+	<target host="zespia.tw" />
+	<target host="www.zespia.tw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

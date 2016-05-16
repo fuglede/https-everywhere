@@ -1,0 +1,6 @@
+<ruleset name="Xn--9pr52k0p5a.com">
+	<target host="xn--9pr52k0p5a.com" />
+	<target host="www.xn--9pr52k0p5a.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

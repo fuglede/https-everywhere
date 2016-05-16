@@ -1,0 +1,6 @@
+<ruleset name="Dramaticpeople.com">
+	<target host="dramaticpeople.com" />
+	<target host="www.dramaticpeople.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

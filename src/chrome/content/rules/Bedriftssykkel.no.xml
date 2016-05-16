@@ -1,0 +1,6 @@
+<ruleset name="Bedriftssykkel.no">
+	<target host="bedriftssykkel.no" />
+	<target host="www.bedriftssykkel.no" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Imusic.dk">
+	<target host="imusic.dk" />
+	<target host="www.imusic.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

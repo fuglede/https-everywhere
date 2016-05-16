@@ -1,0 +1,6 @@
+<ruleset name="Appraisal-comps.com">
+	<target host="appraisal-comps.com" />
+	<target host="www.appraisal-comps.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

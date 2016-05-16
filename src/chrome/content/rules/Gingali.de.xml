@@ -1,0 +1,6 @@
+<ruleset name="Gingali.de">
+	<target host="gingali.de" />
+	<target host="www.gingali.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

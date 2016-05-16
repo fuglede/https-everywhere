@@ -1,0 +1,6 @@
+<ruleset name="Burzmali.com">
+	<target host="burzmali.com" />
+	<target host="www.burzmali.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

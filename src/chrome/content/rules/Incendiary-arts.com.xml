@@ -1,0 +1,6 @@
+<ruleset name="Incendiary-arts.com">
+	<target host="incendiary-arts.com" />
+	<target host="www.incendiary-arts.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

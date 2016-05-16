@@ -1,0 +1,6 @@
+<ruleset name="Groovydisk.com">
+	<target host="groovydisk.com" />
+	<target host="www.groovydisk.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

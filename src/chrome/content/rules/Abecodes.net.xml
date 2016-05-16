@@ -1,0 +1,6 @@
+<ruleset name="Abecodes.net">
+	<target host="abecodes.net" />
+	<target host="www.abecodes.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Pxx.io">
+	<target host="pxx.io" />
+	<target host="www.pxx.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

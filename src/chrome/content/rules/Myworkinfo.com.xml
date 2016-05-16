@@ -1,0 +1,6 @@
+<ruleset name="Myworkinfo.com">
+	<target host="myworkinfo.com" />
+	<target host="www.myworkinfo.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Leardev.de">
+	<target host="leardev.de" />
+	<target host="www.leardev.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

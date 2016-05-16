@@ -1,0 +1,6 @@
+<ruleset name="Flirchi.com">
+	<target host="flirchi.com" />
+	<target host="www.flirchi.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

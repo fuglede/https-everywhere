@@ -1,0 +1,6 @@
+<ruleset name="Notr.co">
+	<target host="notr.co" />
+	<target host="www.notr.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

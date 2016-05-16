@@ -1,0 +1,6 @@
+<ruleset name="Drainagebuizen.nl">
+	<target host="drainagebuizen.nl" />
+	<target host="www.drainagebuizen.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

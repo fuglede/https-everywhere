@@ -1,0 +1,6 @@
+<ruleset name="Hahayidu.org">
+	<target host="hahayidu.org" />
+	<target host="www.hahayidu.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

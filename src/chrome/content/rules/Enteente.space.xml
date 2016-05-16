@@ -1,0 +1,6 @@
+<ruleset name="Enteente.space">
+	<target host="enteente.space" />
+	<target host="www.enteente.space" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Teriiphotography.com">
+	<target host="teriiphotography.com" />
+	<target host="www.teriiphotography.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

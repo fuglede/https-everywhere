@@ -1,0 +1,6 @@
+<ruleset name="Onarto.com">
+	<target host="onarto.com" />
+	<target host="www.onarto.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

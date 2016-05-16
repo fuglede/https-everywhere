@@ -1,0 +1,6 @@
+<ruleset name="Torontodistresscentre.com">
+	<target host="torontodistresscentre.com" />
+	<target host="www.torontodistresscentre.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

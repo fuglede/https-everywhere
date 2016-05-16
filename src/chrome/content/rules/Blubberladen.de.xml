@@ -1,0 +1,6 @@
+<ruleset name="Blubberladen.de">
+	<target host="blubberladen.de" />
+	<target host="www.blubberladen.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

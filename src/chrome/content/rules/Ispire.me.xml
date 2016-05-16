@@ -1,0 +1,6 @@
+<ruleset name="Ispire.me">
+	<target host="ispire.me" />
+	<target host="www.ispire.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

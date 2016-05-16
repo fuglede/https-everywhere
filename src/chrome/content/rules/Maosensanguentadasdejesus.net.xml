@@ -1,0 +1,6 @@
+<ruleset name="Maosensanguentadasdejesus.net">
+	<target host="maosensanguentadasdejesus.net" />
+	<target host="www.maosensanguentadasdejesus.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

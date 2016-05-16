@@ -1,0 +1,6 @@
+<ruleset name="Ospeludos.com.br">
+	<target host="ospeludos.com.br" />
+	<target host="www.ospeludos.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

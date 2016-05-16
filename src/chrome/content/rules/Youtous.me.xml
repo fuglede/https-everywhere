@@ -1,0 +1,6 @@
+<ruleset name="Youtous.me">
+	<target host="youtous.me" />
+	<target host="www.youtous.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

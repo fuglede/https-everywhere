@@ -1,0 +1,6 @@
+<ruleset name="Soft-switch.org">
+	<target host="soft-switch.org" />
+	<target host="www.soft-switch.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

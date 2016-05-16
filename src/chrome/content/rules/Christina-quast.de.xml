@@ -1,0 +1,6 @@
+<ruleset name="Christina-quast.de">
+	<target host="christina-quast.de" />
+	<target host="www.christina-quast.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

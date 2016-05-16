@@ -1,0 +1,6 @@
+<ruleset name="Shopdam.me">
+	<target host="shopdam.me" />
+	<target host="www.shopdam.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

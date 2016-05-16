@@ -1,0 +1,6 @@
+<ruleset name="Etula.ga">
+	<target host="etula.ga" />
+	<target host="www.etula.ga" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Ssl247.com.mx">
+	<target host="ssl247.com.mx" />
+	<target host="www.ssl247.com.mx" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

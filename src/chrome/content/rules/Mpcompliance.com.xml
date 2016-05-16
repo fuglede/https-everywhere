@@ -1,0 +1,6 @@
+<ruleset name="Mpcompliance.com">
+	<target host="mpcompliance.com" />
+	<target host="www.mpcompliance.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

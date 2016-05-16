@@ -1,0 +1,6 @@
+<ruleset name="Yameveo.com">
+	<target host="yameveo.com" />
+	<target host="www.yameveo.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

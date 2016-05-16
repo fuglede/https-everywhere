@@ -1,0 +1,6 @@
+<ruleset name="Discipul.nl">
+	<target host="discipul.nl" />
+	<target host="www.discipul.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

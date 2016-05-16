@@ -1,0 +1,6 @@
+<ruleset name="Nippon-oku.com">
+	<target host="nippon-oku.com" />
+	<target host="www.nippon-oku.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

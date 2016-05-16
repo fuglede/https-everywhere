@@ -1,0 +1,6 @@
+<ruleset name="Portraitsystem.biz">
+	<target host="portraitsystem.biz" />
+	<target host="www.portraitsystem.biz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

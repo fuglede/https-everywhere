@@ -1,0 +1,6 @@
+<ruleset name="Streamingmagazin.de">
+	<target host="streamingmagazin.de" />
+	<target host="www.streamingmagazin.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

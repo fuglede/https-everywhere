@@ -1,0 +1,6 @@
+<ruleset name="Anyprime.net">
+	<target host="anyprime.net" />
+	<target host="www.anyprime.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

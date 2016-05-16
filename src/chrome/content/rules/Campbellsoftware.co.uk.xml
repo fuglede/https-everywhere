@@ -1,0 +1,6 @@
+<ruleset name="Campbellsoftware.co.uk">
+	<target host="campbellsoftware.co.uk" />
+	<target host="www.campbellsoftware.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

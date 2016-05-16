@@ -1,0 +1,6 @@
+<ruleset name="Seen.team">
+	<target host="seen.team" />
+	<target host="www.seen.team" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

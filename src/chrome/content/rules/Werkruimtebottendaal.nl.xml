@@ -1,0 +1,6 @@
+<ruleset name="Werkruimtebottendaal.nl">
+	<target host="werkruimtebottendaal.nl" />
+	<target host="www.werkruimtebottendaal.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

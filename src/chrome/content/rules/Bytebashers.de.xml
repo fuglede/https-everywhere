@@ -1,0 +1,6 @@
+<ruleset name="Bytebashers.de">
+	<target host="bytebashers.de" />
+	<target host="www.bytebashers.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Pocketsix.com">
+	<target host="pocketsix.com" />
+	<target host="www.pocketsix.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

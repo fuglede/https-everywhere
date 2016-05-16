@@ -1,0 +1,6 @@
+<ruleset name="Web-tipps.ch">
+	<target host="web-tipps.ch" />
+	<target host="www.web-tipps.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

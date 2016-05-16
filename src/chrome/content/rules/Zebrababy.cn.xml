@@ -1,0 +1,6 @@
+<ruleset name="Zebrababy.cn">
+	<target host="zebrababy.cn" />
+	<target host="www.zebrababy.cn" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

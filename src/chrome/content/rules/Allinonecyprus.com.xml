@@ -1,0 +1,6 @@
+<ruleset name="Allinonecyprus.com">
+	<target host="allinonecyprus.com" />
+	<target host="www.allinonecyprus.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

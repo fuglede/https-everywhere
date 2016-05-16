@@ -1,0 +1,6 @@
+<ruleset name="Mensagemdaluz.com">
+	<target host="mensagemdaluz.com" />
+	<target host="www.mensagemdaluz.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

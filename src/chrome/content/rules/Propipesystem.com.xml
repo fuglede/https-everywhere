@@ -1,0 +1,6 @@
+<ruleset name="Propipesystem.com">
+	<target host="propipesystem.com" />
+	<target host="www.propipesystem.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

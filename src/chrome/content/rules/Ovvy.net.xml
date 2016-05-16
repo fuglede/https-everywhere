@@ -1,0 +1,6 @@
+<ruleset name="Ovvy.net">
+	<target host="ovvy.net" />
+	<target host="www.ovvy.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

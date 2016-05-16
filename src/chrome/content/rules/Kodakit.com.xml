@@ -1,0 +1,6 @@
+<ruleset name="Kodakit.com">
+	<target host="kodakit.com" />
+	<target host="www.kodakit.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

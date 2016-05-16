@@ -1,0 +1,6 @@
+<ruleset name="Mbmdesign.ca">
+	<target host="mbmdesign.ca" />
+	<target host="www.mbmdesign.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

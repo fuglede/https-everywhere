@@ -1,0 +1,6 @@
+<ruleset name="Michiganunionoptout.com">
+	<target host="michiganunionoptout.com" />
+	<target host="www.michiganunionoptout.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

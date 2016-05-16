@@ -1,0 +1,6 @@
+<ruleset name="Onefour.co">
+	<target host="onefour.co" />
+	<target host="www.onefour.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

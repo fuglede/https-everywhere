@@ -1,0 +1,6 @@
+<ruleset name="Fysiohaenraets.nl">
+	<target host="fysiohaenraets.nl" />
+	<target host="www.fysiohaenraets.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

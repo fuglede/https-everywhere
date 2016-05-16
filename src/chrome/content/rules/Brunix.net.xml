@@ -1,0 +1,6 @@
+<ruleset name="Brunix.net">
+	<target host="brunix.net" />
+	<target host="www.brunix.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

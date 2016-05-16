@@ -1,0 +1,6 @@
+<ruleset name="Trade-smart.ru">
+	<target host="trade-smart.ru" />
+	<target host="www.trade-smart.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

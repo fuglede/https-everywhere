@@ -1,0 +1,6 @@
+<ruleset name="Eastmontgroup.com">
+	<target host="eastmontgroup.com" />
+	<target host="www.eastmontgroup.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

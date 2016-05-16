@@ -1,0 +1,6 @@
+<ruleset name="Novatrucking.de">
+	<target host="novatrucking.de" />
+	<target host="www.novatrucking.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

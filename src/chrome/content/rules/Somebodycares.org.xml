@@ -1,0 +1,6 @@
+<ruleset name="Somebodycares.org">
+	<target host="somebodycares.org" />
+	<target host="www.somebodycares.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

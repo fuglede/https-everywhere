@@ -1,0 +1,6 @@
+<ruleset name="Room-matehotels.com">
+	<target host="room-matehotels.com" />
+	<target host="www.room-matehotels.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

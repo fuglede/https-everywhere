@@ -1,0 +1,6 @@
+<ruleset name="Eames-clayton.us">
+	<target host="eames-clayton.us" />
+	<target host="www.eames-clayton.us" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

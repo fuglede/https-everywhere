@@ -1,0 +1,6 @@
+<ruleset name="Sakaserver.com">
+	<target host="sakaserver.com" />
+	<target host="www.sakaserver.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Drumbe.at">
+	<target host="drumbe.at" />
+	<target host="www.drumbe.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

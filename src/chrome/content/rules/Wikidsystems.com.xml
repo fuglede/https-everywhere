@@ -1,0 +1,6 @@
+<ruleset name="Wikidsystems.com">
+	<target host="wikidsystems.com" />
+	<target host="www.wikidsystems.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

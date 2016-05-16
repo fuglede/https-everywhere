@@ -1,0 +1,6 @@
+<ruleset name="Skotty.io">
+	<target host="skotty.io" />
+	<target host="www.skotty.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

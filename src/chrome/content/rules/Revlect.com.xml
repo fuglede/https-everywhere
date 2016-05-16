@@ -1,0 +1,6 @@
+<ruleset name="Revlect.com">
+	<target host="revlect.com" />
+	<target host="www.revlect.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

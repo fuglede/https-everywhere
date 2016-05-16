@@ -1,0 +1,6 @@
+<ruleset name="Beinad.com">
+	<target host="beinad.com" />
+	<target host="www.beinad.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

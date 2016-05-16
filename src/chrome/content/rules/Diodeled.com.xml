@@ -1,0 +1,6 @@
+<ruleset name="Diodeled.com">
+	<target host="diodeled.com" />
+	<target host="www.diodeled.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

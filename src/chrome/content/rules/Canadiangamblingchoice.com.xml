@@ -1,0 +1,6 @@
+<ruleset name="Canadiangamblingchoice.com">
+	<target host="canadiangamblingchoice.com" />
+	<target host="www.canadiangamblingchoice.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

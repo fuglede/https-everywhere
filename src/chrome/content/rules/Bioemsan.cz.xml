@@ -1,0 +1,6 @@
+<ruleset name="Bioemsan.cz">
+	<target host="bioemsan.cz" />
+	<target host="www.bioemsan.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

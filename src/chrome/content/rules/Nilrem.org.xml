@@ -1,0 +1,6 @@
+<ruleset name="Nilrem.org">
+	<target host="nilrem.org" />
+	<target host="www.nilrem.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

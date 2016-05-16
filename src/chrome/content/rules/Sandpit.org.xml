@@ -1,0 +1,6 @@
+<ruleset name="Sandpit.org">
+	<target host="sandpit.org" />
+	<target host="www.sandpit.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

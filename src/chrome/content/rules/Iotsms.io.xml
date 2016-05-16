@@ -1,0 +1,6 @@
+<ruleset name="Iotsms.io">
+	<target host="iotsms.io" />
+	<target host="www.iotsms.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

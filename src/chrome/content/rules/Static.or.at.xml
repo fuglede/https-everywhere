@@ -1,0 +1,6 @@
+<ruleset name="Static.or.at">
+	<target host="static.or.at" />
+	<target host="www.static.or.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

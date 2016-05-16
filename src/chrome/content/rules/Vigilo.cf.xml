@@ -1,0 +1,6 @@
+<ruleset name="Vigilo.cf">
+	<target host="vigilo.cf" />
+	<target host="www.vigilo.cf" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

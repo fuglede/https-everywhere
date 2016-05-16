@@ -1,0 +1,6 @@
+<ruleset name="Feirlane.org">
+	<target host="feirlane.org" />
+	<target host="www.feirlane.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

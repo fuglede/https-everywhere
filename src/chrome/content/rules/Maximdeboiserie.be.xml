@@ -1,0 +1,6 @@
+<ruleset name="Maximdeboiserie.be">
+	<target host="maximdeboiserie.be" />
+	<target host="www.maximdeboiserie.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

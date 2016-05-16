@@ -1,0 +1,6 @@
+<ruleset name="Gondellier.fr">
+	<target host="gondellier.fr" />
+	<target host="www.gondellier.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

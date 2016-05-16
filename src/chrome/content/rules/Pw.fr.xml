@@ -1,0 +1,6 @@
+<ruleset name="Pw.fr">
+	<target host="pw.fr" />
+	<target host="www.pw.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

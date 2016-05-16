@@ -1,0 +1,6 @@
+<ruleset name="Mailchuck.com">
+	<target host="mailchuck.com" />
+	<target host="www.mailchuck.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

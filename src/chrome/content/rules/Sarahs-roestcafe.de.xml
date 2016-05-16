@@ -1,0 +1,6 @@
+<ruleset name="Sarahs-roestcafe.de">
+	<target host="sarahs-roestcafe.de" />
+	<target host="www.sarahs-roestcafe.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

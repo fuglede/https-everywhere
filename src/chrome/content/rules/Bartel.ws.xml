@@ -1,0 +1,6 @@
+<ruleset name="Bartel.ws">
+	<target host="bartel.ws" />
+	<target host="www.bartel.ws" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

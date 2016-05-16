@@ -1,0 +1,6 @@
+<ruleset name="X3led.com">
+	<target host="x3led.com" />
+	<target host="www.x3led.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

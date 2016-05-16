@@ -1,0 +1,6 @@
+<ruleset name="Webandmore.de">
+	<target host="webandmore.de" />
+	<target host="www.webandmore.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

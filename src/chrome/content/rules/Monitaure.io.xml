@@ -1,0 +1,6 @@
+<ruleset name="Monitaure.io">
+	<target host="monitaure.io" />
+	<target host="www.monitaure.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

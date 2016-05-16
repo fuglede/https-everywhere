@@ -1,0 +1,6 @@
+<ruleset name="Sigmacomputing.io">
+	<target host="sigmacomputing.io" />
+	<target host="www.sigmacomputing.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

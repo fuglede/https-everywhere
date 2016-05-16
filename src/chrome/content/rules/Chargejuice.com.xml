@@ -1,0 +1,6 @@
+<ruleset name="Chargejuice.com">
+	<target host="chargejuice.com" />
+	<target host="www.chargejuice.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

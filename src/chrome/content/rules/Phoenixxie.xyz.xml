@@ -1,0 +1,6 @@
+<ruleset name="Phoenixxie.xyz">
+	<target host="phoenixxie.xyz" />
+	<target host="www.phoenixxie.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

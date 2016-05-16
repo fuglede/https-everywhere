@@ -1,0 +1,6 @@
+<ruleset name="Halo.red">
+	<target host="halo.red" />
+	<target host="www.halo.red" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

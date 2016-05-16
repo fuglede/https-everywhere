@@ -1,0 +1,6 @@
+<ruleset name="Csapak.com">
+	<target host="csapak.com" />
+	<target host="www.csapak.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

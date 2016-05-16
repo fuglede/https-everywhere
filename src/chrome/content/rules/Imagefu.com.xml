@@ -1,0 +1,6 @@
+<ruleset name="Imagefu.com">
+	<target host="imagefu.com" />
+	<target host="www.imagefu.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

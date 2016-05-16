@@ -1,0 +1,6 @@
+<ruleset name="Vpn-byen.dk">
+	<target host="vpn-byen.dk" />
+	<target host="www.vpn-byen.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

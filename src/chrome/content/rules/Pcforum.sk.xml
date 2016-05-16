@@ -1,0 +1,6 @@
+<ruleset name="Pcforum.sk">
+	<target host="pcforum.sk" />
+	<target host="www.pcforum.sk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

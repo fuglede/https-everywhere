@@ -1,0 +1,6 @@
+<ruleset name="A2nutrition.com.au">
+	<target host="a2nutrition.com.au" />
+	<target host="www.a2nutrition.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

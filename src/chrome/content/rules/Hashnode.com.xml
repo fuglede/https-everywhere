@@ -1,0 +1,6 @@
+<ruleset name="Hashnode.com">
+	<target host="hashnode.com" />
+	<target host="www.hashnode.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

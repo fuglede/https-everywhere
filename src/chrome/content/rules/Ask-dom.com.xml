@@ -1,0 +1,6 @@
+<ruleset name="Ask-dom.com">
+	<target host="ask-dom.com" />
+	<target host="www.ask-dom.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

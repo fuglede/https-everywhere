@@ -1,0 +1,6 @@
+<ruleset name="Shadowmorph.info">
+	<target host="shadowmorph.info" />
+	<target host="www.shadowmorph.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

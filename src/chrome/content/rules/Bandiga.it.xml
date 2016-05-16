@@ -1,0 +1,6 @@
+<ruleset name="Bandiga.it">
+	<target host="bandiga.it" />
+	<target host="www.bandiga.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

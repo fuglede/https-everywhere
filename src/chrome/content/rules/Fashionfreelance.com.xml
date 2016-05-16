@@ -1,0 +1,6 @@
+<ruleset name="Fashionfreelance.com">
+	<target host="fashionfreelance.com" />
+	<target host="www.fashionfreelance.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

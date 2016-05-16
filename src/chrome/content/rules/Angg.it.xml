@@ -1,0 +1,6 @@
+<ruleset name="Angg.it">
+	<target host="angg.it" />
+	<target host="www.angg.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

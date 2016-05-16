@@ -1,0 +1,6 @@
+<ruleset name="Peaceandwool.com">
+	<target host="peaceandwool.com" />
+	<target host="www.peaceandwool.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

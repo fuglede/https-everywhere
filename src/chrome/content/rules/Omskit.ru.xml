@@ -1,0 +1,6 @@
+<ruleset name="Omskit.ru">
+	<target host="omskit.ru" />
+	<target host="www.omskit.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

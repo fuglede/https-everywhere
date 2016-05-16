@@ -1,0 +1,6 @@
+<ruleset name="Getlifti.com">
+	<target host="getlifti.com" />
+	<target host="www.getlifti.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

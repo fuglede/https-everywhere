@@ -1,0 +1,6 @@
+<ruleset name="Libnull.com">
+	<target host="libnull.com" />
+	<target host="www.libnull.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

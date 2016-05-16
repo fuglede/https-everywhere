@@ -1,0 +1,6 @@
+<ruleset name="Gilcloud.com">
+	<target host="gilcloud.com" />
+	<target host="www.gilcloud.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

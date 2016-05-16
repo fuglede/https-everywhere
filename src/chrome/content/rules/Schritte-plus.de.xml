@@ -1,0 +1,6 @@
+<ruleset name="Schritte-plus.de">
+	<target host="schritte-plus.de" />
+	<target host="www.schritte-plus.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

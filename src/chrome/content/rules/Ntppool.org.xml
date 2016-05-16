@@ -1,0 +1,6 @@
+<ruleset name="Ntppool.org">
+	<target host="ntppool.org" />
+	<target host="www.ntppool.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

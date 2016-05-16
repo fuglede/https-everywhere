@@ -1,0 +1,6 @@
+<ruleset name="Partijtjevoordevrijheid.nl">
+	<target host="partijtjevoordevrijheid.nl" />
+	<target host="www.partijtjevoordevrijheid.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

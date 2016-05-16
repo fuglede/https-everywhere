@@ -1,0 +1,6 @@
+<ruleset name="Smithandcanova.co.uk">
+	<target host="smithandcanova.co.uk" />
+	<target host="www.smithandcanova.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

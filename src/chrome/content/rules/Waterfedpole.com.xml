@@ -1,0 +1,6 @@
+<ruleset name="Waterfedpole.com">
+	<target host="waterfedpole.com" />
+	<target host="www.waterfedpole.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

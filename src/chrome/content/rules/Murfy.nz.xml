@@ -1,0 +1,6 @@
+<ruleset name="Murfy.nz">
+	<target host="murfy.nz" />
+	<target host="www.murfy.nz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

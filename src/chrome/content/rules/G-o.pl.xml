@@ -1,0 +1,6 @@
+<ruleset name="G-o.pl">
+	<target host="g-o.pl" />
+	<target host="www.g-o.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

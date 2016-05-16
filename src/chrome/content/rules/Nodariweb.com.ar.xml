@@ -1,0 +1,6 @@
+<ruleset name="Nodariweb.com.ar">
+	<target host="nodariweb.com.ar" />
+	<target host="www.nodariweb.com.ar" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

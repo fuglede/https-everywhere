@@ -1,0 +1,6 @@
+<ruleset name="Dieselgalleri.com">
+	<target host="dieselgalleri.com" />
+	<target host="www.dieselgalleri.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

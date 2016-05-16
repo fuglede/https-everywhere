@@ -1,0 +1,6 @@
+<ruleset name="Twoway.com.br">
+	<target host="twoway.com.br" />
+	<target host="www.twoway.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

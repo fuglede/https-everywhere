@@ -1,0 +1,6 @@
+<ruleset name="Tezcam.tk">
+	<target host="tezcam.tk" />
+	<target host="www.tezcam.tk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

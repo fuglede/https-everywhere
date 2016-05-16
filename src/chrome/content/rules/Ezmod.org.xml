@@ -1,0 +1,6 @@
+<ruleset name="Ezmod.org">
+	<target host="ezmod.org" />
+	<target host="www.ezmod.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

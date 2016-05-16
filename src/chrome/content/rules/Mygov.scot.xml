@@ -1,0 +1,6 @@
+<ruleset name="Mygov.scot">
+	<target host="mygov.scot" />
+	<target host="www.mygov.scot" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

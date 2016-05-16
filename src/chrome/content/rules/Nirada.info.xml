@@ -1,0 +1,6 @@
+<ruleset name="Nirada.info">
+	<target host="nirada.info" />
+	<target host="www.nirada.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Smalldata.tech">
+	<target host="smalldata.tech" />
+	<target host="www.smalldata.tech" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

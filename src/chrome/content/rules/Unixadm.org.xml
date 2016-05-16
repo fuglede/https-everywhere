@@ -1,0 +1,6 @@
+<ruleset name="Unixadm.org">
+	<target host="unixadm.org" />
+	<target host="www.unixadm.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

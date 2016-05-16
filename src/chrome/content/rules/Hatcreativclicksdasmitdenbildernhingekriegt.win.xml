@@ -1,0 +1,6 @@
+<ruleset name="Hatcreativclicksdasmitdenbildernhingekriegt.win">
+	<target host="hatcreativclicksdasmitdenbildernhingekriegt.win" />
+	<target host="www.hatcreativclicksdasmitdenbildernhingekriegt.win" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

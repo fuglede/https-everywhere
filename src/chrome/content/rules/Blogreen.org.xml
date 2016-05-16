@@ -1,0 +1,6 @@
+<ruleset name="Blogreen.org">
+	<target host="blogreen.org" />
+	<target host="www.blogreen.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

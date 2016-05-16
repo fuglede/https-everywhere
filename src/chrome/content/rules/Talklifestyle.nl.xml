@@ -1,0 +1,6 @@
+<ruleset name="Talklifestyle.nl">
+	<target host="talklifestyle.nl" />
+	<target host="www.talklifestyle.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Pitfire.io">
+	<target host="pitfire.io" />
+	<target host="www.pitfire.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

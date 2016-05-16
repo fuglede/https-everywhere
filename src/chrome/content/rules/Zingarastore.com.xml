@@ -1,0 +1,6 @@
+<ruleset name="Zingarastore.com">
+	<target host="zingarastore.com" />
+	<target host="www.zingarastore.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="156.im">
+	<target host="156.im" />
+	<target host="www.156.im" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

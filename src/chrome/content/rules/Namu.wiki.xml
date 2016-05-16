@@ -1,0 +1,6 @@
+<ruleset name="Namu.wiki">
+	<target host="namu.wiki" />
+	<target host="www.namu.wiki" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Techstrategies.com.au">
+	<target host="techstrategies.com.au" />
+	<target host="www.techstrategies.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

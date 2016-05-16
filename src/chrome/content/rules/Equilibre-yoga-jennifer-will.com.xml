@@ -1,0 +1,6 @@
+<ruleset name="Equilibre-yoga-jennifer-will.com">
+	<target host="equilibre-yoga-jennifer-will.com" />
+	<target host="www.equilibre-yoga-jennifer-will.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

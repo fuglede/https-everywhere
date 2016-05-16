@@ -1,0 +1,6 @@
+<ruleset name="Nomadorbit.com">
+	<target host="nomadorbit.com" />
+	<target host="www.nomadorbit.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

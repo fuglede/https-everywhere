@@ -1,0 +1,6 @@
+<ruleset name="Aktivist.in">
+	<target host="aktivist.in" />
+	<target host="www.aktivist.in" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Lettingsportal.com">
+	<target host="lettingsportal.com" />
+	<target host="www.lettingsportal.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

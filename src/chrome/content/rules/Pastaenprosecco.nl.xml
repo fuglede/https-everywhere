@@ -1,0 +1,6 @@
+<ruleset name="Pastaenprosecco.nl">
+	<target host="pastaenprosecco.nl" />
+	<target host="www.pastaenprosecco.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

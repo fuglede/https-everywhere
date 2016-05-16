@@ -1,0 +1,6 @@
+<ruleset name="Auberge-benija.com">
+	<target host="auberge-benija.com" />
+	<target host="www.auberge-benija.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

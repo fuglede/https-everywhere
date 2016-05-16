@@ -1,0 +1,6 @@
+<ruleset name="0x44.net">
+	<target host="0x44.net" />
+	<target host="www.0x44.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

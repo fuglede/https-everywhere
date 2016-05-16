@@ -1,0 +1,6 @@
+<ruleset name="Ehuber.info">
+	<target host="ehuber.info" />
+	<target host="www.ehuber.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

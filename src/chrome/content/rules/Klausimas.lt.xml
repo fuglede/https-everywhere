@@ -1,0 +1,6 @@
+<ruleset name="Klausimas.lt">
+	<target host="klausimas.lt" />
+	<target host="www.klausimas.lt" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

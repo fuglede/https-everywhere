@@ -1,0 +1,6 @@
+<ruleset name="Maowtm.org">
+	<target host="maowtm.org" />
+	<target host="www.maowtm.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Square-src.de">
+	<target host="square-src.de" />
+	<target host="www.square-src.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Vortexhobbies.com">
+	<target host="vortexhobbies.com" />
+	<target host="www.vortexhobbies.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

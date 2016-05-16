@@ -1,0 +1,6 @@
+<ruleset name="Monasterialis.eu">
+	<target host="monasterialis.eu" />
+	<target host="www.monasterialis.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

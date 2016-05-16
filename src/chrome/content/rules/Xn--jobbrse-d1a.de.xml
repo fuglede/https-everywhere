@@ -1,0 +1,6 @@
+<ruleset name="Xn--jobbrse-d1a.de">
+	<target host="xn--jobbrse-d1a.de" />
+	<target host="www.xn--jobbrse-d1a.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

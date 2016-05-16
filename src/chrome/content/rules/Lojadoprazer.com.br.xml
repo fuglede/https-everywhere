@@ -1,0 +1,6 @@
+<ruleset name="Lojadoprazer.com.br">
+	<target host="lojadoprazer.com.br" />
+	<target host="www.lojadoprazer.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

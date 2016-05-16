@@ -1,0 +1,6 @@
+<ruleset name="Internetdentalalliance.com">
+	<target host="internetdentalalliance.com" />
+	<target host="www.internetdentalalliance.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

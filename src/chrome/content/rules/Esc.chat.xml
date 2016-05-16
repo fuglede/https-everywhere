@@ -1,0 +1,6 @@
+<ruleset name="Esc.chat">
+	<target host="esc.chat" />
+	<target host="www.esc.chat" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

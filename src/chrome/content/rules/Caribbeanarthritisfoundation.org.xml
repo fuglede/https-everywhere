@@ -1,0 +1,6 @@
+<ruleset name="Caribbeanarthritisfoundation.org">
+	<target host="caribbeanarthritisfoundation.org" />
+	<target host="www.caribbeanarthritisfoundation.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

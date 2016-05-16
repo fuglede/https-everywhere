@@ -1,0 +1,6 @@
+<ruleset name="302.nyc">
+	<target host="302.nyc" />
+	<target host="www.302.nyc" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

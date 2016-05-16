@@ -1,0 +1,6 @@
+<ruleset name="Mjcaffarattilaw.com">
+	<target host="mjcaffarattilaw.com" />
+	<target host="www.mjcaffarattilaw.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

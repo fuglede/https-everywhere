@@ -1,0 +1,6 @@
+<ruleset name="Prior-it.be">
+	<target host="prior-it.be" />
+	<target host="www.prior-it.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

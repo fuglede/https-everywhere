@@ -1,0 +1,6 @@
+<ruleset name="Vcientertainment.com">
+	<target host="vcientertainment.com" />
+	<target host="www.vcientertainment.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

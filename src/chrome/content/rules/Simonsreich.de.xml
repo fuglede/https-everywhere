@@ -1,0 +1,6 @@
+<ruleset name="Simonsreich.de">
+	<target host="simonsreich.de" />
+	<target host="www.simonsreich.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

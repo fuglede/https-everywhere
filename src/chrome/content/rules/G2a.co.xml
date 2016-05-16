@@ -1,0 +1,6 @@
+<ruleset name="G2a.co">
+	<target host="g2a.co" />
+	<target host="www.g2a.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Nitho.me">
+	<target host="nitho.me" />
+	<target host="www.nitho.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

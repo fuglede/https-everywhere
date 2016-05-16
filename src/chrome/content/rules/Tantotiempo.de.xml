@@ -1,0 +1,6 @@
+<ruleset name="Tantotiempo.de">
+	<target host="tantotiempo.de" />
+	<target host="www.tantotiempo.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

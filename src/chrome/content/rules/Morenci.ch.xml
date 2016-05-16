@@ -1,0 +1,6 @@
+<ruleset name="Morenci.ch">
+	<target host="morenci.ch" />
+	<target host="www.morenci.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

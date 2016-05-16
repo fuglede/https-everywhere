@@ -1,0 +1,6 @@
+<ruleset name="Blogarts.net">
+	<target host="blogarts.net" />
+	<target host="www.blogarts.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

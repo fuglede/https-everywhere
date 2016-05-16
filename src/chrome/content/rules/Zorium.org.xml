@@ -1,0 +1,6 @@
+<ruleset name="Zorium.org">
+	<target host="zorium.org" />
+	<target host="www.zorium.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

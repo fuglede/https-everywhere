@@ -1,0 +1,6 @@
+<ruleset name="Daylightcompany.com">
+	<target host="daylightcompany.com" />
+	<target host="www.daylightcompany.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

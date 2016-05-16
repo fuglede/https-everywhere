@@ -1,0 +1,6 @@
+<ruleset name="Unicef.pl">
+	<target host="unicef.pl" />
+	<target host="www.unicef.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

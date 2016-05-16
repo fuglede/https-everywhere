@@ -1,0 +1,6 @@
+<ruleset name="Higgstools.org">
+	<target host="higgstools.org" />
+	<target host="www.higgstools.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

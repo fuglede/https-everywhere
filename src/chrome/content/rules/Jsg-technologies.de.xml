@@ -1,0 +1,6 @@
+<ruleset name="Jsg-technologies.de">
+	<target host="jsg-technologies.de" />
+	<target host="www.jsg-technologies.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

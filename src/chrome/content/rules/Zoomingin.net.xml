@@ -1,0 +1,6 @@
+<ruleset name="Zoomingin.net">
+	<target host="zoomingin.net" />
+	<target host="www.zoomingin.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

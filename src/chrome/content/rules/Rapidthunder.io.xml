@@ -1,0 +1,6 @@
+<ruleset name="Rapidthunder.io">
+	<target host="rapidthunder.io" />
+	<target host="www.rapidthunder.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

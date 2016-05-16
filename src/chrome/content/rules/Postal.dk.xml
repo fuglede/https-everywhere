@@ -1,0 +1,6 @@
+<ruleset name="Postal.dk">
+	<target host="postal.dk" />
+	<target host="www.postal.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

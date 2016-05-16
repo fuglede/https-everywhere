@@ -1,0 +1,6 @@
+<ruleset name="Infoseminardokter.com">
+	<target host="infoseminardokter.com" />
+	<target host="www.infoseminardokter.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

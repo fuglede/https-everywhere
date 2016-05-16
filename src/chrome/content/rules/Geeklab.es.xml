@@ -1,0 +1,6 @@
+<ruleset name="Geeklab.es">
+	<target host="geeklab.es" />
+	<target host="www.geeklab.es" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Aradulconteaza.ro">
+	<target host="aradulconteaza.ro" />
+	<target host="www.aradulconteaza.ro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

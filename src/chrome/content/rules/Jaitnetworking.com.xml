@@ -1,0 +1,6 @@
+<ruleset name="Jaitnetworking.com">
+	<target host="jaitnetworking.com" />
+	<target host="www.jaitnetworking.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

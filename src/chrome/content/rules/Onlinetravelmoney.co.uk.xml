@@ -1,0 +1,6 @@
+<ruleset name="Onlinetravelmoney.co.uk">
+	<target host="onlinetravelmoney.co.uk" />
+	<target host="www.onlinetravelmoney.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

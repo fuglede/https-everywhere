@@ -1,0 +1,6 @@
+<ruleset name="Completionist.me">
+	<target host="completionist.me" />
+	<target host="www.completionist.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

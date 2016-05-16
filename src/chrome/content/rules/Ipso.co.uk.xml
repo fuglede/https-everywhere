@@ -1,0 +1,6 @@
+<ruleset name="Ipso.co.uk">
+	<target host="ipso.co.uk" />
+	<target host="www.ipso.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

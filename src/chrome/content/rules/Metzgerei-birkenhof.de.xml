@@ -1,0 +1,6 @@
+<ruleset name="Metzgerei-birkenhof.de">
+	<target host="metzgerei-birkenhof.de" />
+	<target host="www.metzgerei-birkenhof.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

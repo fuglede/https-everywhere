@@ -1,0 +1,6 @@
+<ruleset name="Happycoder.net">
+	<target host="happycoder.net" />
+	<target host="www.happycoder.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Langenbach.rocks">
+	<target host="langenbach.rocks" />
+	<target host="www.langenbach.rocks" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

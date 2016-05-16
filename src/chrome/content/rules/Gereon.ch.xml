@@ -1,0 +1,6 @@
+<ruleset name="Gereon.ch">
+	<target host="gereon.ch" />
+	<target host="www.gereon.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

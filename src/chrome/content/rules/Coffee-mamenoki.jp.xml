@@ -1,0 +1,6 @@
+<ruleset name="Coffee-mamenoki.jp">
+	<target host="coffee-mamenoki.jp" />
+	<target host="www.coffee-mamenoki.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

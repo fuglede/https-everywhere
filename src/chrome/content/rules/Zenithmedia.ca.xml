@@ -1,0 +1,6 @@
+<ruleset name="Zenithmedia.ca">
+	<target host="zenithmedia.ca" />
+	<target host="www.zenithmedia.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

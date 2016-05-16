@@ -1,0 +1,6 @@
+<ruleset name="Affordableazdivorce.com">
+	<target host="affordableazdivorce.com" />
+	<target host="www.affordableazdivorce.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Emailfuermich.de">
+	<target host="emailfuermich.de" />
+	<target host="www.emailfuermich.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

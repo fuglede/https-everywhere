@@ -1,0 +1,6 @@
+<ruleset name="Endlessdark.net">
+	<target host="endlessdark.net" />
+	<target host="www.endlessdark.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

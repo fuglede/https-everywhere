@@ -1,0 +1,6 @@
+<ruleset name="Beryl.net">
+	<target host="beryl.net" />
+	<target host="www.beryl.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

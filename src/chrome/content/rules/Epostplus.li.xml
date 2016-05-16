@@ -1,0 +1,6 @@
+<ruleset name="Epostplus.li">
+	<target host="epostplus.li" />
+	<target host="www.epostplus.li" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

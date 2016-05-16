@@ -1,0 +1,6 @@
+<ruleset name="Thebigdatacompany.com">
+	<target host="thebigdatacompany.com" />
+	<target host="www.thebigdatacompany.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

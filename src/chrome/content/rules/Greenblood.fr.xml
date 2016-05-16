@@ -1,0 +1,6 @@
+<ruleset name="Greenblood.fr">
+	<target host="greenblood.fr" />
+	<target host="www.greenblood.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Segulink.com">
+	<target host="segulink.com" />
+	<target host="www.segulink.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

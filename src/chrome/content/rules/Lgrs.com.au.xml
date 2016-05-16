@@ -1,0 +1,6 @@
+<ruleset name="Lgrs.com.au">
+	<target host="lgrs.com.au" />
+	<target host="www.lgrs.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

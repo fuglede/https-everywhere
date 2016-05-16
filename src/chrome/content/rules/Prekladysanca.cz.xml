@@ -1,0 +1,6 @@
+<ruleset name="Prekladysanca.cz">
+	<target host="prekladysanca.cz" />
+	<target host="www.prekladysanca.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Hyk.me">
+	<target host="hyk.me" />
+	<target host="www.hyk.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

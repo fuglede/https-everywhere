@@ -1,0 +1,6 @@
+<ruleset name="Imjad.cn">
+	<target host="imjad.cn" />
+	<target host="www.imjad.cn" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

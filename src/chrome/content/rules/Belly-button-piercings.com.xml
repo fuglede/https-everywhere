@@ -1,0 +1,6 @@
+<ruleset name="Belly-button-piercings.com">
+	<target host="belly-button-piercings.com" />
+	<target host="www.belly-button-piercings.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

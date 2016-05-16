@@ -1,0 +1,6 @@
+<ruleset name="Storecove.com">
+	<target host="storecove.com" />
+	<target host="www.storecove.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

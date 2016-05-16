@@ -1,0 +1,6 @@
+<ruleset name="Andytouring.ro">
+	<target host="andytouring.ro" />
+	<target host="www.andytouring.ro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

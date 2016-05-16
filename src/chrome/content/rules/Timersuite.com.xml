@@ -1,0 +1,6 @@
+<ruleset name="Timersuite.com">
+	<target host="timersuite.com" />
+	<target host="www.timersuite.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

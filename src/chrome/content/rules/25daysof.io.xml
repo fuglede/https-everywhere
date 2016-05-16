@@ -1,0 +1,6 @@
+<ruleset name="25daysof.io">
+	<target host="25daysof.io" />
+	<target host="www.25daysof.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

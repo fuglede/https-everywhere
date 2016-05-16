@@ -1,0 +1,6 @@
+<ruleset name="Winclient.cn">
+	<target host="winclient.cn" />
+	<target host="www.winclient.cn" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

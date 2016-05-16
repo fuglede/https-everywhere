@@ -1,0 +1,6 @@
+<ruleset name="Energoprojekt.pl">
+	<target host="energoprojekt.pl" />
+	<target host="www.energoprojekt.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

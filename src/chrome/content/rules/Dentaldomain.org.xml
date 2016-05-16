@@ -1,0 +1,6 @@
+<ruleset name="Dentaldomain.org">
+	<target host="dentaldomain.org" />
+	<target host="www.dentaldomain.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

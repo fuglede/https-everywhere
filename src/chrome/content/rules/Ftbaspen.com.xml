@@ -1,0 +1,6 @@
+<ruleset name="Ftbaspen.com">
+	<target host="ftbaspen.com" />
+	<target host="www.ftbaspen.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

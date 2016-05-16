@@ -1,0 +1,6 @@
+<ruleset name="Lan2k.org">
+	<target host="lan2k.org" />
+	<target host="www.lan2k.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

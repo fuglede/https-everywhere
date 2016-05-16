@@ -1,0 +1,6 @@
+<ruleset name="Bazarstupava.sk">
+	<target host="bazarstupava.sk" />
+	<target host="www.bazarstupava.sk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

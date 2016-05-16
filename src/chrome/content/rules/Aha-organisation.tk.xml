@@ -1,0 +1,6 @@
+<ruleset name="Aha-organisation.tk">
+	<target host="aha-organisation.tk" />
+	<target host="www.aha-organisation.tk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

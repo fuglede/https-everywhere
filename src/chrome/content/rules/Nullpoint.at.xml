@@ -1,0 +1,6 @@
+<ruleset name="Nullpoint.at">
+	<target host="nullpoint.at" />
+	<target host="www.nullpoint.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

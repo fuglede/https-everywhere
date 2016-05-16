@@ -1,0 +1,6 @@
+<ruleset name="Britzer-toner.de">
+	<target host="britzer-toner.de" />
+	<target host="www.britzer-toner.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

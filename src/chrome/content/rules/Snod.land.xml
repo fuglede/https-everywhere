@@ -1,0 +1,6 @@
+<ruleset name="Snod.land">
+	<target host="snod.land" />
+	<target host="www.snod.land" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

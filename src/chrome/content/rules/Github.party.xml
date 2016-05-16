@@ -1,0 +1,6 @@
+<ruleset name="Github.party">
+	<target host="github.party" />
+	<target host="www.github.party" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

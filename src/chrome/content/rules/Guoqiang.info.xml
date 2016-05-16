@@ -1,0 +1,6 @@
+<ruleset name="Guoqiang.info">
+	<target host="guoqiang.info" />
+	<target host="www.guoqiang.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

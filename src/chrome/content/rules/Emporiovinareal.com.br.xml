@@ -1,0 +1,6 @@
+<ruleset name="Emporiovinareal.com.br">
+	<target host="emporiovinareal.com.br" />
+	<target host="www.emporiovinareal.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

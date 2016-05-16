@@ -1,0 +1,6 @@
+<ruleset name="Atchleyjazz.org">
+	<target host="atchleyjazz.org" />
+	<target host="www.atchleyjazz.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

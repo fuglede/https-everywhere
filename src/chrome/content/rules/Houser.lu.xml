@@ -1,0 +1,6 @@
+<ruleset name="Houser.lu">
+	<target host="houser.lu" />
+	<target host="www.houser.lu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

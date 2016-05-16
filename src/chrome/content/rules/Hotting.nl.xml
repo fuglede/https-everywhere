@@ -1,0 +1,6 @@
+<ruleset name="Hotting.nl">
+	<target host="hotting.nl" />
+	<target host="www.hotting.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

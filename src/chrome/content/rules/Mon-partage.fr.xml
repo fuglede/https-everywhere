@@ -1,0 +1,6 @@
+<ruleset name="Mon-partage.fr">
+	<target host="mon-partage.fr" />
+	<target host="www.mon-partage.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

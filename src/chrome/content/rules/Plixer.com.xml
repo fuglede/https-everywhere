@@ -1,0 +1,6 @@
+<ruleset name="Plixer.com">
+	<target host="plixer.com" />
+	<target host="www.plixer.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

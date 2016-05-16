@@ -1,0 +1,6 @@
+<ruleset name="Laskarsedekah.com">
+	<target host="laskarsedekah.com" />
+	<target host="www.laskarsedekah.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

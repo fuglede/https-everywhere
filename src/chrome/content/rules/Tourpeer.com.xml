@@ -1,0 +1,6 @@
+<ruleset name="Tourpeer.com">
+	<target host="tourpeer.com" />
+	<target host="www.tourpeer.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

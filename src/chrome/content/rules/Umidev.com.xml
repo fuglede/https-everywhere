@@ -1,0 +1,6 @@
+<ruleset name="Umidev.com">
+	<target host="umidev.com" />
+	<target host="www.umidev.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

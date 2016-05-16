@@ -1,0 +1,6 @@
+<ruleset name="Neap.io">
+	<target host="neap.io" />
+	<target host="www.neap.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

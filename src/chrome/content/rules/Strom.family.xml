@@ -1,0 +1,6 @@
+<ruleset name="Strom.family">
+	<target host="strom.family" />
+	<target host="www.strom.family" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

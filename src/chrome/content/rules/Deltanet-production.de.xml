@@ -1,0 +1,6 @@
+<ruleset name="Deltanet-production.de">
+	<target host="deltanet-production.de" />
+	<target host="www.deltanet-production.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

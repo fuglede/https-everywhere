@@ -1,0 +1,6 @@
+<ruleset name="Kinogb.net">
+	<target host="kinogb.net" />
+	<target host="www.kinogb.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

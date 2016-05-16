@@ -1,0 +1,6 @@
+<ruleset name="Nerdistan.moe">
+	<target host="nerdistan.moe" />
+	<target host="www.nerdistan.moe" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

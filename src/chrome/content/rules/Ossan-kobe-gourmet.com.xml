@@ -1,0 +1,6 @@
+<ruleset name="Ossan-kobe-gourmet.com">
+	<target host="ossan-kobe-gourmet.com" />
+	<target host="www.ossan-kobe-gourmet.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

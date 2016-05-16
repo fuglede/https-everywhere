@@ -1,0 +1,6 @@
+<ruleset name="Mcjunkin.synology.me">
+	<target host="mcjunkin.synology.me" />
+	<target host="www.mcjunkin.synology.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

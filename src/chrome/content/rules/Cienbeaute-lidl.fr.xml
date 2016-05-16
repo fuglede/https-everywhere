@@ -1,0 +1,6 @@
+<ruleset name="Cienbeaute-lidl.fr">
+	<target host="cienbeaute-lidl.fr" />
+	<target host="www.cienbeaute-lidl.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

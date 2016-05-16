@@ -1,0 +1,6 @@
+<ruleset name="Shadoom.com">
+	<target host="shadoom.com" />
+	<target host="www.shadoom.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

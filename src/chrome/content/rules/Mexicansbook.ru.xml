@@ -1,0 +1,6 @@
+<ruleset name="Mexicansbook.ru">
+	<target host="mexicansbook.ru" />
+	<target host="www.mexicansbook.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

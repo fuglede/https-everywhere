@@ -1,0 +1,6 @@
+<ruleset name="Medsupplysolutions.com">
+	<target host="medsupplysolutions.com" />
+	<target host="www.medsupplysolutions.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

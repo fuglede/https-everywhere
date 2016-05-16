@@ -1,0 +1,6 @@
+<ruleset name="Kamala-louve.fr">
+	<target host="kamala-louve.fr" />
+	<target host="www.kamala-louve.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

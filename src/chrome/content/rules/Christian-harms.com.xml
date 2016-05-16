@@ -1,0 +1,6 @@
+<ruleset name="Christian-harms.com">
+	<target host="christian-harms.com" />
+	<target host="www.christian-harms.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

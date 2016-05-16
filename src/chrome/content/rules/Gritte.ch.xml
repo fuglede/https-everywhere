@@ -1,0 +1,6 @@
+<ruleset name="Gritte.ch">
+	<target host="gritte.ch" />
+	<target host="www.gritte.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

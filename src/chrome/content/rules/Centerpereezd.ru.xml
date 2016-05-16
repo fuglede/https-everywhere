@@ -1,0 +1,6 @@
+<ruleset name="Centerpereezd.ru">
+	<target host="centerpereezd.ru" />
+	<target host="www.centerpereezd.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

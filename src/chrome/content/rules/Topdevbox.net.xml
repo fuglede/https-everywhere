@@ -1,0 +1,6 @@
+<ruleset name="Topdevbox.net">
+	<target host="topdevbox.net" />
+	<target host="www.topdevbox.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

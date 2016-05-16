@@ -1,0 +1,6 @@
+<ruleset name="Terracloud.de">
+	<target host="terracloud.de" />
+	<target host="www.terracloud.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

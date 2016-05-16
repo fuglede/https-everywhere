@@ -1,0 +1,6 @@
+<ruleset name="Abnamroinvestmentsolutions.fr">
+	<target host="abnamroinvestmentsolutions.fr" />
+	<target host="www.abnamroinvestmentsolutions.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

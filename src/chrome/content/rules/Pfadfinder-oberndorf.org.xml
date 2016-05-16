@@ -1,0 +1,6 @@
+<ruleset name="Pfadfinder-oberndorf.org">
+	<target host="pfadfinder-oberndorf.org" />
+	<target host="www.pfadfinder-oberndorf.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

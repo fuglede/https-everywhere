@@ -1,0 +1,6 @@
+<ruleset name="Lega-dental.com">
+	<target host="lega-dental.com" />
+	<target host="www.lega-dental.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Apratama.co">
+	<target host="apratama.co" />
+	<target host="www.apratama.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

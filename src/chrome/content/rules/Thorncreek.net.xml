@@ -1,0 +1,6 @@
+<ruleset name="Thorncreek.net">
+	<target host="thorncreek.net" />
+	<target host="www.thorncreek.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

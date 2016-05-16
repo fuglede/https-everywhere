@@ -1,0 +1,6 @@
+<ruleset name="Midwestwomenworkers.org">
+	<target host="midwestwomenworkers.org" />
+	<target host="www.midwestwomenworkers.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Youtubedownloader.com">
+	<target host="youtubedownloader.com" />
+	<target host="www.youtubedownloader.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

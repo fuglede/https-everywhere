@@ -1,0 +1,6 @@
+<ruleset name="Partirkyoto.jp">
+	<target host="partirkyoto.jp" />
+	<target host="www.partirkyoto.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Potatoheads.net">
+	<target host="potatoheads.net" />
+	<target host="www.potatoheads.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

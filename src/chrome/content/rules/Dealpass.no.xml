@@ -1,0 +1,6 @@
+<ruleset name="Dealpass.no">
+	<target host="dealpass.no" />
+	<target host="www.dealpass.no" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

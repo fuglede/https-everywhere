@@ -1,0 +1,6 @@
+<ruleset name="Kentacademiestrust.org.uk">
+	<target host="kentacademiestrust.org.uk" />
+	<target host="www.kentacademiestrust.org.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

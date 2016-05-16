@@ -1,0 +1,6 @@
+<ruleset name="Southernutahinfluencers.com">
+	<target host="southernutahinfluencers.com" />
+	<target host="www.southernutahinfluencers.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

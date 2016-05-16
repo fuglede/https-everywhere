@@ -1,0 +1,6 @@
+<ruleset name="Isletech.net">
+	<target host="isletech.net" />
+	<target host="www.isletech.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

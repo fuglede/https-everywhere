@@ -1,0 +1,6 @@
+<ruleset name="Fm83.nl">
+	<target host="fm83.nl" />
+	<target host="www.fm83.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

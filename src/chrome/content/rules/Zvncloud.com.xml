@@ -1,0 +1,6 @@
+<ruleset name="Zvncloud.com">
+	<target host="zvncloud.com" />
+	<target host="www.zvncloud.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

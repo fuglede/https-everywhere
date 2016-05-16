@@ -1,0 +1,6 @@
+<ruleset name="Latus.xyz">
+	<target host="latus.xyz" />
+	<target host="www.latus.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

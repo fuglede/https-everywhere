@@ -1,0 +1,6 @@
+<ruleset name="Wengchun-berlin.de">
+	<target host="wengchun-berlin.de" />
+	<target host="www.wengchun-berlin.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

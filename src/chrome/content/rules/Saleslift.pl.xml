@@ -1,0 +1,6 @@
+<ruleset name="Saleslift.pl">
+	<target host="saleslift.pl" />
+	<target host="www.saleslift.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

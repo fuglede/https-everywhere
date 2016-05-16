@@ -1,0 +1,6 @@
+<ruleset name="Eroticen.com">
+	<target host="eroticen.com" />
+	<target host="www.eroticen.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

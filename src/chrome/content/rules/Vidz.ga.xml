@@ -1,0 +1,6 @@
+<ruleset name="Vidz.ga">
+	<target host="vidz.ga" />
+	<target host="www.vidz.ga" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

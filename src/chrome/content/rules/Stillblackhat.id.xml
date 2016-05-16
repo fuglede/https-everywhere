@@ -1,0 +1,6 @@
+<ruleset name="Stillblackhat.id">
+	<target host="stillblackhat.id" />
+	<target host="www.stillblackhat.id" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

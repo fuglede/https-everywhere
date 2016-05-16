@@ -1,0 +1,6 @@
+<ruleset name="Panamateakforestry.com">
+	<target host="panamateakforestry.com" />
+	<target host="www.panamateakforestry.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

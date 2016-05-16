@@ -1,0 +1,6 @@
+<ruleset name="Verdict.gg">
+	<target host="verdict.gg" />
+	<target host="www.verdict.gg" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

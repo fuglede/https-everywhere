@@ -1,0 +1,6 @@
+<ruleset name="Duria.de">
+	<target host="duria.de" />
+	<target host="www.duria.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

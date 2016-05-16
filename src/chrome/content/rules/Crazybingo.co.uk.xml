@@ -1,0 +1,6 @@
+<ruleset name="Crazybingo.co.uk">
+	<target host="crazybingo.co.uk" />
+	<target host="www.crazybingo.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

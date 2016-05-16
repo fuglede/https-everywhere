@@ -1,0 +1,6 @@
+<ruleset name="Error.cf">
+	<target host="error.cf" />
+	<target host="www.error.cf" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Kiel-media.de">
+	<target host="kiel-media.de" />
+	<target host="www.kiel-media.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

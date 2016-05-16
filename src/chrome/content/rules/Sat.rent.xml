@@ -1,0 +1,6 @@
+<ruleset name="Sat.rent">
+	<target host="sat.rent" />
+	<target host="www.sat.rent" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

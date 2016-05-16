@@ -1,0 +1,6 @@
+<ruleset name="Paulyang.cn">
+	<target host="paulyang.cn" />
+	<target host="www.paulyang.cn" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

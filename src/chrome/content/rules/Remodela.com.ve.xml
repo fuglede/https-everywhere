@@ -1,0 +1,6 @@
+<ruleset name="Remodela.com.ve">
+	<target host="remodela.com.ve" />
+	<target host="www.remodela.com.ve" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

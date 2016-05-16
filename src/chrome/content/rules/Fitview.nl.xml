@@ -1,0 +1,6 @@
+<ruleset name="Fitview.nl">
+	<target host="fitview.nl" />
+	<target host="www.fitview.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

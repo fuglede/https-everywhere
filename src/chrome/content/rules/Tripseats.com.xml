@@ -1,0 +1,6 @@
+<ruleset name="Tripseats.com">
+	<target host="tripseats.com" />
+	<target host="www.tripseats.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

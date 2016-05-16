@@ -1,0 +1,6 @@
+<ruleset name="Txclimbers.com">
+	<target host="txclimbers.com" />
+	<target host="www.txclimbers.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

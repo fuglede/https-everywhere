@@ -1,0 +1,6 @@
+<ruleset name="Datacandy.com">
+	<target host="datacandy.com" />
+	<target host="www.datacandy.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

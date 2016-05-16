@@ -1,0 +1,6 @@
+<ruleset name="Niagarafalls.ca">
+	<target host="niagarafalls.ca" />
+	<target host="www.niagarafalls.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

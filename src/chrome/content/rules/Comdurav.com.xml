@@ -1,0 +1,6 @@
+<ruleset name="Comdurav.com">
+	<target host="comdurav.com" />
+	<target host="www.comdurav.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

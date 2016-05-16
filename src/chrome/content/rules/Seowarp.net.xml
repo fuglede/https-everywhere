@@ -1,0 +1,6 @@
+<ruleset name="Seowarp.net">
+	<target host="seowarp.net" />
+	<target host="www.seowarp.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

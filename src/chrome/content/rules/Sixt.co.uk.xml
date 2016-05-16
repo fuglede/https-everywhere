@@ -1,0 +1,6 @@
+<ruleset name="Sixt.co.uk">
+	<target host="sixt.co.uk" />
+	<target host="www.sixt.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

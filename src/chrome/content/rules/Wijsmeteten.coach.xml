@@ -1,0 +1,6 @@
+<ruleset name="Wijsmeteten.coach">
+	<target host="wijsmeteten.coach" />
+	<target host="www.wijsmeteten.coach" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

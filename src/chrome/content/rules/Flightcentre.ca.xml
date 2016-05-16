@@ -1,0 +1,6 @@
+<ruleset name="Flightcentre.ca">
+	<target host="flightcentre.ca" />
+	<target host="www.flightcentre.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

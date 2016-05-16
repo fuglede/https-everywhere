@@ -1,0 +1,6 @@
+<ruleset name="Nagaya.biz">
+	<target host="nagaya.biz" />
+	<target host="www.nagaya.biz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

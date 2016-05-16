@@ -1,0 +1,6 @@
+<ruleset name="Alphaventures.com.au">
+	<target host="alphaventures.com.au" />
+	<target host="www.alphaventures.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Setuid.de">
+	<target host="setuid.de" />
+	<target host="www.setuid.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

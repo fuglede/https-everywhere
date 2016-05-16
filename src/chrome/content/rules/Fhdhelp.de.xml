@@ -1,0 +1,6 @@
+<ruleset name="Fhdhelp.de">
+	<target host="fhdhelp.de" />
+	<target host="www.fhdhelp.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

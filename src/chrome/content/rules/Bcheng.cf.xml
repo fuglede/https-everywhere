@@ -1,0 +1,6 @@
+<ruleset name="Bcheng.cf">
+	<target host="bcheng.cf" />
+	<target host="www.bcheng.cf" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Takusan.ru">
+	<target host="takusan.ru" />
+	<target host="www.takusan.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

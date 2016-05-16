@@ -1,0 +1,6 @@
+<ruleset name="Katyl.info">
+	<target host="katyl.info" />
+	<target host="www.katyl.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Yasinaydin.net">
+	<target host="yasinaydin.net" />
+	<target host="www.yasinaydin.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

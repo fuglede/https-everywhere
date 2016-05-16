@@ -1,0 +1,6 @@
+<ruleset name="Behere.be">
+	<target host="behere.be" />
+	<target host="www.behere.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

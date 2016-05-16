@@ -1,0 +1,6 @@
+<ruleset name="Mediaenergy.cz">
+	<target host="mediaenergy.cz" />
+	<target host="www.mediaenergy.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

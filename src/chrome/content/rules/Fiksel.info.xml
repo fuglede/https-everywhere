@@ -1,0 +1,6 @@
+<ruleset name="Fiksel.info">
+	<target host="fiksel.info" />
+	<target host="www.fiksel.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

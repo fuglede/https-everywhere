@@ -1,0 +1,6 @@
+<ruleset name="Asciitable.tips">
+	<target host="asciitable.tips" />
+	<target host="www.asciitable.tips" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

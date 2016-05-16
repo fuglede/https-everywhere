@@ -1,0 +1,6 @@
+<ruleset name="Loony.info">
+	<target host="loony.info" />
+	<target host="www.loony.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

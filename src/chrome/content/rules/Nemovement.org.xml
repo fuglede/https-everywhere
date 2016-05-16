@@ -1,0 +1,6 @@
+<ruleset name="Nemovement.org">
+	<target host="nemovement.org" />
+	<target host="www.nemovement.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

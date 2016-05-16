@@ -1,0 +1,6 @@
+<ruleset name="Heelqueen.de">
+	<target host="heelqueen.de" />
+	<target host="www.heelqueen.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

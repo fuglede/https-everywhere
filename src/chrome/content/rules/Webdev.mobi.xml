@@ -1,0 +1,6 @@
+<ruleset name="Webdev.mobi">
+	<target host="webdev.mobi" />
+	<target host="www.webdev.mobi" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

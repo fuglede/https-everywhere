@@ -1,0 +1,6 @@
+<ruleset name="Blackly.uk">
+	<target host="blackly.uk" />
+	<target host="www.blackly.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

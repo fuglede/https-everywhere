@@ -1,0 +1,6 @@
+<ruleset name="Raydobe.me">
+	<target host="raydobe.me" />
+	<target host="www.raydobe.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

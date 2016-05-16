@@ -1,0 +1,6 @@
+<ruleset name="Forumtogel.org">
+	<target host="forumtogel.org" />
+	<target host="www.forumtogel.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

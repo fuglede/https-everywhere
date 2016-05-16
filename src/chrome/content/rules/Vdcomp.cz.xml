@@ -1,0 +1,6 @@
+<ruleset name="Vdcomp.cz">
+	<target host="vdcomp.cz" />
+	<target host="www.vdcomp.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

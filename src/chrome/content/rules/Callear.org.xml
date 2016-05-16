@@ -1,0 +1,6 @@
+<ruleset name="Callear.org">
+	<target host="callear.org" />
+	<target host="www.callear.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

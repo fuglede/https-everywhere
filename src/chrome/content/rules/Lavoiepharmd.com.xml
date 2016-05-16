@@ -1,0 +1,6 @@
+<ruleset name="Lavoiepharmd.com">
+	<target host="lavoiepharmd.com" />
+	<target host="www.lavoiepharmd.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

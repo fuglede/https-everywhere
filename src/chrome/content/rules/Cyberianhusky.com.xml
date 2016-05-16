@@ -1,0 +1,6 @@
+<ruleset name="Cyberianhusky.com">
+	<target host="cyberianhusky.com" />
+	<target host="www.cyberianhusky.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

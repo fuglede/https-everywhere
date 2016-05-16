@@ -1,0 +1,6 @@
+<ruleset name="Ottospora.nl">
+	<target host="ottospora.nl" />
+	<target host="www.ottospora.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

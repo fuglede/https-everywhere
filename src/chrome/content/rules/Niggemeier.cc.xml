@@ -1,0 +1,6 @@
+<ruleset name="Niggemeier.cc">
+	<target host="niggemeier.cc" />
+	<target host="www.niggemeier.cc" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

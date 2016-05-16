@@ -1,0 +1,6 @@
+<ruleset name="Minis-hip.de">
+	<target host="minis-hip.de" />
+	<target host="www.minis-hip.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

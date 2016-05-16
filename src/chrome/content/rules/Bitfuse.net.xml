@@ -1,0 +1,6 @@
+<ruleset name="Bitfuse.net">
+	<target host="bitfuse.net" />
+	<target host="www.bitfuse.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

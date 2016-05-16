@@ -1,0 +1,6 @@
+<ruleset name="Rede-reim.de">
+	<target host="rede-reim.de" />
+	<target host="www.rede-reim.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

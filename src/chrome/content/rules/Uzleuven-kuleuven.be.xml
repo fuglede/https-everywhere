@@ -1,0 +1,6 @@
+<ruleset name="Uzleuven-kuleuven.be">
+	<target host="uzleuven-kuleuven.be" />
+	<target host="www.uzleuven-kuleuven.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

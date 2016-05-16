@@ -1,0 +1,6 @@
+<ruleset name="Budgetthostels.nl">
+	<target host="budgetthostels.nl" />
+	<target host="www.budgetthostels.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

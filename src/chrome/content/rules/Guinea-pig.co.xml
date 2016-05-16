@@ -1,0 +1,6 @@
+<ruleset name="Guinea-pig.co">
+	<target host="guinea-pig.co" />
+	<target host="www.guinea-pig.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

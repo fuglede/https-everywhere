@@ -1,0 +1,6 @@
+<ruleset name="Purplemoon.li">
+	<target host="purplemoon.li" />
+	<target host="www.purplemoon.li" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

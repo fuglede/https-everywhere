@@ -1,0 +1,6 @@
+<ruleset name="Netzvieh.de">
+	<target host="netzvieh.de" />
+	<target host="www.netzvieh.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Charitystreet.co.uk">
+	<target host="charitystreet.co.uk" />
+	<target host="www.charitystreet.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

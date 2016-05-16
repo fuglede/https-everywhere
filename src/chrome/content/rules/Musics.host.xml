@@ -1,0 +1,6 @@
+<ruleset name="Musics.host">
+	<target host="musics.host" />
+	<target host="www.musics.host" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

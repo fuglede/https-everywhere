@@ -1,0 +1,6 @@
+<ruleset name="Naphex.rocks">
+	<target host="naphex.rocks" />
+	<target host="www.naphex.rocks" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

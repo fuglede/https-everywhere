@@ -1,0 +1,6 @@
+<ruleset name="Xnode.org">
+	<target host="xnode.org" />
+	<target host="www.xnode.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

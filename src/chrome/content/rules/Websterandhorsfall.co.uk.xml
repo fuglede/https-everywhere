@@ -1,0 +1,6 @@
+<ruleset name="Websterandhorsfall.co.uk">
+	<target host="websterandhorsfall.co.uk" />
+	<target host="www.websterandhorsfall.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

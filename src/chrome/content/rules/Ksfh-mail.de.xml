@@ -1,0 +1,6 @@
+<ruleset name="Ksfh-mail.de">
+	<target host="ksfh-mail.de" />
+	<target host="www.ksfh-mail.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

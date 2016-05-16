@@ -1,0 +1,6 @@
+<ruleset name="Tmwu.net">
+	<target host="tmwu.net" />
+	<target host="www.tmwu.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

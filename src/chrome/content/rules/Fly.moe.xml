@@ -1,0 +1,6 @@
+<ruleset name="Fly.moe">
+	<target host="fly.moe" />
+	<target host="www.fly.moe" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

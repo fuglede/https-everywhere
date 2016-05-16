@@ -1,0 +1,6 @@
+<ruleset name="Lacasabelucci.com">
+	<target host="lacasabelucci.com" />
+	<target host="www.lacasabelucci.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Dontcageus.org">
+	<target host="dontcageus.org" />
+	<target host="www.dontcageus.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

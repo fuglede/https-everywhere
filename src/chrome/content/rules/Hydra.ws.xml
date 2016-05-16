@@ -1,0 +1,6 @@
+<ruleset name="Hydra.ws">
+	<target host="hydra.ws" />
+	<target host="www.hydra.ws" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

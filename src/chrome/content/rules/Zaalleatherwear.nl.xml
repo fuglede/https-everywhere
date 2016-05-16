@@ -1,0 +1,6 @@
+<ruleset name="Zaalleatherwear.nl">
+	<target host="zaalleatherwear.nl" />
+	<target host="www.zaalleatherwear.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

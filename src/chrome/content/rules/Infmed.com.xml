@@ -1,0 +1,6 @@
+<ruleset name="Infmed.com">
+	<target host="infmed.com" />
+	<target host="www.infmed.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

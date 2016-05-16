@@ -1,0 +1,6 @@
+<ruleset name="Bambambaby.com.br">
+	<target host="bambambaby.com.br" />
+	<target host="www.bambambaby.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

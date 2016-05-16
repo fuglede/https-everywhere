@@ -1,0 +1,6 @@
+<ruleset name="Fastopen.ml">
+	<target host="fastopen.ml" />
+	<target host="www.fastopen.ml" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Uttnetgroup.fr">
+	<target host="uttnetgroup.fr" />
+	<target host="www.uttnetgroup.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

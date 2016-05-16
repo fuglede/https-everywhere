@@ -1,0 +1,6 @@
+<ruleset name="Movember.com">
+	<target host="movember.com" />
+	<target host="www.movember.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Spartantheatre.org">
+	<target host="spartantheatre.org" />
+	<target host="www.spartantheatre.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

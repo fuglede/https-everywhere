@@ -1,0 +1,6 @@
+<ruleset name="Wiretrip.io">
+	<target host="wiretrip.io" />
+	<target host="www.wiretrip.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Xuc.me">
+	<target host="xuc.me" />
+	<target host="www.xuc.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

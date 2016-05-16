@@ -1,0 +1,6 @@
+<ruleset name="Foreignexchangeresource.com">
+	<target host="foreignexchangeresource.com" />
+	<target host="www.foreignexchangeresource.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

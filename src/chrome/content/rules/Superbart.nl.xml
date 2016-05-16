@@ -1,0 +1,6 @@
+<ruleset name="Superbart.nl">
+	<target host="superbart.nl" />
+	<target host="www.superbart.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

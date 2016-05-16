@@ -1,0 +1,6 @@
+<ruleset name="Intuitioneducation.com.au">
+	<target host="intuitioneducation.com.au" />
+	<target host="www.intuitioneducation.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

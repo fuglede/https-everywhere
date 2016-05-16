@@ -1,0 +1,6 @@
+<ruleset name="Wbt-solutions.net">
+	<target host="wbt-solutions.net" />
+	<target host="www.wbt-solutions.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

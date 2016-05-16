@@ -1,0 +1,6 @@
+<ruleset name="Wunderkarten.de">
+	<target host="wunderkarten.de" />
+	<target host="www.wunderkarten.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

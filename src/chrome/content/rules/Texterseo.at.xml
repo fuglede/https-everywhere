@@ -1,0 +1,6 @@
+<ruleset name="Texterseo.at">
+	<target host="texterseo.at" />
+	<target host="www.texterseo.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

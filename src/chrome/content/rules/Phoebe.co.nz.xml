@@ -1,0 +1,6 @@
+<ruleset name="Phoebe.co.nz">
+	<target host="phoebe.co.nz" />
+	<target host="www.phoebe.co.nz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

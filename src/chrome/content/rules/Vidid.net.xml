@@ -1,0 +1,6 @@
+<ruleset name="Vidid.net">
+	<target host="vidid.net" />
+	<target host="www.vidid.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

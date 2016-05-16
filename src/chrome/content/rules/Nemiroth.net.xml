@@ -1,0 +1,6 @@
+<ruleset name="Nemiroth.net">
+	<target host="nemiroth.net" />
+	<target host="www.nemiroth.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

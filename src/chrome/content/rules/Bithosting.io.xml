@@ -1,0 +1,6 @@
+<ruleset name="Bithosting.io">
+	<target host="bithosting.io" />
+	<target host="www.bithosting.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Huntshomeinspections.com">
+	<target host="huntshomeinspections.com" />
+	<target host="www.huntshomeinspections.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

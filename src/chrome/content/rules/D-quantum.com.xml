@@ -1,0 +1,6 @@
+<ruleset name="D-quantum.com">
+	<target host="d-quantum.com" />
+	<target host="www.d-quantum.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

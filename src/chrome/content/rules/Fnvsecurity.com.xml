@@ -1,0 +1,6 @@
+<ruleset name="Fnvsecurity.com">
+	<target host="fnvsecurity.com" />
+	<target host="www.fnvsecurity.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

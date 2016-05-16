@@ -1,0 +1,6 @@
+<ruleset name="Kita.id">
+	<target host="kita.id" />
+	<target host="www.kita.id" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Fatorhardcoreatacado.com.br">
+	<target host="fatorhardcoreatacado.com.br" />
+	<target host="www.fatorhardcoreatacado.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

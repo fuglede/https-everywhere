@@ -1,0 +1,6 @@
+<ruleset name="Wodice.com">
+	<target host="wodice.com" />
+	<target host="www.wodice.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

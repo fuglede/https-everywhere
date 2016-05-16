@@ -1,0 +1,6 @@
+<ruleset name="Bta.lv">
+	<target host="bta.lv" />
+	<target host="www.bta.lv" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

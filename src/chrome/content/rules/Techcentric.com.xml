@@ -1,0 +1,6 @@
+<ruleset name="Techcentric.com">
+	<target host="techcentric.com" />
+	<target host="www.techcentric.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

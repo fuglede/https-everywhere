@@ -1,0 +1,6 @@
+<ruleset name="Chartreuse-ulm.fr">
+	<target host="chartreuse-ulm.fr" />
+	<target host="www.chartreuse-ulm.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

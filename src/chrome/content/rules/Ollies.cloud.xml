@@ -1,0 +1,6 @@
+<ruleset name="Ollies.cloud">
+	<target host="ollies.cloud" />
+	<target host="www.ollies.cloud" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

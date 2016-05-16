@@ -1,0 +1,6 @@
+<ruleset name="Gycis.me">
+	<target host="gycis.me" />
+	<target host="www.gycis.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

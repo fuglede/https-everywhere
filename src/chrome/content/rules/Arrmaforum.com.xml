@@ -1,0 +1,6 @@
+<ruleset name="Arrmaforum.com">
+	<target host="arrmaforum.com" />
+	<target host="www.arrmaforum.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

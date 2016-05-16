@@ -1,0 +1,6 @@
+<ruleset name="Projectblackbook.us">
+	<target host="projectblackbook.us" />
+	<target host="www.projectblackbook.us" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

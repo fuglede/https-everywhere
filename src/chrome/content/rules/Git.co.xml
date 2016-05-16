@@ -1,0 +1,6 @@
+<ruleset name="Git.co">
+	<target host="git.co" />
+	<target host="www.git.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

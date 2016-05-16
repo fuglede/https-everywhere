@@ -1,0 +1,6 @@
+<ruleset name="Letsmultiplayerplay.com">
+	<target host="letsmultiplayerplay.com" />
+	<target host="www.letsmultiplayerplay.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Flyserver.co.il">
+	<target host="flyserver.co.il" />
+	<target host="www.flyserver.co.il" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

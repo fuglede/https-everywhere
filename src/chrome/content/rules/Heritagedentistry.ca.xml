@@ -1,0 +1,6 @@
+<ruleset name="Heritagedentistry.ca">
+	<target host="heritagedentistry.ca" />
+	<target host="www.heritagedentistry.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

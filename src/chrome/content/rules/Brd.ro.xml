@@ -1,0 +1,6 @@
+<ruleset name="Brd.ro">
+	<target host="brd.ro" />
+	<target host="www.brd.ro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

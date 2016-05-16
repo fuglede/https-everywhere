@@ -1,0 +1,6 @@
+<ruleset name="Stygium.net">
+	<target host="stygium.net" />
+	<target host="www.stygium.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

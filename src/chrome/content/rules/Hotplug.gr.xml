@@ -1,0 +1,6 @@
+<ruleset name="Hotplug.gr">
+	<target host="hotplug.gr" />
+	<target host="www.hotplug.gr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

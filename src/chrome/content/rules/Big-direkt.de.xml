@@ -1,0 +1,6 @@
+<ruleset name="Big-direkt.de">
+	<target host="big-direkt.de" />
+	<target host="www.big-direkt.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

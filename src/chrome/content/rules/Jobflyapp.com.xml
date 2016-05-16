@@ -1,0 +1,6 @@
+<ruleset name="Jobflyapp.com">
+	<target host="jobflyapp.com" />
+	<target host="www.jobflyapp.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

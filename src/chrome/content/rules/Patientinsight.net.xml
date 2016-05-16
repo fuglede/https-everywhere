@@ -1,0 +1,6 @@
+<ruleset name="Patientinsight.net">
+	<target host="patientinsight.net" />
+	<target host="www.patientinsight.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

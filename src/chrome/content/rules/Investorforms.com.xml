@@ -1,0 +1,6 @@
+<ruleset name="Investorforms.com">
+	<target host="investorforms.com" />
+	<target host="www.investorforms.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

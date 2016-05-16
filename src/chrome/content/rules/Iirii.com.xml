@@ -1,0 +1,6 @@
+<ruleset name="Iirii.com">
+	<target host="iirii.com" />
+	<target host="www.iirii.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

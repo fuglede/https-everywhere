@@ -1,0 +1,6 @@
+<ruleset name="Adminwiki.fr">
+	<target host="adminwiki.fr" />
+	<target host="www.adminwiki.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

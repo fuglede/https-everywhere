@@ -1,0 +1,6 @@
+<ruleset name="Blacklane.com">
+	<target host="blacklane.com" />
+	<target host="www.blacklane.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

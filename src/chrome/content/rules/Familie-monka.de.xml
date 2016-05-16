@@ -1,0 +1,6 @@
+<ruleset name="Familie-monka.de">
+	<target host="familie-monka.de" />
+	<target host="www.familie-monka.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

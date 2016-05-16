@@ -1,0 +1,6 @@
+<ruleset name="Ximage.me">
+	<target host="ximage.me" />
+	<target host="www.ximage.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

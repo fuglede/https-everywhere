@@ -1,0 +1,6 @@
+<ruleset name="Tokoone.com">
+	<target host="tokoone.com" />
+	<target host="www.tokoone.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

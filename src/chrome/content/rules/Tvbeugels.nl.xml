@@ -1,0 +1,6 @@
+<ruleset name="Tvbeugels.nl">
+	<target host="tvbeugels.nl" />
+	<target host="www.tvbeugels.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

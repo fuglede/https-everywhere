@@ -1,0 +1,6 @@
+<ruleset name="2or3.tk">
+	<target host="2or3.tk" />
+	<target host="www.2or3.tk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Octocat.ninja">
+	<target host="octocat.ninja" />
+	<target host="www.octocat.ninja" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

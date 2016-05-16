@@ -1,0 +1,6 @@
+<ruleset name="Aiticon.de">
+	<target host="aiticon.de" />
+	<target host="www.aiticon.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

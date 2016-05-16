@@ -1,0 +1,6 @@
+<ruleset name="Lateinamerikaverein.de">
+	<target host="lateinamerikaverein.de" />
+	<target host="www.lateinamerikaverein.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

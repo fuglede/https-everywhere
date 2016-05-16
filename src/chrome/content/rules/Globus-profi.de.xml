@@ -1,0 +1,6 @@
+<ruleset name="Globus-profi.de">
+	<target host="globus-profi.de" />
+	<target host="www.globus-profi.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

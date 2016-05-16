@@ -1,0 +1,6 @@
+<ruleset name="Everling.lu">
+	<target host="everling.lu" />
+	<target host="www.everling.lu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

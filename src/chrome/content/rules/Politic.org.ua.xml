@@ -1,0 +1,6 @@
+<ruleset name="Politic.org.ua">
+	<target host="politic.org.ua" />
+	<target host="www.politic.org.ua" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

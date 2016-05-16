@@ -1,0 +1,6 @@
+<ruleset name="Tradingcentre.com.au">
+	<target host="tradingcentre.com.au" />
+	<target host="www.tradingcentre.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Kepler2001.de">
+	<target host="kepler2001.de" />
+	<target host="www.kepler2001.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

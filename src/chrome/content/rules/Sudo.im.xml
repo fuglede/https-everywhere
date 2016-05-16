@@ -1,0 +1,6 @@
+<ruleset name="Sudo.im">
+	<target host="sudo.im" />
+	<target host="www.sudo.im" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

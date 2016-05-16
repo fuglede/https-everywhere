@@ -1,0 +1,6 @@
+<ruleset name="Bukalapakgames.com">
+	<target host="bukalapakgames.com" />
+	<target host="www.bukalapakgames.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

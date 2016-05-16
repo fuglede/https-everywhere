@@ -1,0 +1,6 @@
+<ruleset name="Calibreapp.com">
+	<target host="calibreapp.com" />
+	<target host="www.calibreapp.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

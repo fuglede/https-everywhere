@@ -1,0 +1,6 @@
+<ruleset name="Vigo-tarife.de">
+	<target host="vigo-tarife.de" />
+	<target host="www.vigo-tarife.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

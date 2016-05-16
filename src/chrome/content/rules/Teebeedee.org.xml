@@ -1,0 +1,6 @@
+<ruleset name="Teebeedee.org">
+	<target host="teebeedee.org" />
+	<target host="www.teebeedee.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

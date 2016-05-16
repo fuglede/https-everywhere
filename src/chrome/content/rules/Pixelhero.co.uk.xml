@@ -1,0 +1,6 @@
+<ruleset name="Pixelhero.co.uk">
+	<target host="pixelhero.co.uk" />
+	<target host="www.pixelhero.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

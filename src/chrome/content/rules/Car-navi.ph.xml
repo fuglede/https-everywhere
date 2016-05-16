@@ -1,0 +1,6 @@
+<ruleset name="Car-navi.ph">
+	<target host="car-navi.ph" />
+	<target host="www.car-navi.ph" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

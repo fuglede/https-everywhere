@@ -1,0 +1,6 @@
+<ruleset name="Oraculustrupus.es">
+	<target host="oraculustrupus.es" />
+	<target host="www.oraculustrupus.es" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

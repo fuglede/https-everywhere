@@ -1,0 +1,6 @@
+<ruleset name="Self-injury.net">
+	<target host="self-injury.net" />
+	<target host="www.self-injury.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

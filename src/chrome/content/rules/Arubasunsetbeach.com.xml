@@ -1,0 +1,6 @@
+<ruleset name="Arubasunsetbeach.com">
+	<target host="arubasunsetbeach.com" />
+	<target host="www.arubasunsetbeach.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

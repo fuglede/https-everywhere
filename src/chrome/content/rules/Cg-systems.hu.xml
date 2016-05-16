@@ -1,0 +1,6 @@
+<ruleset name="Cg-systems.hu">
+	<target host="cg-systems.hu" />
+	<target host="www.cg-systems.hu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

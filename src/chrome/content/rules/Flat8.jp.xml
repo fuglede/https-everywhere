@@ -1,0 +1,6 @@
+<ruleset name="Flat8.jp">
+	<target host="flat8.jp" />
+	<target host="www.flat8.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

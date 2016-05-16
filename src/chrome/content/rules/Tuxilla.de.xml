@@ -1,0 +1,6 @@
+<ruleset name="Tuxilla.de">
+	<target host="tuxilla.de" />
+	<target host="www.tuxilla.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

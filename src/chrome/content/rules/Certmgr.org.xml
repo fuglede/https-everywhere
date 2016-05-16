@@ -1,0 +1,6 @@
+<ruleset name="Certmgr.org">
+	<target host="certmgr.org" />
+	<target host="www.certmgr.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

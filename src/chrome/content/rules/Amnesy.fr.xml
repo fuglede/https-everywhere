@@ -1,0 +1,6 @@
+<ruleset name="Amnesy.fr">
+	<target host="amnesy.fr" />
+	<target host="www.amnesy.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

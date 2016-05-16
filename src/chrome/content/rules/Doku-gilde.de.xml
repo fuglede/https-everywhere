@@ -1,0 +1,6 @@
+<ruleset name="Doku-gilde.de">
+	<target host="doku-gilde.de" />
+	<target host="www.doku-gilde.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

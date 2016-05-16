@@ -1,0 +1,6 @@
+<ruleset name="Leonmahler.consulting">
+	<target host="leonmahler.consulting" />
+	<target host="www.leonmahler.consulting" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

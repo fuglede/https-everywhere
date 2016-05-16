@@ -1,0 +1,6 @@
+<ruleset name="Nodelia.com">
+	<target host="nodelia.com" />
+	<target host="www.nodelia.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

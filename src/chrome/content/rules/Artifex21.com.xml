@@ -1,0 +1,6 @@
+<ruleset name="Artifex21.com">
+	<target host="artifex21.com" />
+	<target host="www.artifex21.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

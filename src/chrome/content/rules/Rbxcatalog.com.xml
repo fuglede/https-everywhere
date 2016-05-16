@@ -1,0 +1,6 @@
+<ruleset name="Rbxcatalog.com">
+	<target host="rbxcatalog.com" />
+	<target host="www.rbxcatalog.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

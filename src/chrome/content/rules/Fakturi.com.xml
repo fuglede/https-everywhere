@@ -1,0 +1,6 @@
+<ruleset name="Fakturi.com">
+	<target host="fakturi.com" />
+	<target host="www.fakturi.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

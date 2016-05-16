@@ -1,0 +1,6 @@
+<ruleset name="Arabdigitalexpression.org">
+	<target host="arabdigitalexpression.org" />
+	<target host="www.arabdigitalexpression.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

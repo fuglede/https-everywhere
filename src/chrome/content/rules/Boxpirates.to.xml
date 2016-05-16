@@ -1,0 +1,6 @@
+<ruleset name="Boxpirates.to">
+	<target host="boxpirates.to" />
+	<target host="www.boxpirates.to" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

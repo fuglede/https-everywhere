@@ -1,0 +1,6 @@
+<ruleset name="Japaniac.de">
+	<target host="japaniac.de" />
+	<target host="www.japaniac.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

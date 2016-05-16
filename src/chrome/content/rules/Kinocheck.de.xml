@@ -1,0 +1,6 @@
+<ruleset name="Kinocheck.de">
+	<target host="kinocheck.de" />
+	<target host="www.kinocheck.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

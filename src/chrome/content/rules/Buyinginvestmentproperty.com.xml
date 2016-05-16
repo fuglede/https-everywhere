@@ -1,0 +1,6 @@
+<ruleset name="Buyinginvestmentproperty.com">
+	<target host="buyinginvestmentproperty.com" />
+	<target host="www.buyinginvestmentproperty.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

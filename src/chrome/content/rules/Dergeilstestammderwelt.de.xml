@@ -1,0 +1,6 @@
+<ruleset name="Dergeilstestammderwelt.de">
+	<target host="dergeilstestammderwelt.de" />
+	<target host="www.dergeilstestammderwelt.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

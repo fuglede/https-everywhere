@@ -1,0 +1,6 @@
+<ruleset name="Funkyweddingideas.com.au">
+	<target host="funkyweddingideas.com.au" />
+	<target host="www.funkyweddingideas.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

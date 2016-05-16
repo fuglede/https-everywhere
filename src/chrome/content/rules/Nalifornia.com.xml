@@ -1,0 +1,6 @@
+<ruleset name="Nalifornia.com">
+	<target host="nalifornia.com" />
+	<target host="www.nalifornia.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

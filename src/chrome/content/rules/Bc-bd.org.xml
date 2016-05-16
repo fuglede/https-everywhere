@@ -1,0 +1,6 @@
+<ruleset name="Bc-bd.org">
+	<target host="bc-bd.org" />
+	<target host="www.bc-bd.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Airsick.guide">
+	<target host="airsick.guide" />
+	<target host="www.airsick.guide" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

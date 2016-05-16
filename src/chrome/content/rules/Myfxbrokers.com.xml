@@ -1,0 +1,6 @@
+<ruleset name="Myfxbrokers.com">
+	<target host="myfxbrokers.com" />
+	<target host="www.myfxbrokers.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

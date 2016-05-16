@@ -1,0 +1,6 @@
+<ruleset name="Weme.eu">
+	<target host="weme.eu" />
+	<target host="www.weme.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

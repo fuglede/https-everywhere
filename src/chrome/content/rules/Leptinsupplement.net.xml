@@ -1,0 +1,6 @@
+<ruleset name="Leptinsupplement.net">
+	<target host="leptinsupplement.net" />
+	<target host="www.leptinsupplement.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

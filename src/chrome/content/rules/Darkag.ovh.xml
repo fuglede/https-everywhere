@@ -1,0 +1,6 @@
+<ruleset name="Darkag.ovh">
+	<target host="darkag.ovh" />
+	<target host="www.darkag.ovh" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

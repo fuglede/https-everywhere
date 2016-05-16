@@ -1,0 +1,6 @@
+<ruleset name="Mojaknjiznica.com">
+	<target host="mojaknjiznica.com" />
+	<target host="www.mojaknjiznica.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

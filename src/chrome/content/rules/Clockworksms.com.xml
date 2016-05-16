@@ -1,0 +1,6 @@
+<ruleset name="Clockworksms.com">
+	<target host="clockworksms.com" />
+	<target host="www.clockworksms.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

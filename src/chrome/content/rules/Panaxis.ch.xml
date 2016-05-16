@@ -1,0 +1,6 @@
+<ruleset name="Panaxis.ch">
+	<target host="panaxis.ch" />
+	<target host="www.panaxis.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

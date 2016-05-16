@@ -1,0 +1,6 @@
+<ruleset name="Factuursturen.nl">
+	<target host="factuursturen.nl" />
+	<target host="www.factuursturen.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

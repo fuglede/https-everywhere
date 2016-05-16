@@ -1,0 +1,6 @@
+<ruleset name="Academybrokerz.com">
+	<target host="academybrokerz.com" />
+	<target host="www.academybrokerz.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

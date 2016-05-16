@@ -1,0 +1,6 @@
+<ruleset name="Iltisim.ch">
+	<target host="iltisim.ch" />
+	<target host="www.iltisim.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

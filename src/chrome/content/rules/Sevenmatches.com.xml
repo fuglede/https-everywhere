@@ -1,0 +1,6 @@
+<ruleset name="Sevenmatches.com">
+	<target host="sevenmatches.com" />
+	<target host="www.sevenmatches.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

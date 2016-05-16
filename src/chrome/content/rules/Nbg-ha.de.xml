@@ -1,0 +1,6 @@
+<ruleset name="Nbg-ha.de">
+	<target host="nbg-ha.de" />
+	<target host="www.nbg-ha.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

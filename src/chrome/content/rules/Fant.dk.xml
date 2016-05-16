@@ -1,0 +1,6 @@
+<ruleset name="Fant.dk">
+	<target host="fant.dk" />
+	<target host="www.fant.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

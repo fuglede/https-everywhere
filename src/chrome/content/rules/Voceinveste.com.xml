@@ -1,0 +1,6 @@
+<ruleset name="Voceinveste.com">
+	<target host="voceinveste.com" />
+	<target host="www.voceinveste.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

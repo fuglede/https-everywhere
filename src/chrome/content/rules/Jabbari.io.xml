@@ -1,0 +1,6 @@
+<ruleset name="Jabbari.io">
+	<target host="jabbari.io" />
+	<target host="www.jabbari.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

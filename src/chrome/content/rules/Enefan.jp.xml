@@ -1,0 +1,6 @@
+<ruleset name="Enefan.jp">
+	<target host="enefan.jp" />
+	<target host="www.enefan.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

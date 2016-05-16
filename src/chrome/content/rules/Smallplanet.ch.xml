@@ -1,0 +1,6 @@
+<ruleset name="Smallplanet.ch">
+	<target host="smallplanet.ch" />
+	<target host="www.smallplanet.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

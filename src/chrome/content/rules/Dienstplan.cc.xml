@@ -1,0 +1,6 @@
+<ruleset name="Dienstplan.cc">
+	<target host="dienstplan.cc" />
+	<target host="www.dienstplan.cc" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

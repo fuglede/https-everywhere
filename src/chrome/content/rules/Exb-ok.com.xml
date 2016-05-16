@@ -1,0 +1,6 @@
+<ruleset name="Exb-ok.com">
+	<target host="exb-ok.com" />
+	<target host="www.exb-ok.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

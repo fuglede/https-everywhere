@@ -1,0 +1,6 @@
+<ruleset name="Adrenaline-gaming.ru">
+	<target host="adrenaline-gaming.ru" />
+	<target host="www.adrenaline-gaming.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

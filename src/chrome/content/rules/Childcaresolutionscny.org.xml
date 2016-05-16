@@ -1,0 +1,6 @@
+<ruleset name="Childcaresolutionscny.org">
+	<target host="childcaresolutionscny.org" />
+	<target host="www.childcaresolutionscny.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

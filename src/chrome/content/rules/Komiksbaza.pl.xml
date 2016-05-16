@@ -1,0 +1,6 @@
+<ruleset name="Komiksbaza.pl">
+	<target host="komiksbaza.pl" />
+	<target host="www.komiksbaza.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

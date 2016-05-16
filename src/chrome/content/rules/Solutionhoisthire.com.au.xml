@@ -1,0 +1,6 @@
+<ruleset name="Solutionhoisthire.com.au">
+	<target host="solutionhoisthire.com.au" />
+	<target host="www.solutionhoisthire.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

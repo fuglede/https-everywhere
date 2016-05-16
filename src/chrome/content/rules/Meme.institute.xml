@@ -1,0 +1,6 @@
+<ruleset name="Meme.institute">
+	<target host="meme.institute" />
+	<target host="www.meme.institute" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

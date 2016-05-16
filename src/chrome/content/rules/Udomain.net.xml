@@ -1,0 +1,6 @@
+<ruleset name="Udomain.net">
+	<target host="udomain.net" />
+	<target host="www.udomain.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

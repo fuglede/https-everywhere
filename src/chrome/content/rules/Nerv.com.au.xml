@@ -1,0 +1,6 @@
+<ruleset name="Nerv.com.au">
+	<target host="nerv.com.au" />
+	<target host="www.nerv.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

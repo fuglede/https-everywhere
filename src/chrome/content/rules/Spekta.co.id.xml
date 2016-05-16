@@ -1,0 +1,6 @@
+<ruleset name="Spekta.co.id">
+	<target host="spekta.co.id" />
+	<target host="www.spekta.co.id" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

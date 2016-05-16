@@ -1,0 +1,6 @@
+<ruleset name="Sistem-maklumat.com.my">
+	<target host="sistem-maklumat.com.my" />
+	<target host="www.sistem-maklumat.com.my" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

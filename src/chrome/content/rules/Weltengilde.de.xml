@@ -1,0 +1,6 @@
+<ruleset name="Weltengilde.de">
+	<target host="weltengilde.de" />
+	<target host="www.weltengilde.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

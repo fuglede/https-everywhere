@@ -1,0 +1,6 @@
+<ruleset name="Blackhelicopters.net">
+	<target host="blackhelicopters.net" />
+	<target host="www.blackhelicopters.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

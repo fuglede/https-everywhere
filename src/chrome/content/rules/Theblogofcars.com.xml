@@ -1,0 +1,6 @@
+<ruleset name="Theblogofcars.com">
+	<target host="theblogofcars.com" />
+	<target host="www.theblogofcars.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

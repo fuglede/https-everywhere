@@ -1,0 +1,6 @@
+<ruleset name="Denniskoot.nl">
+	<target host="denniskoot.nl" />
+	<target host="www.denniskoot.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

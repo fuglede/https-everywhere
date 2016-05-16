@@ -1,0 +1,6 @@
+<ruleset name="Checkyourmath.com">
+	<target host="checkyourmath.com" />
+	<target host="www.checkyourmath.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

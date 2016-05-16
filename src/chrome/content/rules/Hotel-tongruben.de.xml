@@ -1,0 +1,6 @@
+<ruleset name="Hotel-tongruben.de">
+	<target host="hotel-tongruben.de" />
+	<target host="www.hotel-tongruben.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

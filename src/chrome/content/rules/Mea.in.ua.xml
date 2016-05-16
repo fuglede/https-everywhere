@@ -1,0 +1,6 @@
+<ruleset name="Mea.in.ua">
+	<target host="mea.in.ua" />
+	<target host="www.mea.in.ua" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

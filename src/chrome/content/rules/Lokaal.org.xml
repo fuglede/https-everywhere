@@ -1,0 +1,6 @@
+<ruleset name="Lokaal.org">
+	<target host="lokaal.org" />
+	<target host="www.lokaal.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

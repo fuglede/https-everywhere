@@ -1,0 +1,6 @@
+<ruleset name="Proxybay.top">
+	<target host="proxybay.top" />
+	<target host="www.proxybay.top" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

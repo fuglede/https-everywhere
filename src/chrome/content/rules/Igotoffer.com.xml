@@ -1,0 +1,6 @@
+<ruleset name="Igotoffer.com">
+	<target host="igotoffer.com" />
+	<target host="www.igotoffer.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

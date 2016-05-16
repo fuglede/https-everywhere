@@ -1,0 +1,6 @@
+<ruleset name="Gianttree.de">
+	<target host="gianttree.de" />
+	<target host="www.gianttree.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

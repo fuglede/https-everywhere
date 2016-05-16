@@ -1,0 +1,6 @@
+<ruleset name="Kr-wh.de">
+	<target host="kr-wh.de" />
+	<target host="www.kr-wh.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

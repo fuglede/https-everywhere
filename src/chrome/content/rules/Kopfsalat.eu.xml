@@ -1,0 +1,6 @@
+<ruleset name="Kopfsalat.eu">
+	<target host="kopfsalat.eu" />
+	<target host="www.kopfsalat.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

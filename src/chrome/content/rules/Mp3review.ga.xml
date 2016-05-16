@@ -1,0 +1,6 @@
+<ruleset name="Mp3review.ga">
+	<target host="mp3review.ga" />
+	<target host="www.mp3review.ga" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

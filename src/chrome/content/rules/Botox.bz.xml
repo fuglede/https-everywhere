@@ -1,0 +1,6 @@
+<ruleset name="Botox.bz">
+	<target host="botox.bz" />
+	<target host="www.botox.bz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

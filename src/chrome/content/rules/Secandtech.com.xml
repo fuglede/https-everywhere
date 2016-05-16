@@ -1,0 +1,6 @@
+<ruleset name="Secandtech.com">
+	<target host="secandtech.com" />
+	<target host="www.secandtech.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

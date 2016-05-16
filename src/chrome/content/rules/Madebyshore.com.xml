@@ -1,0 +1,6 @@
+<ruleset name="Madebyshore.com">
+	<target host="madebyshore.com" />
+	<target host="www.madebyshore.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

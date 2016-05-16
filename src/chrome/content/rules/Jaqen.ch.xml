@@ -1,0 +1,6 @@
+<ruleset name="Jaqen.ch">
+	<target host="jaqen.ch" />
+	<target host="www.jaqen.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

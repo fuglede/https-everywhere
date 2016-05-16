@@ -1,0 +1,6 @@
+<ruleset name="Koopjesnel.nl">
+	<target host="koopjesnel.nl" />
+	<target host="www.koopjesnel.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

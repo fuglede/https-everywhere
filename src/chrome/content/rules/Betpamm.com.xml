@@ -1,0 +1,6 @@
+<ruleset name="Betpamm.com">
+	<target host="betpamm.com" />
+	<target host="www.betpamm.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

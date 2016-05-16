@@ -1,0 +1,6 @@
+<ruleset name="Infantoclub.com.br">
+	<target host="infantoclub.com.br" />
+	<target host="www.infantoclub.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

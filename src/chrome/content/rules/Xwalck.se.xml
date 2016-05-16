@@ -1,0 +1,6 @@
+<ruleset name="Xwalck.se">
+	<target host="xwalck.se" />
+	<target host="www.xwalck.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

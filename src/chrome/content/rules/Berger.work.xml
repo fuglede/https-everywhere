@@ -1,0 +1,6 @@
+<ruleset name="Berger.work">
+	<target host="berger.work" />
+	<target host="www.berger.work" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

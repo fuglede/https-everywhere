@@ -1,0 +1,6 @@
+<ruleset name="Tescoirelandpayslips.com">
+	<target host="tescoirelandpayslips.com" />
+	<target host="www.tescoirelandpayslips.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

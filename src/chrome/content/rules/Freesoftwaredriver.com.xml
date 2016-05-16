@@ -1,0 +1,6 @@
+<ruleset name="Freesoftwaredriver.com">
+	<target host="freesoftwaredriver.com" />
+	<target host="www.freesoftwaredriver.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

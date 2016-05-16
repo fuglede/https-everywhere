@@ -1,0 +1,6 @@
+<ruleset name="Argh.io">
+	<target host="argh.io" />
+	<target host="www.argh.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

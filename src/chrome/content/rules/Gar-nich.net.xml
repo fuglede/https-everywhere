@@ -1,0 +1,6 @@
+<ruleset name="Gar-nich.net">
+	<target host="gar-nich.net" />
+	<target host="www.gar-nich.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

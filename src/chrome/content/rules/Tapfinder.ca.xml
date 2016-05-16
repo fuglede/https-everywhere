@@ -1,0 +1,6 @@
+<ruleset name="Tapfinder.ca">
+	<target host="tapfinder.ca" />
+	<target host="www.tapfinder.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

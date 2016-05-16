@@ -1,0 +1,6 @@
+<ruleset name="Dmeevalumate.com">
+	<target host="dmeevalumate.com" />
+	<target host="www.dmeevalumate.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

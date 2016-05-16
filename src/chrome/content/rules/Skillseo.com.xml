@@ -1,0 +1,6 @@
+<ruleset name="Skillseo.com">
+	<target host="skillseo.com" />
+	<target host="www.skillseo.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

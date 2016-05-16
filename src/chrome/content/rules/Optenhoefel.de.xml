@@ -1,0 +1,6 @@
+<ruleset name="Optenhoefel.de">
+	<target host="optenhoefel.de" />
+	<target host="www.optenhoefel.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

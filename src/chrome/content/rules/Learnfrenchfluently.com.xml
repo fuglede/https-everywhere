@@ -1,0 +1,6 @@
+<ruleset name="Learnfrenchfluently.com">
+	<target host="learnfrenchfluently.com" />
+	<target host="www.learnfrenchfluently.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

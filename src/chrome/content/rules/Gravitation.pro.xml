@@ -1,0 +1,6 @@
+<ruleset name="Gravitation.pro">
+	<target host="gravitation.pro" />
+	<target host="www.gravitation.pro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

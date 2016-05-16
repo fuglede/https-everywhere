@@ -1,0 +1,6 @@
+<ruleset name="Citizensadvicecornwall.org.uk">
+	<target host="citizensadvicecornwall.org.uk" />
+	<target host="www.citizensadvicecornwall.org.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Hosteasy.nl">
+	<target host="hosteasy.nl" />
+	<target host="www.hosteasy.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

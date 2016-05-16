@@ -1,0 +1,6 @@
+<ruleset name="Djlive.pl">
+	<target host="djlive.pl" />
+	<target host="www.djlive.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

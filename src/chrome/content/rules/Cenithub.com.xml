@@ -1,0 +1,6 @@
+<ruleset name="Cenithub.com">
+	<target host="cenithub.com" />
+	<target host="www.cenithub.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

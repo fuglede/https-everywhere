@@ -1,0 +1,6 @@
+<ruleset name="Ssmato.me">
+	<target host="ssmato.me" />
+	<target host="www.ssmato.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Svatba-frantovi.cz">
+	<target host="svatba-frantovi.cz" />
+	<target host="www.svatba-frantovi.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

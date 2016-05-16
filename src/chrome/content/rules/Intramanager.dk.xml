@@ -1,0 +1,6 @@
+<ruleset name="Intramanager.dk">
+	<target host="intramanager.dk" />
+	<target host="www.intramanager.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

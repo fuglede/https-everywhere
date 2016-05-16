@@ -1,0 +1,6 @@
+<ruleset name="Evilized.de">
+	<target host="evilized.de" />
+	<target host="www.evilized.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

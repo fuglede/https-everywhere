@@ -1,0 +1,6 @@
+<ruleset name="Automacity.com">
+	<target host="automacity.com" />
+	<target host="www.automacity.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

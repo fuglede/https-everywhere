@@ -1,0 +1,6 @@
+<ruleset name="Scienceathome.org">
+	<target host="scienceathome.org" />
+	<target host="www.scienceathome.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

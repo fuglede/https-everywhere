@@ -1,0 +1,6 @@
+<ruleset name="Soft-tex.net">
+	<target host="soft-tex.net" />
+	<target host="www.soft-tex.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

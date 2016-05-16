@@ -1,0 +1,6 @@
+<ruleset name="Syriatalk.biz">
+	<target host="syriatalk.biz" />
+	<target host="www.syriatalk.biz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

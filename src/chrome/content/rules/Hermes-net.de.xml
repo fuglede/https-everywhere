@@ -1,0 +1,6 @@
+<ruleset name="Hermes-net.de">
+	<target host="hermes-net.de" />
+	<target host="www.hermes-net.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

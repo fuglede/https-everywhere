@@ -1,0 +1,6 @@
+<ruleset name="Wql.zj.cn">
+	<target host="wql.zj.cn" />
+	<target host="www.wql.zj.cn" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Wellastore.ru">
+	<target host="wellastore.ru" />
+	<target host="www.wellastore.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Ruhrmobil-e.de">
+	<target host="ruhrmobil-e.de" />
+	<target host="www.ruhrmobil-e.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

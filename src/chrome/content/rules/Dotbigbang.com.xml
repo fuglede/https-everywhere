@@ -1,0 +1,6 @@
+<ruleset name="Dotbigbang.com">
+	<target host="dotbigbang.com" />
+	<target host="www.dotbigbang.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

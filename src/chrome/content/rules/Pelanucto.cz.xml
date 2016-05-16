@@ -1,0 +1,6 @@
+<ruleset name="Pelanucto.cz">
+	<target host="pelanucto.cz" />
+	<target host="www.pelanucto.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

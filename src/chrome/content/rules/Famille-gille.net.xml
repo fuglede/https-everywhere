@@ -1,0 +1,6 @@
+<ruleset name="Famille-gille.net">
+	<target host="famille-gille.net" />
+	<target host="www.famille-gille.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

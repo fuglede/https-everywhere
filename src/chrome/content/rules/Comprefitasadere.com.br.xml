@@ -1,0 +1,6 @@
+<ruleset name="Comprefitasadere.com.br">
+	<target host="comprefitasadere.com.br" />
+	<target host="www.comprefitasadere.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

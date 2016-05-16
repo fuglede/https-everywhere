@@ -1,0 +1,6 @@
+<ruleset name="Fndout.com">
+	<target host="fndout.com" />
+	<target host="www.fndout.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

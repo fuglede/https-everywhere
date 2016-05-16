@@ -1,0 +1,6 @@
+<ruleset name="Nntb.no">
+	<target host="nntb.no" />
+	<target host="www.nntb.no" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

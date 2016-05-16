@@ -1,0 +1,6 @@
+<ruleset name="Quantacorp.io">
+	<target host="quantacorp.io" />
+	<target host="www.quantacorp.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

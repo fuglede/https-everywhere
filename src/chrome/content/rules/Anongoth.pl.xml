@@ -1,0 +1,6 @@
+<ruleset name="Anongoth.pl">
+	<target host="anongoth.pl" />
+	<target host="www.anongoth.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Mastellone.us">
+	<target host="mastellone.us" />
+	<target host="www.mastellone.us" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Booked.holiday">
+	<target host="booked.holiday" />
+	<target host="www.booked.holiday" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

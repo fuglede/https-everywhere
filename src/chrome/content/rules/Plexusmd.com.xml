@@ -1,0 +1,6 @@
+<ruleset name="Plexusmd.com">
+	<target host="plexusmd.com" />
+	<target host="www.plexusmd.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Spherenix.org">
+	<target host="spherenix.org" />
+	<target host="www.spherenix.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

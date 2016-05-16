@@ -1,0 +1,6 @@
+<ruleset name="Aperturesciencelabs.de">
+	<target host="aperturesciencelabs.de" />
+	<target host="www.aperturesciencelabs.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

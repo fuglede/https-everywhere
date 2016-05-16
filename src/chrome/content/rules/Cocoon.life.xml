@@ -1,0 +1,6 @@
+<ruleset name="Cocoon.life">
+	<target host="cocoon.life" />
+	<target host="www.cocoon.life" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Ninespec.com">
+	<target host="ninespec.com" />
+	<target host="www.ninespec.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

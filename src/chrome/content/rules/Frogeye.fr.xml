@@ -1,0 +1,6 @@
+<ruleset name="Frogeye.fr">
+	<target host="frogeye.fr" />
+	<target host="www.frogeye.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Leilonorte.com">
+	<target host="leilonorte.com" />
+	<target host="www.leilonorte.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

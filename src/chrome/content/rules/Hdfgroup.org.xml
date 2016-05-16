@@ -1,0 +1,6 @@
+<ruleset name="Hdfgroup.org">
+	<target host="hdfgroup.org" />
+	<target host="www.hdfgroup.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

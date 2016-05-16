@@ -1,0 +1,6 @@
+<ruleset name="Boxing-austria.eu">
+	<target host="boxing-austria.eu" />
+	<target host="www.boxing-austria.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

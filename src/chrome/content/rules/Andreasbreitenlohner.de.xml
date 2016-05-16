@@ -1,0 +1,6 @@
+<ruleset name="Andreasbreitenlohner.de">
+	<target host="andreasbreitenlohner.de" />
+	<target host="www.andreasbreitenlohner.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Sah3.net">
+	<target host="sah3.net" />
+	<target host="www.sah3.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Centennialrewards.com">
+	<target host="centennialrewards.com" />
+	<target host="www.centennialrewards.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

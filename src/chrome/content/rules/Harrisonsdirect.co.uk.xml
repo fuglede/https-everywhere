@@ -1,0 +1,6 @@
+<ruleset name="Harrisonsdirect.co.uk">
+	<target host="harrisonsdirect.co.uk" />
+	<target host="www.harrisonsdirect.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

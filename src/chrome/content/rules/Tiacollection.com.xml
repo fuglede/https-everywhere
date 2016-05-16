@@ -1,0 +1,6 @@
+<ruleset name="Tiacollection.com">
+	<target host="tiacollection.com" />
+	<target host="www.tiacollection.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

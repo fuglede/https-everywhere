@@ -1,0 +1,6 @@
+<ruleset name="Werktor.net">
+	<target host="werktor.net" />
+	<target host="www.werktor.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

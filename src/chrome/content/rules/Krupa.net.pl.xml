@@ -1,0 +1,6 @@
+<ruleset name="Krupa.net.pl">
+	<target host="krupa.net.pl" />
+	<target host="www.krupa.net.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

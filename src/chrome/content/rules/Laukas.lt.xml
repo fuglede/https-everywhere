@@ -1,0 +1,6 @@
+<ruleset name="Laukas.lt">
+	<target host="laukas.lt" />
+	<target host="www.laukas.lt" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

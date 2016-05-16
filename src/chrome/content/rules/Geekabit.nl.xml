@@ -1,0 +1,6 @@
+<ruleset name="Geekabit.nl">
+	<target host="geekabit.nl" />
+	<target host="www.geekabit.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

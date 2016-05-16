@@ -1,0 +1,6 @@
+<ruleset name="Vlora.city">
+	<target host="vlora.city" />
+	<target host="www.vlora.city" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

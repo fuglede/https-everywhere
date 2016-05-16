@@ -1,0 +1,6 @@
+<ruleset name="Sanglierhurlant.fr">
+	<target host="sanglierhurlant.fr" />
+	<target host="www.sanglierhurlant.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

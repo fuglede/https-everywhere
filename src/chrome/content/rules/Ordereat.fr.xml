@@ -1,0 +1,6 @@
+<ruleset name="Ordereat.fr">
+	<target host="ordereat.fr" />
+	<target host="www.ordereat.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

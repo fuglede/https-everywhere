@@ -1,0 +1,6 @@
+<ruleset name="Monstergrill.com.au">
+	<target host="monstergrill.com.au" />
+	<target host="www.monstergrill.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

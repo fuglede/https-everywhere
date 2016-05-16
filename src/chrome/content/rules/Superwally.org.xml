@@ -1,0 +1,6 @@
+<ruleset name="Superwally.org">
+	<target host="superwally.org" />
+	<target host="www.superwally.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

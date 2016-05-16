@@ -1,0 +1,6 @@
+<ruleset name="Bedabox.com">
+	<target host="bedabox.com" />
+	<target host="www.bedabox.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

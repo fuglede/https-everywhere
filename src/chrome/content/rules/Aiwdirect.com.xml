@@ -1,0 +1,6 @@
+<ruleset name="Aiwdirect.com">
+	<target host="aiwdirect.com" />
+	<target host="www.aiwdirect.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

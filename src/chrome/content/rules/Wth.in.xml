@@ -1,0 +1,6 @@
+<ruleset name="Wth.in">
+	<target host="wth.in" />
+	<target host="www.wth.in" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

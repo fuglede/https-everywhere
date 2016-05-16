@@ -1,0 +1,6 @@
+<ruleset name="Lerku.com">
+	<target host="lerku.com" />
+	<target host="www.lerku.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

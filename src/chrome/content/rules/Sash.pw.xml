@@ -1,0 +1,6 @@
+<ruleset name="Sash.pw">
+	<target host="sash.pw" />
+	<target host="www.sash.pw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Arrakiz.org">
+	<target host="arrakiz.org" />
+	<target host="www.arrakiz.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

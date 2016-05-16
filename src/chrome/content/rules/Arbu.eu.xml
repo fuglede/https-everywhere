@@ -1,0 +1,6 @@
+<ruleset name="Arbu.eu">
+	<target host="arbu.eu" />
+	<target host="www.arbu.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

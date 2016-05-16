@@ -1,0 +1,6 @@
+<ruleset name="Pisidia.de">
+	<target host="pisidia.de" />
+	<target host="www.pisidia.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

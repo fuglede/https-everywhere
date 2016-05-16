@@ -1,0 +1,6 @@
+<ruleset name="Docufiel.com">
+	<target host="docufiel.com" />
+	<target host="www.docufiel.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

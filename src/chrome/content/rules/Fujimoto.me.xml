@@ -1,0 +1,6 @@
+<ruleset name="Fujimoto.me">
+	<target host="fujimoto.me" />
+	<target host="www.fujimoto.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Hmm.nyc">
+	<target host="hmm.nyc" />
+	<target host="www.hmm.nyc" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

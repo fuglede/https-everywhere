@@ -1,0 +1,6 @@
+<ruleset name="Txf.pw">
+	<target host="txf.pw" />
+	<target host="www.txf.pw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Santeri.eu">
+	<target host="santeri.eu" />
+	<target host="www.santeri.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

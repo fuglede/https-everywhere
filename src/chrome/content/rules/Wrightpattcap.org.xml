@@ -1,0 +1,6 @@
+<ruleset name="Wrightpattcap.org">
+	<target host="wrightpattcap.org" />
+	<target host="www.wrightpattcap.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

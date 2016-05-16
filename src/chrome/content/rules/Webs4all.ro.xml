@@ -1,0 +1,6 @@
+<ruleset name="Webs4all.ro">
+	<target host="webs4all.ro" />
+	<target host="www.webs4all.ro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

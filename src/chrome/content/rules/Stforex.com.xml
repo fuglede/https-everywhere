@@ -1,0 +1,6 @@
+<ruleset name="Stforex.com">
+	<target host="stforex.com" />
+	<target host="www.stforex.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

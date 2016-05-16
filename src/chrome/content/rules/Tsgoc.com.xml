@@ -1,0 +1,6 @@
+<ruleset name="Tsgoc.com">
+	<target host="tsgoc.com" />
+	<target host="www.tsgoc.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

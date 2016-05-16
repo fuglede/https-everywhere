@@ -1,0 +1,6 @@
+<ruleset name="Ascii.moe">
+	<target host="ascii.moe" />
+	<target host="www.ascii.moe" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

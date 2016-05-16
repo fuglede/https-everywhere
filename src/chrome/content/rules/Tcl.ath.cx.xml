@@ -1,0 +1,6 @@
+<ruleset name="Tcl.ath.cx">
+	<target host="tcl.ath.cx" />
+	<target host="www.tcl.ath.cx" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Tyl.io">
+	<target host="tyl.io" />
+	<target host="www.tyl.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

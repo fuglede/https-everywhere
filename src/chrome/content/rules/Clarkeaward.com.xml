@@ -1,0 +1,6 @@
+<ruleset name="Clarkeaward.com">
+	<target host="clarkeaward.com" />
+	<target host="www.clarkeaward.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Reverie.pw">
+	<target host="reverie.pw" />
+	<target host="www.reverie.pw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Logario.com.br">
+	<target host="logario.com.br" />
+	<target host="www.logario.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

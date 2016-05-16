@@ -1,0 +1,6 @@
+<ruleset name="Mymewa.com">
+	<target host="mymewa.com" />
+	<target host="www.mymewa.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

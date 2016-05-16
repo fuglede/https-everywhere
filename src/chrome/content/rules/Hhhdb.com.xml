@@ -1,0 +1,6 @@
+<ruleset name="Hhhdb.com">
+	<target host="hhhdb.com" />
+	<target host="www.hhhdb.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

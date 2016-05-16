@@ -1,0 +1,6 @@
+<ruleset name="Gsmartisan.com">
+	<target host="gsmartisan.com" />
+	<target host="www.gsmartisan.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

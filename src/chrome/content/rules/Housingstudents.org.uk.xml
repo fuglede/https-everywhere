@@ -1,0 +1,6 @@
+<ruleset name="Housingstudents.org.uk">
+	<target host="housingstudents.org.uk" />
+	<target host="www.housingstudents.org.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

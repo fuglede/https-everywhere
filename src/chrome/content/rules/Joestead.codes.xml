@@ -1,0 +1,6 @@
+<ruleset name="Joestead.codes">
+	<target host="joestead.codes" />
+	<target host="www.joestead.codes" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

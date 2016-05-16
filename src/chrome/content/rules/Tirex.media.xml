@@ -1,0 +1,6 @@
+<ruleset name="Tirex.media">
+	<target host="tirex.media" />
+	<target host="www.tirex.media" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Mb-is.info">
+	<target host="mb-is.info" />
+	<target host="www.mb-is.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

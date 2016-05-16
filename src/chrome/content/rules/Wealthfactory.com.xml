@@ -1,0 +1,6 @@
+<ruleset name="Wealthfactory.com">
+	<target host="wealthfactory.com" />
+	<target host="www.wealthfactory.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

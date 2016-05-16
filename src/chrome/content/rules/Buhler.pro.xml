@@ -1,0 +1,6 @@
+<ruleset name="Buhler.pro">
+	<target host="buhler.pro" />
+	<target host="www.buhler.pro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

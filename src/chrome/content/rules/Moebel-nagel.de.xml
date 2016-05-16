@@ -1,0 +1,6 @@
+<ruleset name="Moebel-nagel.de">
+	<target host="moebel-nagel.de" />
+	<target host="www.moebel-nagel.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

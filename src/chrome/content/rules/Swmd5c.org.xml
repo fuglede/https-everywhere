@@ -1,0 +1,6 @@
+<ruleset name="Swmd5c.org">
+	<target host="swmd5c.org" />
+	<target host="www.swmd5c.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

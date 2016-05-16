@@ -1,0 +1,6 @@
+<ruleset name="Onqproductions.com">
+	<target host="onqproductions.com" />
+	<target host="www.onqproductions.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

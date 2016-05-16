@@ -1,0 +1,6 @@
+<ruleset name="Markt-heiligenstadt.de">
+	<target host="markt-heiligenstadt.de" />
+	<target host="www.markt-heiligenstadt.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

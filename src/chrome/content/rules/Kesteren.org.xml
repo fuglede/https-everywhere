@@ -1,0 +1,6 @@
+<ruleset name="Kesteren.org">
+	<target host="kesteren.org" />
+	<target host="www.kesteren.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

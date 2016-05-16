@@ -1,0 +1,6 @@
+<ruleset name="Ld-begunjscica.si">
+	<target host="ld-begunjscica.si" />
+	<target host="www.ld-begunjscica.si" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Minezone-mc.fr">
+	<target host="minezone-mc.fr" />
+	<target host="www.minezone-mc.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

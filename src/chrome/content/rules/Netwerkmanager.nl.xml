@@ -1,0 +1,6 @@
+<ruleset name="Netwerkmanager.nl">
+	<target host="netwerkmanager.nl" />
+	<target host="www.netwerkmanager.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

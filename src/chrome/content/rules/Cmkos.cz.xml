@@ -1,0 +1,6 @@
+<ruleset name="Cmkos.cz">
+	<target host="cmkos.cz" />
+	<target host="www.cmkos.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

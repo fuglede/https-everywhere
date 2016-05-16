@@ -1,0 +1,6 @@
+<ruleset name="Luoe.ml">
+	<target host="luoe.ml" />
+	<target host="www.luoe.ml" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

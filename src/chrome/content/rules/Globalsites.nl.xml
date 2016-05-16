@@ -1,0 +1,6 @@
+<ruleset name="Globalsites.nl">
+	<target host="globalsites.nl" />
+	<target host="www.globalsites.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

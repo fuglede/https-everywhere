@@ -1,0 +1,6 @@
+<ruleset name="Dementiapraecox.de">
+	<target host="dementiapraecox.de" />
+	<target host="www.dementiapraecox.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

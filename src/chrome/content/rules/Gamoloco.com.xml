@@ -1,0 +1,6 @@
+<ruleset name="Gamoloco.com">
+	<target host="gamoloco.com" />
+	<target host="www.gamoloco.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

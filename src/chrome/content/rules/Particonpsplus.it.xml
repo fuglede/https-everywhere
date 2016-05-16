@@ -1,0 +1,6 @@
+<ruleset name="Particonpsplus.it">
+	<target host="particonpsplus.it" />
+	<target host="www.particonpsplus.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

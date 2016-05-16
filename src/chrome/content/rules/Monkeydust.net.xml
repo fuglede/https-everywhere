@@ -1,0 +1,6 @@
+<ruleset name="Monkeydust.net">
+	<target host="monkeydust.net" />
+	<target host="www.monkeydust.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

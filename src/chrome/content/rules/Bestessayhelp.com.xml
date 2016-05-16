@@ -1,0 +1,6 @@
+<ruleset name="Bestessayhelp.com">
+	<target host="bestessayhelp.com" />
+	<target host="www.bestessayhelp.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

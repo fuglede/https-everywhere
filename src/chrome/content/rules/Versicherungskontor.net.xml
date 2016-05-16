@@ -1,0 +1,6 @@
+<ruleset name="Versicherungskontor.net">
+	<target host="versicherungskontor.net" />
+	<target host="www.versicherungskontor.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Ballotapi.com">
+	<target host="ballotapi.com" />
+	<target host="www.ballotapi.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

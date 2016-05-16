@@ -1,0 +1,6 @@
+<ruleset name="Japlex.com">
+	<target host="japlex.com" />
+	<target host="www.japlex.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

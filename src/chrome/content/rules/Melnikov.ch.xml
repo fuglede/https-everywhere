@@ -1,0 +1,6 @@
+<ruleset name="Melnikov.ch">
+	<target host="melnikov.ch" />
+	<target host="www.melnikov.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

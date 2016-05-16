@@ -1,0 +1,6 @@
+<ruleset name="Eternitylove.us">
+	<target host="eternitylove.us" />
+	<target host="www.eternitylove.us" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

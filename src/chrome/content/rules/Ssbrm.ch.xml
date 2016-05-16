@@ -1,0 +1,6 @@
+<ruleset name="Ssbrm.ch">
+	<target host="ssbrm.ch" />
+	<target host="www.ssbrm.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

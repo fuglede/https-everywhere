@@ -1,0 +1,6 @@
+<ruleset name="Ieeespmb.org">
+	<target host="ieeespmb.org" />
+	<target host="www.ieeespmb.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

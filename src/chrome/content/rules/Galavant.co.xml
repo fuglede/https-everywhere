@@ -1,0 +1,6 @@
+<ruleset name="Galavant.co">
+	<target host="galavant.co" />
+	<target host="www.galavant.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Panthur.com.au">
+	<target host="panthur.com.au" />
+	<target host="www.panthur.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

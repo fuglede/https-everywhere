@@ -1,0 +1,6 @@
+<ruleset name="Chippy.ch">
+	<target host="chippy.ch" />
+	<target host="www.chippy.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

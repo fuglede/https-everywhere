@@ -1,0 +1,6 @@
+<ruleset name="Puppydns.com">
+	<target host="puppydns.com" />
+	<target host="www.puppydns.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

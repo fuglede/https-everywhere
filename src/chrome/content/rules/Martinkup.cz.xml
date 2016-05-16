@@ -1,0 +1,6 @@
+<ruleset name="Martinkup.cz">
+	<target host="martinkup.cz" />
+	<target host="www.martinkup.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

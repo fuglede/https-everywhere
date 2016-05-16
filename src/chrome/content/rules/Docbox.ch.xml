@@ -1,0 +1,6 @@
+<ruleset name="Docbox.ch">
+	<target host="docbox.ch" />
+	<target host="www.docbox.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

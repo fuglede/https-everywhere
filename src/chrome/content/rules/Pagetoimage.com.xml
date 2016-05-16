@@ -1,0 +1,6 @@
+<ruleset name="Pagetoimage.com">
+	<target host="pagetoimage.com" />
+	<target host="www.pagetoimage.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

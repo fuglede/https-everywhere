@@ -1,0 +1,6 @@
+<ruleset name="Bm-trading.nl">
+	<target host="bm-trading.nl" />
+	<target host="www.bm-trading.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

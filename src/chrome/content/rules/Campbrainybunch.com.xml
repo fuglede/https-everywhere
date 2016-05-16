@@ -1,0 +1,6 @@
+<ruleset name="Campbrainybunch.com">
+	<target host="campbrainybunch.com" />
+	<target host="www.campbrainybunch.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

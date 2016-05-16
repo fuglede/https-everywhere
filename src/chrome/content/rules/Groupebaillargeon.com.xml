@@ -1,0 +1,6 @@
+<ruleset name="Groupebaillargeon.com">
+	<target host="groupebaillargeon.com" />
+	<target host="www.groupebaillargeon.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

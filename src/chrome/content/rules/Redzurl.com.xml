@@ -1,0 +1,6 @@
+<ruleset name="Redzurl.com">
+	<target host="redzurl.com" />
+	<target host="www.redzurl.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

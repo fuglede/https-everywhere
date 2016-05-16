@@ -1,0 +1,6 @@
+<ruleset name="Getable.com">
+	<target host="getable.com" />
+	<target host="www.getable.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Tokaido.com">
+	<target host="tokaido.com" />
+	<target host="www.tokaido.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

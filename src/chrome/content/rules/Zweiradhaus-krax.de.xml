@@ -1,0 +1,6 @@
+<ruleset name="Zweiradhaus-krax.de">
+	<target host="zweiradhaus-krax.de" />
+	<target host="www.zweiradhaus-krax.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

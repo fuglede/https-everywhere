@@ -1,0 +1,6 @@
+<ruleset name="Encoder.pw">
+	<target host="encoder.pw" />
+	<target host="www.encoder.pw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

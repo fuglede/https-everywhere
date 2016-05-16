@@ -1,0 +1,6 @@
+<ruleset name="Blackdesertsp.com">
+	<target host="blackdesertsp.com" />
+	<target host="www.blackdesertsp.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

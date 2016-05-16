@@ -1,0 +1,6 @@
+<ruleset name="Protoyou.de">
+	<target host="protoyou.de" />
+	<target host="www.protoyou.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

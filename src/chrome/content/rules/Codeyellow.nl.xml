@@ -1,0 +1,6 @@
+<ruleset name="Codeyellow.nl">
+	<target host="codeyellow.nl" />
+	<target host="www.codeyellow.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

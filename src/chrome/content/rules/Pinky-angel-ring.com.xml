@@ -1,0 +1,6 @@
+<ruleset name="Pinky-angel-ring.com">
+	<target host="pinky-angel-ring.com" />
+	<target host="www.pinky-angel-ring.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

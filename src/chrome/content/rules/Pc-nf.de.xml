@@ -1,0 +1,6 @@
+<ruleset name="Pc-nf.de">
+	<target host="pc-nf.de" />
+	<target host="www.pc-nf.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

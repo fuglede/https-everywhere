@@ -1,0 +1,6 @@
+<ruleset name="Fineawards.com">
+	<target host="fineawards.com" />
+	<target host="www.fineawards.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

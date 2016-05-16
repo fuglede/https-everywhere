@@ -1,0 +1,6 @@
+<ruleset name="Echosixmonkey.com">
+	<target host="echosixmonkey.com" />
+	<target host="www.echosixmonkey.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

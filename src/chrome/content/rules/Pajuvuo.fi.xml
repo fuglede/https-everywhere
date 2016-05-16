@@ -1,0 +1,6 @@
+<ruleset name="Pajuvuo.fi">
+	<target host="pajuvuo.fi" />
+	<target host="www.pajuvuo.fi" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

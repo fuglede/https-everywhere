@@ -1,0 +1,6 @@
+<ruleset name="Paneu.de">
+	<target host="paneu.de" />
+	<target host="www.paneu.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

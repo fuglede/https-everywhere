@@ -1,0 +1,6 @@
+<ruleset name="Maultrom.ml">
+	<target host="maultrom.ml" />
+	<target host="www.maultrom.ml" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

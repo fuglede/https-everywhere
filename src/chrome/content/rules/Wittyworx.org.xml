@@ -1,0 +1,6 @@
+<ruleset name="Wittyworx.org">
+	<target host="wittyworx.org" />
+	<target host="www.wittyworx.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

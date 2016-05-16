@@ -1,0 +1,6 @@
+<ruleset name="Sagedocumentmanager.com">
+	<target host="sagedocumentmanager.com" />
+	<target host="www.sagedocumentmanager.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

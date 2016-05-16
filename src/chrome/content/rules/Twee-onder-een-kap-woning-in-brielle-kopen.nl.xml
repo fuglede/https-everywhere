@@ -1,0 +1,6 @@
+<ruleset name="Twee-onder-een-kap-woning-in-brielle-kopen.nl">
+	<target host="twee-onder-een-kap-woning-in-brielle-kopen.nl" />
+	<target host="www.twee-onder-een-kap-woning-in-brielle-kopen.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

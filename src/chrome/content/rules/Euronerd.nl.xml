@@ -1,0 +1,6 @@
+<ruleset name="Euronerd.nl">
+	<target host="euronerd.nl" />
+	<target host="www.euronerd.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Xn--caf-vie-prive-dhbj.fr">
+	<target host="xn--caf-vie-prive-dhbj.fr" />
+	<target host="www.xn--caf-vie-prive-dhbj.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

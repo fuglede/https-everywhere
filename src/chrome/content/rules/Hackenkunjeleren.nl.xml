@@ -1,0 +1,6 @@
+<ruleset name="Hackenkunjeleren.nl">
+	<target host="hackenkunjeleren.nl" />
+	<target host="www.hackenkunjeleren.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

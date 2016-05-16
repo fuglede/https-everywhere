@@ -1,0 +1,6 @@
+<ruleset name="Biergaizi.info">
+	<target host="biergaizi.info" />
+	<target host="www.biergaizi.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

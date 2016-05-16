@@ -1,0 +1,6 @@
+<ruleset name="Hupp.se">
+	<target host="hupp.se" />
+	<target host="www.hupp.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

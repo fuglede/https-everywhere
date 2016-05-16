@@ -1,0 +1,6 @@
+<ruleset name="Zaoshanghao-dajia.rhcloud.com">
+	<target host="zaoshanghao-dajia.rhcloud.com" />
+	<target host="www.zaoshanghao-dajia.rhcloud.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

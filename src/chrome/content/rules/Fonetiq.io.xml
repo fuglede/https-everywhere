@@ -1,0 +1,6 @@
+<ruleset name="Fonetiq.io">
+	<target host="fonetiq.io" />
+	<target host="www.fonetiq.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

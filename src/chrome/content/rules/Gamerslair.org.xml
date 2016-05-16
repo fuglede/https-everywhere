@@ -1,0 +1,6 @@
+<ruleset name="Gamerslair.org">
+	<target host="gamerslair.org" />
+	<target host="www.gamerslair.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

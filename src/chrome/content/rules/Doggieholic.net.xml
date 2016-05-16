@@ -1,0 +1,6 @@
+<ruleset name="Doggieholic.net">
+	<target host="doggieholic.net" />
+	<target host="www.doggieholic.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

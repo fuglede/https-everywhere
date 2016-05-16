@@ -1,0 +1,6 @@
+<ruleset name="Wideboxmacau.com">
+	<target host="wideboxmacau.com" />
+	<target host="www.wideboxmacau.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

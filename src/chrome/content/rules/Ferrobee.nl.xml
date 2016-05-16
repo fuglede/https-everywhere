@@ -1,0 +1,6 @@
+<ruleset name="Ferrobee.nl">
+	<target host="ferrobee.nl" />
+	<target host="www.ferrobee.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

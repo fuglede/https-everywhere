@@ -1,0 +1,6 @@
+<ruleset name="Iptvpremium.tk">
+	<target host="iptvpremium.tk" />
+	<target host="www.iptvpremium.tk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

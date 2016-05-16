@@ -1,0 +1,6 @@
+<ruleset name="Gojionline.net">
+	<target host="gojionline.net" />
+	<target host="www.gojionline.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

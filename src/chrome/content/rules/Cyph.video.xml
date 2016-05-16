@@ -1,0 +1,6 @@
+<ruleset name="Cyph.video">
+	<target host="cyph.video" />
+	<target host="www.cyph.video" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

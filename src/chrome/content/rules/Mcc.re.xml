@@ -1,0 +1,6 @@
+<ruleset name="Mcc.re">
+	<target host="mcc.re" />
+	<target host="www.mcc.re" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

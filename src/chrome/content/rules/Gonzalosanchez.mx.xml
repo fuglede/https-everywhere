@@ -1,0 +1,6 @@
+<ruleset name="Gonzalosanchez.mx">
+	<target host="gonzalosanchez.mx" />
+	<target host="www.gonzalosanchez.mx" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

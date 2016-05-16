@@ -1,0 +1,6 @@
+<ruleset name="Minobar.com">
+	<target host="minobar.com" />
+	<target host="www.minobar.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

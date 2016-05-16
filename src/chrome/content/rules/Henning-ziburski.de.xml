@@ -1,0 +1,6 @@
+<ruleset name="Henning-ziburski.de">
+	<target host="henning-ziburski.de" />
+	<target host="www.henning-ziburski.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

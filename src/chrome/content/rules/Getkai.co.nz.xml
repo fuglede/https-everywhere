@@ -1,0 +1,6 @@
+<ruleset name="Getkai.co.nz">
+	<target host="getkai.co.nz" />
+	<target host="www.getkai.co.nz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

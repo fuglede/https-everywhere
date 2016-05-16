@@ -1,0 +1,6 @@
+<ruleset name="Fit4medien.de">
+	<target host="fit4medien.de" />
+	<target host="www.fit4medien.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

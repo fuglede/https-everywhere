@@ -1,0 +1,6 @@
+<ruleset name="Mawe.red">
+	<target host="mawe.red" />
+	<target host="www.mawe.red" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

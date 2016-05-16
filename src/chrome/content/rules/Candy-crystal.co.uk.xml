@@ -1,0 +1,6 @@
+<ruleset name="Candy-crystal.co.uk">
+	<target host="candy-crystal.co.uk" />
+	<target host="www.candy-crystal.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

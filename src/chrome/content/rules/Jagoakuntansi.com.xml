@@ -1,0 +1,6 @@
+<ruleset name="Jagoakuntansi.com">
+	<target host="jagoakuntansi.com" />
+	<target host="www.jagoakuntansi.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

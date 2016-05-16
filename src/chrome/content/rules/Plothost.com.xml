@@ -1,0 +1,6 @@
+<ruleset name="Plothost.com">
+	<target host="plothost.com" />
+	<target host="www.plothost.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

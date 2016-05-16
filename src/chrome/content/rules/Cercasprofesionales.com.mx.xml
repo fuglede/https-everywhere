@@ -1,0 +1,6 @@
+<ruleset name="Cercasprofesionales.com.mx">
+	<target host="cercasprofesionales.com.mx" />
+	<target host="www.cercasprofesionales.com.mx" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

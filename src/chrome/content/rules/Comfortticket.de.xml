@@ -1,0 +1,6 @@
+<ruleset name="Comfortticket.de">
+	<target host="comfortticket.de" />
+	<target host="www.comfortticket.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

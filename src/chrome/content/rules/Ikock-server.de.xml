@@ -1,0 +1,6 @@
+<ruleset name="Ikock-server.de">
+	<target host="ikock-server.de" />
+	<target host="www.ikock-server.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Cardstream.com">
+	<target host="cardstream.com" />
+	<target host="www.cardstream.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Akoww.de">
+	<target host="akoww.de" />
+	<target host="www.akoww.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

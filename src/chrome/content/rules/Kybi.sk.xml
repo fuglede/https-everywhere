@@ -1,0 +1,6 @@
+<ruleset name="Kybi.sk">
+	<target host="kybi.sk" />
+	<target host="www.kybi.sk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

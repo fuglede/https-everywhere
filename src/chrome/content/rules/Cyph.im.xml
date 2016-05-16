@@ -1,0 +1,6 @@
+<ruleset name="Cyph.im">
+	<target host="cyph.im" />
+	<target host="www.cyph.im" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

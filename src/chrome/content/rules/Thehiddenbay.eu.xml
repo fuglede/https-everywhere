@@ -1,0 +1,6 @@
+<ruleset name="Thehiddenbay.eu">
+	<target host="thehiddenbay.eu" />
+	<target host="www.thehiddenbay.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

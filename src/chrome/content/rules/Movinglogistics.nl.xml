@@ -1,0 +1,6 @@
+<ruleset name="Movinglogistics.nl">
+	<target host="movinglogistics.nl" />
+	<target host="www.movinglogistics.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

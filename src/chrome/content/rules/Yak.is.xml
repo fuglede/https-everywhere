@@ -1,0 +1,6 @@
+<ruleset name="Yak.is">
+	<target host="yak.is" />
+	<target host="www.yak.is" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

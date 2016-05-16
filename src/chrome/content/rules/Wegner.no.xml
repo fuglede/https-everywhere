@@ -1,0 +1,6 @@
+<ruleset name="Wegner.no">
+	<target host="wegner.no" />
+	<target host="www.wegner.no" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

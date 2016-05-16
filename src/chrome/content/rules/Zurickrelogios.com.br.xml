@@ -1,0 +1,6 @@
+<ruleset name="Zurickrelogios.com.br">
+	<target host="zurickrelogios.com.br" />
+	<target host="www.zurickrelogios.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

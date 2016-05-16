@@ -1,0 +1,6 @@
+<ruleset name="Bexithosting.nl">
+	<target host="bexithosting.nl" />
+	<target host="www.bexithosting.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

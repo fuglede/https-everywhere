@@ -1,0 +1,6 @@
+<ruleset name="Kidbacker.com">
+	<target host="kidbacker.com" />
+	<target host="www.kidbacker.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Likeaross.com">
+	<target host="likeaross.com" />
+	<target host="www.likeaross.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

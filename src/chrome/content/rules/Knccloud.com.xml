@@ -1,0 +1,6 @@
+<ruleset name="Knccloud.com">
+	<target host="knccloud.com" />
+	<target host="www.knccloud.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

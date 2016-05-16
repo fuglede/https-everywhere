@@ -1,0 +1,6 @@
+<ruleset name="Inpendium.net">
+	<target host="inpendium.net" />
+	<target host="www.inpendium.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

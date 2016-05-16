@@ -1,0 +1,6 @@
+<ruleset name="Clownish.co.il">
+	<target host="clownish.co.il" />
+	<target host="www.clownish.co.il" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

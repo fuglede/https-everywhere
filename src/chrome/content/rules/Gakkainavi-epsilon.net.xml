@@ -1,0 +1,6 @@
+<ruleset name="Gakkainavi-epsilon.net">
+	<target host="gakkainavi-epsilon.net" />
+	<target host="www.gakkainavi-epsilon.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

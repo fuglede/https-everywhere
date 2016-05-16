@@ -1,0 +1,6 @@
+<ruleset name="Singlu10.org">
+	<target host="singlu10.org" />
+	<target host="www.singlu10.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

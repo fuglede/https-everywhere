@@ -1,0 +1,6 @@
+<ruleset name="Wingumd.net">
+	<target host="wingumd.net" />
+	<target host="www.wingumd.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Fixhotsauce.com">
+	<target host="fixhotsauce.com" />
+	<target host="www.fixhotsauce.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

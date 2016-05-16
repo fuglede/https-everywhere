@@ -1,0 +1,6 @@
+<ruleset name="Flanco.ro">
+	<target host="flanco.ro" />
+	<target host="www.flanco.ro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

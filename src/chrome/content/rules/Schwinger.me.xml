@@ -1,0 +1,6 @@
+<ruleset name="Schwinger.me">
+	<target host="schwinger.me" />
+	<target host="www.schwinger.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

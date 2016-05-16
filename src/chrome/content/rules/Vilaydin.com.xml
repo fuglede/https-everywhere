@@ -1,0 +1,6 @@
+<ruleset name="Vilaydin.com">
+	<target host="vilaydin.com" />
+	<target host="www.vilaydin.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

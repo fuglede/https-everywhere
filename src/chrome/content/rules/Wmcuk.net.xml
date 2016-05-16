@@ -1,0 +1,6 @@
+<ruleset name="Wmcuk.net">
+	<target host="wmcuk.net" />
+	<target host="www.wmcuk.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

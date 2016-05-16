@@ -1,0 +1,6 @@
+<ruleset name="4d2.xyz">
+	<target host="4d2.xyz" />
+	<target host="www.4d2.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

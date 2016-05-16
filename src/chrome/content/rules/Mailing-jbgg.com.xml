@@ -1,0 +1,6 @@
+<ruleset name="Mailing-jbgg.com">
+	<target host="mailing-jbgg.com" />
+	<target host="www.mailing-jbgg.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

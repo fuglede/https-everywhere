@@ -1,0 +1,6 @@
+<ruleset name="Questsandrewards.com">
+	<target host="questsandrewards.com" />
+	<target host="www.questsandrewards.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

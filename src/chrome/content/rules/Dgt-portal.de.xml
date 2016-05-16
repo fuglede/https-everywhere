@@ -1,0 +1,6 @@
+<ruleset name="Dgt-portal.de">
+	<target host="dgt-portal.de" />
+	<target host="www.dgt-portal.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

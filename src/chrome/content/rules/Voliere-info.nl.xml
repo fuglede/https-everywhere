@@ -1,0 +1,6 @@
+<ruleset name="Voliere-info.nl">
+	<target host="voliere-info.nl" />
+	<target host="www.voliere-info.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

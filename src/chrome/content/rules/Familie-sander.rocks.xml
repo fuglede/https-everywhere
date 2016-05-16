@@ -1,0 +1,6 @@
+<ruleset name="Familie-sander.rocks">
+	<target host="familie-sander.rocks" />
+	<target host="www.familie-sander.rocks" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

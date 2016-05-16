@@ -1,0 +1,6 @@
+<ruleset name="Laranjeiraskids.com.br">
+	<target host="laranjeiraskids.com.br" />
+	<target host="www.laranjeiraskids.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Serveroffline.net">
+	<target host="serveroffline.net" />
+	<target host="www.serveroffline.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

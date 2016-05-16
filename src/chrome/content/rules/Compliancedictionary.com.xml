@@ -1,0 +1,6 @@
+<ruleset name="Compliancedictionary.com">
+	<target host="compliancedictionary.com" />
+	<target host="www.compliancedictionary.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

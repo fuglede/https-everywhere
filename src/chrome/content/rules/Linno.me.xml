@@ -1,0 +1,6 @@
+<ruleset name="Linno.me">
+	<target host="linno.me" />
+	<target host="www.linno.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

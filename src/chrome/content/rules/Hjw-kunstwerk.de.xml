@@ -1,0 +1,6 @@
+<ruleset name="Hjw-kunstwerk.de">
+	<target host="hjw-kunstwerk.de" />
+	<target host="www.hjw-kunstwerk.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Bier-kaufen.de">
+	<target host="bier-kaufen.de" />
+	<target host="www.bier-kaufen.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

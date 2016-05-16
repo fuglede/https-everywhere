@@ -1,0 +1,6 @@
+<ruleset name="Hookandloom.com">
+	<target host="hookandloom.com" />
+	<target host="www.hookandloom.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

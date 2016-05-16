@@ -1,0 +1,6 @@
+<ruleset name="Sscd.no">
+	<target host="sscd.no" />
+	<target host="www.sscd.no" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

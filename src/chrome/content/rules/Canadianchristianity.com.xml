@@ -1,0 +1,6 @@
+<ruleset name="Canadianchristianity.com">
+	<target host="canadianchristianity.com" />
+	<target host="www.canadianchristianity.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

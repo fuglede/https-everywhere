@@ -1,0 +1,6 @@
+<ruleset name="Web4pro.fr">
+	<target host="web4pro.fr" />
+	<target host="www.web4pro.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

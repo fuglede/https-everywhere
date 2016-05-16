@@ -1,0 +1,6 @@
+<ruleset name="Usaab.org">
+	<target host="usaab.org" />
+	<target host="www.usaab.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

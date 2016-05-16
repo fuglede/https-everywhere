@@ -1,0 +1,6 @@
+<ruleset name="Thomaskliszowski.fr">
+	<target host="thomaskliszowski.fr" />
+	<target host="www.thomaskliszowski.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

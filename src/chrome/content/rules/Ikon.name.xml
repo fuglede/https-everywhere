@@ -1,0 +1,6 @@
+<ruleset name="Ikon.name">
+	<target host="ikon.name" />
+	<target host="www.ikon.name" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

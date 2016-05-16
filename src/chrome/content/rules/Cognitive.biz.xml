@@ -1,0 +1,6 @@
+<ruleset name="Cognitive.biz">
+	<target host="cognitive.biz" />
+	<target host="www.cognitive.biz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

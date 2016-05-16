@@ -1,0 +1,6 @@
+<ruleset name="Redicabo.de">
+	<target host="redicabo.de" />
+	<target host="www.redicabo.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

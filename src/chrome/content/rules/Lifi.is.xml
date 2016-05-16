@@ -1,0 +1,6 @@
+<ruleset name="Lifi.is">
+	<target host="lifi.is" />
+	<target host="www.lifi.is" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

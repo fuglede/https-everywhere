@@ -1,0 +1,6 @@
+<ruleset name="Kefaloniatoday.com">
+	<target host="kefaloniatoday.com" />
+	<target host="www.kefaloniatoday.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

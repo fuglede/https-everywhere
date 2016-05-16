@@ -1,0 +1,6 @@
+<ruleset name="Onlinedeposit.us">
+	<target host="onlinedeposit.us" />
+	<target host="www.onlinedeposit.us" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

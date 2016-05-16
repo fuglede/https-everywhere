@@ -1,0 +1,6 @@
+<ruleset name="Profitopia.de">
+	<target host="profitopia.de" />
+	<target host="www.profitopia.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

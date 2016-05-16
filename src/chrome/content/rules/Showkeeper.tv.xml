@@ -1,0 +1,6 @@
+<ruleset name="Showkeeper.tv">
+	<target host="showkeeper.tv" />
+	<target host="www.showkeeper.tv" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

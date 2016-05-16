@@ -1,0 +1,6 @@
+<ruleset name="Amv-crm.ru">
+	<target host="amv-crm.ru" />
+	<target host="www.amv-crm.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

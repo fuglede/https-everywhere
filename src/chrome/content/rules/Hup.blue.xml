@@ -1,0 +1,6 @@
+<ruleset name="Hup.blue">
+	<target host="hup.blue" />
+	<target host="www.hup.blue" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Thestory.ie">
+	<target host="thestory.ie" />
+	<target host="www.thestory.ie" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

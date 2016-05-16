@@ -1,0 +1,6 @@
+<ruleset name="Csvape.com">
+	<target host="csvape.com" />
+	<target host="www.csvape.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Concord-group.co.jp">
+	<target host="concord-group.co.jp" />
+	<target host="www.concord-group.co.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

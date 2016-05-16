@@ -1,0 +1,6 @@
+<ruleset name="Hestianull.cf">
+	<target host="hestianull.cf" />
+	<target host="www.hestianull.cf" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

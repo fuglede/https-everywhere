@@ -1,0 +1,6 @@
+<ruleset name="Xn--3lqt7ir4md4tzwa.cn">
+	<target host="xn--3lqt7ir4md4tzwa.cn" />
+	<target host="www.xn--3lqt7ir4md4tzwa.cn" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Scottdial.com">
+	<target host="scottdial.com" />
+	<target host="www.scottdial.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

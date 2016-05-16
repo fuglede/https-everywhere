@@ -1,0 +1,6 @@
+<ruleset name="Tsundereservice.com">
+	<target host="tsundereservice.com" />
+	<target host="www.tsundereservice.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Oke.com.tw">
+	<target host="oke.com.tw" />
+	<target host="www.oke.com.tw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

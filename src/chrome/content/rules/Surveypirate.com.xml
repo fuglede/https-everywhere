@@ -1,0 +1,6 @@
+<ruleset name="Surveypirate.com">
+	<target host="surveypirate.com" />
+	<target host="www.surveypirate.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Sourcelair.com">
+	<target host="sourcelair.com" />
+	<target host="www.sourcelair.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Worldmusic.ga">
+	<target host="worldmusic.ga" />
+	<target host="www.worldmusic.ga" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

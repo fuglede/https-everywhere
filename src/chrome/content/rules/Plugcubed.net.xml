@@ -1,0 +1,6 @@
+<ruleset name="Plugcubed.net">
+	<target host="plugcubed.net" />
+	<target host="www.plugcubed.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="83.ie">
+	<target host="83.ie" />
+	<target host="www.83.ie" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

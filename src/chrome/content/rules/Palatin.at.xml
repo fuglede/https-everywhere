@@ -1,0 +1,6 @@
+<ruleset name="Palatin.at">
+	<target host="palatin.at" />
+	<target host="www.palatin.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

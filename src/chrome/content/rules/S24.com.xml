@@ -1,0 +1,6 @@
+<ruleset name="S24.com">
+	<target host="s24.com" />
+	<target host="www.s24.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

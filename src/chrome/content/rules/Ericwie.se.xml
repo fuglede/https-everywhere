@@ -1,0 +1,6 @@
+<ruleset name="Ericwie.se">
+	<target host="ericwie.se" />
+	<target host="www.ericwie.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

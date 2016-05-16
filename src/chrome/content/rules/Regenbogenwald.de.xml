@@ -1,0 +1,6 @@
+<ruleset name="Regenbogenwald.de">
+	<target host="regenbogenwald.de" />
+	<target host="www.regenbogenwald.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

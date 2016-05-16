@@ -1,0 +1,6 @@
+<ruleset name="Hastherebeenamassshooting.today">
+	<target host="hastherebeenamassshooting.today" />
+	<target host="www.hastherebeenamassshooting.today" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

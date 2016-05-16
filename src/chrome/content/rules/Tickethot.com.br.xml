@@ -1,0 +1,6 @@
+<ruleset name="Tickethot.com.br">
+	<target host="tickethot.com.br" />
+	<target host="www.tickethot.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

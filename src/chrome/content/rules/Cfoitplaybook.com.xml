@@ -1,0 +1,6 @@
+<ruleset name="Cfoitplaybook.com">
+	<target host="cfoitplaybook.com" />
+	<target host="www.cfoitplaybook.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

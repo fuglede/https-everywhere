@@ -1,0 +1,6 @@
+<ruleset name="Junjung.me">
+	<target host="junjung.me" />
+	<target host="www.junjung.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

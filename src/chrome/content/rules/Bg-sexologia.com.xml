@@ -1,0 +1,6 @@
+<ruleset name="Bg-sexologia.com">
+	<target host="bg-sexologia.com" />
+	<target host="www.bg-sexologia.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

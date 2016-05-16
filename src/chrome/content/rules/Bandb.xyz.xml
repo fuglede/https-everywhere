@@ -1,0 +1,6 @@
+<ruleset name="Bandb.xyz">
+	<target host="bandb.xyz" />
+	<target host="www.bandb.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

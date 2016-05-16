@@ -1,0 +1,6 @@
+<ruleset name="Kopular.com">
+	<target host="kopular.com" />
+	<target host="www.kopular.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

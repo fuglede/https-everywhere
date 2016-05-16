@@ -1,0 +1,6 @@
+<ruleset name="Linguatrip.com">
+	<target host="linguatrip.com" />
+	<target host="www.linguatrip.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

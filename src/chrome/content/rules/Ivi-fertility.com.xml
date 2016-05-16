@@ -1,0 +1,6 @@
+<ruleset name="Ivi-fertility.com">
+	<target host="ivi-fertility.com" />
+	<target host="www.ivi-fertility.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

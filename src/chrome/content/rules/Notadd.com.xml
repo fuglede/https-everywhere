@@ -1,0 +1,6 @@
+<ruleset name="Notadd.com">
+	<target host="notadd.com" />
+	<target host="www.notadd.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

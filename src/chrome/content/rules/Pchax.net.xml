@@ -1,0 +1,6 @@
+<ruleset name="Pchax.net">
+	<target host="pchax.net" />
+	<target host="www.pchax.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

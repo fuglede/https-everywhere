@@ -1,0 +1,6 @@
+<ruleset name="Ipmotion.ca">
+	<target host="ipmotion.ca" />
+	<target host="www.ipmotion.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

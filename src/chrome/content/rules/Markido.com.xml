@@ -1,0 +1,6 @@
+<ruleset name="Markido.com">
+	<target host="markido.com" />
+	<target host="www.markido.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

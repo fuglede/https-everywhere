@@ -1,0 +1,6 @@
+<ruleset name="Us-immigration.com">
+	<target host="us-immigration.com" />
+	<target host="www.us-immigration.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

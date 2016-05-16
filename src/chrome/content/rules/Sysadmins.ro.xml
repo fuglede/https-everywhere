@@ -1,0 +1,6 @@
+<ruleset name="Sysadmins.ro">
+	<target host="sysadmins.ro" />
+	<target host="www.sysadmins.ro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

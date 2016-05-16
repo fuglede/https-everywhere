@@ -1,0 +1,6 @@
+<ruleset name="Cool110.tk">
+	<target host="cool110.tk" />
+	<target host="www.cool110.tk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

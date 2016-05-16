@@ -1,0 +1,6 @@
+<ruleset name="Mikaelemilsson.net">
+	<target host="mikaelemilsson.net" />
+	<target host="www.mikaelemilsson.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

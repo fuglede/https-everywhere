@@ -1,0 +1,6 @@
+<ruleset name="Magnier.io">
+	<target host="magnier.io" />
+	<target host="www.magnier.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

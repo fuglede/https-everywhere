@@ -1,0 +1,6 @@
+<ruleset name="Semps-threema.de">
+	<target host="semps-threema.de" />
+	<target host="www.semps-threema.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

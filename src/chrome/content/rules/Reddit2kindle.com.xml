@@ -1,0 +1,6 @@
+<ruleset name="Reddit2kindle.com">
+	<target host="reddit2kindle.com" />
+	<target host="www.reddit2kindle.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

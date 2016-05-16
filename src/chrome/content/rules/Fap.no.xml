@@ -1,0 +1,6 @@
+<ruleset name="Fap.no">
+	<target host="fap.no" />
+	<target host="www.fap.no" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

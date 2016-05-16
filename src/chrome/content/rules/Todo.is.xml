@@ -1,0 +1,6 @@
+<ruleset name="Todo.is">
+	<target host="todo.is" />
+	<target host="www.todo.is" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Dashboard.yt">
+	<target host="dashboard.yt" />
+	<target host="www.dashboard.yt" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

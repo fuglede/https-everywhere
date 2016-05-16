@@ -1,0 +1,6 @@
+<ruleset name="Lovelifelovelive.com">
+	<target host="lovelifelovelive.com" />
+	<target host="www.lovelifelovelive.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

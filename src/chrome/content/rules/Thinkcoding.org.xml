@@ -1,0 +1,6 @@
+<ruleset name="Thinkcoding.org">
+	<target host="thinkcoding.org" />
+	<target host="www.thinkcoding.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

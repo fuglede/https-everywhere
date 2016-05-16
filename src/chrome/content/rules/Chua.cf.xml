@@ -1,0 +1,6 @@
+<ruleset name="Chua.cf">
+	<target host="chua.cf" />
+	<target host="www.chua.cf" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

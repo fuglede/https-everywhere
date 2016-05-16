@@ -1,0 +1,6 @@
+<ruleset name="Vanestack.com">
+	<target host="vanestack.com" />
+	<target host="www.vanestack.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

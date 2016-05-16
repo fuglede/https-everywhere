@@ -1,0 +1,6 @@
+<ruleset name="Julian-kipka.de">
+	<target host="julian-kipka.de" />
+	<target host="www.julian-kipka.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

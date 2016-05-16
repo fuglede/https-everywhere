@@ -1,0 +1,6 @@
+<ruleset name="Passieposse.nl">
+	<target host="passieposse.nl" />
+	<target host="www.passieposse.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

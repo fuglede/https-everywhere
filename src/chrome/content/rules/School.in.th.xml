@@ -1,0 +1,6 @@
+<ruleset name="School.in.th">
+	<target host="school.in.th" />
+	<target host="www.school.in.th" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

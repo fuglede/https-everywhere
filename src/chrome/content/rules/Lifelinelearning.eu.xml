@@ -1,0 +1,6 @@
+<ruleset name="Lifelinelearning.eu">
+	<target host="lifelinelearning.eu" />
+	<target host="www.lifelinelearning.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

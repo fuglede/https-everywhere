@@ -1,0 +1,6 @@
+<ruleset name="Slamdjapan.com">
+	<target host="slamdjapan.com" />
+	<target host="www.slamdjapan.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

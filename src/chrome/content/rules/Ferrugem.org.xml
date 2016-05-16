@@ -1,0 +1,6 @@
+<ruleset name="Ferrugem.org">
+	<target host="ferrugem.org" />
+	<target host="www.ferrugem.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

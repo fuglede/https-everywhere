@@ -1,0 +1,6 @@
+<ruleset name="Bourse-puericulture.org">
+	<target host="bourse-puericulture.org" />
+	<target host="www.bourse-puericulture.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Coiexchange.com">
+	<target host="coiexchange.com" />
+	<target host="www.coiexchange.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

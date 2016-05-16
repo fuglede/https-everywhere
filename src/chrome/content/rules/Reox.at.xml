@@ -1,0 +1,6 @@
+<ruleset name="Reox.at">
+	<target host="reox.at" />
+	<target host="www.reox.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

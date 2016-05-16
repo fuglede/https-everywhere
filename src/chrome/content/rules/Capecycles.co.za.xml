@@ -1,0 +1,6 @@
+<ruleset name="Capecycles.co.za">
+	<target host="capecycles.co.za" />
+	<target host="www.capecycles.co.za" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Crystalchandelierservices.com">
+	<target host="crystalchandelierservices.com" />
+	<target host="www.crystalchandelierservices.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Aprsdroid.org">
+	<target host="aprsdroid.org" />
+	<target host="www.aprsdroid.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

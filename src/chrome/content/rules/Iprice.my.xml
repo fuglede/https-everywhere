@@ -1,0 +1,6 @@
+<ruleset name="Iprice.my">
+	<target host="iprice.my" />
+	<target host="www.iprice.my" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

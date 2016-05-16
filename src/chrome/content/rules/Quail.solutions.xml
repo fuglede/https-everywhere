@@ -1,0 +1,6 @@
+<ruleset name="Quail.solutions">
+	<target host="quail.solutions" />
+	<target host="www.quail.solutions" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

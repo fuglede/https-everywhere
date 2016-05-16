@@ -1,0 +1,6 @@
+<ruleset name="Crufad.org">
+	<target host="crufad.org" />
+	<target host="www.crufad.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

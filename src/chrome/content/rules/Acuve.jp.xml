@@ -1,0 +1,6 @@
+<ruleset name="Acuve.jp">
+	<target host="acuve.jp" />
+	<target host="www.acuve.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

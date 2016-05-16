@@ -1,0 +1,6 @@
+<ruleset name="Altitudeinfosec.com">
+	<target host="altitudeinfosec.com" />
+	<target host="www.altitudeinfosec.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

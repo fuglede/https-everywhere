@@ -1,0 +1,6 @@
+<ruleset name="Kumachan.biz">
+	<target host="kumachan.biz" />
+	<target host="www.kumachan.biz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

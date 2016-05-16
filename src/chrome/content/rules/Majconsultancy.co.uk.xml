@@ -1,0 +1,6 @@
+<ruleset name="Majconsultancy.co.uk">
+	<target host="majconsultancy.co.uk" />
+	<target host="www.majconsultancy.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

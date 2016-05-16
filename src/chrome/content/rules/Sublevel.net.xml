@@ -1,0 +1,6 @@
+<ruleset name="Sublevel.net">
+	<target host="sublevel.net" />
+	<target host="www.sublevel.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="1-pixel.net">
+	<target host="1-pixel.net" />
+	<target host="www.1-pixel.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

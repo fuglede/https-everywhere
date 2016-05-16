@@ -1,0 +1,6 @@
+<ruleset name="Dvoi.com">
+	<target host="dvoi.com" />
+	<target host="www.dvoi.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

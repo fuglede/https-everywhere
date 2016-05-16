@@ -1,0 +1,6 @@
+<ruleset name="Jedipedia.net">
+	<target host="jedipedia.net" />
+	<target host="www.jedipedia.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

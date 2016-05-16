@@ -1,0 +1,6 @@
+<ruleset name="Armazemdaminiatura.com.br">
+	<target host="armazemdaminiatura.com.br" />
+	<target host="www.armazemdaminiatura.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

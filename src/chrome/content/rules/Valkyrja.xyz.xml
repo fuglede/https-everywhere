@@ -1,0 +1,6 @@
+<ruleset name="Valkyrja.xyz">
+	<target host="valkyrja.xyz" />
+	<target host="www.valkyrja.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

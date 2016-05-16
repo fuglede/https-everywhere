@@ -1,0 +1,6 @@
+<ruleset name="Finpt.com">
+	<target host="finpt.com" />
+	<target host="www.finpt.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

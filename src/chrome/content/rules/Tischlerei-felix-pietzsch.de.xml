@@ -1,0 +1,6 @@
+<ruleset name="Tischlerei-felix-pietzsch.de">
+	<target host="tischlerei-felix-pietzsch.de" />
+	<target host="www.tischlerei-felix-pietzsch.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

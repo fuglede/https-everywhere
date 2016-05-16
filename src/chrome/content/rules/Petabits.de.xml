@@ -1,0 +1,6 @@
+<ruleset name="Petabits.de">
+	<target host="petabits.de" />
+	<target host="www.petabits.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

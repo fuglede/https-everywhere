@@ -1,0 +1,6 @@
+<ruleset name="Panni.me">
+	<target host="panni.me" />
+	<target host="www.panni.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Farmacialaboratorio.it">
+	<target host="farmacialaboratorio.it" />
+	<target host="www.farmacialaboratorio.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

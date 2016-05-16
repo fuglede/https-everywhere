@@ -1,0 +1,6 @@
+<ruleset name="Smashbtc.com">
+	<target host="smashbtc.com" />
+	<target host="www.smashbtc.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

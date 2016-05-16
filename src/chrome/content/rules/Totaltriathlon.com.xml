@@ -1,0 +1,6 @@
+<ruleset name="Totaltriathlon.com">
+	<target host="totaltriathlon.com" />
+	<target host="www.totaltriathlon.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Shinnyosangha.org">
+	<target host="shinnyosangha.org" />
+	<target host="www.shinnyosangha.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

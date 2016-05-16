@@ -1,0 +1,6 @@
+<ruleset name="Mobilethreat.net">
+	<target host="mobilethreat.net" />
+	<target host="www.mobilethreat.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

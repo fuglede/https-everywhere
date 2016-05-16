@@ -1,0 +1,6 @@
+<ruleset name="Durys.be">
+	<target host="durys.be" />
+	<target host="www.durys.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

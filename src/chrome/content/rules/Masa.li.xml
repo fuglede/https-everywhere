@@ -1,0 +1,6 @@
+<ruleset name="Masa.li">
+	<target host="masa.li" />
+	<target host="www.masa.li" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

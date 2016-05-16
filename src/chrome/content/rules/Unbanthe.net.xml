@@ -1,0 +1,6 @@
+<ruleset name="Unbanthe.net">
+	<target host="unbanthe.net" />
+	<target host="www.unbanthe.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

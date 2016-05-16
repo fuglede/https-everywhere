@@ -1,0 +1,6 @@
+<ruleset name="Dycontrol.de">
+	<target host="dycontrol.de" />
+	<target host="www.dycontrol.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

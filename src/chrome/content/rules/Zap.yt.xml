@@ -1,0 +1,6 @@
+<ruleset name="Zap.yt">
+	<target host="zap.yt" />
+	<target host="www.zap.yt" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

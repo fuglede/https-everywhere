@@ -1,0 +1,6 @@
+<ruleset name="Stamkassa.nl">
+	<target host="stamkassa.nl" />
+	<target host="www.stamkassa.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

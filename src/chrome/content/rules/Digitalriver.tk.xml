@@ -1,0 +1,6 @@
+<ruleset name="Digitalriver.tk">
+	<target host="digitalriver.tk" />
+	<target host="www.digitalriver.tk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

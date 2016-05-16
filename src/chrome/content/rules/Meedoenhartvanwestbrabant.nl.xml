@@ -1,0 +1,6 @@
+<ruleset name="Meedoenhartvanwestbrabant.nl">
+	<target host="meedoenhartvanwestbrabant.nl" />
+	<target host="www.meedoenhartvanwestbrabant.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

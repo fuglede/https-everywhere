@@ -1,0 +1,6 @@
+<ruleset name="Devel.re">
+	<target host="devel.re" />
+	<target host="www.devel.re" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

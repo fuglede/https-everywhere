@@ -1,0 +1,6 @@
+<ruleset name="Finisron.in">
+	<target host="finisron.in" />
+	<target host="www.finisron.in" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

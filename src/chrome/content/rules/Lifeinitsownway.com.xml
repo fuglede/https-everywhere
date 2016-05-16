@@ -1,0 +1,6 @@
+<ruleset name="Lifeinitsownway.com">
+	<target host="lifeinitsownway.com" />
+	<target host="www.lifeinitsownway.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

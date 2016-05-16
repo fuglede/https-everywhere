@@ -1,0 +1,6 @@
+<ruleset name="Luoh.cc">
+	<target host="luoh.cc" />
+	<target host="www.luoh.cc" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

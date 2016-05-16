@@ -1,0 +1,6 @@
+<ruleset name="Energiesparen-enviam.de">
+	<target host="energiesparen-enviam.de" />
+	<target host="www.energiesparen-enviam.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

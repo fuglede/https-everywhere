@@ -1,0 +1,6 @@
+<ruleset name="Eoo-bv.nl">
+	<target host="eoo-bv.nl" />
+	<target host="www.eoo-bv.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

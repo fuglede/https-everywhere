@@ -1,0 +1,6 @@
+<ruleset name="Kynastonwedding.co.uk">
+	<target host="kynastonwedding.co.uk" />
+	<target host="www.kynastonwedding.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

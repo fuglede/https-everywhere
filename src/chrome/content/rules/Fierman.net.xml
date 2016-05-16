@@ -1,0 +1,6 @@
+<ruleset name="Fierman.net">
+	<target host="fierman.net" />
+	<target host="www.fierman.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

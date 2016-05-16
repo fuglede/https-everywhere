@@ -1,0 +1,6 @@
+<ruleset name="Ebooknexus.net">
+	<target host="ebooknexus.net" />
+	<target host="www.ebooknexus.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

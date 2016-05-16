@@ -1,0 +1,6 @@
+<ruleset name="Iridge.jp">
+	<target host="iridge.jp" />
+	<target host="www.iridge.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

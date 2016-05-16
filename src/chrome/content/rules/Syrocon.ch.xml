@@ -1,0 +1,6 @@
+<ruleset name="Syrocon.ch">
+	<target host="syrocon.ch" />
+	<target host="www.syrocon.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

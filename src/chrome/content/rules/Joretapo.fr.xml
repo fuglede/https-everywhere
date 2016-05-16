@@ -1,0 +1,6 @@
+<ruleset name="Joretapo.fr">
+	<target host="joretapo.fr" />
+	<target host="www.joretapo.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

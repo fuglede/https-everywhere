@@ -1,0 +1,6 @@
+<ruleset name="Junge-selbsthilfe.info">
+	<target host="junge-selbsthilfe.info" />
+	<target host="www.junge-selbsthilfe.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

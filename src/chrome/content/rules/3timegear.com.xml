@@ -1,0 +1,6 @@
+<ruleset name="3timegear.com">
+	<target host="3timegear.com" />
+	<target host="www.3timegear.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

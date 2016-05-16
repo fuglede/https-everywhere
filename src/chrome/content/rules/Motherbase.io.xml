@@ -1,0 +1,6 @@
+<ruleset name="Motherbase.io">
+	<target host="motherbase.io" />
+	<target host="www.motherbase.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

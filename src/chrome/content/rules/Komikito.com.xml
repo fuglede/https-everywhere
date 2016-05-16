@@ -1,0 +1,6 @@
+<ruleset name="Komikito.com">
+	<target host="komikito.com" />
+	<target host="www.komikito.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

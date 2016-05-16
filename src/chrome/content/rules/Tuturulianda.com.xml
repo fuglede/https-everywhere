@@ -1,0 +1,6 @@
+<ruleset name="Tuturulianda.com">
+	<target host="tuturulianda.com" />
+	<target host="www.tuturulianda.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

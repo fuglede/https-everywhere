@@ -1,0 +1,6 @@
+<ruleset name="Nepustil.net">
+	<target host="nepustil.net" />
+	<target host="www.nepustil.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

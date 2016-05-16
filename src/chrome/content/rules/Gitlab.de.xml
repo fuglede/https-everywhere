@@ -1,0 +1,6 @@
+<ruleset name="Gitlab.de">
+	<target host="gitlab.de" />
+	<target host="www.gitlab.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

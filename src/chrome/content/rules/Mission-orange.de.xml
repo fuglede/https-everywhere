@@ -1,0 +1,6 @@
+<ruleset name="Mission-orange.de">
+	<target host="mission-orange.de" />
+	<target host="www.mission-orange.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

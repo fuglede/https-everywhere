@@ -1,0 +1,6 @@
+<ruleset name="Convocatoriafundacionpepsicomexico.org">
+	<target host="convocatoriafundacionpepsicomexico.org" />
+	<target host="www.convocatoriafundacionpepsicomexico.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

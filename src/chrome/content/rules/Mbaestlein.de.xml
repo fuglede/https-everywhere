@@ -1,0 +1,6 @@
+<ruleset name="Mbaestlein.de">
+	<target host="mbaestlein.de" />
+	<target host="www.mbaestlein.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

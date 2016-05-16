@@ -1,0 +1,6 @@
+<ruleset name="0x90.fi">
+	<target host="0x90.fi" />
+	<target host="www.0x90.fi" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

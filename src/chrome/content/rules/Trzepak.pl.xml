@@ -1,0 +1,6 @@
+<ruleset name="Trzepak.pl">
+	<target host="trzepak.pl" />
+	<target host="www.trzepak.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

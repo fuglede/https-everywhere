@@ -1,0 +1,6 @@
+<ruleset name="Idiopolis.org">
+	<target host="idiopolis.org" />
+	<target host="www.idiopolis.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

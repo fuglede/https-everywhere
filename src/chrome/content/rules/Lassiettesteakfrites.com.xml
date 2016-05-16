@@ -1,0 +1,6 @@
+<ruleset name="Lassiettesteakfrites.com">
+	<target host="lassiettesteakfrites.com" />
+	<target host="www.lassiettesteakfrites.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

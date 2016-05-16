@@ -1,0 +1,6 @@
+<ruleset name="Micropodgon.tk">
+	<target host="micropodgon.tk" />
+	<target host="www.micropodgon.tk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

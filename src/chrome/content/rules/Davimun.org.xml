@@ -1,0 +1,6 @@
+<ruleset name="Davimun.org">
+	<target host="davimun.org" />
+	<target host="www.davimun.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

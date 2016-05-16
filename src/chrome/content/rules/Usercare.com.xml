@@ -1,0 +1,6 @@
+<ruleset name="Usercare.com">
+	<target host="usercare.com" />
+	<target host="www.usercare.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

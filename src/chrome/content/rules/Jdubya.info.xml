@@ -1,0 +1,6 @@
+<ruleset name="Jdubya.info">
+	<target host="jdubya.info" />
+	<target host="www.jdubya.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

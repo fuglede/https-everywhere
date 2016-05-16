@@ -1,0 +1,6 @@
+<ruleset name="Pinesandneedles.com">
+	<target host="pinesandneedles.com" />
+	<target host="www.pinesandneedles.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

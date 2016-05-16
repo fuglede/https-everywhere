@@ -1,0 +1,6 @@
+<ruleset name="Ferienland-sachsen.de">
+	<target host="ferienland-sachsen.de" />
+	<target host="www.ferienland-sachsen.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

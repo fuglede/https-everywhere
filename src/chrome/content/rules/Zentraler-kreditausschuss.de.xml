@@ -1,0 +1,6 @@
+<ruleset name="Zentraler-kreditausschuss.de">
+	<target host="zentraler-kreditausschuss.de" />
+	<target host="www.zentraler-kreditausschuss.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

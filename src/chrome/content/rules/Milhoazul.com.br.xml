@@ -1,0 +1,6 @@
+<ruleset name="Milhoazul.com.br">
+	<target host="milhoazul.com.br" />
+	<target host="www.milhoazul.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

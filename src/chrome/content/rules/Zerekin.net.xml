@@ -1,0 +1,6 @@
+<ruleset name="Zerekin.net">
+	<target host="zerekin.net" />
+	<target host="www.zerekin.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

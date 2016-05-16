@@ -1,0 +1,6 @@
+<ruleset name="Encnet.de">
+	<target host="encnet.de" />
+	<target host="www.encnet.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

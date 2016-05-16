@@ -1,0 +1,6 @@
+<ruleset name="Nghe.net">
+	<target host="nghe.net" />
+	<target host="www.nghe.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Szechenyi2020.hu">
+	<target host="szechenyi2020.hu" />
+	<target host="www.szechenyi2020.hu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

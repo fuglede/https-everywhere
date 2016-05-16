@@ -1,0 +1,6 @@
+<ruleset name="Zenvideocloud.com">
+	<target host="zenvideocloud.com" />
+	<target host="www.zenvideocloud.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

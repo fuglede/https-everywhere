@@ -1,0 +1,6 @@
+<ruleset name="Bytesystems.com">
+	<target host="bytesystems.com" />
+	<target host="www.bytesystems.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Styleflooring.com">
+	<target host="styleflooring.com" />
+	<target host="www.styleflooring.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

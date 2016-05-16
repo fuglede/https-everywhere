@@ -1,0 +1,6 @@
+<ruleset name="Game-files.net">
+	<target host="game-files.net" />
+	<target host="www.game-files.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

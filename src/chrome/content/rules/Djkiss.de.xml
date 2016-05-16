@@ -1,0 +1,6 @@
+<ruleset name="Djkiss.de">
+	<target host="djkiss.de" />
+	<target host="www.djkiss.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

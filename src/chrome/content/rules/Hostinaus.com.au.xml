@@ -1,0 +1,6 @@
+<ruleset name="Hostinaus.com.au">
+	<target host="hostinaus.com.au" />
+	<target host="www.hostinaus.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

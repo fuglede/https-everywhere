@@ -1,0 +1,6 @@
+<ruleset name="Touhoubohu.ch">
+	<target host="touhoubohu.ch" />
+	<target host="www.touhoubohu.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Getprivacysafe.com">
+	<target host="getprivacysafe.com" />
+	<target host="www.getprivacysafe.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

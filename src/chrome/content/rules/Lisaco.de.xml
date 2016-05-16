@@ -1,0 +1,6 @@
+<ruleset name="Lisaco.de">
+	<target host="lisaco.de" />
+	<target host="www.lisaco.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

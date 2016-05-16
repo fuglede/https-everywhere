@@ -1,0 +1,6 @@
+<ruleset name="Celec.gob.ec">
+	<target host="celec.gob.ec" />
+	<target host="www.celec.gob.ec" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

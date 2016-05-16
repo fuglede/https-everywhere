@@ -1,0 +1,6 @@
+<ruleset name="Freecloud.at">
+	<target host="freecloud.at" />
+	<target host="www.freecloud.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

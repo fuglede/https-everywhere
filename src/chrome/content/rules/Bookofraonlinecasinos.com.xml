@@ -1,0 +1,6 @@
+<ruleset name="Bookofraonlinecasinos.com">
+	<target host="bookofraonlinecasinos.com" />
+	<target host="www.bookofraonlinecasinos.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

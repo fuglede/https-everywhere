@@ -1,0 +1,6 @@
+<ruleset name="Yesonline.me">
+	<target host="yesonline.me" />
+	<target host="www.yesonline.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

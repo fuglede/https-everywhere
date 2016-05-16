@@ -1,0 +1,6 @@
+<ruleset name="X509.io">
+	<target host="x509.io" />
+	<target host="www.x509.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

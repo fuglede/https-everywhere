@@ -1,0 +1,6 @@
+<ruleset name="Hotel-pension-sonnalp.eu">
+	<target host="hotel-pension-sonnalp.eu" />
+	<target host="www.hotel-pension-sonnalp.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

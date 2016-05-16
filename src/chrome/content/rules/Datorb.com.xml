@@ -1,0 +1,6 @@
+<ruleset name="Datorb.com">
+	<target host="datorb.com" />
+	<target host="www.datorb.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

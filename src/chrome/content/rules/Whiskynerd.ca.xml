@@ -1,0 +1,6 @@
+<ruleset name="Whiskynerd.ca">
+	<target host="whiskynerd.ca" />
+	<target host="www.whiskynerd.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

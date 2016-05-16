@@ -1,0 +1,6 @@
+<ruleset name="Bitcoinprivacy.net">
+	<target host="bitcoinprivacy.net" />
+	<target host="www.bitcoinprivacy.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

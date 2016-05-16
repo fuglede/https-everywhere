@@ -1,0 +1,6 @@
+<ruleset name="Hstspreload.appspot.com">
+	<target host="hstspreload.appspot.com" />
+	<target host="www.hstspreload.appspot.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

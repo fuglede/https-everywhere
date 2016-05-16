@@ -1,0 +1,6 @@
+<ruleset name="911911.pw">
+	<target host="911911.pw" />
+	<target host="www.911911.pw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

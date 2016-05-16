@@ -1,0 +1,6 @@
+<ruleset name="Sexwork.net">
+	<target host="sexwork.net" />
+	<target host="www.sexwork.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

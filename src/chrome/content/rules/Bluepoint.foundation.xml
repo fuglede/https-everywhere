@@ -1,0 +1,6 @@
+<ruleset name="Bluepoint.foundation">
+	<target host="bluepoint.foundation" />
+	<target host="www.bluepoint.foundation" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="T23m-navi.jp">
+	<target host="t23m-navi.jp" />
+	<target host="www.t23m-navi.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Cdkeykopen.com">
+	<target host="cdkeykopen.com" />
+	<target host="www.cdkeykopen.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

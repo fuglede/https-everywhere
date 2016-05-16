@@ -1,0 +1,6 @@
+<ruleset name="Yikzu.cn">
+	<target host="yikzu.cn" />
+	<target host="www.yikzu.cn" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

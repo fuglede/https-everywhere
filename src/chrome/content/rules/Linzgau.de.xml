@@ -1,0 +1,6 @@
+<ruleset name="Linzgau.de">
+	<target host="linzgau.de" />
+	<target host="www.linzgau.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

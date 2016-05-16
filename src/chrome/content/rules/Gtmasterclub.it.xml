@@ -1,0 +1,6 @@
+<ruleset name="Gtmasterclub.it">
+	<target host="gtmasterclub.it" />
+	<target host="www.gtmasterclub.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Nutleyef.org">
+	<target host="nutleyef.org" />
+	<target host="www.nutleyef.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

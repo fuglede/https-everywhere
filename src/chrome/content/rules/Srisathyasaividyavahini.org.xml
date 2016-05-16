@@ -1,0 +1,6 @@
+<ruleset name="Srisathyasaividyavahini.org">
+	<target host="srisathyasaividyavahini.org" />
+	<target host="www.srisathyasaividyavahini.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

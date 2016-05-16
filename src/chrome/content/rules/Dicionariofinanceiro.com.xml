@@ -1,0 +1,6 @@
+<ruleset name="Dicionariofinanceiro.com">
+	<target host="dicionariofinanceiro.com" />
+	<target host="www.dicionariofinanceiro.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

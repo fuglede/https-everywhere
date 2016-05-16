@@ -1,0 +1,6 @@
+<ruleset name="Aikido-wels.at">
+	<target host="aikido-wels.at" />
+	<target host="www.aikido-wels.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Metraclearningcentre.org">
+	<target host="metraclearningcentre.org" />
+	<target host="www.metraclearningcentre.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

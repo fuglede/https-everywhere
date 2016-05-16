@@ -1,0 +1,6 @@
+<ruleset name="Timetab.org">
+	<target host="timetab.org" />
+	<target host="www.timetab.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

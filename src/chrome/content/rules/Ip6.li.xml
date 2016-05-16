@@ -1,0 +1,6 @@
+<ruleset name="Ip6.li">
+	<target host="ip6.li" />
+	<target host="www.ip6.li" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

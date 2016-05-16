@@ -1,0 +1,6 @@
+<ruleset name="Cmci.dk">
+	<target host="cmci.dk" />
+	<target host="www.cmci.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

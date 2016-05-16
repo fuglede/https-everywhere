@@ -1,0 +1,6 @@
+<ruleset name="Sotor.de">
+	<target host="sotor.de" />
+	<target host="www.sotor.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Foxtrot.pw">
+	<target host="foxtrot.pw" />
+	<target host="www.foxtrot.pw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

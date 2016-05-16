@@ -1,0 +1,6 @@
+<ruleset name="Docid.io">
+	<target host="docid.io" />
+	<target host="www.docid.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

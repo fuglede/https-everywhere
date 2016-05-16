@@ -1,0 +1,6 @@
+<ruleset name="Commercial-bank.net">
+	<target host="commercial-bank.net" />
+	<target host="www.commercial-bank.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

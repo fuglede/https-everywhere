@@ -1,0 +1,6 @@
+<ruleset name="Kisscp.org">
+	<target host="kisscp.org" />
+	<target host="www.kisscp.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

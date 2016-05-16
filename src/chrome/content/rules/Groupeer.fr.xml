@@ -1,0 +1,6 @@
+<ruleset name="Groupeer.fr">
+	<target host="groupeer.fr" />
+	<target host="www.groupeer.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

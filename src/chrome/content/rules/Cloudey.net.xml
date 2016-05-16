@@ -1,0 +1,6 @@
+<ruleset name="Cloudey.net">
+	<target host="cloudey.net" />
+	<target host="www.cloudey.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

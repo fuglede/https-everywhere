@@ -1,0 +1,6 @@
+<ruleset name="Dkds.us">
+	<target host="dkds.us" />
+	<target host="www.dkds.us" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Irgit.pl">
+	<target host="irgit.pl" />
+	<target host="www.irgit.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Bowlroll.net">
+	<target host="bowlroll.net" />
+	<target host="www.bowlroll.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

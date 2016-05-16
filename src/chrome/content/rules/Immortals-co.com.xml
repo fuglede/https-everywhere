@@ -1,0 +1,6 @@
+<ruleset name="Immortals-co.com">
+	<target host="immortals-co.com" />
+	<target host="www.immortals-co.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

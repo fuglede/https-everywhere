@@ -1,0 +1,6 @@
+<ruleset name="Bendrich.de">
+	<target host="bendrich.de" />
+	<target host="www.bendrich.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

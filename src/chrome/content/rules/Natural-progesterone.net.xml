@@ -1,0 +1,6 @@
+<ruleset name="Natural-progesterone.net">
+	<target host="natural-progesterone.net" />
+	<target host="www.natural-progesterone.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

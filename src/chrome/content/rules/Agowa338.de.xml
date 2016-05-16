@@ -1,0 +1,6 @@
+<ruleset name="Agowa338.de">
+	<target host="agowa338.de" />
+	<target host="www.agowa338.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Modellmix.com">
+	<target host="modellmix.com" />
+	<target host="www.modellmix.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

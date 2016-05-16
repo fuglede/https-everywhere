@@ -1,0 +1,6 @@
+<ruleset name="Digital-coach.it">
+	<target host="digital-coach.it" />
+	<target host="www.digital-coach.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

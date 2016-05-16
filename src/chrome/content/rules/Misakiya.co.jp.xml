@@ -1,0 +1,6 @@
+<ruleset name="Misakiya.co.jp">
+	<target host="misakiya.co.jp" />
+	<target host="www.misakiya.co.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

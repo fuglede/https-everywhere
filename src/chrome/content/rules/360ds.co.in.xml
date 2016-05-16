@@ -1,0 +1,6 @@
+<ruleset name="360ds.co.in">
+	<target host="360ds.co.in" />
+	<target host="www.360ds.co.in" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

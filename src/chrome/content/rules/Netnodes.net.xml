@@ -1,0 +1,6 @@
+<ruleset name="Netnodes.net">
+	<target host="netnodes.net" />
+	<target host="www.netnodes.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

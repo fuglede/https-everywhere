@@ -1,0 +1,6 @@
+<ruleset name="Ronwo.de">
+	<target host="ronwo.de" />
+	<target host="www.ronwo.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

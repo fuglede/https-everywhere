@@ -1,0 +1,6 @@
+<ruleset name="Semyonov.su">
+	<target host="semyonov.su" />
+	<target host="www.semyonov.su" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

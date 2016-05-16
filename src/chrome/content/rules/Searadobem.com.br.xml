@@ -1,0 +1,6 @@
+<ruleset name="Searadobem.com.br">
+	<target host="searadobem.com.br" />
+	<target host="www.searadobem.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

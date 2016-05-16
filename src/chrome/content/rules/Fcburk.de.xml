@@ -1,0 +1,6 @@
+<ruleset name="Fcburk.de">
+	<target host="fcburk.de" />
+	<target host="www.fcburk.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

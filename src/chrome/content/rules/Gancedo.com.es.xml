@@ -1,0 +1,6 @@
+<ruleset name="Gancedo.com.es">
+	<target host="gancedo.com.es" />
+	<target host="www.gancedo.com.es" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

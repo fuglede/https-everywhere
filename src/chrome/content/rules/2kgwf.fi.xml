@@ -1,0 +1,6 @@
+<ruleset name="2kgwf.fi">
+	<target host="2kgwf.fi" />
+	<target host="www.2kgwf.fi" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

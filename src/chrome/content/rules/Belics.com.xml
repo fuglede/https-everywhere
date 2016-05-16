@@ -1,0 +1,6 @@
+<ruleset name="Belics.com">
+	<target host="belics.com" />
+	<target host="www.belics.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

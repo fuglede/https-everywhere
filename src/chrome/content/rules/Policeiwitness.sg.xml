@@ -1,0 +1,6 @@
+<ruleset name="Policeiwitness.sg">
+	<target host="policeiwitness.sg" />
+	<target host="www.policeiwitness.sg" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

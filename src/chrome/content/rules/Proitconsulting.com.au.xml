@@ -1,0 +1,6 @@
+<ruleset name="Proitconsulting.com.au">
+	<target host="proitconsulting.com.au" />
+	<target host="www.proitconsulting.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

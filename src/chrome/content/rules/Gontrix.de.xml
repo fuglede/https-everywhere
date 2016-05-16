@@ -1,0 +1,6 @@
+<ruleset name="Gontrix.de">
+	<target host="gontrix.de" />
+	<target host="www.gontrix.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

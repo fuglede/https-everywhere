@@ -1,0 +1,6 @@
+<ruleset name="Intramanager.co.uk">
+	<target host="intramanager.co.uk" />
+	<target host="www.intramanager.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="E-apack.com.br">
+	<target host="e-apack.com.br" />
+	<target host="www.e-apack.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

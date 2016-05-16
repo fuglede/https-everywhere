@@ -1,0 +1,6 @@
+<ruleset name="Zwei.io">
+	<target host="zwei.io" />
+	<target host="www.zwei.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

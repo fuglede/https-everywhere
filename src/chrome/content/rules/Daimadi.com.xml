@@ -1,0 +1,6 @@
+<ruleset name="Daimadi.com">
+	<target host="daimadi.com" />
+	<target host="www.daimadi.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

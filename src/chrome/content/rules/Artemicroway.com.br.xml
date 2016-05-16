@@ -1,0 +1,6 @@
+<ruleset name="Artemicroway.com.br">
+	<target host="artemicroway.com.br" />
+	<target host="www.artemicroway.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

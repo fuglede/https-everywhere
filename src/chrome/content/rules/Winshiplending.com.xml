@@ -1,0 +1,6 @@
+<ruleset name="Winshiplending.com">
+	<target host="winshiplending.com" />
+	<target host="www.winshiplending.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

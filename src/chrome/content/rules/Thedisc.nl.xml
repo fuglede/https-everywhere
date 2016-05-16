@@ -1,0 +1,6 @@
+<ruleset name="Thedisc.nl">
+	<target host="thedisc.nl" />
+	<target host="www.thedisc.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

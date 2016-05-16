@@ -1,0 +1,6 @@
+<ruleset name="Loadso.me">
+	<target host="loadso.me" />
+	<target host="www.loadso.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

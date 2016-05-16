@@ -1,0 +1,6 @@
+<ruleset name="Oznamovacipovinnost.cz">
+	<target host="oznamovacipovinnost.cz" />
+	<target host="www.oznamovacipovinnost.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

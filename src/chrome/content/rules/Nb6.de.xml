@@ -1,0 +1,6 @@
+<ruleset name="Nb6.de">
+	<target host="nb6.de" />
+	<target host="www.nb6.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

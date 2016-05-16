@@ -1,0 +1,6 @@
+<ruleset name="Giocoscacchi.com">
+	<target host="giocoscacchi.com" />
+	<target host="www.giocoscacchi.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

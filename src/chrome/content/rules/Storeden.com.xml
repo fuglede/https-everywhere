@@ -1,0 +1,6 @@
+<ruleset name="Storeden.com">
+	<target host="storeden.com" />
+	<target host="www.storeden.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

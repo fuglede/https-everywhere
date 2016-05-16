@@ -1,0 +1,6 @@
+<ruleset name="Malerversand.de">
+	<target host="malerversand.de" />
+	<target host="www.malerversand.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

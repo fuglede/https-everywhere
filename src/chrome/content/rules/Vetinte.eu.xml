@@ -1,0 +1,6 @@
+<ruleset name="Vetinte.eu">
+	<target host="vetinte.eu" />
+	<target host="www.vetinte.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

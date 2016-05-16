@@ -1,0 +1,6 @@
+<ruleset name="Zocken.com">
+	<target host="zocken.com" />
+	<target host="www.zocken.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

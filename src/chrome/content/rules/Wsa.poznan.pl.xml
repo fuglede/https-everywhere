@@ -1,0 +1,6 @@
+<ruleset name="Wsa.poznan.pl">
+	<target host="wsa.poznan.pl" />
+	<target host="www.wsa.poznan.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

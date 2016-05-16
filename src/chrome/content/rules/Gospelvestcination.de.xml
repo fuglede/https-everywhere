@@ -1,0 +1,6 @@
+<ruleset name="Gospelvestcination.de">
+	<target host="gospelvestcination.de" />
+	<target host="www.gospelvestcination.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

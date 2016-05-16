@@ -1,0 +1,6 @@
+<ruleset name="Stash.ai">
+	<target host="stash.ai" />
+	<target host="www.stash.ai" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

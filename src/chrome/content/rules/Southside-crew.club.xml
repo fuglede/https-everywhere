@@ -1,0 +1,6 @@
+<ruleset name="Southside-crew.club">
+	<target host="southside-crew.club" />
+	<target host="www.southside-crew.club" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

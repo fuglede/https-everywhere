@@ -1,0 +1,6 @@
+<ruleset name="Hypemgmt.com">
+	<target host="hypemgmt.com" />
+	<target host="www.hypemgmt.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

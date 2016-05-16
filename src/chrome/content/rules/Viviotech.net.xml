@@ -1,0 +1,6 @@
+<ruleset name="Viviotech.net">
+	<target host="viviotech.net" />
+	<target host="www.viviotech.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

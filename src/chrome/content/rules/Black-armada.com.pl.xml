@@ -1,0 +1,6 @@
+<ruleset name="Black-armada.com.pl">
+	<target host="black-armada.com.pl" />
+	<target host="www.black-armada.com.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

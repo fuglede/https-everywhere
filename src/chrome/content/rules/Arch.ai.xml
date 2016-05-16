@@ -1,0 +1,6 @@
+<ruleset name="Arch.ai">
+	<target host="arch.ai" />
+	<target host="www.arch.ai" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

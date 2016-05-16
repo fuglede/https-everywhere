@@ -1,0 +1,6 @@
+<ruleset name="Ars-design.net">
+	<target host="ars-design.net" />
+	<target host="www.ars-design.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

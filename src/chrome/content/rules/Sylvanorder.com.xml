@@ -1,0 +1,6 @@
+<ruleset name="Sylvanorder.com">
+	<target host="sylvanorder.com" />
+	<target host="www.sylvanorder.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

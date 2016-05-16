@@ -1,0 +1,6 @@
+<ruleset name="Cyberpunk.ca">
+	<target host="cyberpunk.ca" />
+	<target host="www.cyberpunk.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

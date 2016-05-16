@@ -1,0 +1,6 @@
+<ruleset name="Irazimina.ru">
+	<target host="irazimina.ru" />
+	<target host="www.irazimina.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Oddtime.net">
+	<target host="oddtime.net" />
+	<target host="www.oddtime.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Nekomimi.pl">
+	<target host="nekomimi.pl" />
+	<target host="www.nekomimi.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

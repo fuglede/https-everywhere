@@ -1,0 +1,6 @@
+<ruleset name="Unblockmy.tech">
+	<target host="unblockmy.tech" />
+	<target host="www.unblockmy.tech" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

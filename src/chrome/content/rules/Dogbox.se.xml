@@ -1,0 +1,6 @@
+<ruleset name="Dogbox.se">
+	<target host="dogbox.se" />
+	<target host="www.dogbox.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

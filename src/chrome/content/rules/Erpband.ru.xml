@@ -1,0 +1,6 @@
+<ruleset name="Erpband.ru">
+	<target host="erpband.ru" />
+	<target host="www.erpband.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

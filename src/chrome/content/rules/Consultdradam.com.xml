@@ -1,0 +1,6 @@
+<ruleset name="Consultdradam.com">
+	<target host="consultdradam.com" />
+	<target host="www.consultdradam.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

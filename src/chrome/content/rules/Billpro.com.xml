@@ -1,0 +1,6 @@
+<ruleset name="Billpro.com">
+	<target host="billpro.com" />
+	<target host="www.billpro.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

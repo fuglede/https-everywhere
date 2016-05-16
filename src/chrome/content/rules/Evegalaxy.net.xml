@@ -1,0 +1,6 @@
+<ruleset name="Evegalaxy.net">
+	<target host="evegalaxy.net" />
+	<target host="www.evegalaxy.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

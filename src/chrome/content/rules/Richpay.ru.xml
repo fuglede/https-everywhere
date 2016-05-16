@@ -1,0 +1,6 @@
+<ruleset name="Richpay.ru">
+	<target host="richpay.ru" />
+	<target host="www.richpay.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

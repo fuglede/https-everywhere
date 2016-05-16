@@ -1,0 +1,6 @@
+<ruleset name="Cherrywoodtech.com">
+	<target host="cherrywoodtech.com" />
+	<target host="www.cherrywoodtech.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

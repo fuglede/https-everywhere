@@ -1,0 +1,6 @@
+<ruleset name="365.or.jp">
+	<target host="365.or.jp" />
+	<target host="www.365.or.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

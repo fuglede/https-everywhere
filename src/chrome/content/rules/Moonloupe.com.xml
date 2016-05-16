@@ -1,0 +1,6 @@
+<ruleset name="Moonloupe.com">
+	<target host="moonloupe.com" />
+	<target host="www.moonloupe.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

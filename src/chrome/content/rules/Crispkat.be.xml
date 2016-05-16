@@ -1,0 +1,6 @@
+<ruleset name="Crispkat.be">
+	<target host="crispkat.be" />
+	<target host="www.crispkat.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

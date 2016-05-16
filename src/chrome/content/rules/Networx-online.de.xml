@@ -1,0 +1,6 @@
+<ruleset name="Networx-online.de">
+	<target host="networx-online.de" />
+	<target host="www.networx-online.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

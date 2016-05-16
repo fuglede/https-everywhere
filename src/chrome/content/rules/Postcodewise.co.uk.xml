@@ -1,0 +1,6 @@
+<ruleset name="Postcodewise.co.uk">
+	<target host="postcodewise.co.uk" />
+	<target host="www.postcodewise.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

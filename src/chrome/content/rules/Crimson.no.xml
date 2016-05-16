@@ -1,0 +1,6 @@
+<ruleset name="Crimson.no">
+	<target host="crimson.no" />
+	<target host="www.crimson.no" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

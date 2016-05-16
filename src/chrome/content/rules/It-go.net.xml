@@ -1,0 +1,6 @@
+<ruleset name="It-go.net">
+	<target host="it-go.net" />
+	<target host="www.it-go.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

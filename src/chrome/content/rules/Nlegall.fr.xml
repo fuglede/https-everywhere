@@ -1,0 +1,6 @@
+<ruleset name="Nlegall.fr">
+	<target host="nlegall.fr" />
+	<target host="www.nlegall.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

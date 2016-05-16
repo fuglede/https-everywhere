@@ -1,0 +1,6 @@
+<ruleset name="Workfone.io">
+	<target host="workfone.io" />
+	<target host="www.workfone.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

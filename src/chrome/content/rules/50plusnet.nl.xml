@@ -1,0 +1,6 @@
+<ruleset name="50plusnet.nl">
+	<target host="50plusnet.nl" />
+	<target host="www.50plusnet.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

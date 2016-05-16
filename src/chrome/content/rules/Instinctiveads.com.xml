@@ -1,0 +1,6 @@
+<ruleset name="Instinctiveads.com">
+	<target host="instinctiveads.com" />
+	<target host="www.instinctiveads.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

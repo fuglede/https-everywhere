@@ -1,0 +1,6 @@
+<ruleset name="Awareness-im-mittelstand.de">
+	<target host="awareness-im-mittelstand.de" />
+	<target host="www.awareness-im-mittelstand.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

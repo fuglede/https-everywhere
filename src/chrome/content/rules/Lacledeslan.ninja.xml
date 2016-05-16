@@ -1,0 +1,6 @@
+<ruleset name="Lacledeslan.ninja">
+	<target host="lacledeslan.ninja" />
+	<target host="www.lacledeslan.ninja" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

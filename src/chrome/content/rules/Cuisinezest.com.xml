@@ -1,0 +1,6 @@
+<ruleset name="Cuisinezest.com">
+	<target host="cuisinezest.com" />
+	<target host="www.cuisinezest.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

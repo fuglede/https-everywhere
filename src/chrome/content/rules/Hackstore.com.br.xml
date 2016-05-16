@@ -1,0 +1,6 @@
+<ruleset name="Hackstore.com.br">
+	<target host="hackstore.com.br" />
+	<target host="www.hackstore.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

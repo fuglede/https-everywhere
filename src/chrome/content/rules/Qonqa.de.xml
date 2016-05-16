@@ -1,0 +1,6 @@
+<ruleset name="Qonqa.de">
+	<target host="qonqa.de" />
+	<target host="www.qonqa.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

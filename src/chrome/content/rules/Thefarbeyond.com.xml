@@ -1,0 +1,6 @@
+<ruleset name="Thefarbeyond.com">
+	<target host="thefarbeyond.com" />
+	<target host="www.thefarbeyond.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

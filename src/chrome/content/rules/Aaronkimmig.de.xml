@@ -1,0 +1,6 @@
+<ruleset name="Aaronkimmig.de">
+	<target host="aaronkimmig.de" />
+	<target host="www.aaronkimmig.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Calibso.net">
+	<target host="calibso.net" />
+	<target host="www.calibso.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

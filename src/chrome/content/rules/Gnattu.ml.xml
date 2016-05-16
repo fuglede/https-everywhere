@@ -1,0 +1,6 @@
+<ruleset name="Gnattu.ml">
+	<target host="gnattu.ml" />
+	<target host="www.gnattu.ml" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

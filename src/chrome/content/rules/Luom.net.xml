@@ -1,0 +1,6 @@
+<ruleset name="Luom.net">
+	<target host="luom.net" />
+	<target host="www.luom.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

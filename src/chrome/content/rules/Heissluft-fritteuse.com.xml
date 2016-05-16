@@ -1,0 +1,6 @@
+<ruleset name="Heissluft-fritteuse.com">
+	<target host="heissluft-fritteuse.com" />
+	<target host="www.heissluft-fritteuse.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

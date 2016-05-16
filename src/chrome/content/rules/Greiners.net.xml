@@ -1,0 +1,6 @@
+<ruleset name="Greiners.net">
+	<target host="greiners.net" />
+	<target host="www.greiners.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

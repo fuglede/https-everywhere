@@ -1,0 +1,6 @@
+<ruleset name="Chaos.fail">
+	<target host="chaos.fail" />
+	<target host="www.chaos.fail" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

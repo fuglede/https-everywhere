@@ -1,0 +1,6 @@
+<ruleset name="Knapen.io">
+	<target host="knapen.io" />
+	<target host="www.knapen.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

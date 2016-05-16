@@ -1,0 +1,6 @@
+<ruleset name="Mdfnet.se">
+	<target host="mdfnet.se" />
+	<target host="www.mdfnet.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

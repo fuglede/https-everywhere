@@ -1,0 +1,6 @@
+<ruleset name="Slip-gaming.tk">
+	<target host="slip-gaming.tk" />
+	<target host="www.slip-gaming.tk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

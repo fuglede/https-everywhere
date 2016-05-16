@@ -1,0 +1,6 @@
+<ruleset name="Opperwall.net">
+	<target host="opperwall.net" />
+	<target host="www.opperwall.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

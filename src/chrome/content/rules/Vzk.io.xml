@@ -1,0 +1,6 @@
+<ruleset name="Vzk.io">
+	<target host="vzk.io" />
+	<target host="www.vzk.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

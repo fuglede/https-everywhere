@@ -1,0 +1,6 @@
+<ruleset name="Drawingcode.net">
+	<target host="drawingcode.net" />
+	<target host="www.drawingcode.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Stuur.nl">
+	<target host="stuur.nl" />
+	<target host="www.stuur.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Luohua.im">
+	<target host="luohua.im" />
+	<target host="www.luohua.im" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Breitbild-beamer.de">
+	<target host="breitbild-beamer.de" />
+	<target host="www.breitbild-beamer.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Niho.jp">
+	<target host="niho.jp" />
+	<target host="www.niho.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

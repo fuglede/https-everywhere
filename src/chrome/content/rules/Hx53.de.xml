@@ -1,0 +1,6 @@
+<ruleset name="Hx53.de">
+	<target host="hx53.de" />
+	<target host="www.hx53.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

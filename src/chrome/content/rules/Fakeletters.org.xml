@@ -1,0 +1,6 @@
+<ruleset name="Fakeletters.org">
+	<target host="fakeletters.org" />
+	<target host="www.fakeletters.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

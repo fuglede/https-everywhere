@@ -1,0 +1,6 @@
+<ruleset name="Nanto.eu">
+	<target host="nanto.eu" />
+	<target host="www.nanto.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

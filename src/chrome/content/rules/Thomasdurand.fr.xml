@@ -1,0 +1,6 @@
+<ruleset name="Thomasdurand.fr">
+	<target host="thomasdurand.fr" />
+	<target host="www.thomasdurand.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

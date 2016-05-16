@@ -1,0 +1,6 @@
+<ruleset name="Selectorders.com">
+	<target host="selectorders.com" />
+	<target host="www.selectorders.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

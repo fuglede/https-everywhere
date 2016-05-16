@@ -1,0 +1,6 @@
+<ruleset name="Labina.com.tr">
+	<target host="labina.com.tr" />
+	<target host="www.labina.com.tr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

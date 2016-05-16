@@ -1,0 +1,6 @@
+<ruleset name="50millionablaze.org">
+	<target host="50millionablaze.org" />
+	<target host="www.50millionablaze.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

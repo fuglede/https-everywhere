@@ -1,0 +1,6 @@
+<ruleset name="Sephr.com">
+	<target host="sephr.com" />
+	<target host="www.sephr.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

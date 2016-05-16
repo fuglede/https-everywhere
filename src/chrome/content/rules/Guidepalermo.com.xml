@@ -1,0 +1,6 @@
+<ruleset name="Guidepalermo.com">
+	<target host="guidepalermo.com" />
+	<target host="www.guidepalermo.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

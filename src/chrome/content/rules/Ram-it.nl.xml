@@ -1,0 +1,6 @@
+<ruleset name="Ram-it.nl">
+	<target host="ram-it.nl" />
+	<target host="www.ram-it.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

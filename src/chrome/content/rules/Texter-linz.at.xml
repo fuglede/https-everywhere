@@ -1,0 +1,6 @@
+<ruleset name="Texter-linz.at">
+	<target host="texter-linz.at" />
+	<target host="www.texter-linz.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

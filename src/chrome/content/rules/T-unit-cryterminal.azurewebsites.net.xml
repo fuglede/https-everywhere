@@ -1,0 +1,6 @@
+<ruleset name="T-unit-cryterminal.azurewebsites.net">
+	<target host="t-unit-cryterminal.azurewebsites.net" />
+	<target host="www.t-unit-cryterminal.azurewebsites.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

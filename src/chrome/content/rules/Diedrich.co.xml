@@ -1,0 +1,6 @@
+<ruleset name="Diedrich.co">
+	<target host="diedrich.co" />
+	<target host="www.diedrich.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

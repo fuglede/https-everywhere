@@ -1,0 +1,6 @@
+<ruleset name="Iswhereigive.com">
+	<target host="iswhereigive.com" />
+	<target host="www.iswhereigive.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

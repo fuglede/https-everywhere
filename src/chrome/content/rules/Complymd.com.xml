@@ -1,0 +1,6 @@
+<ruleset name="Complymd.com">
+	<target host="complymd.com" />
+	<target host="www.complymd.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

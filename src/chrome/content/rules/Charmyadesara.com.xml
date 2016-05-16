@@ -1,0 +1,6 @@
+<ruleset name="Charmyadesara.com">
+	<target host="charmyadesara.com" />
+	<target host="www.charmyadesara.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

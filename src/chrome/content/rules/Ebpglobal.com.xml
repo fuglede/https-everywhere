@@ -1,0 +1,6 @@
+<ruleset name="Ebpglobal.com">
+	<target host="ebpglobal.com" />
+	<target host="www.ebpglobal.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Aprovpn.com">
+	<target host="aprovpn.com" />
+	<target host="www.aprovpn.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

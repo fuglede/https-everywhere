@@ -1,0 +1,6 @@
+<ruleset name="Sustsol.com">
+	<target host="sustsol.com" />
+	<target host="www.sustsol.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Xmpp.dk">
+	<target host="xmpp.dk" />
+	<target host="www.xmpp.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

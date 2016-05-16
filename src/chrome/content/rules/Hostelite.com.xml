@@ -1,0 +1,6 @@
+<ruleset name="Hostelite.com">
+	<target host="hostelite.com" />
+	<target host="www.hostelite.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Noxlogic.nl">
+	<target host="noxlogic.nl" />
+	<target host="www.noxlogic.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

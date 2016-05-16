@@ -1,0 +1,6 @@
+<ruleset name="Julido.de">
+	<target host="julido.de" />
+	<target host="www.julido.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

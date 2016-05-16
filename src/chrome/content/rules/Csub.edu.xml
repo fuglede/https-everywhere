@@ -1,0 +1,6 @@
+<ruleset name="Csub.edu">
+	<target host="csub.edu" />
+	<target host="www.csub.edu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

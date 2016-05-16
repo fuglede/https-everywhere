@@ -1,0 +1,6 @@
+<ruleset name="Novelfeed.com">
+	<target host="novelfeed.com" />
+	<target host="www.novelfeed.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

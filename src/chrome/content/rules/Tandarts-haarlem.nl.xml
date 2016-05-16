@@ -1,0 +1,6 @@
+<ruleset name="Tandarts-haarlem.nl">
+	<target host="tandarts-haarlem.nl" />
+	<target host="www.tandarts-haarlem.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

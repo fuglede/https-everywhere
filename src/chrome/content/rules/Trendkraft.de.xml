@@ -1,0 +1,6 @@
+<ruleset name="Trendkraft.de">
+	<target host="trendkraft.de" />
+	<target host="www.trendkraft.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

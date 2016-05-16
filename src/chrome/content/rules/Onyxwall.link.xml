@@ -1,0 +1,6 @@
+<ruleset name="Onyxwall.link">
+	<target host="onyxwall.link" />
+	<target host="www.onyxwall.link" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

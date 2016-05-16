@@ -1,0 +1,6 @@
+<ruleset name="Gigawa.lt">
+	<target host="gigawa.lt" />
+	<target host="www.gigawa.lt" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

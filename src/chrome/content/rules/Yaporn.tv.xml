@@ -1,0 +1,6 @@
+<ruleset name="Yaporn.tv">
+	<target host="yaporn.tv" />
+	<target host="www.yaporn.tv" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

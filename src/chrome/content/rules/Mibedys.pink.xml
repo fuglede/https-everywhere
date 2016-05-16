@@ -1,0 +1,6 @@
+<ruleset name="Mibedys.pink">
+	<target host="mibedys.pink" />
+	<target host="www.mibedys.pink" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

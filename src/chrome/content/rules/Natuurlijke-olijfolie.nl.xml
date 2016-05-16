@@ -1,0 +1,6 @@
+<ruleset name="Natuurlijke-olijfolie.nl">
+	<target host="natuurlijke-olijfolie.nl" />
+	<target host="www.natuurlijke-olijfolie.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

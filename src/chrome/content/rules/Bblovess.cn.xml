@@ -1,0 +1,6 @@
+<ruleset name="Bblovess.cn">
+	<target host="bblovess.cn" />
+	<target host="www.bblovess.cn" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

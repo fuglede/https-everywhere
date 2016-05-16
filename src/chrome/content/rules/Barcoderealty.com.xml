@@ -1,0 +1,6 @@
+<ruleset name="Barcoderealty.com">
+	<target host="barcoderealty.com" />
+	<target host="www.barcoderealty.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

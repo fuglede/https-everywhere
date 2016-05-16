@@ -1,0 +1,6 @@
+<ruleset name="Kilerd.me">
+	<target host="kilerd.me" />
+	<target host="www.kilerd.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

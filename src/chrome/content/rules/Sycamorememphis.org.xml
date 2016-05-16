@@ -1,0 +1,6 @@
+<ruleset name="Sycamorememphis.org">
+	<target host="sycamorememphis.org" />
+	<target host="www.sycamorememphis.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Ratajczak.fr">
+	<target host="ratajczak.fr" />
+	<target host="www.ratajczak.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

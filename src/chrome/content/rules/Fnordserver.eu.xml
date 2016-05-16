@@ -1,0 +1,6 @@
+<ruleset name="Fnordserver.eu">
+	<target host="fnordserver.eu" />
+	<target host="www.fnordserver.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

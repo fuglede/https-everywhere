@@ -1,0 +1,6 @@
+<ruleset name="Superswingtrainer.com">
+	<target host="superswingtrainer.com" />
+	<target host="www.superswingtrainer.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

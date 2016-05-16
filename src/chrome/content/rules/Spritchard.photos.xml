@@ -1,0 +1,6 @@
+<ruleset name="Spritchard.photos">
+	<target host="spritchard.photos" />
+	<target host="www.spritchard.photos" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

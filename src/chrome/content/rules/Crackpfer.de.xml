@@ -1,0 +1,6 @@
+<ruleset name="Crackpfer.de">
+	<target host="crackpfer.de" />
+	<target host="www.crackpfer.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

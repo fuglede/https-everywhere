@@ -1,0 +1,6 @@
+<ruleset name="Leutgeb.xyz">
+	<target host="leutgeb.xyz" />
+	<target host="www.leutgeb.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

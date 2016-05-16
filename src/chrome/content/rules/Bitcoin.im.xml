@@ -1,0 +1,6 @@
+<ruleset name="Bitcoin.im">
+	<target host="bitcoin.im" />
+	<target host="www.bitcoin.im" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

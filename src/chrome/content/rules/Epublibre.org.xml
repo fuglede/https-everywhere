@@ -1,0 +1,6 @@
+<ruleset name="Epublibre.org">
+	<target host="epublibre.org" />
+	<target host="www.epublibre.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Tacomafia.net">
+	<target host="tacomafia.net" />
+	<target host="www.tacomafia.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

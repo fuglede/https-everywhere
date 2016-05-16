@@ -1,0 +1,6 @@
+<ruleset name="Thenoseeums.com">
+	<target host="thenoseeums.com" />
+	<target host="www.thenoseeums.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

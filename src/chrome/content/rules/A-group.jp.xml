@@ -1,0 +1,6 @@
+<ruleset name="A-group.jp">
+	<target host="a-group.jp" />
+	<target host="www.a-group.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

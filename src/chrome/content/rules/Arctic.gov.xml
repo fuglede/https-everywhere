@@ -1,0 +1,6 @@
+<ruleset name="Arctic.gov">
+	<target host="arctic.gov" />
+	<target host="www.arctic.gov" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

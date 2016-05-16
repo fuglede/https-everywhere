@@ -1,0 +1,6 @@
+<ruleset name="Cardrescue.com">
+	<target host="cardrescue.com" />
+	<target host="www.cardrescue.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

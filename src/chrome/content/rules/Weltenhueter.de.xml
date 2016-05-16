@@ -1,0 +1,6 @@
+<ruleset name="Weltenhueter.de">
+	<target host="weltenhueter.de" />
+	<target host="www.weltenhueter.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

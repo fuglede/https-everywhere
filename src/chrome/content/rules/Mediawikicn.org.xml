@@ -1,0 +1,6 @@
+<ruleset name="Mediawikicn.org">
+	<target host="mediawikicn.org" />
+	<target host="www.mediawikicn.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

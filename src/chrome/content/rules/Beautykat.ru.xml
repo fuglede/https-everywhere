@@ -1,0 +1,6 @@
+<ruleset name="Beautykat.ru">
+	<target host="beautykat.ru" />
+	<target host="www.beautykat.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Teemperor.de">
+	<target host="teemperor.de" />
+	<target host="www.teemperor.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

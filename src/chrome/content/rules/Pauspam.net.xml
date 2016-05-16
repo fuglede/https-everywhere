@@ -1,0 +1,6 @@
+<ruleset name="Pauspam.net">
+	<target host="pauspam.net" />
+	<target host="www.pauspam.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

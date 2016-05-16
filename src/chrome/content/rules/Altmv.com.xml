@@ -1,0 +1,6 @@
+<ruleset name="Altmv.com">
+	<target host="altmv.com" />
+	<target host="www.altmv.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

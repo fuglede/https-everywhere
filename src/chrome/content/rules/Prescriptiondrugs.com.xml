@@ -1,0 +1,6 @@
+<ruleset name="Prescriptiondrugs.com">
+	<target host="prescriptiondrugs.com" />
+	<target host="www.prescriptiondrugs.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

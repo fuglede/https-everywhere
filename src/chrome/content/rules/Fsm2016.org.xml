@@ -1,0 +1,6 @@
+<ruleset name="Fsm2016.org">
+	<target host="fsm2016.org" />
+	<target host="www.fsm2016.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

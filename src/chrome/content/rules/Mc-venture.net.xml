@@ -1,0 +1,6 @@
+<ruleset name="Mc-venture.net">
+	<target host="mc-venture.net" />
+	<target host="www.mc-venture.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

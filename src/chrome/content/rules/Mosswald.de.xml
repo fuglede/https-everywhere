@@ -1,0 +1,6 @@
+<ruleset name="Mosswald.de">
+	<target host="mosswald.de" />
+	<target host="www.mosswald.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

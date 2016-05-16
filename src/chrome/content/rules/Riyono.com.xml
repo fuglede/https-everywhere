@@ -1,0 +1,6 @@
+<ruleset name="Riyono.com">
+	<target host="riyono.com" />
+	<target host="www.riyono.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

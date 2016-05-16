@@ -1,0 +1,6 @@
+<ruleset name="Gotocb.com">
+	<target host="gotocb.com" />
+	<target host="www.gotocb.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

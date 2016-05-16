@@ -1,0 +1,6 @@
+<ruleset name="Largescaleforums.com">
+	<target host="largescaleforums.com" />
+	<target host="www.largescaleforums.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

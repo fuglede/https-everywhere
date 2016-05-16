@@ -1,0 +1,6 @@
+<ruleset name="Spydersec.com">
+	<target host="spydersec.com" />
+	<target host="www.spydersec.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

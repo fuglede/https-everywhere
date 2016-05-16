@@ -1,0 +1,6 @@
+<ruleset name="Nabb.ca">
+	<target host="nabb.ca" />
+	<target host="www.nabb.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

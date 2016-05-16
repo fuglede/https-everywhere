@@ -1,0 +1,6 @@
+<ruleset name="Jseditor.co">
+	<target host="jseditor.co" />
+	<target host="www.jseditor.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

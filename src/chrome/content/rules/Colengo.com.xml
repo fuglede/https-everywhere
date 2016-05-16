@@ -1,0 +1,6 @@
+<ruleset name="Colengo.com">
+	<target host="colengo.com" />
+	<target host="www.colengo.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

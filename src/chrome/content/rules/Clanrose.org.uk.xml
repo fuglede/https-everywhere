@@ -1,0 +1,6 @@
+<ruleset name="Clanrose.org.uk">
+	<target host="clanrose.org.uk" />
+	<target host="www.clanrose.org.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Agrimap.com">
+	<target host="agrimap.com" />
+	<target host="www.agrimap.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

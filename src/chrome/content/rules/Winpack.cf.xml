@@ -1,0 +1,6 @@
+<ruleset name="Winpack.cf">
+	<target host="winpack.cf" />
+	<target host="www.winpack.cf" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

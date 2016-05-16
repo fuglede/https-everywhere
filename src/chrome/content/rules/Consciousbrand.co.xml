@@ -1,0 +1,6 @@
+<ruleset name="Consciousbrand.co">
+	<target host="consciousbrand.co" />
+	<target host="www.consciousbrand.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

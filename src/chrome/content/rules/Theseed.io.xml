@@ -1,0 +1,6 @@
+<ruleset name="Theseed.io">
+	<target host="theseed.io" />
+	<target host="www.theseed.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

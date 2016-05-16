@@ -1,0 +1,6 @@
+<ruleset name="Enjoy-nepal.de">
+	<target host="enjoy-nepal.de" />
+	<target host="www.enjoy-nepal.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

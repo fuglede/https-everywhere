@@ -1,0 +1,6 @@
+<ruleset name="Tunai.id">
+	<target host="tunai.id" />
+	<target host="www.tunai.id" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

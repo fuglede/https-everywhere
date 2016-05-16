@@ -1,0 +1,6 @@
+<ruleset name="Hotelmap.com">
+	<target host="hotelmap.com" />
+	<target host="www.hotelmap.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

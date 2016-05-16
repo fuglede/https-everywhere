@@ -1,0 +1,6 @@
+<ruleset name="Patterson.mp">
+	<target host="patterson.mp" />
+	<target host="www.patterson.mp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

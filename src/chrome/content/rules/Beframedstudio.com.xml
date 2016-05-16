@@ -1,0 +1,6 @@
+<ruleset name="Beframedstudio.com">
+	<target host="beframedstudio.com" />
+	<target host="www.beframedstudio.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

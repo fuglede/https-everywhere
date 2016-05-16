@@ -1,0 +1,6 @@
+<ruleset name="Narepera.net">
+	<target host="narepera.net" />
+	<target host="www.narepera.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

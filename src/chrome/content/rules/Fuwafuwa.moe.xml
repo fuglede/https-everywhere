@@ -1,0 +1,6 @@
+<ruleset name="Fuwafuwa.moe">
+	<target host="fuwafuwa.moe" />
+	<target host="www.fuwafuwa.moe" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

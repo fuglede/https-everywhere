@@ -1,0 +1,6 @@
+<ruleset name="Kromonos.net">
+	<target host="kromonos.net" />
+	<target host="www.kromonos.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

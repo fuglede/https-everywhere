@@ -1,0 +1,6 @@
+<ruleset name="Doctor-server.net">
+	<target host="doctor-server.net" />
+	<target host="www.doctor-server.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Cinerama.com.br">
+	<target host="cinerama.com.br" />
+	<target host="www.cinerama.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

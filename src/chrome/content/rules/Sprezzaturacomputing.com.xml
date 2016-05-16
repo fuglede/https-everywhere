@@ -1,0 +1,6 @@
+<ruleset name="Sprezzaturacomputing.com">
+	<target host="sprezzaturacomputing.com" />
+	<target host="www.sprezzaturacomputing.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Blazeinfosec.com">
+	<target host="blazeinfosec.com" />
+	<target host="www.blazeinfosec.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

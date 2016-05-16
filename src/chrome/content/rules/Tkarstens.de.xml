@@ -1,0 +1,6 @@
+<ruleset name="Tkarstens.de">
+	<target host="tkarstens.de" />
+	<target host="www.tkarstens.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Lemoine.at">
+	<target host="lemoine.at" />
+	<target host="www.lemoine.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

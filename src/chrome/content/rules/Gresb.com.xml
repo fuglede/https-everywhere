@@ -1,0 +1,6 @@
+<ruleset name="Gresb.com">
+	<target host="gresb.com" />
+	<target host="www.gresb.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

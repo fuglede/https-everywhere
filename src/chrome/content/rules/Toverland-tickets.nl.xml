@@ -1,0 +1,6 @@
+<ruleset name="Toverland-tickets.nl">
+	<target host="toverland-tickets.nl" />
+	<target host="www.toverland-tickets.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Mtg.gallery">
+	<target host="mtg.gallery" />
+	<target host="www.mtg.gallery" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

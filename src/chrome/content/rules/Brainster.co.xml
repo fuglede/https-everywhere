@@ -1,0 +1,6 @@
+<ruleset name="Brainster.co">
+	<target host="brainster.co" />
+	<target host="www.brainster.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

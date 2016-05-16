@@ -1,0 +1,6 @@
+<ruleset name="Thepiratebay.poker">
+	<target host="thepiratebay.poker" />
+	<target host="www.thepiratebay.poker" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

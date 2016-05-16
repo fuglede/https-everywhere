@@ -1,0 +1,6 @@
+<ruleset name="Edicct.com">
+	<target host="edicct.com" />
+	<target host="www.edicct.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

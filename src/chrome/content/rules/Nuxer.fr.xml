@@ -1,0 +1,6 @@
+<ruleset name="Nuxer.fr">
+	<target host="nuxer.fr" />
+	<target host="www.nuxer.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

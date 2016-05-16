@@ -1,0 +1,6 @@
+<ruleset name="Hddw.de">
+	<target host="hddw.de" />
+	<target host="www.hddw.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

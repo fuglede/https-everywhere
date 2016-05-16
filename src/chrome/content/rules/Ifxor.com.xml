@@ -1,0 +1,6 @@
+<ruleset name="Ifxor.com">
+	<target host="ifxor.com" />
+	<target host="www.ifxor.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

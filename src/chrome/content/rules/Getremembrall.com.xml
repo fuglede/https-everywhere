@@ -1,0 +1,6 @@
+<ruleset name="Getremembrall.com">
+	<target host="getremembrall.com" />
+	<target host="www.getremembrall.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

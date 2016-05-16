@@ -1,0 +1,6 @@
+<ruleset name="Edmodo.com">
+	<target host="edmodo.com" />
+	<target host="www.edmodo.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

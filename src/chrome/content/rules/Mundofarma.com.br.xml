@@ -1,0 +1,6 @@
+<ruleset name="Mundofarma.com.br">
+	<target host="mundofarma.com.br" />
+	<target host="www.mundofarma.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

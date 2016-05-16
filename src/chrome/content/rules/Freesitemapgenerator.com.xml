@@ -1,0 +1,6 @@
+<ruleset name="Freesitemapgenerator.com">
+	<target host="freesitemapgenerator.com" />
+	<target host="www.freesitemapgenerator.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

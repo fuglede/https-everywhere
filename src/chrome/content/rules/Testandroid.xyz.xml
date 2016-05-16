@@ -1,0 +1,6 @@
+<ruleset name="Testandroid.xyz">
+	<target host="testandroid.xyz" />
+	<target host="www.testandroid.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

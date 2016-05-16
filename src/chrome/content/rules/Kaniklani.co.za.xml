@@ -1,0 +1,6 @@
+<ruleset name="Kaniklani.co.za">
+	<target host="kaniklani.co.za" />
+	<target host="www.kaniklani.co.za" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

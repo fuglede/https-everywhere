@@ -1,0 +1,6 @@
+<ruleset name="Kuwago.io">
+	<target host="kuwago.io" />
+	<target host="www.kuwago.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

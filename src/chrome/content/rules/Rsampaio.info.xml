@@ -1,0 +1,6 @@
+<ruleset name="Rsampaio.info">
+	<target host="rsampaio.info" />
+	<target host="www.rsampaio.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

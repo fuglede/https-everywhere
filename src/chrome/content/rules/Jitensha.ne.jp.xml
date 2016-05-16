@@ -1,0 +1,6 @@
+<ruleset name="Jitensha.ne.jp">
+	<target host="jitensha.ne.jp" />
+	<target host="www.jitensha.ne.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Blueflare.org">
+	<target host="blueflare.org" />
+	<target host="www.blueflare.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

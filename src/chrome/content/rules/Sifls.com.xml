@@ -1,0 +1,6 @@
+<ruleset name="Sifls.com">
+	<target host="sifls.com" />
+	<target host="www.sifls.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

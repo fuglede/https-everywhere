@@ -1,0 +1,6 @@
+<ruleset name="Hatoko.net">
+	<target host="hatoko.net" />
+	<target host="www.hatoko.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

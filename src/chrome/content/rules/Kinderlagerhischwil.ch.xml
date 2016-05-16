@@ -1,0 +1,6 @@
+<ruleset name="Kinderlagerhischwil.ch">
+	<target host="kinderlagerhischwil.ch" />
+	<target host="www.kinderlagerhischwil.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

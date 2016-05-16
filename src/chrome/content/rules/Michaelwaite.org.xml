@@ -1,0 +1,6 @@
+<ruleset name="Michaelwaite.org">
+	<target host="michaelwaite.org" />
+	<target host="www.michaelwaite.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

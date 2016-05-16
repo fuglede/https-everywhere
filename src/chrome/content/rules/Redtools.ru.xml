@@ -1,0 +1,6 @@
+<ruleset name="Redtools.ru">
+	<target host="redtools.ru" />
+	<target host="www.redtools.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

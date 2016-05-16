@@ -1,0 +1,6 @@
+<ruleset name="Laposte.net">
+	<target host="laposte.net" />
+	<target host="www.laposte.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

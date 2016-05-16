@@ -1,0 +1,6 @@
+<ruleset name="Prvikvadrat.hr">
+	<target host="prvikvadrat.hr" />
+	<target host="www.prvikvadrat.hr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Thepinknotes.com">
+	<target host="thepinknotes.com" />
+	<target host="www.thepinknotes.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

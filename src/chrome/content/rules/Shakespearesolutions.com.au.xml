@@ -1,0 +1,6 @@
+<ruleset name="Shakespearesolutions.com.au">
+	<target host="shakespearesolutions.com.au" />
+	<target host="www.shakespearesolutions.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

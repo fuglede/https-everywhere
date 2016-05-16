@@ -1,0 +1,6 @@
+<ruleset name="Xsmobile.de">
+	<target host="xsmobile.de" />
+	<target host="www.xsmobile.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Newpathintegratedtherapy.com">
+	<target host="newpathintegratedtherapy.com" />
+	<target host="www.newpathintegratedtherapy.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

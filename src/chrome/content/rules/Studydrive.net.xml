@@ -1,0 +1,6 @@
+<ruleset name="Studydrive.net">
+	<target host="studydrive.net" />
+	<target host="www.studydrive.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

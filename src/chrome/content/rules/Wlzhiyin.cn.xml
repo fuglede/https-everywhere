@@ -1,0 +1,6 @@
+<ruleset name="Wlzhiyin.cn">
+	<target host="wlzhiyin.cn" />
+	<target host="www.wlzhiyin.cn" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

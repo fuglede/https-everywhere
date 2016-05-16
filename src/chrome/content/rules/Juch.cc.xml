@@ -1,0 +1,6 @@
+<ruleset name="Juch.cc">
+	<target host="juch.cc" />
+	<target host="www.juch.cc" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

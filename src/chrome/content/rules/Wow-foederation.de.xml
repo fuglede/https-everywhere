@@ -1,0 +1,6 @@
+<ruleset name="Wow-foederation.de">
+	<target host="wow-foederation.de" />
+	<target host="www.wow-foederation.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

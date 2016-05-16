@@ -1,0 +1,6 @@
+<ruleset name="Leclaire.com.br">
+	<target host="leclaire.com.br" />
+	<target host="www.leclaire.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

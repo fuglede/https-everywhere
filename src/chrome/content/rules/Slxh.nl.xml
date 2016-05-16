@@ -1,0 +1,6 @@
+<ruleset name="Slxh.nl">
+	<target host="slxh.nl" />
+	<target host="www.slxh.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

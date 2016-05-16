@@ -1,0 +1,6 @@
+<ruleset name="Kcrc.org.ua">
+	<target host="kcrc.org.ua" />
+	<target host="www.kcrc.org.ua" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

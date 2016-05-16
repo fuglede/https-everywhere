@@ -1,0 +1,6 @@
+<ruleset name="Yjsw.sh.cn">
+	<target host="yjsw.sh.cn" />
+	<target host="www.yjsw.sh.cn" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

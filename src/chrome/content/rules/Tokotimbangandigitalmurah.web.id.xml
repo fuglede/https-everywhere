@@ -1,0 +1,6 @@
+<ruleset name="Tokotimbangandigitalmurah.web.id">
+	<target host="tokotimbangandigitalmurah.web.id" />
+	<target host="www.tokotimbangandigitalmurah.web.id" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

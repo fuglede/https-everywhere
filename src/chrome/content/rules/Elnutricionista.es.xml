@@ -1,0 +1,6 @@
+<ruleset name="Elnutricionista.es">
+	<target host="elnutricionista.es" />
+	<target host="www.elnutricionista.es" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

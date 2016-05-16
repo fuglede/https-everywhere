@@ -1,0 +1,6 @@
+<ruleset name="Romeoferraris.com">
+	<target host="romeoferraris.com" />
+	<target host="www.romeoferraris.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

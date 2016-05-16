@@ -1,0 +1,6 @@
+<ruleset name="Driesjtuver.nl">
+	<target host="driesjtuver.nl" />
+	<target host="www.driesjtuver.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

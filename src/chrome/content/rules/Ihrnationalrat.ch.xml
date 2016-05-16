@@ -1,0 +1,6 @@
+<ruleset name="Ihrnationalrat.ch">
+	<target host="ihrnationalrat.ch" />
+	<target host="www.ihrnationalrat.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

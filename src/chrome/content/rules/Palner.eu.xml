@@ -1,0 +1,6 @@
+<ruleset name="Palner.eu">
+	<target host="palner.eu" />
+	<target host="www.palner.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

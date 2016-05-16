@@ -1,0 +1,6 @@
+<ruleset name="Farhood.org">
+	<target host="farhood.org" />
+	<target host="www.farhood.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

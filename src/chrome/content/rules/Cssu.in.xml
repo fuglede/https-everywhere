@@ -1,0 +1,6 @@
+<ruleset name="Cssu.in">
+	<target host="cssu.in" />
+	<target host="www.cssu.in" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

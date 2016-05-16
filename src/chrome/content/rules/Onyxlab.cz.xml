@@ -1,0 +1,6 @@
+<ruleset name="Onyxlab.cz">
+	<target host="onyxlab.cz" />
+	<target host="www.onyxlab.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Dvbris.com">
+	<target host="dvbris.com" />
+	<target host="www.dvbris.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

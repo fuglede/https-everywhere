@@ -1,0 +1,6 @@
+<ruleset name="Porpoise.ca">
+	<target host="porpoise.ca" />
+	<target host="www.porpoise.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

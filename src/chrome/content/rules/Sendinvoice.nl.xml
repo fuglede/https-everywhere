@@ -1,0 +1,6 @@
+<ruleset name="Sendinvoice.nl">
+	<target host="sendinvoice.nl" />
+	<target host="www.sendinvoice.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

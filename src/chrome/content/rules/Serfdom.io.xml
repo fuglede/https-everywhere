@@ -1,0 +1,6 @@
+<ruleset name="Serfdom.io">
+	<target host="serfdom.io" />
+	<target host="www.serfdom.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

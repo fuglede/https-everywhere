@@ -1,0 +1,6 @@
+<ruleset name="Bitbeans.de">
+	<target host="bitbeans.de" />
+	<target host="www.bitbeans.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Droidboss.com">
+	<target host="droidboss.com" />
+	<target host="www.droidboss.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

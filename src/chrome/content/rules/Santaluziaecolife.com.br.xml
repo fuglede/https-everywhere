@@ -1,0 +1,6 @@
+<ruleset name="Santaluziaecolife.com.br">
+	<target host="santaluziaecolife.com.br" />
+	<target host="www.santaluziaecolife.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

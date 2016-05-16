@@ -1,0 +1,6 @@
+<ruleset name="Recombee.com">
+	<target host="recombee.com" />
+	<target host="www.recombee.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Mpintaamalabanna.it">
+	<target host="mpintaamalabanna.it" />
+	<target host="www.mpintaamalabanna.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

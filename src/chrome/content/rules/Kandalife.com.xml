@@ -1,0 +1,6 @@
+<ruleset name="Kandalife.com">
+	<target host="kandalife.com" />
+	<target host="www.kandalife.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Skhsystems.co.kr">
+	<target host="skhsystems.co.kr" />
+	<target host="www.skhsystems.co.kr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

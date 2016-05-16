@@ -1,0 +1,6 @@
+<ruleset name="Johners.tech">
+	<target host="johners.tech" />
+	<target host="www.johners.tech" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

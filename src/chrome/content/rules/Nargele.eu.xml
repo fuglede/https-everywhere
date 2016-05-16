@@ -1,0 +1,6 @@
+<ruleset name="Nargele.eu">
+	<target host="nargele.eu" />
+	<target host="www.nargele.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

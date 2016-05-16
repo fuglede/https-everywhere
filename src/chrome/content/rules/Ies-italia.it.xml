@@ -1,0 +1,6 @@
+<ruleset name="Ies-italia.it">
+	<target host="ies-italia.it" />
+	<target host="www.ies-italia.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

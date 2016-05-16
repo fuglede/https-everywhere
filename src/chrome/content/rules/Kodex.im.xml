@@ -1,0 +1,6 @@
+<ruleset name="Kodex.im">
+	<target host="kodex.im" />
+	<target host="www.kodex.im" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

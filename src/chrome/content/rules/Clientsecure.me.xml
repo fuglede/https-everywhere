@@ -1,0 +1,6 @@
+<ruleset name="Clientsecure.me">
+	<target host="clientsecure.me" />
+	<target host="www.clientsecure.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

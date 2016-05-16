@@ -1,0 +1,6 @@
+<ruleset name="Pdevio.com">
+	<target host="pdevio.com" />
+	<target host="www.pdevio.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

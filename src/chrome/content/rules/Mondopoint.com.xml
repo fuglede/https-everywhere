@@ -1,0 +1,6 @@
+<ruleset name="Mondopoint.com">
+	<target host="mondopoint.com" />
+	<target host="www.mondopoint.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

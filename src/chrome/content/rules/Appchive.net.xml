@@ -1,0 +1,6 @@
+<ruleset name="Appchive.net">
+	<target host="appchive.net" />
+	<target host="www.appchive.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

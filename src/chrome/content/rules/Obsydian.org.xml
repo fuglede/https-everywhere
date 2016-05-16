@@ -1,0 +1,6 @@
+<ruleset name="Obsydian.org">
+	<target host="obsydian.org" />
+	<target host="www.obsydian.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

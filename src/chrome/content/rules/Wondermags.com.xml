@@ -1,0 +1,6 @@
+<ruleset name="Wondermags.com">
+	<target host="wondermags.com" />
+	<target host="www.wondermags.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

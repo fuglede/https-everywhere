@@ -1,0 +1,6 @@
+<ruleset name="Neuralgic.net">
+	<target host="neuralgic.net" />
+	<target host="www.neuralgic.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

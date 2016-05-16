@@ -1,0 +1,6 @@
+<ruleset name="Chihiro.xyz">
+	<target host="chihiro.xyz" />
+	<target host="www.chihiro.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

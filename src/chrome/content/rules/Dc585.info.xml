@@ -1,0 +1,6 @@
+<ruleset name="Dc585.info">
+	<target host="dc585.info" />
+	<target host="www.dc585.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

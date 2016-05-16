@@ -1,0 +1,6 @@
+<ruleset name="Ozvolvo.org">
+	<target host="ozvolvo.org" />
+	<target host="www.ozvolvo.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

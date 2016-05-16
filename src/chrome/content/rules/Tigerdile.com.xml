@@ -1,0 +1,6 @@
+<ruleset name="Tigerdile.com">
+	<target host="tigerdile.com" />
+	<target host="www.tigerdile.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

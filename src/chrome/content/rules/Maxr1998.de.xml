@@ -1,0 +1,6 @@
+<ruleset name="Maxr1998.de">
+	<target host="maxr1998.de" />
+	<target host="www.maxr1998.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

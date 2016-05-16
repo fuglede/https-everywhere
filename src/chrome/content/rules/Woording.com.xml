@@ -1,0 +1,6 @@
+<ruleset name="Woording.com">
+	<target host="woording.com" />
+	<target host="www.woording.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

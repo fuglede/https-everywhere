@@ -1,0 +1,6 @@
+<ruleset name="Iodu.re">
+	<target host="iodu.re" />
+	<target host="www.iodu.re" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

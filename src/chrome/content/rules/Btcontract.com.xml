@@ -1,0 +1,6 @@
+<ruleset name="Btcontract.com">
+	<target host="btcontract.com" />
+	<target host="www.btcontract.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

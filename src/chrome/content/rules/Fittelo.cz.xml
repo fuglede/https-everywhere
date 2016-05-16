@@ -1,0 +1,6 @@
+<ruleset name="Fittelo.cz">
+	<target host="fittelo.cz" />
+	<target host="www.fittelo.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

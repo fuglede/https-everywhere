@@ -1,0 +1,6 @@
+<ruleset name="Strijkshop.be">
+	<target host="strijkshop.be" />
+	<target host="www.strijkshop.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

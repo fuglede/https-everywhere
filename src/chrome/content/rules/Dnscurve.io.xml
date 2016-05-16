@@ -1,0 +1,6 @@
+<ruleset name="Dnscurve.io">
+	<target host="dnscurve.io" />
+	<target host="www.dnscurve.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

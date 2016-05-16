@@ -1,0 +1,6 @@
+<ruleset name="Primeroot.net">
+	<target host="primeroot.net" />
+	<target host="www.primeroot.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

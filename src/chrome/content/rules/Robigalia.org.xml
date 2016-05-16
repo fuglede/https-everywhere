@@ -1,0 +1,6 @@
+<ruleset name="Robigalia.org">
+	<target host="robigalia.org" />
+	<target host="www.robigalia.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

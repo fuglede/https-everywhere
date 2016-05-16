@@ -1,0 +1,6 @@
+<ruleset name="Jodja.com.br">
+	<target host="jodja.com.br" />
+	<target host="www.jodja.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

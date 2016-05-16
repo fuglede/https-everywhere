@@ -1,0 +1,6 @@
+<ruleset name="Sumoatm.com">
+	<target host="sumoatm.com" />
+	<target host="www.sumoatm.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

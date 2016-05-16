@@ -1,0 +1,6 @@
+<ruleset name="Sunshinepress.org">
+	<target host="sunshinepress.org" />
+	<target host="www.sunshinepress.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

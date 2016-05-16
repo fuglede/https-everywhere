@@ -1,0 +1,6 @@
+<ruleset name="Placehold.co">
+	<target host="placehold.co" />
+	<target host="www.placehold.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Xmerak.com">
+	<target host="xmerak.com" />
+	<target host="www.xmerak.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

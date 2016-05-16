@@ -1,0 +1,6 @@
+<ruleset name="Tls.care">
+	<target host="tls.care" />
+	<target host="www.tls.care" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

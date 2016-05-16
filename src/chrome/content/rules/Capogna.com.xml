@@ -1,0 +1,6 @@
+<ruleset name="Capogna.com">
+	<target host="capogna.com" />
+	<target host="www.capogna.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

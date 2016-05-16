@@ -1,0 +1,6 @@
+<ruleset name="Chijiokeindustries.co.uk">
+	<target host="chijiokeindustries.co.uk" />
+	<target host="www.chijiokeindustries.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

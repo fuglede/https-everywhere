@@ -1,0 +1,6 @@
+<ruleset name="Wearandcare.net">
+	<target host="wearandcare.net" />
+	<target host="www.wearandcare.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

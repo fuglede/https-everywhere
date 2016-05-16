@@ -1,0 +1,6 @@
+<ruleset name="Htmlacademy.ru">
+	<target host="htmlacademy.ru" />
+	<target host="www.htmlacademy.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Rsync.eu">
+	<target host="rsync.eu" />
+	<target host="www.rsync.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

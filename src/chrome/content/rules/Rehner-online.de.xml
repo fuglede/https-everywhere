@@ -1,0 +1,6 @@
+<ruleset name="Rehner-online.de">
+	<target host="rehner-online.de" />
+	<target host="www.rehner-online.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

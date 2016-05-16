@@ -1,0 +1,6 @@
+<ruleset name="Ui8.net">
+	<target host="ui8.net" />
+	<target host="www.ui8.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

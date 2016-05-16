@@ -1,0 +1,6 @@
+<ruleset name="Leiyun.me">
+	<target host="leiyun.me" />
+	<target host="www.leiyun.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

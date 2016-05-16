@@ -1,0 +1,6 @@
+<ruleset name="T-hawk.com">
+	<target host="t-hawk.com" />
+	<target host="www.t-hawk.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

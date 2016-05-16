@@ -1,0 +1,6 @@
+<ruleset name="Root.eu.org">
+	<target host="root.eu.org" />
+	<target host="www.root.eu.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

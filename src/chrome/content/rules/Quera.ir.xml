@@ -1,0 +1,6 @@
+<ruleset name="Quera.ir">
+	<target host="quera.ir" />
+	<target host="www.quera.ir" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

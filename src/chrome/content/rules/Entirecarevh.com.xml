@@ -1,0 +1,6 @@
+<ruleset name="Entirecarevh.com">
+	<target host="entirecarevh.com" />
+	<target host="www.entirecarevh.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

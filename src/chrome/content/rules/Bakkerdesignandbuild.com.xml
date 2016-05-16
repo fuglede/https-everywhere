@@ -1,0 +1,6 @@
+<ruleset name="Bakkerdesignandbuild.com">
+	<target host="bakkerdesignandbuild.com" />
+	<target host="www.bakkerdesignandbuild.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Metapeen.nl">
+	<target host="metapeen.nl" />
+	<target host="www.metapeen.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

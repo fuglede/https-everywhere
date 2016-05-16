@@ -1,0 +1,6 @@
+<ruleset name="Miconware.de">
+	<target host="miconware.de" />
+	<target host="www.miconware.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

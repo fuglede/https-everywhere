@@ -1,0 +1,6 @@
+<ruleset name="Niklaslindblad.se">
+	<target host="niklaslindblad.se" />
+	<target host="www.niklaslindblad.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Domenos.pl">
+	<target host="domenos.pl" />
+	<target host="www.domenos.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

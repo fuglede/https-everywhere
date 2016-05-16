@@ -1,0 +1,6 @@
+<ruleset name="Iossifovlab.com">
+	<target host="iossifovlab.com" />
+	<target host="www.iossifovlab.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

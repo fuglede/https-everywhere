@@ -1,0 +1,6 @@
+<ruleset name="Shortpath.com">
+	<target host="shortpath.com" />
+	<target host="www.shortpath.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

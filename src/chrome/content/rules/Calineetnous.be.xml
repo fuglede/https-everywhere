@@ -1,0 +1,6 @@
+<ruleset name="Calineetnous.be">
+	<target host="calineetnous.be" />
+	<target host="www.calineetnous.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

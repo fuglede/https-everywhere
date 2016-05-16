@@ -1,0 +1,6 @@
+<ruleset name="Conve.eu">
+	<target host="conve.eu" />
+	<target host="www.conve.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

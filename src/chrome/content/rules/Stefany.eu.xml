@@ -1,0 +1,6 @@
+<ruleset name="Stefany.eu">
+	<target host="stefany.eu" />
+	<target host="www.stefany.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

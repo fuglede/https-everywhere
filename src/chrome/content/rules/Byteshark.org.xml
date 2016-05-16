@@ -1,0 +1,6 @@
+<ruleset name="Byteshark.org">
+	<target host="byteshark.org" />
+	<target host="www.byteshark.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

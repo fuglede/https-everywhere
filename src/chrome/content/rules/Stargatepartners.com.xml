@@ -1,0 +1,6 @@
+<ruleset name="Stargatepartners.com">
+	<target host="stargatepartners.com" />
+	<target host="www.stargatepartners.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

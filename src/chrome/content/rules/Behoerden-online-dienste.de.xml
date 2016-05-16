@@ -1,0 +1,6 @@
+<ruleset name="Behoerden-online-dienste.de">
+	<target host="behoerden-online-dienste.de" />
+	<target host="www.behoerden-online-dienste.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

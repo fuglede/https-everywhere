@@ -1,0 +1,6 @@
+<ruleset name="Ceritamalam.net">
+	<target host="ceritamalam.net" />
+	<target host="www.ceritamalam.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

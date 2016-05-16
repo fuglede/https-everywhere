@@ -1,0 +1,6 @@
+<ruleset name="Override.io">
+	<target host="override.io" />
+	<target host="www.override.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Blupig.net">
+	<target host="blupig.net" />
+	<target host="www.blupig.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Freeboson.org">
+	<target host="freeboson.org" />
+	<target host="www.freeboson.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

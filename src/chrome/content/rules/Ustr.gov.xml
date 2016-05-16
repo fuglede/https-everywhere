@@ -1,0 +1,6 @@
+<ruleset name="Ustr.gov">
+	<target host="ustr.gov" />
+	<target host="www.ustr.gov" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

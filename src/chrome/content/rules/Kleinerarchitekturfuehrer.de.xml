@@ -1,0 +1,6 @@
+<ruleset name="Kleinerarchitekturfuehrer.de">
+	<target host="kleinerarchitekturfuehrer.de" />
+	<target host="www.kleinerarchitekturfuehrer.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

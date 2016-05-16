@@ -1,0 +1,6 @@
+<ruleset name="Cursomeca.net">
+	<target host="cursomeca.net" />
+	<target host="www.cursomeca.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

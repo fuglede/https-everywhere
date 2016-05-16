@@ -1,0 +1,6 @@
+<ruleset name="Erf-neuilly.com">
+	<target host="erf-neuilly.com" />
+	<target host="www.erf-neuilly.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

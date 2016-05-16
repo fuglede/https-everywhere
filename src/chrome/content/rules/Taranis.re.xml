@@ -1,0 +1,6 @@
+<ruleset name="Taranis.re">
+	<target host="taranis.re" />
+	<target host="www.taranis.re" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

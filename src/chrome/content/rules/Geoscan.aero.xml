@@ -1,0 +1,6 @@
+<ruleset name="Geoscan.aero">
+	<target host="geoscan.aero" />
+	<target host="www.geoscan.aero" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

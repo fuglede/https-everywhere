@@ -1,0 +1,6 @@
+<ruleset name="Xilef.org">
+	<target host="xilef.org" />
+	<target host="www.xilef.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

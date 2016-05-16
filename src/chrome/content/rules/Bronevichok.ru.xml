@@ -1,0 +1,6 @@
+<ruleset name="Bronevichok.ru">
+	<target host="bronevichok.ru" />
+	<target host="www.bronevichok.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

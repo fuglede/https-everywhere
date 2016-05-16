@@ -1,0 +1,6 @@
+<ruleset name="Gabber.scot">
+	<target host="gabber.scot" />
+	<target host="www.gabber.scot" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

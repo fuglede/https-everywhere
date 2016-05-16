@@ -1,0 +1,6 @@
+<ruleset name="Investorsinpeople.com">
+	<target host="investorsinpeople.com" />
+	<target host="www.investorsinpeople.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

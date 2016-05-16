@@ -1,0 +1,6 @@
+<ruleset name="Onlinelighting.com.au">
+	<target host="onlinelighting.com.au" />
+	<target host="www.onlinelighting.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

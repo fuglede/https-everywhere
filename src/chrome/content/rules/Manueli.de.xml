@@ -1,0 +1,6 @@
+<ruleset name="Manueli.de">
+	<target host="manueli.de" />
+	<target host="www.manueli.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

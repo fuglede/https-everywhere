@@ -1,0 +1,6 @@
+<ruleset name="Punknews.org">
+	<target host="punknews.org" />
+	<target host="www.punknews.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

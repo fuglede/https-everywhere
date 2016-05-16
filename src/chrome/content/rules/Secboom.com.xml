@@ -1,0 +1,6 @@
+<ruleset name="Secboom.com">
+	<target host="secboom.com" />
+	<target host="www.secboom.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Idlekernel.com">
+	<target host="idlekernel.com" />
+	<target host="www.idlekernel.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

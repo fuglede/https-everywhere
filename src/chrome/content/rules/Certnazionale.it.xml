@@ -1,0 +1,6 @@
+<ruleset name="Certnazionale.it">
+	<target host="certnazionale.it" />
+	<target host="www.certnazionale.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Rednsx.org">
+	<target host="rednsx.org" />
+	<target host="www.rednsx.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

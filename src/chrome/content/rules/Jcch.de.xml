@@ -1,0 +1,6 @@
+<ruleset name="Jcch.de">
+	<target host="jcch.de" />
+	<target host="www.jcch.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

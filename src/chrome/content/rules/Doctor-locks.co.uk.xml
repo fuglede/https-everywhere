@@ -1,0 +1,6 @@
+<ruleset name="Doctor-locks.co.uk">
+	<target host="doctor-locks.co.uk" />
+	<target host="www.doctor-locks.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

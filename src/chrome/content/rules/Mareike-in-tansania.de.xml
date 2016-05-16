@@ -1,0 +1,6 @@
+<ruleset name="Mareike-in-tansania.de">
+	<target host="mareike-in-tansania.de" />
+	<target host="www.mareike-in-tansania.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

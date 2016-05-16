@@ -1,0 +1,6 @@
+<ruleset name="Mobal.com">
+	<target host="mobal.com" />
+	<target host="www.mobal.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Blackys-chamber.de">
+	<target host="blackys-chamber.de" />
+	<target host="www.blackys-chamber.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

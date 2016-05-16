@@ -1,0 +1,6 @@
+<ruleset name="Takeit2day.com">
+	<target host="takeit2day.com" />
+	<target host="www.takeit2day.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

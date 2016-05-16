@@ -1,0 +1,6 @@
+<ruleset name="Quantacloud.ch">
+	<target host="quantacloud.ch" />
+	<target host="www.quantacloud.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

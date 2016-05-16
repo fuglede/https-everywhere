@@ -1,0 +1,6 @@
+<ruleset name="I95.me">
+	<target host="i95.me" />
+	<target host="www.i95.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

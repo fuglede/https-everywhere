@@ -1,0 +1,6 @@
+<ruleset name="Timecenter.dk">
+	<target host="timecenter.dk" />
+	<target host="www.timecenter.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Tsek.net">
+	<target host="tsek.net" />
+	<target host="www.tsek.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

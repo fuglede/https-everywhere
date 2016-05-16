@@ -1,0 +1,6 @@
+<ruleset name="G-marketing.ro">
+	<target host="g-marketing.ro" />
+	<target host="www.g-marketing.ro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

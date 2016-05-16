@@ -1,0 +1,6 @@
+<ruleset name="Nationalcentereg.org">
+	<target host="nationalcentereg.org" />
+	<target host="www.nationalcentereg.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

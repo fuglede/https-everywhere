@@ -1,0 +1,6 @@
+<ruleset name="Prgslab.net">
+	<target host="prgslab.net" />
+	<target host="www.prgslab.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

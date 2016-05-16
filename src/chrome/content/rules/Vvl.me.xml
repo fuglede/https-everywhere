@@ -1,0 +1,6 @@
+<ruleset name="Vvl.me">
+	<target host="vvl.me" />
+	<target host="www.vvl.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

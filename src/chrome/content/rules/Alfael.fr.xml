@@ -1,0 +1,6 @@
+<ruleset name="Alfael.fr">
+	<target host="alfael.fr" />
+	<target host="www.alfael.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

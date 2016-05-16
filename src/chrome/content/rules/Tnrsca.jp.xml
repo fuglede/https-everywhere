@@ -1,0 +1,6 @@
+<ruleset name="Tnrsca.jp">
+	<target host="tnrsca.jp" />
+	<target host="www.tnrsca.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

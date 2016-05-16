@@ -1,0 +1,6 @@
+<ruleset name="Rdh.asia">
+	<target host="rdh.asia" />
+	<target host="www.rdh.asia" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Klustekeningen.nl">
+	<target host="klustekeningen.nl" />
+	<target host="www.klustekeningen.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

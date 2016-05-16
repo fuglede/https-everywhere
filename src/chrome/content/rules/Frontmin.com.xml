@@ -1,0 +1,6 @@
+<ruleset name="Frontmin.com">
+	<target host="frontmin.com" />
+	<target host="www.frontmin.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

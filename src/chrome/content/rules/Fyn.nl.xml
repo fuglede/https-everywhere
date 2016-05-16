@@ -1,0 +1,6 @@
+<ruleset name="Fyn.nl">
+	<target host="fyn.nl" />
+	<target host="www.fyn.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

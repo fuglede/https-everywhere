@@ -1,0 +1,6 @@
+<ruleset name="Supermarx.nl">
+	<target host="supermarx.nl" />
+	<target host="www.supermarx.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

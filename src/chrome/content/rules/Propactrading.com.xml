@@ -1,0 +1,6 @@
+<ruleset name="Propactrading.com">
+	<target host="propactrading.com" />
+	<target host="www.propactrading.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

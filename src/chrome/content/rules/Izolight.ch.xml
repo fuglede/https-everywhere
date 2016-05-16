@@ -1,0 +1,6 @@
+<ruleset name="Izolight.ch">
+	<target host="izolight.ch" />
+	<target host="www.izolight.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

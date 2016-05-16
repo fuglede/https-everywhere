@@ -1,0 +1,6 @@
+<ruleset name="Coronelpicanha.com.br">
+	<target host="coronelpicanha.com.br" />
+	<target host="www.coronelpicanha.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

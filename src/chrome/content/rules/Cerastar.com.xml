@@ -1,0 +1,6 @@
+<ruleset name="Cerastar.com">
+	<target host="cerastar.com" />
+	<target host="www.cerastar.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Gasnews.net">
+	<target host="gasnews.net" />
+	<target host="www.gasnews.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

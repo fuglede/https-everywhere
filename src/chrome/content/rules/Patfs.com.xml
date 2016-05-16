@@ -1,0 +1,6 @@
+<ruleset name="Patfs.com">
+	<target host="patfs.com" />
+	<target host="www.patfs.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Qvi.st">
+	<target host="qvi.st" />
+	<target host="www.qvi.st" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Pfd-nz.com">
+	<target host="pfd-nz.com" />
+	<target host="www.pfd-nz.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

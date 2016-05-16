@@ -1,0 +1,6 @@
+<ruleset name="Numericdata.fr">
+	<target host="numericdata.fr" />
+	<target host="www.numericdata.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

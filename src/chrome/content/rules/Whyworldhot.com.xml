@@ -1,0 +1,6 @@
+<ruleset name="Whyworldhot.com">
+	<target host="whyworldhot.com" />
+	<target host="www.whyworldhot.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

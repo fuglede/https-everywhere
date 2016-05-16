@@ -1,0 +1,6 @@
+<ruleset name="Elgoog.red">
+	<target host="elgoog.red" />
+	<target host="www.elgoog.red" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

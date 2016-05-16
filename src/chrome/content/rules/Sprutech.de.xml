@@ -1,0 +1,6 @@
+<ruleset name="Sprutech.de">
+	<target host="sprutech.de" />
+	<target host="www.sprutech.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

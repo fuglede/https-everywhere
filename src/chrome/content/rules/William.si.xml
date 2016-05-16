@@ -1,0 +1,6 @@
+<ruleset name="William.si">
+	<target host="william.si" />
+	<target host="www.william.si" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

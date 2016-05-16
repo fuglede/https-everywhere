@@ -1,0 +1,6 @@
+<ruleset name="Uwotm8.net">
+	<target host="uwotm8.net" />
+	<target host="www.uwotm8.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

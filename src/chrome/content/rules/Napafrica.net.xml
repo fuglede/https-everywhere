@@ -1,0 +1,6 @@
+<ruleset name="Napafrica.net">
+	<target host="napafrica.net" />
+	<target host="www.napafrica.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

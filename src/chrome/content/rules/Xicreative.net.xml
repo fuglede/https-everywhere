@@ -1,0 +1,6 @@
+<ruleset name="Xicreative.net">
+	<target host="xicreative.net" />
+	<target host="www.xicreative.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

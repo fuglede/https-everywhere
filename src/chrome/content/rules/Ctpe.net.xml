@@ -1,0 +1,6 @@
+<ruleset name="Ctpe.net">
+	<target host="ctpe.net" />
+	<target host="www.ctpe.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

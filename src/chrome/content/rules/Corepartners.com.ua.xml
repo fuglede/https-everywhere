@@ -1,0 +1,6 @@
+<ruleset name="Corepartners.com.ua">
+	<target host="corepartners.com.ua" />
+	<target host="www.corepartners.com.ua" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

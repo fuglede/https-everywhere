@@ -1,0 +1,6 @@
+<ruleset name="Scrayos.net">
+	<target host="scrayos.net" />
+	<target host="www.scrayos.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

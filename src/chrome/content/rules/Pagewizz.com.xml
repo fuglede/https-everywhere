@@ -1,0 +1,6 @@
+<ruleset name="Pagewizz.com">
+	<target host="pagewizz.com" />
+	<target host="www.pagewizz.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

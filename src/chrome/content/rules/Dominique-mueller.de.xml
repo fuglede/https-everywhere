@@ -1,0 +1,6 @@
+<ruleset name="Dominique-mueller.de">
+	<target host="dominique-mueller.de" />
+	<target host="www.dominique-mueller.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

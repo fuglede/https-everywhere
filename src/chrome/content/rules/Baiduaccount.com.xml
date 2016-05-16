@@ -1,0 +1,6 @@
+<ruleset name="Baiduaccount.com">
+	<target host="baiduaccount.com" />
+	<target host="www.baiduaccount.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Kydara.com">
+	<target host="kydara.com" />
+	<target host="www.kydara.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

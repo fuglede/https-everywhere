@@ -1,0 +1,6 @@
+<ruleset name="Sysert.tv">
+	<target host="sysert.tv" />
+	<target host="www.sysert.tv" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

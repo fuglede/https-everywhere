@@ -1,0 +1,6 @@
+<ruleset name="Doomfac.es">
+	<target host="doomfac.es" />
+	<target host="www.doomfac.es" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

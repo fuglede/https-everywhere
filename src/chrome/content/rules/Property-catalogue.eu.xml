@@ -1,0 +1,6 @@
+<ruleset name="Property-catalogue.eu">
+	<target host="property-catalogue.eu" />
+	<target host="www.property-catalogue.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Aether.pw">
+	<target host="aether.pw" />
+	<target host="www.aether.pw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

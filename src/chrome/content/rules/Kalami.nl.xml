@@ -1,0 +1,6 @@
+<ruleset name="Kalami.nl">
+	<target host="kalami.nl" />
+	<target host="www.kalami.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

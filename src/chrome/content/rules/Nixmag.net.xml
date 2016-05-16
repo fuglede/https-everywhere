@@ -1,0 +1,6 @@
+<ruleset name="Nixmag.net">
+	<target host="nixmag.net" />
+	<target host="www.nixmag.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

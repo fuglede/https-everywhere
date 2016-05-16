@@ -1,0 +1,6 @@
+<ruleset name="Autodeploy.it">
+	<target host="autodeploy.it" />
+	<target host="www.autodeploy.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

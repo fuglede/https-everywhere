@@ -1,0 +1,6 @@
+<ruleset name="Gamecard-shop.nl">
+	<target host="gamecard-shop.nl" />
+	<target host="www.gamecard-shop.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

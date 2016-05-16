@@ -1,0 +1,6 @@
+<ruleset name="Yunjing.net">
+	<target host="yunjing.net" />
+	<target host="www.yunjing.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

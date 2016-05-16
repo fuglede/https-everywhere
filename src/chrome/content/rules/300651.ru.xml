@@ -1,0 +1,6 @@
+<ruleset name="300651.ru">
+	<target host="300651.ru" />
+	<target host="www.300651.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

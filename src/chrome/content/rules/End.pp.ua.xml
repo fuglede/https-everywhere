@@ -1,0 +1,6 @@
+<ruleset name="End.pp.ua">
+	<target host="end.pp.ua" />
+	<target host="www.end.pp.ua" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

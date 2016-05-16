@@ -1,0 +1,6 @@
+<ruleset name="Ghost-refund.com">
+	<target host="ghost-refund.com" />
+	<target host="www.ghost-refund.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

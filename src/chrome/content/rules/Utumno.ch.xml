@@ -1,0 +1,6 @@
+<ruleset name="Utumno.ch">
+	<target host="utumno.ch" />
+	<target host="www.utumno.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

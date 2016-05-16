@@ -1,0 +1,6 @@
+<ruleset name="Suudo.link">
+	<target host="suudo.link" />
+	<target host="www.suudo.link" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

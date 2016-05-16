@@ -1,0 +1,6 @@
+<ruleset name="Missiswan-trendstyle.de">
+	<target host="missiswan-trendstyle.de" />
+	<target host="www.missiswan-trendstyle.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

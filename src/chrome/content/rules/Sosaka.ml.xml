@@ -1,0 +1,6 @@
+<ruleset name="Sosaka.ml">
+	<target host="sosaka.ml" />
+	<target host="www.sosaka.ml" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

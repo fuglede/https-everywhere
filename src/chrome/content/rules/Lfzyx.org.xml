@@ -1,0 +1,6 @@
+<ruleset name="Lfzyx.org">
+	<target host="lfzyx.org" />
+	<target host="www.lfzyx.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

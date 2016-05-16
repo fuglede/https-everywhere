@@ -1,0 +1,6 @@
+<ruleset name="Fdsys.gov">
+	<target host="fdsys.gov" />
+	<target host="www.fdsys.gov" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

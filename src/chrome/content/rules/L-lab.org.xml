@@ -1,0 +1,6 @@
+<ruleset name="L-lab.org">
+	<target host="l-lab.org" />
+	<target host="www.l-lab.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

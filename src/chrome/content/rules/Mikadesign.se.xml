@@ -1,0 +1,6 @@
+<ruleset name="Mikadesign.se">
+	<target host="mikadesign.se" />
+	<target host="www.mikadesign.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

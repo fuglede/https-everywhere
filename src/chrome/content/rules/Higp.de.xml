@@ -1,0 +1,6 @@
+<ruleset name="Higp.de">
+	<target host="higp.de" />
+	<target host="www.higp.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

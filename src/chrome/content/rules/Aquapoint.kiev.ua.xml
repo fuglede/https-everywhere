@@ -1,0 +1,6 @@
+<ruleset name="Aquapoint.kiev.ua">
+	<target host="aquapoint.kiev.ua" />
+	<target host="www.aquapoint.kiev.ua" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

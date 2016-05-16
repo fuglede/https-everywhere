@@ -1,0 +1,6 @@
+<ruleset name="Quizogames.com">
+	<target host="quizogames.com" />
+	<target host="www.quizogames.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

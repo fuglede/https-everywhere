@@ -1,0 +1,6 @@
+<ruleset name="Wavefrontsystemstech.com">
+	<target host="wavefrontsystemstech.com" />
+	<target host="www.wavefrontsystemstech.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

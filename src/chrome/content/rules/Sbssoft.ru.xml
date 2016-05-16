@@ -1,0 +1,6 @@
+<ruleset name="Sbssoft.ru">
+	<target host="sbssoft.ru" />
+	<target host="www.sbssoft.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Devstaff.gr">
+	<target host="devstaff.gr" />
+	<target host="www.devstaff.gr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

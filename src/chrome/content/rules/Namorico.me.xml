@@ -1,0 +1,6 @@
+<ruleset name="Namorico.me">
+	<target host="namorico.me" />
+	<target host="www.namorico.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

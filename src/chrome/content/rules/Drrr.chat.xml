@@ -1,0 +1,6 @@
+<ruleset name="Drrr.chat">
+	<target host="drrr.chat" />
+	<target host="www.drrr.chat" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

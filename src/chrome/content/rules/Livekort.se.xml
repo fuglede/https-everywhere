@@ -1,0 +1,6 @@
+<ruleset name="Livekort.se">
+	<target host="livekort.se" />
+	<target host="www.livekort.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

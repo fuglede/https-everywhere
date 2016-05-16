@@ -1,0 +1,6 @@
+<ruleset name="Curacao-license.com">
+	<target host="curacao-license.com" />
+	<target host="www.curacao-license.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Tit.systems">
+	<target host="tit.systems" />
+	<target host="www.tit.systems" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

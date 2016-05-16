@@ -1,0 +1,6 @@
+<ruleset name="Suite42.ru">
+	<target host="suite42.ru" />
+	<target host="www.suite42.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

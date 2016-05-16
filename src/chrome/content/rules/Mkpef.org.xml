@@ -1,0 +1,6 @@
+<ruleset name="Mkpef.org">
+	<target host="mkpef.org" />
+	<target host="www.mkpef.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

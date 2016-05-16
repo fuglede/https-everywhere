@@ -1,0 +1,6 @@
+<ruleset name="Catalyst-ecommerce.com">
+	<target host="catalyst-ecommerce.com" />
+	<target host="www.catalyst-ecommerce.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

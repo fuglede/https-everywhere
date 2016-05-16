@@ -1,0 +1,6 @@
+<ruleset name="Tylian.net">
+	<target host="tylian.net" />
+	<target host="www.tylian.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

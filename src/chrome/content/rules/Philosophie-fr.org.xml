@@ -1,0 +1,6 @@
+<ruleset name="Philosophie-fr.org">
+	<target host="philosophie-fr.org" />
+	<target host="www.philosophie-fr.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

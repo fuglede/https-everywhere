@@ -1,0 +1,6 @@
+<ruleset name="Prilock.com">
+	<target host="prilock.com" />
+	<target host="www.prilock.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

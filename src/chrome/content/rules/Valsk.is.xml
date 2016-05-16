@@ -1,0 +1,6 @@
+<ruleset name="Valsk.is">
+	<target host="valsk.is" />
+	<target host="www.valsk.is" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

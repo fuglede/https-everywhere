@@ -1,0 +1,6 @@
+<ruleset name="Nnqc.nl">
+	<target host="nnqc.nl" />
+	<target host="www.nnqc.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

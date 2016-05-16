@@ -1,0 +1,6 @@
+<ruleset name="Drino.org">
+	<target host="drino.org" />
+	<target host="www.drino.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

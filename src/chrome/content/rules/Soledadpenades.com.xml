@@ -1,0 +1,6 @@
+<ruleset name="Soledadpenades.com">
+	<target host="soledadpenades.com" />
+	<target host="www.soledadpenades.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Ploup.net">
+	<target host="ploup.net" />
+	<target host="www.ploup.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

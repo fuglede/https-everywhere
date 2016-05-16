@@ -1,0 +1,6 @@
+<ruleset name="Infilock.com">
+	<target host="infilock.com" />
+	<target host="www.infilock.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

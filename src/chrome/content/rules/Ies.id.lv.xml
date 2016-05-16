@@ -1,0 +1,6 @@
+<ruleset name="Ies.id.lv">
+	<target host="ies.id.lv" />
+	<target host="www.ies.id.lv" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

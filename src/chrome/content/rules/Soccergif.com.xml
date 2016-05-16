@@ -1,0 +1,6 @@
+<ruleset name="Soccergif.com">
+	<target host="soccergif.com" />
+	<target host="www.soccergif.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

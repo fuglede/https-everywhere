@@ -1,0 +1,6 @@
+<ruleset name="Macnemo.de">
+	<target host="macnemo.de" />
+	<target host="www.macnemo.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

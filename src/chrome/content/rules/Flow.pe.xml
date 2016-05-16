@@ -1,0 +1,6 @@
+<ruleset name="Flow.pe">
+	<target host="flow.pe" />
+	<target host="www.flow.pe" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

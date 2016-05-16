@@ -1,0 +1,6 @@
+<ruleset name="Oxygenabsorbers.com">
+	<target host="oxygenabsorbers.com" />
+	<target host="www.oxygenabsorbers.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

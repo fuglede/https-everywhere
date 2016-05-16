@@ -1,0 +1,6 @@
+<ruleset name="Cultiv.nl">
+	<target host="cultiv.nl" />
+	<target host="www.cultiv.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Janus-engineering.de">
+	<target host="janus-engineering.de" />
+	<target host="www.janus-engineering.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

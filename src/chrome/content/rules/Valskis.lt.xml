@@ -1,0 +1,6 @@
+<ruleset name="Valskis.lt">
+	<target host="valskis.lt" />
+	<target host="www.valskis.lt" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

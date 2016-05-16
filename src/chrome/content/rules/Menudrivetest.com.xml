@@ -1,0 +1,6 @@
+<ruleset name="Menudrivetest.com">
+	<target host="menudrivetest.com" />
+	<target host="www.menudrivetest.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

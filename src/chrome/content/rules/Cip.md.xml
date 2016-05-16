@@ -1,0 +1,6 @@
+<ruleset name="Cip.md">
+	<target host="cip.md" />
+	<target host="www.cip.md" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Gugaltika-ipb.org">
+	<target host="gugaltika-ipb.org" />
+	<target host="www.gugaltika-ipb.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

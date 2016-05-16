@@ -1,0 +1,6 @@
+<ruleset name="Mypaperwriter.com">
+	<target host="mypaperwriter.com" />
+	<target host="www.mypaperwriter.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

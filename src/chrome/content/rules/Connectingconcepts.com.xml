@@ -1,0 +1,6 @@
+<ruleset name="Connectingconcepts.com">
+	<target host="connectingconcepts.com" />
+	<target host="www.connectingconcepts.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

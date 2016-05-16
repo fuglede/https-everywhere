@@ -1,0 +1,6 @@
+<ruleset name="Next24.io">
+	<target host="next24.io" />
+	<target host="www.next24.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

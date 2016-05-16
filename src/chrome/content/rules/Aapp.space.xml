@@ -1,0 +1,6 @@
+<ruleset name="Aapp.space">
+	<target host="aapp.space" />
+	<target host="www.aapp.space" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

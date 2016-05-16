@@ -1,0 +1,6 @@
+<ruleset name="Allforyou.at">
+	<target host="allforyou.at" />
+	<target host="www.allforyou.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

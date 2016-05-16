@@ -1,0 +1,6 @@
+<ruleset name="Gps.com.br">
+	<target host="gps.com.br" />
+	<target host="www.gps.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

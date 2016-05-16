@@ -1,0 +1,6 @@
+<ruleset name="Zelfrijdendeautos.com">
+	<target host="zelfrijdendeautos.com" />
+	<target host="www.zelfrijdendeautos.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

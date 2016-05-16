@@ -1,0 +1,6 @@
+<ruleset name="Vpn.ht">
+	<target host="vpn.ht" />
+	<target host="www.vpn.ht" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

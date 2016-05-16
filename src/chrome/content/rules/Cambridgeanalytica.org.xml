@@ -1,0 +1,6 @@
+<ruleset name="Cambridgeanalytica.org">
+	<target host="cambridgeanalytica.org" />
+	<target host="www.cambridgeanalytica.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

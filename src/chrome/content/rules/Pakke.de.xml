@@ -1,0 +1,6 @@
+<ruleset name="Pakke.de">
+	<target host="pakke.de" />
+	<target host="www.pakke.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

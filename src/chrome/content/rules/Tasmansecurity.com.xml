@@ -1,0 +1,6 @@
+<ruleset name="Tasmansecurity.com">
+	<target host="tasmansecurity.com" />
+	<target host="www.tasmansecurity.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

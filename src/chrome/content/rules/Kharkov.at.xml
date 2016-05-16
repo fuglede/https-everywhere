@@ -1,0 +1,6 @@
+<ruleset name="Kharkov.at">
+	<target host="kharkov.at" />
+	<target host="www.kharkov.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

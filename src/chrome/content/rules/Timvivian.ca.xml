@@ -1,0 +1,6 @@
+<ruleset name="Timvivian.ca">
+	<target host="timvivian.ca" />
+	<target host="www.timvivian.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

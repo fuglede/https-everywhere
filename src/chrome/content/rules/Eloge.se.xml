@@ -1,0 +1,6 @@
+<ruleset name="Eloge.se">
+	<target host="eloge.se" />
+	<target host="www.eloge.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

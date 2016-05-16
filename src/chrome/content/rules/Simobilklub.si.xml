@@ -1,0 +1,6 @@
+<ruleset name="Simobilklub.si">
+	<target host="simobilklub.si" />
+	<target host="www.simobilklub.si" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

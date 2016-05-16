@@ -1,0 +1,6 @@
+<ruleset name="Marcontrol.com">
+	<target host="marcontrol.com" />
+	<target host="www.marcontrol.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

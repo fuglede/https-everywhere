@@ -1,0 +1,6 @@
+<ruleset name="Dogan.ch">
+	<target host="dogan.ch" />
+	<target host="www.dogan.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

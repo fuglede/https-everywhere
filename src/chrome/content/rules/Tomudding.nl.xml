@@ -1,0 +1,6 @@
+<ruleset name="Tomudding.nl">
+	<target host="tomudding.nl" />
+	<target host="www.tomudding.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

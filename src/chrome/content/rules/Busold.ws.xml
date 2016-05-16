@@ -1,0 +1,6 @@
+<ruleset name="Busold.ws">
+	<target host="busold.ws" />
+	<target host="www.busold.ws" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Internetofdon.gs">
+	<target host="internetofdon.gs" />
+	<target host="www.internetofdon.gs" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

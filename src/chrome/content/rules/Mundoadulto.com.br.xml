@@ -1,0 +1,6 @@
+<ruleset name="Mundoadulto.com.br">
+	<target host="mundoadulto.com.br" />
+	<target host="www.mundoadulto.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

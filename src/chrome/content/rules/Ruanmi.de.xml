@@ -1,0 +1,6 @@
+<ruleset name="Ruanmi.de">
+	<target host="ruanmi.de" />
+	<target host="www.ruanmi.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Iqlink.ru">
+	<target host="iqlink.ru" />
+	<target host="www.iqlink.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

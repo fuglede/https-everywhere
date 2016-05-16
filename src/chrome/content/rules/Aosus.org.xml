@@ -1,0 +1,6 @@
+<ruleset name="Aosus.org">
+	<target host="aosus.org" />
+	<target host="www.aosus.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

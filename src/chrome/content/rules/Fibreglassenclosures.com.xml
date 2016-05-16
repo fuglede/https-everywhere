@@ -1,0 +1,6 @@
+<ruleset name="Fibreglassenclosures.com">
+	<target host="fibreglassenclosures.com" />
+	<target host="www.fibreglassenclosures.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

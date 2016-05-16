@@ -1,0 +1,6 @@
+<ruleset name="Love-schna.jp">
+	<target host="love-schna.jp" />
+	<target host="www.love-schna.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

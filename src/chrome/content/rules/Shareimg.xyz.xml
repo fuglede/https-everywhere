@@ -1,0 +1,6 @@
+<ruleset name="Shareimg.xyz">
+	<target host="shareimg.xyz" />
+	<target host="www.shareimg.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

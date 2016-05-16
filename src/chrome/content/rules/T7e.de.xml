@@ -1,0 +1,6 @@
+<ruleset name="T7e.de">
+	<target host="t7e.de" />
+	<target host="www.t7e.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

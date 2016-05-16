@@ -1,0 +1,6 @@
+<ruleset name="Surgenet.nl">
+	<target host="surgenet.nl" />
+	<target host="www.surgenet.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

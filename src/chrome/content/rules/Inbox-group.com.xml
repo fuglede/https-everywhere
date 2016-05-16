@@ -1,0 +1,6 @@
+<ruleset name="Inbox-group.com">
+	<target host="inbox-group.com" />
+	<target host="www.inbox-group.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

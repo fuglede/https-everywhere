@@ -1,0 +1,6 @@
+<ruleset name="Fitnesswerk.de">
+	<target host="fitnesswerk.de" />
+	<target host="www.fitnesswerk.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

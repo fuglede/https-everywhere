@@ -1,0 +1,6 @@
+<ruleset name="Skullhouse.nyc">
+	<target host="skullhouse.nyc" />
+	<target host="www.skullhouse.nyc" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

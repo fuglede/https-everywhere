@@ -1,0 +1,6 @@
+<ruleset name="Lavinya.net">
+	<target host="lavinya.net" />
+	<target host="www.lavinya.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

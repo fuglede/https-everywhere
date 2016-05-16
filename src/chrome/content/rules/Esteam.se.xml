@@ -1,0 +1,6 @@
+<ruleset name="Esteam.se">
+	<target host="esteam.se" />
+	<target host="www.esteam.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

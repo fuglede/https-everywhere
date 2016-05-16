@@ -1,0 +1,6 @@
+<ruleset name="Codeco.pw">
+	<target host="codeco.pw" />
+	<target host="www.codeco.pw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

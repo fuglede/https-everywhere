@@ -1,0 +1,6 @@
+<ruleset name="Doompa.com.br">
+	<target host="doompa.com.br" />
+	<target host="www.doompa.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Cimbemerchant.com.my">
+	<target host="cimbemerchant.com.my" />
+	<target host="www.cimbemerchant.com.my" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Whatnext.limited">
+	<target host="whatnext.limited" />
+	<target host="www.whatnext.limited" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

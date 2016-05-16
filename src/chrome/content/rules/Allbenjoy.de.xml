@@ -1,0 +1,6 @@
+<ruleset name="Allbenjoy.de">
+	<target host="allbenjoy.de" />
+	<target host="www.allbenjoy.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

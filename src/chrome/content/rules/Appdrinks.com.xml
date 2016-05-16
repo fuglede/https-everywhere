@@ -1,0 +1,6 @@
+<ruleset name="Appdrinks.com">
+	<target host="appdrinks.com" />
+	<target host="www.appdrinks.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

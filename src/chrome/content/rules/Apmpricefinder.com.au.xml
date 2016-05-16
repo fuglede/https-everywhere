@@ -1,0 +1,6 @@
+<ruleset name="Apmpricefinder.com.au">
+	<target host="apmpricefinder.com.au" />
+	<target host="www.apmpricefinder.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

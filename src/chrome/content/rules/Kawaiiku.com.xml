@@ -1,0 +1,6 @@
+<ruleset name="Kawaiiku.com">
+	<target host="kawaiiku.com" />
+	<target host="www.kawaiiku.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

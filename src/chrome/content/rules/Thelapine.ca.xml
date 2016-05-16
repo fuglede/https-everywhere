@@ -1,0 +1,6 @@
+<ruleset name="Thelapine.ca">
+	<target host="thelapine.ca" />
+	<target host="www.thelapine.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

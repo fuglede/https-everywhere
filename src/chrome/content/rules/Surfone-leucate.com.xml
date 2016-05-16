@@ -1,0 +1,6 @@
+<ruleset name="Surfone-leucate.com">
+	<target host="surfone-leucate.com" />
+	<target host="www.surfone-leucate.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Jthackery.com">
+	<target host="jthackery.com" />
+	<target host="www.jthackery.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

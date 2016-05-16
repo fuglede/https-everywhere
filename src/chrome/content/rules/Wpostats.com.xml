@@ -1,0 +1,6 @@
+<ruleset name="Wpostats.com">
+	<target host="wpostats.com" />
+	<target host="www.wpostats.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Datewon.net">
+	<target host="datewon.net" />
+	<target host="www.datewon.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

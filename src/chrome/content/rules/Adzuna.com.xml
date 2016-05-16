@@ -1,0 +1,6 @@
+<ruleset name="Adzuna.com">
+	<target host="adzuna.com" />
+	<target host="www.adzuna.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

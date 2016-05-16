@@ -1,0 +1,6 @@
+<ruleset name="Nojestorget.se">
+	<target host="nojestorget.se" />
+	<target host="www.nojestorget.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

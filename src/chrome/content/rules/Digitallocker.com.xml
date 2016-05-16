@@ -1,0 +1,6 @@
+<ruleset name="Digitallocker.com">
+	<target host="digitallocker.com" />
+	<target host="www.digitallocker.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

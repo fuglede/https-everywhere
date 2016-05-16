@@ -1,0 +1,6 @@
+<ruleset name="Bitsafe.systems">
+	<target host="bitsafe.systems" />
+	<target host="www.bitsafe.systems" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

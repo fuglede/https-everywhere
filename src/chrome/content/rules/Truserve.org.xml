@@ -1,0 +1,6 @@
+<ruleset name="Truserve.org">
+	<target host="truserve.org" />
+	<target host="www.truserve.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

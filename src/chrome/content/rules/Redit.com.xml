@@ -1,0 +1,6 @@
+<ruleset name="Redit.com">
+	<target host="redit.com" />
+	<target host="www.redit.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

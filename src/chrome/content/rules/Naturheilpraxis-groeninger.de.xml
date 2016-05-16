@@ -1,0 +1,6 @@
+<ruleset name="Naturheilpraxis-groeninger.de">
+	<target host="naturheilpraxis-groeninger.de" />
+	<target host="www.naturheilpraxis-groeninger.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

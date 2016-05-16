@@ -1,0 +1,6 @@
+<ruleset name="Itsn3w.fr">
+	<target host="itsn3w.fr" />
+	<target host="www.itsn3w.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

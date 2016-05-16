@@ -1,0 +1,6 @@
+<ruleset name="Kreb.io">
+	<target host="kreb.io" />
+	<target host="www.kreb.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

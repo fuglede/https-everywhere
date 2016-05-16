@@ -1,0 +1,6 @@
+<ruleset name="Mustika.cf">
+	<target host="mustika.cf" />
+	<target host="www.mustika.cf" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

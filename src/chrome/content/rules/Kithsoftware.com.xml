@@ -1,0 +1,6 @@
+<ruleset name="Kithsoftware.com">
+	<target host="kithsoftware.com" />
+	<target host="www.kithsoftware.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

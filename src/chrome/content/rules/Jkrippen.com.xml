@@ -1,0 +1,6 @@
+<ruleset name="Jkrippen.com">
+	<target host="jkrippen.com" />
+	<target host="www.jkrippen.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

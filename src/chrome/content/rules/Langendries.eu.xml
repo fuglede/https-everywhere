@@ -1,0 +1,6 @@
+<ruleset name="Langendries.eu">
+	<target host="langendries.eu" />
+	<target host="www.langendries.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

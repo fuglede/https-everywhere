@@ -1,0 +1,6 @@
+<ruleset name="Generali-worldwide.com">
+	<target host="generali-worldwide.com" />
+	<target host="www.generali-worldwide.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

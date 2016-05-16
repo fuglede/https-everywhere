@@ -1,0 +1,6 @@
+<ruleset name="Unfiltered.nyc">
+	<target host="unfiltered.nyc" />
+	<target host="www.unfiltered.nyc" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

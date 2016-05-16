@@ -1,0 +1,6 @@
+<ruleset name="Pilote.me">
+	<target host="pilote.me" />
+	<target host="www.pilote.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

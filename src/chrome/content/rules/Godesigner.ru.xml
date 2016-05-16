@@ -1,0 +1,6 @@
+<ruleset name="Godesigner.ru">
+	<target host="godesigner.ru" />
+	<target host="www.godesigner.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

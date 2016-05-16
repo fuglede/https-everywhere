@@ -1,0 +1,6 @@
+<ruleset name="Escapees.com">
+	<target host="escapees.com" />
+	<target host="www.escapees.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

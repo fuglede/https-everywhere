@@ -1,0 +1,6 @@
+<ruleset name="Doordecor.bg">
+	<target host="doordecor.bg" />
+	<target host="www.doordecor.bg" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

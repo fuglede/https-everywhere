@@ -1,0 +1,6 @@
+<ruleset name="Degeberg.dk">
+	<target host="degeberg.dk" />
+	<target host="www.degeberg.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

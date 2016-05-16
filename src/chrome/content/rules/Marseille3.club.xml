@@ -1,0 +1,6 @@
+<ruleset name="Marseille3.club">
+	<target host="marseille3.club" />
+	<target host="www.marseille3.club" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

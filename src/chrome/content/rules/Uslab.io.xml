@@ -1,0 +1,6 @@
+<ruleset name="Uslab.io">
+	<target host="uslab.io" />
+	<target host="www.uslab.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

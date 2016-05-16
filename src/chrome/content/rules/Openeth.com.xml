@@ -1,0 +1,6 @@
+<ruleset name="Openeth.com">
+	<target host="openeth.com" />
+	<target host="www.openeth.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

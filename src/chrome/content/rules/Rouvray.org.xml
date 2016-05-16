@@ -1,0 +1,6 @@
+<ruleset name="Rouvray.org">
+	<target host="rouvray.org" />
+	<target host="www.rouvray.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

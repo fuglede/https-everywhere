@@ -1,0 +1,6 @@
+<ruleset name="Supweb.ovh">
+	<target host="supweb.ovh" />
+	<target host="www.supweb.ovh" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

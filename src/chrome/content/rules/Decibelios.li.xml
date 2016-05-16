@@ -1,0 +1,6 @@
+<ruleset name="Decibelios.li">
+	<target host="decibelios.li" />
+	<target host="www.decibelios.li" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

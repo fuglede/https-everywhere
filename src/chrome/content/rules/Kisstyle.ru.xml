@@ -1,0 +1,6 @@
+<ruleset name="Kisstyle.ru">
+	<target host="kisstyle.ru" />
+	<target host="www.kisstyle.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

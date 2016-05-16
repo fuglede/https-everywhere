@@ -1,0 +1,6 @@
+<ruleset name="Lolpatrol.de">
+	<target host="lolpatrol.de" />
+	<target host="www.lolpatrol.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Zadroweb.com">
+	<target host="zadroweb.com" />
+	<target host="www.zadroweb.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

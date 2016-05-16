@@ -1,0 +1,6 @@
+<ruleset name="Jie.dance">
+	<target host="jie.dance" />
+	<target host="www.jie.dance" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

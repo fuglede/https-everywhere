@@ -1,0 +1,6 @@
+<ruleset name="Datortipsen.se">
+	<target host="datortipsen.se" />
+	<target host="www.datortipsen.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

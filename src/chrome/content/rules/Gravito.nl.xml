@@ -1,0 +1,6 @@
+<ruleset name="Gravito.nl">
+	<target host="gravito.nl" />
+	<target host="www.gravito.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

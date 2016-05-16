@@ -1,0 +1,6 @@
+<ruleset name="Cadao.me">
+	<target host="cadao.me" />
+	<target host="www.cadao.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

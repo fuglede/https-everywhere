@@ -1,0 +1,6 @@
+<ruleset name="Enrolactivity.com">
+	<target host="enrolactivity.com" />
+	<target host="www.enrolactivity.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

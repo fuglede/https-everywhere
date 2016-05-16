@@ -1,0 +1,6 @@
+<ruleset name="Adoptamigrant.co.uk">
+	<target host="adoptamigrant.co.uk" />
+	<target host="www.adoptamigrant.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

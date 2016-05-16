@@ -1,0 +1,6 @@
+<ruleset name="Whoisapi.online">
+	<target host="whoisapi.online" />
+	<target host="www.whoisapi.online" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

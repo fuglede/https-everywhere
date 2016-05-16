@@ -1,0 +1,6 @@
+<ruleset name="Mahrer.net">
+	<target host="mahrer.net" />
+	<target host="www.mahrer.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

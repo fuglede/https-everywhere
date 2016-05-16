@@ -1,0 +1,6 @@
+<ruleset name="Airlinecheckins.com">
+	<target host="airlinecheckins.com" />
+	<target host="www.airlinecheckins.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

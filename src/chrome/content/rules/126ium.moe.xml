@@ -1,0 +1,6 @@
+<ruleset name="126ium.moe">
+	<target host="126ium.moe" />
+	<target host="www.126ium.moe" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

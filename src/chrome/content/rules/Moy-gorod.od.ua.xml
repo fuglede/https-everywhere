@@ -1,0 +1,6 @@
+<ruleset name="Moy-gorod.od.ua">
+	<target host="moy-gorod.od.ua" />
+	<target host="www.moy-gorod.od.ua" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

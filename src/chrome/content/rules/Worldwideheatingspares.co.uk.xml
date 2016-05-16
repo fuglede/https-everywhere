@@ -1,0 +1,6 @@
+<ruleset name="Worldwideheatingspares.co.uk">
+	<target host="worldwideheatingspares.co.uk" />
+	<target host="www.worldwideheatingspares.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

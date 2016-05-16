@@ -1,0 +1,6 @@
+<ruleset name="Fatwin.pw">
+	<target host="fatwin.pw" />
+	<target host="www.fatwin.pw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

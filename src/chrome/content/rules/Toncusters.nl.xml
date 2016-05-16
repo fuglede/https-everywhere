@@ -1,0 +1,6 @@
+<ruleset name="Toncusters.nl">
+	<target host="toncusters.nl" />
+	<target host="www.toncusters.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

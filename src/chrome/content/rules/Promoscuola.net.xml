@@ -1,0 +1,6 @@
+<ruleset name="Promoscuola.net">
+	<target host="promoscuola.net" />
+	<target host="www.promoscuola.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

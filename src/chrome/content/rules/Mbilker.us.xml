@@ -1,0 +1,6 @@
+<ruleset name="Mbilker.us">
+	<target host="mbilker.us" />
+	<target host="www.mbilker.us" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

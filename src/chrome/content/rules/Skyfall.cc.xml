@@ -1,0 +1,6 @@
+<ruleset name="Skyfall.cc">
+	<target host="skyfall.cc" />
+	<target host="www.skyfall.cc" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

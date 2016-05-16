@@ -1,0 +1,6 @@
+<ruleset name="Gagor.pl">
+	<target host="gagor.pl" />
+	<target host="www.gagor.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

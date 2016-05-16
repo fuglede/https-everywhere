@@ -1,0 +1,6 @@
+<ruleset name="Wy6.org">
+	<target host="wy6.org" />
+	<target host="www.wy6.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Crtvmgmt.com">
+	<target host="crtvmgmt.com" />
+	<target host="www.crtvmgmt.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

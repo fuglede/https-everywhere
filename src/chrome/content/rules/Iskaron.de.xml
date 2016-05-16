@@ -1,0 +1,6 @@
+<ruleset name="Iskaron.de">
+	<target host="iskaron.de" />
+	<target host="www.iskaron.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

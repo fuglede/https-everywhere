@@ -1,0 +1,6 @@
+<ruleset name="Veryhax.de">
+	<target host="veryhax.de" />
+	<target host="www.veryhax.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

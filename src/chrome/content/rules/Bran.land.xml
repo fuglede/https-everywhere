@@ -1,0 +1,6 @@
+<ruleset name="Bran.land">
+	<target host="bran.land" />
+	<target host="www.bran.land" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

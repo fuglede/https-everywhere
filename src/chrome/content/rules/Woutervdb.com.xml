@@ -1,0 +1,6 @@
+<ruleset name="Woutervdb.com">
+	<target host="woutervdb.com" />
+	<target host="www.woutervdb.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Avmoo.com">
+	<target host="avmoo.com" />
+	<target host="www.avmoo.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

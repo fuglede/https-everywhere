@@ -1,0 +1,6 @@
+<ruleset name="Undernet.uy">
+	<target host="undernet.uy" />
+	<target host="www.undernet.uy" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

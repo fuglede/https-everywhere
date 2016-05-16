@@ -1,0 +1,6 @@
+<ruleset name="Immoprotect.ca">
+	<target host="immoprotect.ca" />
+	<target host="www.immoprotect.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

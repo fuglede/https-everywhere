@@ -1,0 +1,6 @@
+<ruleset name="Smartrak.co.nz">
+	<target host="smartrak.co.nz" />
+	<target host="www.smartrak.co.nz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Thesharepointfarm.com">
+	<target host="thesharepointfarm.com" />
+	<target host="www.thesharepointfarm.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

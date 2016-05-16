@@ -1,0 +1,6 @@
+<ruleset name="Silicagelpackets.com">
+	<target host="silicagelpackets.com" />
+	<target host="www.silicagelpackets.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

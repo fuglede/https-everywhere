@@ -1,0 +1,6 @@
+<ruleset name="Moneygo.se">
+	<target host="moneygo.se" />
+	<target host="www.moneygo.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

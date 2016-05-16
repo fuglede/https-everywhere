@@ -1,0 +1,6 @@
+<ruleset name="Msmails.de">
+	<target host="msmails.de" />
+	<target host="www.msmails.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

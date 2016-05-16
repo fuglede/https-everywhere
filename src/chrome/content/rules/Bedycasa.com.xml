@@ -1,0 +1,6 @@
+<ruleset name="Bedycasa.com">
+	<target host="bedycasa.com" />
+	<target host="www.bedycasa.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

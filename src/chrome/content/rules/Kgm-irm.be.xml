@@ -1,0 +1,6 @@
+<ruleset name="Kgm-irm.be">
+	<target host="kgm-irm.be" />
+	<target host="www.kgm-irm.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

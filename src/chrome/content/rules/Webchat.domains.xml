@@ -1,0 +1,6 @@
+<ruleset name="Webchat.domains">
+	<target host="webchat.domains" />
+	<target host="www.webchat.domains" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

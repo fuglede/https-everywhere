@@ -1,0 +1,6 @@
+<ruleset name="Hoerbuecher-und-hoerspiele.de">
+	<target host="hoerbuecher-und-hoerspiele.de" />
+	<target host="www.hoerbuecher-und-hoerspiele.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

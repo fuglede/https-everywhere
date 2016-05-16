@@ -1,0 +1,6 @@
+<ruleset name="Yourstrongbox.com">
+	<target host="yourstrongbox.com" />
+	<target host="www.yourstrongbox.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

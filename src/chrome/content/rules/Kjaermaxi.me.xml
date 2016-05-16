@@ -1,0 +1,6 @@
+<ruleset name="Kjaermaxi.me">
+	<target host="kjaermaxi.me" />
+	<target host="www.kjaermaxi.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

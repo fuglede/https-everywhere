@@ -1,0 +1,6 @@
+<ruleset name="Voidi.ca">
+	<target host="voidi.ca" />
+	<target host="www.voidi.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Gigacog.com">
+	<target host="gigacog.com" />
+	<target host="www.gigacog.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

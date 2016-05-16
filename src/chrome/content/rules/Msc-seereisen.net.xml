@@ -1,0 +1,6 @@
+<ruleset name="Msc-seereisen.net">
+	<target host="msc-seereisen.net" />
+	<target host="www.msc-seereisen.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

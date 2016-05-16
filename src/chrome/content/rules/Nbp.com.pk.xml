@@ -1,0 +1,6 @@
+<ruleset name="Nbp.com.pk">
+	<target host="nbp.com.pk" />
+	<target host="www.nbp.com.pk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

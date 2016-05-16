@@ -1,0 +1,6 @@
+<ruleset name="Lesperlesdunet.fr">
+	<target host="lesperlesdunet.fr" />
+	<target host="www.lesperlesdunet.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

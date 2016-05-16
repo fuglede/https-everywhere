@@ -1,0 +1,6 @@
+<ruleset name="Silverhome.ninja">
+	<target host="silverhome.ninja" />
+	<target host="www.silverhome.ninja" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Asurepay.cc">
+	<target host="asurepay.cc" />
+	<target host="www.asurepay.cc" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

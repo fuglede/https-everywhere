@@ -1,0 +1,6 @@
+<ruleset name="Nako.no">
+	<target host="nako.no" />
+	<target host="www.nako.no" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Bcm.com.au">
+	<target host="bcm.com.au" />
+	<target host="www.bcm.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

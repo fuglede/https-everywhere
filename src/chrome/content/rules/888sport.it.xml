@@ -1,0 +1,6 @@
+<ruleset name="888sport.it">
+	<target host="888sport.it" />
+	<target host="www.888sport.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

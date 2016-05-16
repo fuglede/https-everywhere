@@ -1,0 +1,6 @@
+<ruleset name="Teamsocial.co">
+	<target host="teamsocial.co" />
+	<target host="www.teamsocial.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

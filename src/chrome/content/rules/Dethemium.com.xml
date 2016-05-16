@@ -1,0 +1,6 @@
+<ruleset name="Dethemium.com">
+	<target host="dethemium.com" />
+	<target host="www.dethemium.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

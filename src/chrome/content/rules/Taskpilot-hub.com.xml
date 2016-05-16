@@ -1,0 +1,6 @@
+<ruleset name="Taskpilot-hub.com">
+	<target host="taskpilot-hub.com" />
+	<target host="www.taskpilot-hub.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

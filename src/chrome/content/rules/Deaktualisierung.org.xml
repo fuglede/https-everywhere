@@ -1,0 +1,6 @@
+<ruleset name="Deaktualisierung.org">
+	<target host="deaktualisierung.org" />
+	<target host="www.deaktualisierung.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

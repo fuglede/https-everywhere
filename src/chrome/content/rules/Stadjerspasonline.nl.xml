@@ -1,0 +1,6 @@
+<ruleset name="Stadjerspasonline.nl">
+	<target host="stadjerspasonline.nl" />
+	<target host="www.stadjerspasonline.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

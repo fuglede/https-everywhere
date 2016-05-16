@@ -1,0 +1,6 @@
+<ruleset name="Linguaquote.com">
+	<target host="linguaquote.com" />
+	<target host="www.linguaquote.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Js-online.net">
+	<target host="js-online.net" />
+	<target host="www.js-online.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

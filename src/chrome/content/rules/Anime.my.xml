@@ -1,0 +1,6 @@
+<ruleset name="Anime.my">
+	<target host="anime.my" />
+	<target host="www.anime.my" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

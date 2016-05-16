@@ -1,0 +1,6 @@
+<ruleset name="Umisonoda.com">
+	<target host="umisonoda.com" />
+	<target host="www.umisonoda.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

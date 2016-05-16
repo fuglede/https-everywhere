@@ -1,0 +1,6 @@
+<ruleset name="Ceyizlikelisleri.com">
+	<target host="ceyizlikelisleri.com" />
+	<target host="www.ceyizlikelisleri.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Quikpay.com.au">
+	<target host="quikpay.com.au" />
+	<target host="www.quikpay.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

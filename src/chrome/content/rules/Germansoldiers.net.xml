@@ -1,0 +1,6 @@
+<ruleset name="Germansoldiers.net">
+	<target host="germansoldiers.net" />
+	<target host="www.germansoldiers.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Rxprep.com">
+	<target host="rxprep.com" />
+	<target host="www.rxprep.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

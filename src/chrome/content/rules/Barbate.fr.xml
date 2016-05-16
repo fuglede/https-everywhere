@@ -1,0 +1,6 @@
+<ruleset name="Barbate.fr">
+	<target host="barbate.fr" />
+	<target host="www.barbate.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

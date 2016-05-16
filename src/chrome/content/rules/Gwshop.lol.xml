@@ -1,0 +1,6 @@
+<ruleset name="Gwshop.lol">
+	<target host="gwshop.lol" />
+	<target host="www.gwshop.lol" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

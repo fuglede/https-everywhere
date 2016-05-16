@@ -1,0 +1,6 @@
+<ruleset name="Libertas-tech.com">
+	<target host="libertas-tech.com" />
+	<target host="www.libertas-tech.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

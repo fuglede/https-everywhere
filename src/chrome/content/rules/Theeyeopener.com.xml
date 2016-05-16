@@ -1,0 +1,6 @@
+<ruleset name="Theeyeopener.com">
+	<target host="theeyeopener.com" />
+	<target host="www.theeyeopener.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Expo-asia.ru">
+	<target host="expo-asia.ru" />
+	<target host="www.expo-asia.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

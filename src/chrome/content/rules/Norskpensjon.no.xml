@@ -1,0 +1,6 @@
+<ruleset name="Norskpensjon.no">
+	<target host="norskpensjon.no" />
+	<target host="www.norskpensjon.no" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

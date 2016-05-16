@@ -1,0 +1,6 @@
+<ruleset name="Tickreport.com">
+	<target host="tickreport.com" />
+	<target host="www.tickreport.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

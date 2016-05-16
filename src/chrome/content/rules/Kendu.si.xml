@@ -1,0 +1,6 @@
+<ruleset name="Kendu.si">
+	<target host="kendu.si" />
+	<target host="www.kendu.si" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

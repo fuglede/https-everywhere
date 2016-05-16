@@ -1,0 +1,6 @@
+<ruleset name="Raidstone.net">
+	<target host="raidstone.net" />
+	<target host="www.raidstone.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

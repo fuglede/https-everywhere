@@ -1,0 +1,6 @@
+<ruleset name="Dominikkulaga.pl">
+	<target host="dominikkulaga.pl" />
+	<target host="www.dominikkulaga.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

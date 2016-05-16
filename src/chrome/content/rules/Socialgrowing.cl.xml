@@ -1,0 +1,6 @@
+<ruleset name="Socialgrowing.cl">
+	<target host="socialgrowing.cl" />
+	<target host="www.socialgrowing.cl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

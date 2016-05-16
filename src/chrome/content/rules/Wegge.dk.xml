@@ -1,0 +1,6 @@
+<ruleset name="Wegge.dk">
+	<target host="wegge.dk" />
+	<target host="www.wegge.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

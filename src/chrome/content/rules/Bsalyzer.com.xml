@@ -1,0 +1,6 @@
+<ruleset name="Bsalyzer.com">
+	<target host="bsalyzer.com" />
+	<target host="www.bsalyzer.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

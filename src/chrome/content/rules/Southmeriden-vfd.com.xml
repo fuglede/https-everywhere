@@ -1,0 +1,6 @@
+<ruleset name="Southmeriden-vfd.com">
+	<target host="southmeriden-vfd.com" />
+	<target host="www.southmeriden-vfd.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

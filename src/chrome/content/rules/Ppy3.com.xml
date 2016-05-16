@@ -1,0 +1,6 @@
+<ruleset name="Ppy3.com">
+	<target host="ppy3.com" />
+	<target host="www.ppy3.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

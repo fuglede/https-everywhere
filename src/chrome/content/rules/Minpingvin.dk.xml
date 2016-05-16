@@ -1,0 +1,6 @@
+<ruleset name="Minpingvin.dk">
+	<target host="minpingvin.dk" />
+	<target host="www.minpingvin.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

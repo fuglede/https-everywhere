@@ -1,0 +1,6 @@
+<ruleset name="Sonicrainboom.rocks">
+	<target host="sonicrainboom.rocks" />
+	<target host="www.sonicrainboom.rocks" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

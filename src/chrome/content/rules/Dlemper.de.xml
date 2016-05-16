@@ -1,0 +1,6 @@
+<ruleset name="Dlemper.de">
+	<target host="dlemper.de" />
+	<target host="www.dlemper.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

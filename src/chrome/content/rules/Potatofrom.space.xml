@@ -1,0 +1,6 @@
+<ruleset name="Potatofrom.space">
+	<target host="potatofrom.space" />
+	<target host="www.potatofrom.space" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

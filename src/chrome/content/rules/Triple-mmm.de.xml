@@ -1,0 +1,6 @@
+<ruleset name="Triple-mmm.de">
+	<target host="triple-mmm.de" />
+	<target host="www.triple-mmm.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Nerdkorea.eu">
+	<target host="nerdkorea.eu" />
+	<target host="www.nerdkorea.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

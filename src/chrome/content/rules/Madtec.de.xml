@@ -1,0 +1,6 @@
+<ruleset name="Madtec.de">
+	<target host="madtec.de" />
+	<target host="www.madtec.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

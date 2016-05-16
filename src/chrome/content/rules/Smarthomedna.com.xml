@@ -1,0 +1,6 @@
+<ruleset name="Smarthomedna.com">
+	<target host="smarthomedna.com" />
+	<target host="www.smarthomedna.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

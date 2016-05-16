@@ -1,0 +1,6 @@
+<ruleset name="Rieckers.it">
+	<target host="rieckers.it" />
+	<target host="www.rieckers.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Chazay.net">
+	<target host="chazay.net" />
+	<target host="www.chazay.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

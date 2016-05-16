@@ -1,0 +1,6 @@
+<ruleset name="Moda-couture.com">
+	<target host="moda-couture.com" />
+	<target host="www.moda-couture.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

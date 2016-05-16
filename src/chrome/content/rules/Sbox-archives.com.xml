@@ -1,0 +1,6 @@
+<ruleset name="Sbox-archives.com">
+	<target host="sbox-archives.com" />
+	<target host="www.sbox-archives.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

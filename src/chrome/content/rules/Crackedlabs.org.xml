@@ -1,0 +1,6 @@
+<ruleset name="Crackedlabs.org">
+	<target host="crackedlabs.org" />
+	<target host="www.crackedlabs.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

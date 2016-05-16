@@ -1,0 +1,6 @@
+<ruleset name="Postpi.com">
+	<target host="postpi.com" />
+	<target host="www.postpi.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

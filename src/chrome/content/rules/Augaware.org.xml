@@ -1,0 +1,6 @@
+<ruleset name="Augaware.org">
+	<target host="augaware.org" />
+	<target host="www.augaware.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

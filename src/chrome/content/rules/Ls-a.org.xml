@@ -1,0 +1,6 @@
+<ruleset name="Ls-a.org">
+	<target host="ls-a.org" />
+	<target host="www.ls-a.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

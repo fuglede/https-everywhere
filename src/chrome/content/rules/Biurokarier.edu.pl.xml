@@ -1,0 +1,6 @@
+<ruleset name="Biurokarier.edu.pl">
+	<target host="biurokarier.edu.pl" />
+	<target host="www.biurokarier.edu.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

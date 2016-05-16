@@ -1,0 +1,6 @@
+<ruleset name="Loophost.com.br">
+	<target host="loophost.com.br" />
+	<target host="www.loophost.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

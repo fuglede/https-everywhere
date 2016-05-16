@@ -1,0 +1,6 @@
+<ruleset name="Cuonic.com">
+	<target host="cuonic.com" />
+	<target host="www.cuonic.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

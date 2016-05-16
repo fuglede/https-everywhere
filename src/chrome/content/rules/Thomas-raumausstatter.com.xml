@@ -1,0 +1,6 @@
+<ruleset name="Thomas-raumausstatter.com">
+	<target host="thomas-raumausstatter.com" />
+	<target host="www.thomas-raumausstatter.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

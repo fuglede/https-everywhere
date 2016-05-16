@@ -1,0 +1,6 @@
+<ruleset name="Coloringnotebook.com">
+	<target host="coloringnotebook.com" />
+	<target host="www.coloringnotebook.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

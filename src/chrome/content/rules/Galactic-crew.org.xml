@@ -1,0 +1,6 @@
+<ruleset name="Galactic-crew.org">
+	<target host="galactic-crew.org" />
+	<target host="www.galactic-crew.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

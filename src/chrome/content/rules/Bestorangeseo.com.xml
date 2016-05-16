@@ -1,0 +1,6 @@
+<ruleset name="Bestorangeseo.com">
+	<target host="bestorangeseo.com" />
+	<target host="www.bestorangeseo.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

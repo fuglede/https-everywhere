@@ -1,0 +1,6 @@
+<ruleset name="Xboxdownloadthat.com">
+	<target host="xboxdownloadthat.com" />
+	<target host="www.xboxdownloadthat.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

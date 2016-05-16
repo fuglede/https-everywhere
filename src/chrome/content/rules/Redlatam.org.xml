@@ -1,0 +1,6 @@
+<ruleset name="Redlatam.org">
+	<target host="redlatam.org" />
+	<target host="www.redlatam.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Easycosmetic.ch">
+	<target host="easycosmetic.ch" />
+	<target host="www.easycosmetic.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

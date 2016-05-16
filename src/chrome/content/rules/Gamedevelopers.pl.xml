@@ -1,0 +1,6 @@
+<ruleset name="Gamedevelopers.pl">
+	<target host="gamedevelopers.pl" />
+	<target host="www.gamedevelopers.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Punchkickinteractive.com">
+	<target host="punchkickinteractive.com" />
+	<target host="www.punchkickinteractive.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

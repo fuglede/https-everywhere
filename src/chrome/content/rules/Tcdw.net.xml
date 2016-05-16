@@ -1,0 +1,6 @@
+<ruleset name="Tcdw.net">
+	<target host="tcdw.net" />
+	<target host="www.tcdw.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

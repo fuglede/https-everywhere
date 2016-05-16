@@ -1,0 +1,6 @@
+<ruleset name="Gamegix.com">
+	<target host="gamegix.com" />
+	<target host="www.gamegix.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

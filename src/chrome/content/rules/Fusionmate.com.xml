@@ -1,0 +1,6 @@
+<ruleset name="Fusionmate.com">
+	<target host="fusionmate.com" />
+	<target host="www.fusionmate.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

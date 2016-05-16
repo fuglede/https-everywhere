@@ -1,0 +1,6 @@
+<ruleset name="Cher.pp.ru">
+	<target host="cher.pp.ru" />
+	<target host="www.cher.pp.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

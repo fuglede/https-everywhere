@@ -1,0 +1,6 @@
+<ruleset name="Lerner.moscow">
+	<target host="lerner.moscow" />
+	<target host="www.lerner.moscow" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

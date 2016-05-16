@@ -1,0 +1,6 @@
+<ruleset name="Charityclear.com">
+	<target host="charityclear.com" />
+	<target host="www.charityclear.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Iosmods.com">
+	<target host="iosmods.com" />
+	<target host="www.iosmods.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

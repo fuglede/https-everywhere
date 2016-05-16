@@ -1,0 +1,6 @@
+<ruleset name="Xfive.de">
+	<target host="xfive.de" />
+	<target host="www.xfive.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

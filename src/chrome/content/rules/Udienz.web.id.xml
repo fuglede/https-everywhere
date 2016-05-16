@@ -1,0 +1,6 @@
+<ruleset name="Udienz.web.id">
+	<target host="udienz.web.id" />
+	<target host="www.udienz.web.id" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

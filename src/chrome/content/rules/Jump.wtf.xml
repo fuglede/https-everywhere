@@ -1,0 +1,6 @@
+<ruleset name="Jump.wtf">
+	<target host="jump.wtf" />
+	<target host="www.jump.wtf" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Mundokinderland.com.br">
+	<target host="mundokinderland.com.br" />
+	<target host="www.mundokinderland.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Imguploaden.nl">
+	<target host="imguploaden.nl" />
+	<target host="www.imguploaden.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

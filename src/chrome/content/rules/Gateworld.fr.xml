@@ -1,0 +1,6 @@
+<ruleset name="Gateworld.fr">
+	<target host="gateworld.fr" />
+	<target host="www.gateworld.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

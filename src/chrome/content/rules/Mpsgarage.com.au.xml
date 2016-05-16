@@ -1,0 +1,6 @@
+<ruleset name="Mpsgarage.com.au">
+	<target host="mpsgarage.com.au" />
+	<target host="www.mpsgarage.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

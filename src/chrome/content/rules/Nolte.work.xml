@@ -1,0 +1,6 @@
+<ruleset name="Nolte.work">
+	<target host="nolte.work" />
+	<target host="www.nolte.work" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

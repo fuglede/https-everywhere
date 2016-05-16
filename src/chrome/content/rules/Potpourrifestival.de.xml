@@ -1,0 +1,6 @@
+<ruleset name="Potpourrifestival.de">
+	<target host="potpourrifestival.de" />
+	<target host="www.potpourrifestival.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

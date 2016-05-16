@@ -1,0 +1,6 @@
+<ruleset name="Dash-board.jp">
+	<target host="dash-board.jp" />
+	<target host="www.dash-board.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Varitouc.com.br">
+	<target host="varitouc.com.br" />
+	<target host="www.varitouc.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

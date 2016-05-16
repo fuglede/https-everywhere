@@ -1,0 +1,6 @@
+<ruleset name="Nysepho.pw">
+	<target host="nysepho.pw" />
+	<target host="www.nysepho.pw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

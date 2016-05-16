@@ -1,0 +1,6 @@
+<ruleset name="Ibr-roth.eu">
+	<target host="ibr-roth.eu" />
+	<target host="www.ibr-roth.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

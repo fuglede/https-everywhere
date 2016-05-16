@@ -1,0 +1,6 @@
+<ruleset name="Pontodogame.com.br">
+	<target host="pontodogame.com.br" />
+	<target host="www.pontodogame.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

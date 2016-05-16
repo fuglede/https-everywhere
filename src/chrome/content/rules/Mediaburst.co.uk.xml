@@ -1,0 +1,6 @@
+<ruleset name="Mediaburst.co.uk">
+	<target host="mediaburst.co.uk" />
+	<target host="www.mediaburst.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

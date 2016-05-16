@@ -1,0 +1,6 @@
+<ruleset name="Ministry-of-co.de">
+	<target host="ministry-of-co.de" />
+	<target host="www.ministry-of-co.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

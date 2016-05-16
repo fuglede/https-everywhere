@@ -1,0 +1,6 @@
+<ruleset name="Pekoe.se">
+	<target host="pekoe.se" />
+	<target host="www.pekoe.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

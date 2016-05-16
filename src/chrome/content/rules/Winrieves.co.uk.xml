@@ -1,0 +1,6 @@
+<ruleset name="Winrieves.co.uk">
+	<target host="winrieves.co.uk" />
+	<target host="www.winrieves.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

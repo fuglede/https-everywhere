@@ -1,0 +1,6 @@
+<ruleset name="Cloud-temple.com">
+	<target host="cloud-temple.com" />
+	<target host="www.cloud-temple.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

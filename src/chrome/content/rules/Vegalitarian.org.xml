@@ -1,0 +1,6 @@
+<ruleset name="Vegalitarian.org">
+	<target host="vegalitarian.org" />
+	<target host="www.vegalitarian.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

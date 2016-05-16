@@ -1,0 +1,6 @@
+<ruleset name="Papierniak.net">
+	<target host="papierniak.net" />
+	<target host="www.papierniak.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

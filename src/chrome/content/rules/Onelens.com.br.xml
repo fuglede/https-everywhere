@@ -1,0 +1,6 @@
+<ruleset name="Onelens.com.br">
+	<target host="onelens.com.br" />
+	<target host="www.onelens.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

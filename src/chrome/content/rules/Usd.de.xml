@@ -1,0 +1,6 @@
+<ruleset name="Usd.de">
+	<target host="usd.de" />
+	<target host="www.usd.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

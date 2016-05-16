@@ -1,0 +1,6 @@
+<ruleset name="Nnya.cat">
+	<target host="nnya.cat" />
+	<target host="www.nnya.cat" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

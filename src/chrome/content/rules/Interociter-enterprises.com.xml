@@ -1,0 +1,6 @@
+<ruleset name="Interociter-enterprises.com">
+	<target host="interociter-enterprises.com" />
+	<target host="www.interociter-enterprises.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

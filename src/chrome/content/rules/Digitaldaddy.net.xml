@@ -1,0 +1,6 @@
+<ruleset name="Digitaldaddy.net">
+	<target host="digitaldaddy.net" />
+	<target host="www.digitaldaddy.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

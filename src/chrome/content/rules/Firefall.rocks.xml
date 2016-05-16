@@ -1,0 +1,6 @@
+<ruleset name="Firefall.rocks">
+	<target host="firefall.rocks" />
+	<target host="www.firefall.rocks" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

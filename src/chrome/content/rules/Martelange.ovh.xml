@@ -1,0 +1,6 @@
+<ruleset name="Martelange.ovh">
+	<target host="martelange.ovh" />
+	<target host="www.martelange.ovh" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Netzzwerg4u.de">
+	<target host="netzzwerg4u.de" />
+	<target host="www.netzzwerg4u.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

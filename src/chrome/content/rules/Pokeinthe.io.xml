@@ -1,0 +1,6 @@
+<ruleset name="Pokeinthe.io">
+	<target host="pokeinthe.io" />
+	<target host="www.pokeinthe.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

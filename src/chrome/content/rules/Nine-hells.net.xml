@@ -1,0 +1,6 @@
+<ruleset name="Nine-hells.net">
+	<target host="nine-hells.net" />
+	<target host="www.nine-hells.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

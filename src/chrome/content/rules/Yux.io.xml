@@ -1,0 +1,6 @@
+<ruleset name="Yux.io">
+	<target host="yux.io" />
+	<target host="www.yux.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

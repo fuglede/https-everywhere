@@ -1,0 +1,6 @@
+<ruleset name="Tehotuotanto.net">
+	<target host="tehotuotanto.net" />
+	<target host="www.tehotuotanto.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

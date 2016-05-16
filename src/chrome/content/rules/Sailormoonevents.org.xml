@@ -1,0 +1,6 @@
+<ruleset name="Sailormoonevents.org">
+	<target host="sailormoonevents.org" />
+	<target host="www.sailormoonevents.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

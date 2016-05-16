@@ -1,0 +1,6 @@
+<ruleset name="Capper.de">
+	<target host="capper.de" />
+	<target host="www.capper.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Open-to-repair.fr">
+	<target host="open-to-repair.fr" />
+	<target host="www.open-to-repair.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

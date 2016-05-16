@@ -1,0 +1,6 @@
+<ruleset name="Unitedcyberdevelopment.com">
+	<target host="unitedcyberdevelopment.com" />
+	<target host="www.unitedcyberdevelopment.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

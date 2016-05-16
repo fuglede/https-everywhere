@@ -1,0 +1,6 @@
+<ruleset name="Quare.io">
+	<target host="quare.io" />
+	<target host="www.quare.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

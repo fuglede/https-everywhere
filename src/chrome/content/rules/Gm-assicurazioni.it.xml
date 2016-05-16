@@ -1,0 +1,6 @@
+<ruleset name="Gm-assicurazioni.it">
+	<target host="gm-assicurazioni.it" />
+	<target host="www.gm-assicurazioni.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

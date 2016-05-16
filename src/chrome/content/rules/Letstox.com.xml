@@ -1,0 +1,6 @@
+<ruleset name="Letstox.com">
+	<target host="letstox.com" />
+	<target host="www.letstox.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

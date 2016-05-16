@@ -1,0 +1,6 @@
+<ruleset name="Cat-box.de">
+	<target host="cat-box.de" />
+	<target host="www.cat-box.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

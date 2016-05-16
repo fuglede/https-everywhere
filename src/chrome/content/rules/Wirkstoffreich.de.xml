@@ -1,0 +1,6 @@
+<ruleset name="Wirkstoffreich.de">
+	<target host="wirkstoffreich.de" />
+	<target host="www.wirkstoffreich.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

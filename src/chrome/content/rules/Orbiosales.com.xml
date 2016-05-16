@@ -1,0 +1,6 @@
+<ruleset name="Orbiosales.com">
+	<target host="orbiosales.com" />
+	<target host="www.orbiosales.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

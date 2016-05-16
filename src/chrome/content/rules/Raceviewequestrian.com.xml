@@ -1,0 +1,6 @@
+<ruleset name="Raceviewequestrian.com">
+	<target host="raceviewequestrian.com" />
+	<target host="www.raceviewequestrian.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

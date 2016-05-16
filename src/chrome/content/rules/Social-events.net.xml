@@ -1,0 +1,6 @@
+<ruleset name="Social-events.net">
+	<target host="social-events.net" />
+	<target host="www.social-events.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Shiftech.eu">
+	<target host="shiftech.eu" />
+	<target host="www.shiftech.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

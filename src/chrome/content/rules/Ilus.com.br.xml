@@ -1,0 +1,6 @@
+<ruleset name="Ilus.com.br">
+	<target host="ilus.com.br" />
+	<target host="www.ilus.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

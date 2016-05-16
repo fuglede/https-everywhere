@@ -1,0 +1,6 @@
+<ruleset name="Zbigniewgalucki.eu">
+	<target host="zbigniewgalucki.eu" />
+	<target host="www.zbigniewgalucki.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

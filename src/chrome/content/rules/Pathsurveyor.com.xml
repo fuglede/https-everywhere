@@ -1,0 +1,6 @@
+<ruleset name="Pathsurveyor.com">
+	<target host="pathsurveyor.com" />
+	<target host="www.pathsurveyor.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Fotowettbewerb.co">
+	<target host="fotowettbewerb.co" />
+	<target host="www.fotowettbewerb.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Raitza.de">
+	<target host="raitza.de" />
+	<target host="www.raitza.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

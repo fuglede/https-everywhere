@@ -1,0 +1,6 @@
+<ruleset name="Biblionaut.net">
+	<target host="biblionaut.net" />
+	<target host="www.biblionaut.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

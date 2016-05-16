@@ -1,0 +1,6 @@
+<ruleset name="Bnhlibrary.com">
+	<target host="bnhlibrary.com" />
+	<target host="www.bnhlibrary.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

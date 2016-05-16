@@ -1,0 +1,6 @@
+<ruleset name="Eb7.jp">
+	<target host="eb7.jp" />
+	<target host="www.eb7.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

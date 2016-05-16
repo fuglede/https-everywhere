@@ -1,0 +1,6 @@
+<ruleset name="Sinosky.org">
+	<target host="sinosky.org" />
+	<target host="www.sinosky.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

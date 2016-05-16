@@ -1,0 +1,6 @@
+<ruleset name="Tangibilizing.com">
+	<target host="tangibilizing.com" />
+	<target host="www.tangibilizing.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

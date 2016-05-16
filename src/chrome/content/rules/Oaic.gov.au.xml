@@ -1,0 +1,6 @@
+<ruleset name="Oaic.gov.au">
+	<target host="oaic.gov.au" />
+	<target host="www.oaic.gov.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

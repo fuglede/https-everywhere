@@ -1,0 +1,6 @@
+<ruleset name="Tonabor.ru">
+	<target host="tonabor.ru" />
+	<target host="www.tonabor.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

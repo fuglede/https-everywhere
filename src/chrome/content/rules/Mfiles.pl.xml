@@ -1,0 +1,6 @@
+<ruleset name="Mfiles.pl">
+	<target host="mfiles.pl" />
+	<target host="www.mfiles.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

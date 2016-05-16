@@ -1,0 +1,6 @@
+<ruleset name="Yesconnect.in">
+	<target host="yesconnect.in" />
+	<target host="www.yesconnect.in" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Polkam.go.id">
+	<target host="polkam.go.id" />
+	<target host="www.polkam.go.id" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

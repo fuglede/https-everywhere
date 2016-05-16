@@ -1,0 +1,6 @@
+<ruleset name="Amri.nl">
+	<target host="amri.nl" />
+	<target host="www.amri.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Davidhunter.scot">
+	<target host="davidhunter.scot" />
+	<target host="www.davidhunter.scot" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

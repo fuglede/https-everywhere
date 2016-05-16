@@ -1,0 +1,6 @@
+<ruleset name="Kroetenfuchs.de">
+	<target host="kroetenfuchs.de" />
+	<target host="www.kroetenfuchs.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

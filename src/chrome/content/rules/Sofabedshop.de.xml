@@ -1,0 +1,6 @@
+<ruleset name="Sofabedshop.de">
+	<target host="sofabedshop.de" />
+	<target host="www.sofabedshop.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

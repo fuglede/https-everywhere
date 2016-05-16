@@ -1,0 +1,6 @@
+<ruleset name="Preworkout.me">
+	<target host="preworkout.me" />
+	<target host="www.preworkout.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Securitysoapbox.com">
+	<target host="securitysoapbox.com" />
+	<target host="www.securitysoapbox.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

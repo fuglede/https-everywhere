@@ -1,0 +1,6 @@
+<ruleset name="Onmaps.de">
+	<target host="onmaps.de" />
+	<target host="www.onmaps.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

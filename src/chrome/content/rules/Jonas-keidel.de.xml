@@ -1,0 +1,6 @@
+<ruleset name="Jonas-keidel.de">
+	<target host="jonas-keidel.de" />
+	<target host="www.jonas-keidel.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

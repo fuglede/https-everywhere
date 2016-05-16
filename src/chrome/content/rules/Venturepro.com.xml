@@ -1,0 +1,6 @@
+<ruleset name="Venturepro.com">
+	<target host="venturepro.com" />
+	<target host="www.venturepro.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Tourispo.com">
+	<target host="tourispo.com" />
+	<target host="www.tourispo.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

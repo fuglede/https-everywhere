@@ -1,0 +1,6 @@
+<ruleset name="Sc4le.com">
+	<target host="sc4le.com" />
+	<target host="www.sc4le.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

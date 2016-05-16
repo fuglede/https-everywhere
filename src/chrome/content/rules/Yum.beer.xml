@@ -1,0 +1,6 @@
+<ruleset name="Yum.beer">
+	<target host="yum.beer" />
+	<target host="www.yum.beer" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

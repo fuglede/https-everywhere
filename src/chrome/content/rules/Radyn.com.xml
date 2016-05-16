@@ -1,0 +1,6 @@
+<ruleset name="Radyn.com">
+	<target host="radyn.com" />
+	<target host="www.radyn.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

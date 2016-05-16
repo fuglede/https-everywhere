@@ -1,0 +1,6 @@
+<ruleset name="Mylmh.cn">
+	<target host="mylmh.cn" />
+	<target host="www.mylmh.cn" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

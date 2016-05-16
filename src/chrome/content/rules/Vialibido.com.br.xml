@@ -1,0 +1,6 @@
+<ruleset name="Vialibido.com.br">
+	<target host="vialibido.com.br" />
+	<target host="www.vialibido.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

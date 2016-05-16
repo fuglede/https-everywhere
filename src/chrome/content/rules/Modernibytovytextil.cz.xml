@@ -1,0 +1,6 @@
+<ruleset name="Modernibytovytextil.cz">
+	<target host="modernibytovytextil.cz" />
+	<target host="www.modernibytovytextil.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

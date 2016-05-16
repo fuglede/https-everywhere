@@ -1,0 +1,6 @@
+<ruleset name="Mclab.su">
+	<target host="mclab.su" />
+	<target host="www.mclab.su" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Eery.de">
+	<target host="eery.de" />
+	<target host="www.eery.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Pugliese.fr">
+	<target host="pugliese.fr" />
+	<target host="www.pugliese.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

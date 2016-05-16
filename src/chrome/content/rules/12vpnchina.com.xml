@@ -1,0 +1,6 @@
+<ruleset name="12vpnchina.com">
+	<target host="12vpnchina.com" />
+	<target host="www.12vpnchina.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Tsrstore.gq">
+	<target host="tsrstore.gq" />
+	<target host="www.tsrstore.gq" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

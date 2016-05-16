@@ -1,0 +1,6 @@
+<ruleset name="Marabou100.de">
+	<target host="marabou100.de" />
+	<target host="www.marabou100.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

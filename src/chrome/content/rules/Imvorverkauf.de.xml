@@ -1,0 +1,6 @@
+<ruleset name="Imvorverkauf.de">
+	<target host="imvorverkauf.de" />
+	<target host="www.imvorverkauf.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

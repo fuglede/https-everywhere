@@ -1,0 +1,6 @@
+<ruleset name="Shu-kin.net">
+	<target host="shu-kin.net" />
+	<target host="www.shu-kin.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

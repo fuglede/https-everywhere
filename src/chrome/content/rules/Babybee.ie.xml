@@ -1,0 +1,6 @@
+<ruleset name="Babybee.ie">
+	<target host="babybee.ie" />
+	<target host="www.babybee.ie" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

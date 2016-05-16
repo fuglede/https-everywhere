@@ -1,0 +1,6 @@
+<ruleset name="Politologos.org">
+	<target host="politologos.org" />
+	<target host="www.politologos.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

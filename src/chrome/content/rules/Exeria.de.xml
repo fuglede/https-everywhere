@@ -1,0 +1,6 @@
+<ruleset name="Exeria.de">
+	<target host="exeria.de" />
+	<target host="www.exeria.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Smdev.fr">
+	<target host="smdev.fr" />
+	<target host="www.smdev.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

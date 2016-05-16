@@ -1,0 +1,6 @@
+<ruleset name="Weltmeisterschaft.net">
+	<target host="weltmeisterschaft.net" />
+	<target host="www.weltmeisterschaft.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

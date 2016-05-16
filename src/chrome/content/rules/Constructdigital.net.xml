@@ -1,0 +1,6 @@
+<ruleset name="Constructdigital.net">
+	<target host="constructdigital.net" />
+	<target host="www.constructdigital.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

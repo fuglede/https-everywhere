@@ -1,0 +1,6 @@
+<ruleset name="Dmi.es">
+	<target host="dmi.es" />
+	<target host="www.dmi.es" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

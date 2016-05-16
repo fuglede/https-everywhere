@@ -1,0 +1,6 @@
+<ruleset name="Otichi.com">
+	<target host="otichi.com" />
+	<target host="www.otichi.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

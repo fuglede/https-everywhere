@@ -1,0 +1,6 @@
+<ruleset name="Lojacolumbia.com.br">
+	<target host="lojacolumbia.com.br" />
+	<target host="www.lojacolumbia.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Robodeidentidad.gov">
+	<target host="robodeidentidad.gov" />
+	<target host="www.robodeidentidad.gov" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

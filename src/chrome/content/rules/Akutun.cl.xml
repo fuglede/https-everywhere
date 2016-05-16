@@ -1,0 +1,6 @@
+<ruleset name="Akutun.cl">
+	<target host="akutun.cl" />
+	<target host="www.akutun.cl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

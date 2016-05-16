@@ -1,0 +1,6 @@
+<ruleset name="Jw.md">
+	<target host="jw.md" />
+	<target host="www.jw.md" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

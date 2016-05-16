@@ -1,0 +1,6 @@
+<ruleset name="24ip.com">
+	<target host="24ip.com" />
+	<target host="www.24ip.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

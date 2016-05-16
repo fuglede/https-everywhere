@@ -1,0 +1,6 @@
+<ruleset name="Cerstore.com.br">
+	<target host="cerstore.com.br" />
+	<target host="www.cerstore.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

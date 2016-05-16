@@ -1,0 +1,6 @@
+<ruleset name="Pterodactylus.cz">
+	<target host="pterodactylus.cz" />
+	<target host="www.pterodactylus.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

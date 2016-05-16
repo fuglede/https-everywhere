@@ -1,0 +1,6 @@
+<ruleset name="Pfolta.net">
+	<target host="pfolta.net" />
+	<target host="www.pfolta.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Mycoted.com">
+	<target host="mycoted.com" />
+	<target host="www.mycoted.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Sustainability.gov">
+	<target host="sustainability.gov" />
+	<target host="www.sustainability.gov" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

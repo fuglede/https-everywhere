@@ -1,0 +1,6 @@
+<ruleset name="Netmagik.com">
+	<target host="netmagik.com" />
+	<target host="www.netmagik.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

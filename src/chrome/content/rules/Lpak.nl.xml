@@ -1,0 +1,6 @@
+<ruleset name="Lpak.nl">
+	<target host="lpak.nl" />
+	<target host="www.lpak.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

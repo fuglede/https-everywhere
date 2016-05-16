@@ -1,0 +1,6 @@
+<ruleset name="Crypt.guru">
+	<target host="crypt.guru" />
+	<target host="www.crypt.guru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

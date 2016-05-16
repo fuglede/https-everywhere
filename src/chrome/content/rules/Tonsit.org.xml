@@ -1,0 +1,6 @@
+<ruleset name="Tonsit.org">
+	<target host="tonsit.org" />
+	<target host="www.tonsit.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

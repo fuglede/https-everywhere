@@ -1,0 +1,6 @@
+<ruleset name="Manhattanchoralensemble.org">
+	<target host="manhattanchoralensemble.org" />
+	<target host="www.manhattanchoralensemble.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

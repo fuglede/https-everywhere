@@ -1,0 +1,6 @@
+<ruleset name="Midweststeelsupply.com">
+	<target host="midweststeelsupply.com" />
+	<target host="www.midweststeelsupply.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

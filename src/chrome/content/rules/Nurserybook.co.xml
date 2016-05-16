@@ -1,0 +1,6 @@
+<ruleset name="Nurserybook.co">
+	<target host="nurserybook.co" />
+	<target host="www.nurserybook.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

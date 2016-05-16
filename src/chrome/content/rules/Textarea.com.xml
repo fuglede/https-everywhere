@@ -1,0 +1,6 @@
+<ruleset name="Textarea.com">
+	<target host="textarea.com" />
+	<target host="www.textarea.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

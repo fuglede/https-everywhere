@@ -1,0 +1,6 @@
+<ruleset name="Matthiasschwab.de">
+	<target host="matthiasschwab.de" />
+	<target host="www.matthiasschwab.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

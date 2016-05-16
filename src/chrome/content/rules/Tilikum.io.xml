@@ -1,0 +1,6 @@
+<ruleset name="Tilikum.io">
+	<target host="tilikum.io" />
+	<target host="www.tilikum.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

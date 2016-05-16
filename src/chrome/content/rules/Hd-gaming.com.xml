@@ -1,0 +1,6 @@
+<ruleset name="Hd-gaming.com">
+	<target host="hd-gaming.com" />
+	<target host="www.hd-gaming.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

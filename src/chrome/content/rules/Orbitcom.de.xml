@@ -1,0 +1,6 @@
+<ruleset name="Orbitcom.de">
+	<target host="orbitcom.de" />
+	<target host="www.orbitcom.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

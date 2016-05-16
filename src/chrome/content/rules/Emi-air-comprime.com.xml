@@ -1,0 +1,6 @@
+<ruleset name="Emi-air-comprime.com">
+	<target host="emi-air-comprime.com" />
+	<target host="www.emi-air-comprime.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

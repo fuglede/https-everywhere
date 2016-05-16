@@ -1,0 +1,6 @@
+<ruleset name="Twelve.today">
+	<target host="twelve.today" />
+	<target host="www.twelve.today" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

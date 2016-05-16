@@ -1,0 +1,6 @@
+<ruleset name="Indicia.com">
+	<target host="indicia.com" />
+	<target host="www.indicia.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

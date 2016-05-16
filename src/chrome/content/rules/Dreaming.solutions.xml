@@ -1,0 +1,6 @@
+<ruleset name="Dreaming.solutions">
+	<target host="dreaming.solutions" />
+	<target host="www.dreaming.solutions" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

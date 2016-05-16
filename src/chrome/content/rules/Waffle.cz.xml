@@ -1,0 +1,6 @@
+<ruleset name="Waffle.cz">
+	<target host="waffle.cz" />
+	<target host="www.waffle.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

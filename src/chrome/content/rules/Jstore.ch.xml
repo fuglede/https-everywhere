@@ -1,0 +1,6 @@
+<ruleset name="Jstore.ch">
+	<target host="jstore.ch" />
+	<target host="www.jstore.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

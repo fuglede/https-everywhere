@@ -1,0 +1,6 @@
+<ruleset name="Linuxeyecandy.com">
+	<target host="linuxeyecandy.com" />
+	<target host="www.linuxeyecandy.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Truebred-labradors.com">
+	<target host="truebred-labradors.com" />
+	<target host="www.truebred-labradors.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

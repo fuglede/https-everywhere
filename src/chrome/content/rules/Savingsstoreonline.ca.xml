@@ -1,0 +1,6 @@
+<ruleset name="Savingsstoreonline.ca">
+	<target host="savingsstoreonline.ca" />
+	<target host="www.savingsstoreonline.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Performous.org">
+	<target host="performous.org" />
+	<target host="www.performous.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

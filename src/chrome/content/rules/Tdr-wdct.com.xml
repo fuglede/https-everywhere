@@ -1,0 +1,6 @@
+<ruleset name="Tdr-wdct.com">
+	<target host="tdr-wdct.com" />
+	<target host="www.tdr-wdct.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

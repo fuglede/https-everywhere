@@ -1,0 +1,6 @@
+<ruleset name="Eduif.nl">
+	<target host="eduif.nl" />
+	<target host="www.eduif.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

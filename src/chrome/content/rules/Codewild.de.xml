@@ -1,0 +1,6 @@
+<ruleset name="Codewild.de">
+	<target host="codewild.de" />
+	<target host="www.codewild.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

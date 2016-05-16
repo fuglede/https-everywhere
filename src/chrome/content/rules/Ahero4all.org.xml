@@ -1,0 +1,6 @@
+<ruleset name="Ahero4all.org">
+	<target host="ahero4all.org" />
+	<target host="www.ahero4all.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

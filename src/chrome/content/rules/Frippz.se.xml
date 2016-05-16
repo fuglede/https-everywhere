@@ -1,0 +1,6 @@
+<ruleset name="Frippz.se">
+	<target host="frippz.se" />
+	<target host="www.frippz.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

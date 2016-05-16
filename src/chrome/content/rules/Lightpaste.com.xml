@@ -1,0 +1,6 @@
+<ruleset name="Lightpaste.com">
+	<target host="lightpaste.com" />
+	<target host="www.lightpaste.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

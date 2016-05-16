@@ -1,0 +1,6 @@
+<ruleset name="Loveto.at">
+	<target host="loveto.at" />
+	<target host="www.loveto.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

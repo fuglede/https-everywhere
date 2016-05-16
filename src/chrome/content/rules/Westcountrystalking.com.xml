@@ -1,0 +1,6 @@
+<ruleset name="Westcountrystalking.com">
+	<target host="westcountrystalking.com" />
+	<target host="www.westcountrystalking.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

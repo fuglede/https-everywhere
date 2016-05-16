@@ -1,0 +1,6 @@
+<ruleset name="Istaspirtslietas.lv">
+	<target host="istaspirtslietas.lv" />
+	<target host="www.istaspirtslietas.lv" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

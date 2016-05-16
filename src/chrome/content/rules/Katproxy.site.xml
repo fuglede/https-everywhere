@@ -1,0 +1,6 @@
+<ruleset name="Katproxy.site">
+	<target host="katproxy.site" />
+	<target host="www.katproxy.site" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

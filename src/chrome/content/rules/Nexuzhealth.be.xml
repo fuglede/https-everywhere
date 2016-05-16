@@ -1,0 +1,6 @@
+<ruleset name="Nexuzhealth.be">
+	<target host="nexuzhealth.be" />
+	<target host="www.nexuzhealth.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

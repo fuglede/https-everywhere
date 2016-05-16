@@ -1,0 +1,6 @@
+<ruleset name="206rc.net">
+	<target host="206rc.net" />
+	<target host="www.206rc.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

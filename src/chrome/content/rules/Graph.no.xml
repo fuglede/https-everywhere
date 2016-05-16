@@ -1,0 +1,6 @@
+<ruleset name="Graph.no">
+	<target host="graph.no" />
+	<target host="www.graph.no" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

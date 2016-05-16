@@ -1,0 +1,6 @@
+<ruleset name="Speedyprep.com">
+	<target host="speedyprep.com" />
+	<target host="www.speedyprep.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

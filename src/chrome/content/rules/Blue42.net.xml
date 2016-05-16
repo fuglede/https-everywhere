@@ -1,0 +1,6 @@
+<ruleset name="Blue42.net">
+	<target host="blue42.net" />
+	<target host="www.blue42.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

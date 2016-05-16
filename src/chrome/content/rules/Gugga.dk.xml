@@ -1,0 +1,6 @@
+<ruleset name="Gugga.dk">
+	<target host="gugga.dk" />
+	<target host="www.gugga.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

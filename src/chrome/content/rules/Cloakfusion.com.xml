@@ -1,0 +1,6 @@
+<ruleset name="Cloakfusion.com">
+	<target host="cloakfusion.com" />
+	<target host="www.cloakfusion.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

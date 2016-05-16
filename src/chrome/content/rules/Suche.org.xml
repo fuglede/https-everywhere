@@ -1,0 +1,6 @@
+<ruleset name="Suche.org">
+	<target host="suche.org" />
+	<target host="www.suche.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

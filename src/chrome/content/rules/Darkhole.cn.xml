@@ -1,0 +1,6 @@
+<ruleset name="Darkhole.cn">
+	<target host="darkhole.cn" />
+	<target host="www.darkhole.cn" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

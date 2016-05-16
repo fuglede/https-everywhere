@@ -1,0 +1,6 @@
+<ruleset name="Oasisim.net">
+	<target host="oasisim.net" />
+	<target host="www.oasisim.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Mersinunivercity.com">
+	<target host="mersinunivercity.com" />
+	<target host="www.mersinunivercity.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Salud.top">
+	<target host="salud.top" />
+	<target host="www.salud.top" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

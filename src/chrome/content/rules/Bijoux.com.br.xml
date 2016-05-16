@@ -1,0 +1,6 @@
+<ruleset name="Bijoux.com.br">
+	<target host="bijoux.com.br" />
+	<target host="www.bijoux.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

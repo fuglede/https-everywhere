@@ -1,0 +1,6 @@
+<ruleset name="Campermanaustralia.com">
+	<target host="campermanaustralia.com" />
+	<target host="www.campermanaustralia.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Niduxcomercial.com">
+	<target host="niduxcomercial.com" />
+	<target host="www.niduxcomercial.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

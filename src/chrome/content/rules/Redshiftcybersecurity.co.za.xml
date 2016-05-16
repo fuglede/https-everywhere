@@ -1,0 +1,6 @@
+<ruleset name="Redshiftcybersecurity.co.za">
+	<target host="redshiftcybersecurity.co.za" />
+	<target host="www.redshiftcybersecurity.co.za" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

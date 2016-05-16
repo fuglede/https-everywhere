@@ -1,0 +1,6 @@
+<ruleset name="Glittersjabloon.nl">
+	<target host="glittersjabloon.nl" />
+	<target host="www.glittersjabloon.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

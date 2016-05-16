@@ -1,0 +1,6 @@
+<ruleset name="Endohaus.com">
+	<target host="endohaus.com" />
+	<target host="www.endohaus.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

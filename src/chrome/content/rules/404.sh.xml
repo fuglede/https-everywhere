@@ -1,0 +1,6 @@
+<ruleset name="404.sh">
+	<target host="404.sh" />
+	<target host="www.404.sh" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

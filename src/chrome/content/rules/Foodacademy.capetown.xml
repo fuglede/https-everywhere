@@ -1,0 +1,6 @@
+<ruleset name="Foodacademy.capetown">
+	<target host="foodacademy.capetown" />
+	<target host="www.foodacademy.capetown" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Ssl247.dk">
+	<target host="ssl247.dk" />
+	<target host="www.ssl247.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

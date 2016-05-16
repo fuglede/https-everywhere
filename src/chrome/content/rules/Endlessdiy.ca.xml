@@ -1,0 +1,6 @@
+<ruleset name="Endlessdiy.ca">
+	<target host="endlessdiy.ca" />
+	<target host="www.endlessdiy.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Fpy.cz">
+	<target host="fpy.cz" />
+	<target host="www.fpy.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

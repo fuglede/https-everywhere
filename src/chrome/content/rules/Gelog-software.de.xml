@@ -1,0 +1,6 @@
+<ruleset name="Gelog-software.de">
+	<target host="gelog-software.de" />
+	<target host="www.gelog-software.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

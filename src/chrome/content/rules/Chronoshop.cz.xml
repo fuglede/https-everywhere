@@ -1,0 +1,6 @@
+<ruleset name="Chronoshop.cz">
+	<target host="chronoshop.cz" />
+	<target host="www.chronoshop.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

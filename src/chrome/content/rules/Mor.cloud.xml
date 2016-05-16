@@ -1,0 +1,6 @@
+<ruleset name="Mor.cloud">
+	<target host="mor.cloud" />
+	<target host="www.mor.cloud" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

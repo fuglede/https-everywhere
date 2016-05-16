@@ -1,0 +1,6 @@
+<ruleset name="Poshpak.com">
+	<target host="poshpak.com" />
+	<target host="www.poshpak.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Caraudio69.cz">
+	<target host="caraudio69.cz" />
+	<target host="www.caraudio69.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

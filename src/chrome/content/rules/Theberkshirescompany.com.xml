@@ -1,0 +1,6 @@
+<ruleset name="Theberkshirescompany.com">
+	<target host="theberkshirescompany.com" />
+	<target host="www.theberkshirescompany.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

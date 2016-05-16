@@ -1,0 +1,6 @@
+<ruleset name="Tomask.info">
+	<target host="tomask.info" />
+	<target host="www.tomask.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

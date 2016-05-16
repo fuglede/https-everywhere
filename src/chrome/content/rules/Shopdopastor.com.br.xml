@@ -1,0 +1,6 @@
+<ruleset name="Shopdopastor.com.br">
+	<target host="shopdopastor.com.br" />
+	<target host="www.shopdopastor.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

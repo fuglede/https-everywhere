@@ -1,0 +1,6 @@
+<ruleset name="Righttobuy.gov.uk">
+	<target host="righttobuy.gov.uk" />
+	<target host="www.righttobuy.gov.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

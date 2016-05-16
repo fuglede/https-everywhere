@@ -1,0 +1,6 @@
+<ruleset name="Uprotect.it">
+	<target host="uprotect.it" />
+	<target host="www.uprotect.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

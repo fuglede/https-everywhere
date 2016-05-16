@@ -1,0 +1,6 @@
+<ruleset name="M-supian.id">
+	<target host="m-supian.id" />
+	<target host="www.m-supian.id" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="0xf00.ch">
+	<target host="0xf00.ch" />
+	<target host="www.0xf00.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Bsquared.org">
+	<target host="bsquared.org" />
+	<target host="www.bsquared.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

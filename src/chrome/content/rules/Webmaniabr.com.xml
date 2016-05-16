@@ -1,0 +1,6 @@
+<ruleset name="Webmaniabr.com">
+	<target host="webmaniabr.com" />
+	<target host="www.webmaniabr.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

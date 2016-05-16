@@ -1,0 +1,6 @@
+<ruleset name="Jetsieswerda.nl">
+	<target host="jetsieswerda.nl" />
+	<target host="www.jetsieswerda.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

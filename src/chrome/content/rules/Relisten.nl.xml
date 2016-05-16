@@ -1,0 +1,6 @@
+<ruleset name="Relisten.nl">
+	<target host="relisten.nl" />
+	<target host="www.relisten.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

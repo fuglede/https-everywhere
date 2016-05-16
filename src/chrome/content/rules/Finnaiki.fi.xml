@@ -1,0 +1,6 @@
+<ruleset name="Finnaiki.fi">
+	<target host="finnaiki.fi" />
+	<target host="www.finnaiki.fi" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

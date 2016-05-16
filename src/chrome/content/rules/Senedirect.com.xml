@@ -1,0 +1,6 @@
+<ruleset name="Senedirect.com">
+	<target host="senedirect.com" />
+	<target host="www.senedirect.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

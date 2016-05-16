@@ -1,0 +1,6 @@
+<ruleset name="Westsussexconnecttosupport.org">
+	<target host="westsussexconnecttosupport.org" />
+	<target host="www.westsussexconnecttosupport.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

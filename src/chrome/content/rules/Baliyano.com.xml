@@ -1,0 +1,6 @@
+<ruleset name="Baliyano.com">
+	<target host="baliyano.com" />
+	<target host="www.baliyano.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

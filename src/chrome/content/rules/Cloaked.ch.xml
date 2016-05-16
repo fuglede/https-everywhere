@@ -1,0 +1,6 @@
+<ruleset name="Cloaked.ch">
+	<target host="cloaked.ch" />
+	<target host="www.cloaked.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

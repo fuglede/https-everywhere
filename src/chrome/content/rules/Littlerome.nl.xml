@@ -1,0 +1,6 @@
+<ruleset name="Littlerome.nl">
+	<target host="littlerome.nl" />
+	<target host="www.littlerome.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

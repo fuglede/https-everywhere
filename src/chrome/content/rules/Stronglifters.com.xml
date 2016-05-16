@@ -1,0 +1,6 @@
+<ruleset name="Stronglifters.com">
+	<target host="stronglifters.com" />
+	<target host="www.stronglifters.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

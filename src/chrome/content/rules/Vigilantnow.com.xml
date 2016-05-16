@@ -1,0 +1,6 @@
+<ruleset name="Vigilantnow.com">
+	<target host="vigilantnow.com" />
+	<target host="www.vigilantnow.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Mariom.pl">
+	<target host="mariom.pl" />
+	<target host="www.mariom.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

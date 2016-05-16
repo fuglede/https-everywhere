@@ -1,0 +1,6 @@
+<ruleset name="Toucedo.de">
+	<target host="toucedo.de" />
+	<target host="www.toucedo.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

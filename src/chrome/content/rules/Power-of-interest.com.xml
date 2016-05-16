@@ -1,0 +1,6 @@
+<ruleset name="Power-of-interest.com">
+	<target host="power-of-interest.com" />
+	<target host="www.power-of-interest.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

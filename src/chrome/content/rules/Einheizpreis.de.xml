@@ -1,0 +1,6 @@
+<ruleset name="Einheizpreis.de">
+	<target host="einheizpreis.de" />
+	<target host="www.einheizpreis.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

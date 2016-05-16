@@ -1,0 +1,6 @@
+<ruleset name="Freekdevries.nl">
+	<target host="freekdevries.nl" />
+	<target host="www.freekdevries.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Donaugarten.net">
+	<target host="donaugarten.net" />
+	<target host="www.donaugarten.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

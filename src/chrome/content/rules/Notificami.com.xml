@@ -1,0 +1,6 @@
+<ruleset name="Notificami.com">
+	<target host="notificami.com" />
+	<target host="www.notificami.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

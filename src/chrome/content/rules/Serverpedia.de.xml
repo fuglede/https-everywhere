@@ -1,0 +1,6 @@
+<ruleset name="Serverpedia.de">
+	<target host="serverpedia.de" />
+	<target host="www.serverpedia.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

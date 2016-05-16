@@ -1,0 +1,6 @@
+<ruleset name="Egretail.no">
+	<target host="egretail.no" />
+	<target host="www.egretail.no" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

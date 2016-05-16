@@ -1,0 +1,6 @@
+<ruleset name="Drastosasports.com.br">
+	<target host="drastosasports.com.br" />
+	<target host="www.drastosasports.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

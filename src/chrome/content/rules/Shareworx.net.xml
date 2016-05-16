@@ -1,0 +1,6 @@
+<ruleset name="Shareworx.net">
+	<target host="shareworx.net" />
+	<target host="www.shareworx.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

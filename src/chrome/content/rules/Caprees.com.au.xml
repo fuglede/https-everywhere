@@ -1,0 +1,6 @@
+<ruleset name="Caprees.com.au">
+	<target host="caprees.com.au" />
+	<target host="www.caprees.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

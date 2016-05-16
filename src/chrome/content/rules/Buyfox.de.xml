@@ -1,0 +1,6 @@
+<ruleset name="Buyfox.de">
+	<target host="buyfox.de" />
+	<target host="www.buyfox.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

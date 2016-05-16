@@ -1,0 +1,6 @@
+<ruleset name="Hcie.pl">
+	<target host="hcie.pl" />
+	<target host="www.hcie.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

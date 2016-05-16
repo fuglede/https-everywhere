@@ -1,0 +1,6 @@
+<ruleset name="Narada.com.ua">
+	<target host="narada.com.ua" />
+	<target host="www.narada.com.ua" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

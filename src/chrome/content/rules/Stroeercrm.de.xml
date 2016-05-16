@@ -1,0 +1,6 @@
+<ruleset name="Stroeercrm.de">
+	<target host="stroeercrm.de" />
+	<target host="www.stroeercrm.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

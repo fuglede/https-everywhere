@@ -1,0 +1,6 @@
+<ruleset name="Nutraforce.com.br">
+	<target host="nutraforce.com.br" />
+	<target host="www.nutraforce.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

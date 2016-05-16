@@ -1,0 +1,6 @@
+<ruleset name="Uptimed.com">
+	<target host="uptimed.com" />
+	<target host="www.uptimed.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

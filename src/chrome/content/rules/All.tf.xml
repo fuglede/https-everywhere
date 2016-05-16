@@ -1,0 +1,6 @@
+<ruleset name="All.tf">
+	<target host="all.tf" />
+	<target host="www.all.tf" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

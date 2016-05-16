@@ -1,0 +1,6 @@
+<ruleset name="Linuxmonitoring.net">
+	<target host="linuxmonitoring.net" />
+	<target host="www.linuxmonitoring.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

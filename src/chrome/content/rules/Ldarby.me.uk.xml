@@ -1,0 +1,6 @@
+<ruleset name="Ldarby.me.uk">
+	<target host="ldarby.me.uk" />
+	<target host="www.ldarby.me.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

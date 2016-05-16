@@ -1,0 +1,6 @@
+<ruleset name="Cgbilling.com">
+	<target host="cgbilling.com" />
+	<target host="www.cgbilling.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

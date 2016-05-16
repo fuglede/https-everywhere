@@ -1,0 +1,6 @@
+<ruleset name="Chikan-beacon.net">
+	<target host="chikan-beacon.net" />
+	<target host="www.chikan-beacon.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

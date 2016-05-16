@@ -1,0 +1,6 @@
+<ruleset name="Urban-garden.lv">
+	<target host="urban-garden.lv" />
+	<target host="www.urban-garden.lv" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

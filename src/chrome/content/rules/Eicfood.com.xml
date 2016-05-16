@@ -1,0 +1,6 @@
+<ruleset name="Eicfood.com">
+	<target host="eicfood.com" />
+	<target host="www.eicfood.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

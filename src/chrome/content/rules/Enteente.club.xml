@@ -1,0 +1,6 @@
+<ruleset name="Enteente.club">
+	<target host="enteente.club" />
+	<target host="www.enteente.club" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

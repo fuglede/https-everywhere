@@ -1,0 +1,6 @@
+<ruleset name="Payeverywhere.com">
+	<target host="payeverywhere.com" />
+	<target host="www.payeverywhere.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

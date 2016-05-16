@@ -1,0 +1,6 @@
+<ruleset name="Comodo.nl">
+	<target host="comodo.nl" />
+	<target host="www.comodo.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

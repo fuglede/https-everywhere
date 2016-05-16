@@ -1,0 +1,6 @@
+<ruleset name="Veggiesbourg.fr">
+	<target host="veggiesbourg.fr" />
+	<target host="www.veggiesbourg.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

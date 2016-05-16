@@ -1,0 +1,6 @@
+<ruleset name="The-earth-yui.net">
+	<target host="the-earth-yui.net" />
+	<target host="www.the-earth-yui.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

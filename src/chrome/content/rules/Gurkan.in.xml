@@ -1,0 +1,6 @@
+<ruleset name="Gurkan.in">
+	<target host="gurkan.in" />
+	<target host="www.gurkan.in" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

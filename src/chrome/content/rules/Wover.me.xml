@@ -1,0 +1,6 @@
+<ruleset name="Wover.me">
+	<target host="wover.me" />
+	<target host="www.wover.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

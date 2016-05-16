@@ -1,0 +1,6 @@
+<ruleset name="Elisabethkostecki.de">
+	<target host="elisabethkostecki.de" />
+	<target host="www.elisabethkostecki.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

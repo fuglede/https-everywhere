@@ -1,0 +1,6 @@
+<ruleset name="Infolugares.com.br">
+	<target host="infolugares.com.br" />
+	<target host="www.infolugares.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

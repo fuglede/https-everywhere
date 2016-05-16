@@ -1,0 +1,6 @@
+<ruleset name="Babystep.tv">
+	<target host="babystep.tv" />
+	<target host="www.babystep.tv" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

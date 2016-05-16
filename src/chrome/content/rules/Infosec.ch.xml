@@ -1,0 +1,6 @@
+<ruleset name="Infosec.ch">
+	<target host="infosec.ch" />
+	<target host="www.infosec.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

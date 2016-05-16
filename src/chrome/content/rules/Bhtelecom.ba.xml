@@ -1,0 +1,6 @@
+<ruleset name="Bhtelecom.ba">
+	<target host="bhtelecom.ba" />
+	<target host="www.bhtelecom.ba" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

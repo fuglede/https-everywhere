@@ -1,0 +1,6 @@
+<ruleset name="Tonegidoarchief.nl">
+	<target host="tonegidoarchief.nl" />
+	<target host="www.tonegidoarchief.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

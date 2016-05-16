@@ -1,0 +1,6 @@
+<ruleset name="Wpmetadatastandardsproject.org">
+	<target host="wpmetadatastandardsproject.org" />
+	<target host="www.wpmetadatastandardsproject.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Tripdelta.com">
+	<target host="tripdelta.com" />
+	<target host="www.tripdelta.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Ngine.ch">
+	<target host="ngine.ch" />
+	<target host="www.ngine.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

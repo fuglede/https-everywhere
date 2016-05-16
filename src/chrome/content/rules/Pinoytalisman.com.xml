@@ -1,0 +1,6 @@
+<ruleset name="Pinoytalisman.com">
+	<target host="pinoytalisman.com" />
+	<target host="www.pinoytalisman.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

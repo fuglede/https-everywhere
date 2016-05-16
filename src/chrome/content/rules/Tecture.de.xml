@@ -1,0 +1,6 @@
+<ruleset name="Tecture.de">
+	<target host="tecture.de" />
+	<target host="www.tecture.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

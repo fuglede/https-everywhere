@@ -1,0 +1,6 @@
+<ruleset name="Sedoexperts.nl">
+	<target host="sedoexperts.nl" />
+	<target host="www.sedoexperts.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

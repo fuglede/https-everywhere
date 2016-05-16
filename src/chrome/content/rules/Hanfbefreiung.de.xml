@@ -1,0 +1,6 @@
+<ruleset name="Hanfbefreiung.de">
+	<target host="hanfbefreiung.de" />
+	<target host="www.hanfbefreiung.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

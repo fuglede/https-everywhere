@@ -1,0 +1,6 @@
+<ruleset name="Deinballon.de">
+	<target host="deinballon.de" />
+	<target host="www.deinballon.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

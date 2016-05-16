@@ -1,0 +1,6 @@
+<ruleset name="Roelf.org">
+	<target host="roelf.org" />
+	<target host="www.roelf.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

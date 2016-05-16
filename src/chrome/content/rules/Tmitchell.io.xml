@@ -1,0 +1,6 @@
+<ruleset name="Tmitchell.io">
+	<target host="tmitchell.io" />
+	<target host="www.tmitchell.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

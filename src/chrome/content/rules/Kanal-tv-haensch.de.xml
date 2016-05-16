@@ -1,0 +1,6 @@
+<ruleset name="Kanal-tv-haensch.de">
+	<target host="kanal-tv-haensch.de" />
+	<target host="www.kanal-tv-haensch.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

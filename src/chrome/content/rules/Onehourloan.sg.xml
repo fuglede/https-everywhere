@@ -1,0 +1,6 @@
+<ruleset name="Onehourloan.sg">
+	<target host="onehourloan.sg" />
+	<target host="www.onehourloan.sg" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

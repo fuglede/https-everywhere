@@ -1,0 +1,6 @@
+<ruleset name="Uscitizenship.info">
+	<target host="uscitizenship.info" />
+	<target host="www.uscitizenship.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Hec.global">
+	<target host="hec.global" />
+	<target host="www.hec.global" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

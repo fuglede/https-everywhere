@@ -1,0 +1,6 @@
+<ruleset name="Anomaly.ws">
+	<target host="anomaly.ws" />
+	<target host="www.anomaly.ws" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Dadons-laserdiscs.com">
+	<target host="dadons-laserdiscs.com" />
+	<target host="www.dadons-laserdiscs.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

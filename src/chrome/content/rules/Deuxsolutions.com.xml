@@ -1,0 +1,6 @@
+<ruleset name="Deuxsolutions.com">
+	<target host="deuxsolutions.com" />
+	<target host="www.deuxsolutions.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

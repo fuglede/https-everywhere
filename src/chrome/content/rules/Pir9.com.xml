@@ -1,0 +1,6 @@
+<ruleset name="Pir9.com">
+	<target host="pir9.com" />
+	<target host="www.pir9.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

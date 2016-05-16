@@ -1,0 +1,6 @@
+<ruleset name="Yfu.ee">
+	<target host="yfu.ee" />
+	<target host="www.yfu.ee" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

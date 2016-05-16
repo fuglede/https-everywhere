@@ -1,0 +1,6 @@
+<ruleset name="Tbitc.ch">
+	<target host="tbitc.ch" />
+	<target host="www.tbitc.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

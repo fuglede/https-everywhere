@@ -1,0 +1,6 @@
+<ruleset name="Stig.io">
+	<target host="stig.io" />
+	<target host="www.stig.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

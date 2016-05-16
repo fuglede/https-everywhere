@@ -1,0 +1,6 @@
+<ruleset name="Bcnx.de">
+	<target host="bcnx.de" />
+	<target host="www.bcnx.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

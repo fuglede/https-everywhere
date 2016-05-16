@@ -1,0 +1,6 @@
+<ruleset name="Satsukii.moe">
+	<target host="satsukii.moe" />
+	<target host="www.satsukii.moe" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

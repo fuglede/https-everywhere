@@ -1,0 +1,6 @@
+<ruleset name="Tischtennisplatten24.de">
+	<target host="tischtennisplatten24.de" />
+	<target host="www.tischtennisplatten24.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

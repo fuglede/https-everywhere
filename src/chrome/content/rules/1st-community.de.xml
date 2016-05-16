@@ -1,0 +1,6 @@
+<ruleset name="1st-community.de">
+	<target host="1st-community.de" />
+	<target host="www.1st-community.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

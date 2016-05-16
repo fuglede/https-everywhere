@@ -1,0 +1,6 @@
+<ruleset name="Http418.xyz">
+	<target host="http418.xyz" />
+	<target host="www.http418.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

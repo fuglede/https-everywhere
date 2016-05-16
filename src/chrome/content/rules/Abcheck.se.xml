@@ -1,0 +1,6 @@
+<ruleset name="Abcheck.se">
+	<target host="abcheck.se" />
+	<target host="www.abcheck.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

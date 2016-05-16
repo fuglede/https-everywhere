@@ -1,0 +1,6 @@
+<ruleset name="Cliniquepariseau.com">
+	<target host="cliniquepariseau.com" />
+	<target host="www.cliniquepariseau.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

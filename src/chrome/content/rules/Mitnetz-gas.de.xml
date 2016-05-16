@@ -1,0 +1,6 @@
+<ruleset name="Mitnetz-gas.de">
+	<target host="mitnetz-gas.de" />
+	<target host="www.mitnetz-gas.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

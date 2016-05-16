@@ -1,0 +1,6 @@
+<ruleset name="Delvj.org">
+	<target host="delvj.org" />
+	<target host="www.delvj.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

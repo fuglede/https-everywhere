@@ -1,0 +1,6 @@
+<ruleset name="Letras.mus.br">
+	<target host="letras.mus.br" />
+	<target host="www.letras.mus.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

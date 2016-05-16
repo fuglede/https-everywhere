@@ -1,0 +1,6 @@
+<ruleset name="Serenitycreams.com">
+	<target host="serenitycreams.com" />
+	<target host="www.serenitycreams.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

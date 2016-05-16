@@ -1,0 +1,6 @@
+<ruleset name="N2x.in">
+	<target host="n2x.in" />
+	<target host="www.n2x.in" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

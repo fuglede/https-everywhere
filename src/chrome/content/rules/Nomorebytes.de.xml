@@ -1,0 +1,6 @@
+<ruleset name="Nomorebytes.de">
+	<target host="nomorebytes.de" />
+	<target host="www.nomorebytes.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

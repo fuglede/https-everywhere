@@ -1,0 +1,6 @@
+<ruleset name="Showsonar.com">
+	<target host="showsonar.com" />
+	<target host="www.showsonar.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

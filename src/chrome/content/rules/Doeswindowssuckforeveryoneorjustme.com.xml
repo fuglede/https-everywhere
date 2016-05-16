@@ -1,0 +1,6 @@
+<ruleset name="Doeswindowssuckforeveryoneorjustme.com">
+	<target host="doeswindowssuckforeveryoneorjustme.com" />
+	<target host="www.doeswindowssuckforeveryoneorjustme.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

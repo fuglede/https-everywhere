@@ -1,0 +1,6 @@
+<ruleset name="Globalittech.com">
+	<target host="globalittech.com" />
+	<target host="www.globalittech.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

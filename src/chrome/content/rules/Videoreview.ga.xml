@@ -1,0 +1,6 @@
+<ruleset name="Videoreview.ga">
+	<target host="videoreview.ga" />
+	<target host="www.videoreview.ga" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

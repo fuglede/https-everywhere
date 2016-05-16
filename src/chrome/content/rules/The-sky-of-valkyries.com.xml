@@ -1,0 +1,6 @@
+<ruleset name="The-sky-of-valkyries.com">
+	<target host="the-sky-of-valkyries.com" />
+	<target host="www.the-sky-of-valkyries.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

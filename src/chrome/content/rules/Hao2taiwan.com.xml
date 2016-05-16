@@ -1,0 +1,6 @@
+<ruleset name="Hao2taiwan.com">
+	<target host="hao2taiwan.com" />
+	<target host="www.hao2taiwan.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

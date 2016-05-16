@@ -1,0 +1,6 @@
+<ruleset name="Privatepokertour.com">
+	<target host="privatepokertour.com" />
+	<target host="www.privatepokertour.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Scoot.to">
+	<target host="scoot.to" />
+	<target host="www.scoot.to" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

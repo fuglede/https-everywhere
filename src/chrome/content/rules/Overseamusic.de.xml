@@ -1,0 +1,6 @@
+<ruleset name="Overseamusic.de">
+	<target host="overseamusic.de" />
+	<target host="www.overseamusic.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Barbu.family">
+	<target host="barbu.family" />
+	<target host="www.barbu.family" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

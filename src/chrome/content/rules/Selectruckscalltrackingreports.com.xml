@@ -1,0 +1,6 @@
+<ruleset name="Selectruckscalltrackingreports.com">
+	<target host="selectruckscalltrackingreports.com" />
+	<target host="www.selectruckscalltrackingreports.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

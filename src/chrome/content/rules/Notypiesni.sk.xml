@@ -1,0 +1,6 @@
+<ruleset name="Notypiesni.sk">
+	<target host="notypiesni.sk" />
+	<target host="www.notypiesni.sk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

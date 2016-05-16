@@ -1,0 +1,6 @@
+<ruleset name="Gfsa-ev.de">
+	<target host="gfsa-ev.de" />
+	<target host="www.gfsa-ev.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

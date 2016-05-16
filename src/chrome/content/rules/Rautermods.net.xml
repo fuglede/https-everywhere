@@ -1,0 +1,6 @@
+<ruleset name="Rautermods.net">
+	<target host="rautermods.net" />
+	<target host="www.rautermods.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

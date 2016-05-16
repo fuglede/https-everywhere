@@ -1,0 +1,6 @@
+<ruleset name="Racasdecachorro.org">
+	<target host="racasdecachorro.org" />
+	<target host="www.racasdecachorro.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

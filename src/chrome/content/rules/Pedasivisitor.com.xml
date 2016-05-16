@@ -1,0 +1,6 @@
+<ruleset name="Pedasivisitor.com">
+	<target host="pedasivisitor.com" />
+	<target host="www.pedasivisitor.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

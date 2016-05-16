@@ -1,0 +1,6 @@
+<ruleset name="Revello.org">
+	<target host="revello.org" />
+	<target host="www.revello.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

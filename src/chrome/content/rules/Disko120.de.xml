@@ -1,0 +1,6 @@
+<ruleset name="Disko120.de">
+	<target host="disko120.de" />
+	<target host="www.disko120.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

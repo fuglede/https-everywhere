@@ -1,0 +1,6 @@
+<ruleset name="Hegen.com.pl">
+	<target host="hegen.com.pl" />
+	<target host="www.hegen.com.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

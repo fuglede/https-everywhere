@@ -1,0 +1,6 @@
+<ruleset name="Dna.li">
+	<target host="dna.li" />
+	<target host="www.dna.li" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Koalacomptroller.tech">
+	<target host="koalacomptroller.tech" />
+	<target host="www.koalacomptroller.tech" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

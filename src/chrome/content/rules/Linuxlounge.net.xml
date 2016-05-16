@@ -1,0 +1,6 @@
+<ruleset name="Linuxlounge.net">
+	<target host="linuxlounge.net" />
+	<target host="www.linuxlounge.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

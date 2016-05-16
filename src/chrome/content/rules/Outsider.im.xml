@@ -1,0 +1,6 @@
+<ruleset name="Outsider.im">
+	<target host="outsider.im" />
+	<target host="www.outsider.im" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

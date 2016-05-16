@@ -1,0 +1,6 @@
+<ruleset name="Rubbereggs.ca">
+	<target host="rubbereggs.ca" />
+	<target host="www.rubbereggs.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

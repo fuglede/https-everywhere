@@ -1,0 +1,6 @@
+<ruleset name="Citya.com">
+	<target host="citya.com" />
+	<target host="www.citya.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

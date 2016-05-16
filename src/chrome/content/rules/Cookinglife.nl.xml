@@ -1,0 +1,6 @@
+<ruleset name="Cookinglife.nl">
+	<target host="cookinglife.nl" />
+	<target host="www.cookinglife.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

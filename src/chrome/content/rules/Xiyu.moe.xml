@@ -1,0 +1,6 @@
+<ruleset name="Xiyu.moe">
+	<target host="xiyu.moe" />
+	<target host="www.xiyu.moe" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

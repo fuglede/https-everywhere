@@ -1,0 +1,6 @@
+<ruleset name="Komplethosting.dk">
+	<target host="komplethosting.dk" />
+	<target host="www.komplethosting.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

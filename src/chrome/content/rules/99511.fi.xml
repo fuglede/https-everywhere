@@ -1,0 +1,6 @@
+<ruleset name="99511.fi">
+	<target host="99511.fi" />
+	<target host="www.99511.fi" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

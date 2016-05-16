@@ -1,0 +1,6 @@
+<ruleset name="Aia.de">
+	<target host="aia.de" />
+	<target host="www.aia.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

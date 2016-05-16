@@ -1,0 +1,6 @@
+<ruleset name="Jka.io">
+	<target host="jka.io" />
+	<target host="www.jka.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

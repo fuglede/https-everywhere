@@ -1,0 +1,6 @@
+<ruleset name="Gnu.dk">
+	<target host="gnu.dk" />
+	<target host="www.gnu.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

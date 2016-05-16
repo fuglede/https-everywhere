@@ -1,0 +1,6 @@
+<ruleset name="Parentinterview.com">
+	<target host="parentinterview.com" />
+	<target host="www.parentinterview.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

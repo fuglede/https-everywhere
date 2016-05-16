@@ -1,0 +1,6 @@
+<ruleset name="Amper36.ru">
+	<target host="amper36.ru" />
+	<target host="www.amper36.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

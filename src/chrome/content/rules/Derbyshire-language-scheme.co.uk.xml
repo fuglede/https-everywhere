@@ -1,0 +1,6 @@
+<ruleset name="Derbyshire-language-scheme.co.uk">
+	<target host="derbyshire-language-scheme.co.uk" />
+	<target host="www.derbyshire-language-scheme.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

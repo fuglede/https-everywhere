@@ -1,0 +1,6 @@
+<ruleset name="Renteater.com">
+	<target host="renteater.com" />
+	<target host="www.renteater.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

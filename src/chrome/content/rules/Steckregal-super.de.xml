@@ -1,0 +1,6 @@
+<ruleset name="Steckregal-super.de">
+	<target host="steckregal-super.de" />
+	<target host="www.steckregal-super.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

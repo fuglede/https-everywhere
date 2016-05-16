@@ -1,0 +1,6 @@
+<ruleset name="Gjung.com">
+	<target host="gjung.com" />
+	<target host="www.gjung.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

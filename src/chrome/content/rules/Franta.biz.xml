@@ -1,0 +1,6 @@
+<ruleset name="Franta.biz">
+	<target host="franta.biz" />
+	<target host="www.franta.biz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

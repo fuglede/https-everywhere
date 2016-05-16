@@ -1,0 +1,6 @@
+<ruleset name="Qiwi.be">
+	<target host="qiwi.be" />
+	<target host="www.qiwi.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

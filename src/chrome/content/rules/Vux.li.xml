@@ -1,0 +1,6 @@
+<ruleset name="Vux.li">
+	<target host="vux.li" />
+	<target host="www.vux.li" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

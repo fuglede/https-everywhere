@@ -1,0 +1,6 @@
+<ruleset name="Learnflakes.net">
+	<target host="learnflakes.net" />
+	<target host="www.learnflakes.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

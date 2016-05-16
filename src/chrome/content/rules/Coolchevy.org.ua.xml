@@ -1,0 +1,6 @@
+<ruleset name="Coolchevy.org.ua">
+	<target host="coolchevy.org.ua" />
+	<target host="www.coolchevy.org.ua" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

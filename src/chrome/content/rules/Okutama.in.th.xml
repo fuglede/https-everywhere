@@ -1,0 +1,6 @@
+<ruleset name="Okutama.in.th">
+	<target host="okutama.in.th" />
+	<target host="www.okutama.in.th" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

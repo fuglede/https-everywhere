@@ -1,0 +1,6 @@
+<ruleset name="Typeblog.net">
+	<target host="typeblog.net" />
+	<target host="www.typeblog.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

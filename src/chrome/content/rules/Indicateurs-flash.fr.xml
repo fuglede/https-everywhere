@@ -1,0 +1,6 @@
+<ruleset name="Indicateurs-flash.fr">
+	<target host="indicateurs-flash.fr" />
+	<target host="www.indicateurs-flash.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

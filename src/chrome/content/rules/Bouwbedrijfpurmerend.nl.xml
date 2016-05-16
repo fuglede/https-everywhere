@@ -1,0 +1,6 @@
+<ruleset name="Bouwbedrijfpurmerend.nl">
+	<target host="bouwbedrijfpurmerend.nl" />
+	<target host="www.bouwbedrijfpurmerend.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

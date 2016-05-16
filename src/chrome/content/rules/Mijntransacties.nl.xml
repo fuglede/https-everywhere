@@ -1,0 +1,6 @@
+<ruleset name="Mijntransacties.nl">
+	<target host="mijntransacties.nl" />
+	<target host="www.mijntransacties.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Aachener-bambi-schutzgebiet.de">
+	<target host="aachener-bambi-schutzgebiet.de" />
+	<target host="www.aachener-bambi-schutzgebiet.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

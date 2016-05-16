@@ -1,0 +1,6 @@
+<ruleset name="Gmw-hannover.de">
+	<target host="gmw-hannover.de" />
+	<target host="www.gmw-hannover.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

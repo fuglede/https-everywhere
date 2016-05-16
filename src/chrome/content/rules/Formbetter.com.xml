@@ -1,0 +1,6 @@
+<ruleset name="Formbetter.com">
+	<target host="formbetter.com" />
+	<target host="www.formbetter.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

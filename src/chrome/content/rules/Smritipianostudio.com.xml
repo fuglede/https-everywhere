@@ -1,0 +1,6 @@
+<ruleset name="Smritipianostudio.com">
+	<target host="smritipianostudio.com" />
+	<target host="www.smritipianostudio.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

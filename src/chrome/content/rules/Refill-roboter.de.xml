@@ -1,0 +1,6 @@
+<ruleset name="Refill-roboter.de">
+	<target host="refill-roboter.de" />
+	<target host="www.refill-roboter.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

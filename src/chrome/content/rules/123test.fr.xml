@@ -1,0 +1,6 @@
+<ruleset name="123test.fr">
+	<target host="123test.fr" />
+	<target host="www.123test.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

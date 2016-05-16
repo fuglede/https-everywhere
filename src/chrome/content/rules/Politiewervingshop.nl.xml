@@ -1,0 +1,6 @@
+<ruleset name="Politiewervingshop.nl">
+	<target host="politiewervingshop.nl" />
+	<target host="www.politiewervingshop.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

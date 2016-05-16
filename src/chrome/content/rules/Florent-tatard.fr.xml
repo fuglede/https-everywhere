@@ -1,0 +1,6 @@
+<ruleset name="Florent-tatard.fr">
+	<target host="florent-tatard.fr" />
+	<target host="www.florent-tatard.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

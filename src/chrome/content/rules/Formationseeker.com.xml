@@ -1,0 +1,6 @@
+<ruleset name="Formationseeker.com">
+	<target host="formationseeker.com" />
+	<target host="www.formationseeker.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

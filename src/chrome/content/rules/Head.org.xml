@@ -1,0 +1,6 @@
+<ruleset name="Head.org">
+	<target host="head.org" />
+	<target host="www.head.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

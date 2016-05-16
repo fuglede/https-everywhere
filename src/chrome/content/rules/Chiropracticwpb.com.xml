@@ -1,0 +1,6 @@
+<ruleset name="Chiropracticwpb.com">
+	<target host="chiropracticwpb.com" />
+	<target host="www.chiropracticwpb.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

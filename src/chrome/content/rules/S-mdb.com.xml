@@ -1,0 +1,6 @@
+<ruleset name="S-mdb.com">
+	<target host="s-mdb.com" />
+	<target host="www.s-mdb.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

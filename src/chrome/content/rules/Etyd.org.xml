@@ -1,0 +1,6 @@
+<ruleset name="Etyd.org">
+	<target host="etyd.org" />
+	<target host="www.etyd.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

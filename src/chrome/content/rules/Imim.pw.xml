@@ -1,0 +1,6 @@
+<ruleset name="Imim.pw">
+	<target host="imim.pw" />
+	<target host="www.imim.pw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

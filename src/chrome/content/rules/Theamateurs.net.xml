@@ -1,0 +1,6 @@
+<ruleset name="Theamateurs.net">
+	<target host="theamateurs.net" />
+	<target host="www.theamateurs.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

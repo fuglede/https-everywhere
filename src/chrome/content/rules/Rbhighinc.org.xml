@@ -1,0 +1,6 @@
+<ruleset name="Rbhighinc.org">
+	<target host="rbhighinc.org" />
+	<target host="www.rbhighinc.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

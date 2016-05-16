@@ -1,0 +1,6 @@
+<ruleset name="Finfev.de">
+	<target host="finfev.de" />
+	<target host="www.finfev.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Aatf.us">
+	<target host="aatf.us" />
+	<target host="www.aatf.us" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

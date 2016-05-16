@@ -1,0 +1,6 @@
+<ruleset name="Seele.ca">
+	<target host="seele.ca" />
+	<target host="www.seele.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

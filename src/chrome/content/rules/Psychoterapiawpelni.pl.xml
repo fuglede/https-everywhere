@@ -1,0 +1,6 @@
+<ruleset name="Psychoterapiawpelni.pl">
+	<target host="psychoterapiawpelni.pl" />
+	<target host="www.psychoterapiawpelni.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

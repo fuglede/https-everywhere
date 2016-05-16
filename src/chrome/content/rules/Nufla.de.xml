@@ -1,0 +1,6 @@
+<ruleset name="Nufla.de">
+	<target host="nufla.de" />
+	<target host="www.nufla.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

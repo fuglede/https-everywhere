@@ -1,0 +1,6 @@
+<ruleset name="Forextimes.ru">
+	<target host="forextimes.ru" />
+	<target host="www.forextimes.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

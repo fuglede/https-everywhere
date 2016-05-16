@@ -1,0 +1,6 @@
+<ruleset name="Codefoundry.it">
+	<target host="codefoundry.it" />
+	<target host="www.codefoundry.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

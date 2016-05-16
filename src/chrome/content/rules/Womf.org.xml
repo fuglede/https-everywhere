@@ -1,0 +1,6 @@
+<ruleset name="Womf.org">
+	<target host="womf.org" />
+	<target host="www.womf.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

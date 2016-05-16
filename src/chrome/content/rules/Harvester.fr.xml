@@ -1,0 +1,6 @@
+<ruleset name="Harvester.fr">
+	<target host="harvester.fr" />
+	<target host="www.harvester.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

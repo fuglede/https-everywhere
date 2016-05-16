@@ -1,0 +1,6 @@
+<ruleset name="Antoine-roux.fr">
+	<target host="antoine-roux.fr" />
+	<target host="www.antoine-roux.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

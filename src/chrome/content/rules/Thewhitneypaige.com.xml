@@ -1,0 +1,6 @@
+<ruleset name="Thewhitneypaige.com">
+	<target host="thewhitneypaige.com" />
+	<target host="www.thewhitneypaige.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

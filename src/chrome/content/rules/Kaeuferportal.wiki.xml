@@ -1,0 +1,6 @@
+<ruleset name="Kaeuferportal.wiki">
+	<target host="kaeuferportal.wiki" />
+	<target host="www.kaeuferportal.wiki" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Milkcat.net">
+	<target host="milkcat.net" />
+	<target host="www.milkcat.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

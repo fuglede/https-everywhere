@@ -1,0 +1,6 @@
+<ruleset name="Upldr.pw">
+	<target host="upldr.pw" />
+	<target host="www.upldr.pw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

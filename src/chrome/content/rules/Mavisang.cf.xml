@@ -1,0 +1,6 @@
+<ruleset name="Mavisang.cf">
+	<target host="mavisang.cf" />
+	<target host="www.mavisang.cf" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

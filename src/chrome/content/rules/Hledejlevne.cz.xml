@@ -1,0 +1,6 @@
+<ruleset name="Hledejlevne.cz">
+	<target host="hledejlevne.cz" />
+	<target host="www.hledejlevne.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

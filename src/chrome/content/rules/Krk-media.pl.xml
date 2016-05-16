@@ -1,0 +1,6 @@
+<ruleset name="Krk-media.pl">
+	<target host="krk-media.pl" />
+	<target host="www.krk-media.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

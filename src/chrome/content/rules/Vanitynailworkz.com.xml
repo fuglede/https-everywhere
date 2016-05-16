@@ -1,0 +1,6 @@
+<ruleset name="Vanitynailworkz.com">
+	<target host="vanitynailworkz.com" />
+	<target host="www.vanitynailworkz.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

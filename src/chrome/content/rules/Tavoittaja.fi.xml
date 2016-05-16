@@ -1,0 +1,6 @@
+<ruleset name="Tavoittaja.fi">
+	<target host="tavoittaja.fi" />
+	<target host="www.tavoittaja.fi" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

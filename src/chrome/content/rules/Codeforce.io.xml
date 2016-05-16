@@ -1,0 +1,6 @@
+<ruleset name="Codeforce.io">
+	<target host="codeforce.io" />
+	<target host="www.codeforce.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

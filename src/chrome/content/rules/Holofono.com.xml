@@ -1,0 +1,6 @@
+<ruleset name="Holofono.com">
+	<target host="holofono.com" />
+	<target host="www.holofono.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

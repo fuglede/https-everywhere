@@ -1,0 +1,6 @@
+<ruleset name="Zombie-computer.com">
+	<target host="zombie-computer.com" />
+	<target host="www.zombie-computer.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

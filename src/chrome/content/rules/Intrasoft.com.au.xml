@@ -1,0 +1,6 @@
+<ruleset name="Intrasoft.com.au">
+	<target host="intrasoft.com.au" />
+	<target host="www.intrasoft.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

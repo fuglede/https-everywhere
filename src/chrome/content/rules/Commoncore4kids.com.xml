@@ -1,0 +1,6 @@
+<ruleset name="Commoncore4kids.com">
+	<target host="commoncore4kids.com" />
+	<target host="www.commoncore4kids.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

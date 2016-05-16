@@ -1,0 +1,6 @@
+<ruleset name="Dinepont.fr">
+	<target host="dinepont.fr" />
+	<target host="www.dinepont.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

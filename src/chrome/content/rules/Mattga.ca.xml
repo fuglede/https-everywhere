@@ -1,0 +1,6 @@
+<ruleset name="Mattga.ca">
+	<target host="mattga.ca" />
+	<target host="www.mattga.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

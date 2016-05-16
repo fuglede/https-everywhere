@@ -1,0 +1,6 @@
+<ruleset name="Calgaryconstructionjobs.com">
+	<target host="calgaryconstructionjobs.com" />
+	<target host="www.calgaryconstructionjobs.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

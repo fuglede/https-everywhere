@@ -1,0 +1,6 @@
+<ruleset name="Storefrontify.com">
+	<target host="storefrontify.com" />
+	<target host="www.storefrontify.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

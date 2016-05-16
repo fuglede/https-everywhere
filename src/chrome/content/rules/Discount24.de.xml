@@ -1,0 +1,6 @@
+<ruleset name="Discount24.de">
+	<target host="discount24.de" />
+	<target host="www.discount24.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

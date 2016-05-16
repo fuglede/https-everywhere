@@ -1,0 +1,6 @@
+<ruleset name="Fritzrepair.com">
+	<target host="fritzrepair.com" />
+	<target host="www.fritzrepair.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Kinderwagen-test24.de">
+	<target host="kinderwagen-test24.de" />
+	<target host="www.kinderwagen-test24.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

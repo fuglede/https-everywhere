@@ -1,0 +1,6 @@
+<ruleset name="Smarthouse.de">
+	<target host="smarthouse.de" />
+	<target host="www.smarthouse.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

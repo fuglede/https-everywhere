@@ -1,0 +1,6 @@
+<ruleset name="Xtremenutrition.com.br">
+	<target host="xtremenutrition.com.br" />
+	<target host="www.xtremenutrition.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

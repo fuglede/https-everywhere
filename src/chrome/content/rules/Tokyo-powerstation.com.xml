@@ -1,0 +1,6 @@
+<ruleset name="Tokyo-powerstation.com">
+	<target host="tokyo-powerstation.com" />
+	<target host="www.tokyo-powerstation.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

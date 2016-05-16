@@ -1,0 +1,6 @@
+<ruleset name="Timestamp.io">
+	<target host="timestamp.io" />
+	<target host="www.timestamp.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

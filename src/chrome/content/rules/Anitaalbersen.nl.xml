@@ -1,0 +1,6 @@
+<ruleset name="Anitaalbersen.nl">
+	<target host="anitaalbersen.nl" />
+	<target host="www.anitaalbersen.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

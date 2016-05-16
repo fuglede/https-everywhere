@@ -1,0 +1,6 @@
+<ruleset name="Neuled.pl">
+	<target host="neuled.pl" />
+	<target host="www.neuled.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

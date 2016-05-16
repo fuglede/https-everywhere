@@ -1,0 +1,6 @@
+<ruleset name="Falcon.jp">
+	<target host="falcon.jp" />
+	<target host="www.falcon.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

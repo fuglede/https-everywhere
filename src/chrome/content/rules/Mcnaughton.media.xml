@@ -1,0 +1,6 @@
+<ruleset name="Mcnaughton.media">
+	<target host="mcnaughton.media" />
+	<target host="www.mcnaughton.media" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

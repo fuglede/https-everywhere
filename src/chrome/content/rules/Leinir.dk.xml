@@ -1,0 +1,6 @@
+<ruleset name="Leinir.dk">
+	<target host="leinir.dk" />
+	<target host="www.leinir.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

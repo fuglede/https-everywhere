@@ -1,0 +1,6 @@
+<ruleset name="0x.sk">
+	<target host="0x.sk" />
+	<target host="www.0x.sk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

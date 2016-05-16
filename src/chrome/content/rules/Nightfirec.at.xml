@@ -1,0 +1,6 @@
+<ruleset name="Nightfirec.at">
+	<target host="nightfirec.at" />
+	<target host="www.nightfirec.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

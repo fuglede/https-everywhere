@@ -1,0 +1,6 @@
+<ruleset name="Penguinclientsystem.com">
+	<target host="penguinclientsystem.com" />
+	<target host="www.penguinclientsystem.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

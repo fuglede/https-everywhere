@@ -1,0 +1,6 @@
+<ruleset name="Wuetix.de">
+	<target host="wuetix.de" />
+	<target host="www.wuetix.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

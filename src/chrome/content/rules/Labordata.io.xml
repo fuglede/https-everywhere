@@ -1,0 +1,6 @@
+<ruleset name="Labordata.io">
+	<target host="labordata.io" />
+	<target host="www.labordata.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

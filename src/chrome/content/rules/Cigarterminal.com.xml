@@ -1,0 +1,6 @@
+<ruleset name="Cigarterminal.com">
+	<target host="cigarterminal.com" />
+	<target host="www.cigarterminal.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

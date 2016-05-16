@@ -1,0 +1,6 @@
+<ruleset name="Controlefinancier.ci">
+	<target host="controlefinancier.ci" />
+	<target host="www.controlefinancier.ci" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

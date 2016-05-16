@@ -1,0 +1,6 @@
+<ruleset name="Dogfi.sh">
+	<target host="dogfi.sh" />
+	<target host="www.dogfi.sh" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

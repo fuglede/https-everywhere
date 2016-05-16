@@ -1,0 +1,6 @@
+<ruleset name="Payroll.ch">
+	<target host="payroll.ch" />
+	<target host="www.payroll.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

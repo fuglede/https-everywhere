@@ -1,0 +1,6 @@
+<ruleset name="Kidzmovement.nl">
+	<target host="kidzmovement.nl" />
+	<target host="www.kidzmovement.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

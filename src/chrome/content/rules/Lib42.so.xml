@@ -1,0 +1,6 @@
+<ruleset name="Lib42.so">
+	<target host="lib42.so" />
+	<target host="www.lib42.so" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

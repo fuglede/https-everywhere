@@ -1,0 +1,6 @@
+<ruleset name="Pste.pw">
+	<target host="pste.pw" />
+	<target host="www.pste.pw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

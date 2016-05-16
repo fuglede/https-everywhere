@@ -1,0 +1,6 @@
+<ruleset name="Dinamoelektrik.com">
+	<target host="dinamoelektrik.com" />
+	<target host="www.dinamoelektrik.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

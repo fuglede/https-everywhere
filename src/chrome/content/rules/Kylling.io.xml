@@ -1,0 +1,6 @@
+<ruleset name="Kylling.io">
+	<target host="kylling.io" />
+	<target host="www.kylling.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

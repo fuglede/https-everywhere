@@ -1,0 +1,6 @@
+<ruleset name="Hittipps.com">
+	<target host="hittipps.com" />
+	<target host="www.hittipps.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

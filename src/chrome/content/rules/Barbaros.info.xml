@@ -1,0 +1,6 @@
+<ruleset name="Barbaros.info">
+	<target host="barbaros.info" />
+	<target host="www.barbaros.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

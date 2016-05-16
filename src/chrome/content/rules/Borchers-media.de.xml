@@ -1,0 +1,6 @@
+<ruleset name="Borchers-media.de">
+	<target host="borchers-media.de" />
+	<target host="www.borchers-media.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

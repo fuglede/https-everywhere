@@ -1,0 +1,6 @@
+<ruleset name="Jan-and-maaret.de">
+	<target host="jan-and-maaret.de" />
+	<target host="www.jan-and-maaret.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

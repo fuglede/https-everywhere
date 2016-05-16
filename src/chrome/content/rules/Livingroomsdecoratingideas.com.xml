@@ -1,0 +1,6 @@
+<ruleset name="Livingroomsdecoratingideas.com">
+	<target host="livingroomsdecoratingideas.com" />
+	<target host="www.livingroomsdecoratingideas.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Bcweightlifting.ca">
+	<target host="bcweightlifting.ca" />
+	<target host="www.bcweightlifting.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

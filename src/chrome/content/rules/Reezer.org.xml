@@ -1,0 +1,6 @@
+<ruleset name="Reezer.org">
+	<target host="reezer.org" />
+	<target host="www.reezer.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

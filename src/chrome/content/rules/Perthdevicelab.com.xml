@@ -1,0 +1,6 @@
+<ruleset name="Perthdevicelab.com">
+	<target host="perthdevicelab.com" />
+	<target host="www.perthdevicelab.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

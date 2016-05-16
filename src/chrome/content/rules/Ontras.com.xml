@@ -1,0 +1,6 @@
+<ruleset name="Ontras.com">
+	<target host="ontras.com" />
+	<target host="www.ontras.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

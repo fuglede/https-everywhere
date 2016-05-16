@@ -1,0 +1,6 @@
+<ruleset name="Black-khat.com">
+	<target host="black-khat.com" />
+	<target host="www.black-khat.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

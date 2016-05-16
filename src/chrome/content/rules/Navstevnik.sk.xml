@@ -1,0 +1,6 @@
+<ruleset name="Navstevnik.sk">
+	<target host="navstevnik.sk" />
+	<target host="www.navstevnik.sk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

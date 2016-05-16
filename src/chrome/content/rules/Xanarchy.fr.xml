@@ -1,0 +1,6 @@
+<ruleset name="Xanarchy.fr">
+	<target host="xanarchy.fr" />
+	<target host="www.xanarchy.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

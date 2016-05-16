@@ -1,0 +1,6 @@
+<ruleset name="Payunity.com">
+	<target host="payunity.com" />
+	<target host="www.payunity.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

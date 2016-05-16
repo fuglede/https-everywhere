@@ -1,0 +1,6 @@
+<ruleset name="Philadelphia.com.mx">
+	<target host="philadelphia.com.mx" />
+	<target host="www.philadelphia.com.mx" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

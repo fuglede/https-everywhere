@@ -1,0 +1,6 @@
+<ruleset name="Deltaacademy.org">
+	<target host="deltaacademy.org" />
+	<target host="www.deltaacademy.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

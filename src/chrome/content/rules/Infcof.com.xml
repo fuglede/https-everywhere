@@ -1,0 +1,6 @@
+<ruleset name="Infcof.com">
+	<target host="infcof.com" />
+	<target host="www.infcof.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

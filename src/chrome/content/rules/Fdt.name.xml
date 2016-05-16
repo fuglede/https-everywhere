@@ -1,0 +1,6 @@
+<ruleset name="Fdt.name">
+	<target host="fdt.name" />
+	<target host="www.fdt.name" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

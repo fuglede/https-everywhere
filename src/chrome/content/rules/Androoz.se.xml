@@ -1,0 +1,6 @@
+<ruleset name="Androoz.se">
+	<target host="androoz.se" />
+	<target host="www.androoz.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

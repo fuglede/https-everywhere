@@ -1,0 +1,6 @@
+<ruleset name="Fenteo.com">
+	<target host="fenteo.com" />
+	<target host="www.fenteo.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

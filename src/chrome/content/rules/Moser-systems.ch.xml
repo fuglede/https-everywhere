@@ -1,0 +1,6 @@
+<ruleset name="Moser-systems.ch">
+	<target host="moser-systems.ch" />
+	<target host="www.moser-systems.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

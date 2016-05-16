@@ -1,0 +1,6 @@
+<ruleset name="Herzbotschaft.de">
+	<target host="herzbotschaft.de" />
+	<target host="www.herzbotschaft.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

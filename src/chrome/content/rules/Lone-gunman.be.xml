@@ -1,0 +1,6 @@
+<ruleset name="Lone-gunman.be">
+	<target host="lone-gunman.be" />
+	<target host="www.lone-gunman.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

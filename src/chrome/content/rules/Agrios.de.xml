@@ -1,0 +1,6 @@
+<ruleset name="Agrios.de">
+	<target host="agrios.de" />
+	<target host="www.agrios.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Klares-licht.de">
+	<target host="klares-licht.de" />
+	<target host="www.klares-licht.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

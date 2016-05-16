@@ -1,0 +1,6 @@
+<ruleset name="Ikocik.sk">
+	<target host="ikocik.sk" />
+	<target host="www.ikocik.sk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

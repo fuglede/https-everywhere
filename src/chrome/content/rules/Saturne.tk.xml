@@ -1,0 +1,6 @@
+<ruleset name="Saturne.tk">
+	<target host="saturne.tk" />
+	<target host="www.saturne.tk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

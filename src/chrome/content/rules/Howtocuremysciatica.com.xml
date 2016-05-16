@@ -1,0 +1,6 @@
+<ruleset name="Howtocuremysciatica.com">
+	<target host="howtocuremysciatica.com" />
+	<target host="www.howtocuremysciatica.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

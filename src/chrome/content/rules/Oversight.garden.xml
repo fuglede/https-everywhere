@@ -1,0 +1,6 @@
+<ruleset name="Oversight.garden">
+	<target host="oversight.garden" />
+	<target host="www.oversight.garden" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

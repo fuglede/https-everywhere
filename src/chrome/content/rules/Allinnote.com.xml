@@ -1,0 +1,6 @@
+<ruleset name="Allinnote.com">
+	<target host="allinnote.com" />
+	<target host="www.allinnote.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

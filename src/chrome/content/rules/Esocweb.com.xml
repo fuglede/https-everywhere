@@ -1,0 +1,6 @@
+<ruleset name="Esocweb.com">
+	<target host="esocweb.com" />
+	<target host="www.esocweb.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Omgaanmetidealen.com">
+	<target host="omgaanmetidealen.com" />
+	<target host="www.omgaanmetidealen.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

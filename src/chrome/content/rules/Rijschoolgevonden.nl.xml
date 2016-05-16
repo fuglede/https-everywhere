@@ -1,0 +1,6 @@
+<ruleset name="Rijschoolgevonden.nl">
+	<target host="rijschoolgevonden.nl" />
+	<target host="www.rijschoolgevonden.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

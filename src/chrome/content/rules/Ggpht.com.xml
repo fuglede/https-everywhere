@@ -1,0 +1,6 @@
+<ruleset name="Ggpht.com">
+	<target host="ggpht.com" />
+	<target host="www.ggpht.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

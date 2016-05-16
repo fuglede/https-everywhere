@@ -1,0 +1,6 @@
+<ruleset name="Penablog.com">
+	<target host="penablog.com" />
+	<target host="www.penablog.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

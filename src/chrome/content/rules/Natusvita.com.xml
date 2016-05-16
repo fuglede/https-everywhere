@@ -1,0 +1,6 @@
+<ruleset name="Natusvita.com">
+	<target host="natusvita.com" />
+	<target host="www.natusvita.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

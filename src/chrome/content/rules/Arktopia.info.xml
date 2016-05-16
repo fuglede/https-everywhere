@@ -1,0 +1,6 @@
+<ruleset name="Arktopia.info">
+	<target host="arktopia.info" />
+	<target host="www.arktopia.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

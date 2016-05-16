@@ -1,0 +1,6 @@
+<ruleset name="Telefisk.org">
+	<target host="telefisk.org" />
+	<target host="www.telefisk.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

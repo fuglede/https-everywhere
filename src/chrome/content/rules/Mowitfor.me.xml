@@ -1,0 +1,6 @@
+<ruleset name="Mowitfor.me">
+	<target host="mowitfor.me" />
+	<target host="www.mowitfor.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

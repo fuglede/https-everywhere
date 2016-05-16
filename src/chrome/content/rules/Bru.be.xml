@@ -1,0 +1,6 @@
+<ruleset name="Bru.be">
+	<target host="bru.be" />
+	<target host="www.bru.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Regar42.fr">
+	<target host="regar42.fr" />
+	<target host="www.regar42.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

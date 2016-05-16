@@ -1,0 +1,6 @@
+<ruleset name="Rout0r.org">
+	<target host="rout0r.org" />
+	<target host="www.rout0r.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

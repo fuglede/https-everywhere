@@ -1,0 +1,6 @@
+<ruleset name="Mightysounds.cz">
+	<target host="mightysounds.cz" />
+	<target host="www.mightysounds.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Nemno.de">
+	<target host="nemno.de" />
+	<target host="www.nemno.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

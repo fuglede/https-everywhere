@@ -1,0 +1,6 @@
+<ruleset name="Icewoman.net">
+	<target host="icewoman.net" />
+	<target host="www.icewoman.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

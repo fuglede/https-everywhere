@@ -1,0 +1,6 @@
+<ruleset name="Inksupply.com">
+	<target host="inksupply.com" />
+	<target host="www.inksupply.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

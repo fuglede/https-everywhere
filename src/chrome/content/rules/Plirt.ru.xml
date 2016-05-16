@@ -1,0 +1,6 @@
+<ruleset name="Plirt.ru">
+	<target host="plirt.ru" />
+	<target host="www.plirt.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

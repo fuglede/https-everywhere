@@ -1,0 +1,6 @@
+<ruleset name="Bendingtheending.com">
+	<target host="bendingtheending.com" />
+	<target host="www.bendingtheending.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

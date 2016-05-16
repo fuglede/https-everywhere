@@ -1,0 +1,6 @@
+<ruleset name="Laboiteapc.fr">
+	<target host="laboiteapc.fr" />
+	<target host="www.laboiteapc.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

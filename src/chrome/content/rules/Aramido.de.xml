@@ -1,0 +1,6 @@
+<ruleset name="Aramido.de">
+	<target host="aramido.de" />
+	<target host="www.aramido.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

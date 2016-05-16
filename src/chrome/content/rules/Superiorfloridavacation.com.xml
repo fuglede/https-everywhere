@@ -1,0 +1,6 @@
+<ruleset name="Superiorfloridavacation.com">
+	<target host="superiorfloridavacation.com" />
+	<target host="www.superiorfloridavacation.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

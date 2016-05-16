@@ -1,0 +1,6 @@
+<ruleset name="Fun-zandix.com">
+	<target host="fun-zandix.com" />
+	<target host="www.fun-zandix.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

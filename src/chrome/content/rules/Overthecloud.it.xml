@@ -1,0 +1,6 @@
+<ruleset name="Overthecloud.it">
+	<target host="overthecloud.it" />
+	<target host="www.overthecloud.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

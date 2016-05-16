@@ -1,0 +1,6 @@
+<ruleset name="Rota1motoadventure.com.br">
+	<target host="rota1motoadventure.com.br" />
+	<target host="www.rota1motoadventure.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

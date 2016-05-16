@@ -1,0 +1,6 @@
+<ruleset name="Speedmann.de">
+	<target host="speedmann.de" />
+	<target host="www.speedmann.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

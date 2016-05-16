@@ -1,0 +1,6 @@
+<ruleset name="Mobile-grid.com">
+	<target host="mobile-grid.com" />
+	<target host="www.mobile-grid.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

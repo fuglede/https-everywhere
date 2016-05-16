@@ -1,0 +1,6 @@
+<ruleset name="Orf-digitalsatkarte.at">
+	<target host="orf-digitalsatkarte.at" />
+	<target host="www.orf-digitalsatkarte.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

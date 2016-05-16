@@ -1,0 +1,6 @@
+<ruleset name="Jh-media.eu">
+	<target host="jh-media.eu" />
+	<target host="www.jh-media.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

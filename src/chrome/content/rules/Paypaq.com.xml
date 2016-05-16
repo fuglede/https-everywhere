@@ -1,0 +1,6 @@
+<ruleset name="Paypaq.com">
+	<target host="paypaq.com" />
+	<target host="www.paypaq.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

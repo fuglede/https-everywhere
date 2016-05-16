@@ -1,0 +1,6 @@
+<ruleset name="Setphaserstostun.org">
+	<target host="setphaserstostun.org" />
+	<target host="www.setphaserstostun.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

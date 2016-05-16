@@ -1,0 +1,6 @@
+<ruleset name="Clasp.io">
+	<target host="clasp.io" />
+	<target host="www.clasp.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Doppenpost.nl">
+	<target host="doppenpost.nl" />
+	<target host="www.doppenpost.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

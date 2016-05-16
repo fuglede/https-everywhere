@@ -1,0 +1,6 @@
+<ruleset name="Sylvaindurand.org">
+	<target host="sylvaindurand.org" />
+	<target host="www.sylvaindurand.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

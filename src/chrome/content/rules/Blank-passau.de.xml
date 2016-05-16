@@ -1,0 +1,6 @@
+<ruleset name="Blank-passau.de">
+	<target host="blank-passau.de" />
+	<target host="www.blank-passau.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

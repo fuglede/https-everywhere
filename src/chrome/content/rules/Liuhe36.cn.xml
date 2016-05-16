@@ -1,0 +1,6 @@
+<ruleset name="Liuhe36.cn">
+	<target host="liuhe36.cn" />
+	<target host="www.liuhe36.cn" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

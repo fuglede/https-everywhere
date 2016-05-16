@@ -1,0 +1,6 @@
+<ruleset name="Tubepro.de">
+	<target host="tubepro.de" />
+	<target host="www.tubepro.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

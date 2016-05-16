@@ -1,0 +1,6 @@
+<ruleset name="Sparkforautism.org">
+	<target host="sparkforautism.org" />
+	<target host="www.sparkforautism.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

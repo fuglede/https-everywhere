@@ -1,0 +1,6 @@
+<ruleset name="Bayescustominteriors.com">
+	<target host="bayescustominteriors.com" />
+	<target host="www.bayescustominteriors.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

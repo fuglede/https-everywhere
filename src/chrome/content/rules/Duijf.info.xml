@@ -1,0 +1,6 @@
+<ruleset name="Duijf.info">
+	<target host="duijf.info" />
+	<target host="www.duijf.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

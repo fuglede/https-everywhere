@@ -1,0 +1,6 @@
+<ruleset name="Jangho.kr">
+	<target host="jangho.kr" />
+	<target host="www.jangho.kr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

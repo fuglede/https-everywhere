@@ -1,0 +1,6 @@
+<ruleset name="Dedicatutiempo.es">
+	<target host="dedicatutiempo.es" />
+	<target host="www.dedicatutiempo.es" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Wijsmetetenwageningen.nl">
+	<target host="wijsmetetenwageningen.nl" />
+	<target host="www.wijsmetetenwageningen.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

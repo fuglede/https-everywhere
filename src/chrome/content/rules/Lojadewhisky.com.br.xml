@@ -1,0 +1,6 @@
+<ruleset name="Lojadewhisky.com.br">
+	<target host="lojadewhisky.com.br" />
+	<target host="www.lojadewhisky.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

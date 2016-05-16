@@ -1,0 +1,6 @@
+<ruleset name="Asr.rocks">
+	<target host="asr.rocks" />
+	<target host="www.asr.rocks" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

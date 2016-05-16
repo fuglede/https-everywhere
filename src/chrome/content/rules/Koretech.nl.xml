@@ -1,0 +1,6 @@
+<ruleset name="Koretech.nl">
+	<target host="koretech.nl" />
+	<target host="www.koretech.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

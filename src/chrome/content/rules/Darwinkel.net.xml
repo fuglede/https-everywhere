@@ -1,0 +1,6 @@
+<ruleset name="Darwinkel.net">
+	<target host="darwinkel.net" />
+	<target host="www.darwinkel.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

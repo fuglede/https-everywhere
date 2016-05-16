@@ -1,0 +1,6 @@
+<ruleset name="B2and.com">
+	<target host="b2and.com" />
+	<target host="www.b2and.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

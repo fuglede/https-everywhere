@@ -1,0 +1,6 @@
+<ruleset name="Rentacarcluj.xyz">
+	<target host="rentacarcluj.xyz" />
+	<target host="www.rentacarcluj.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

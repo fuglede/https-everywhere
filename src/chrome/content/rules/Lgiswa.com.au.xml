@@ -1,0 +1,6 @@
+<ruleset name="Lgiswa.com.au">
+	<target host="lgiswa.com.au" />
+	<target host="www.lgiswa.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

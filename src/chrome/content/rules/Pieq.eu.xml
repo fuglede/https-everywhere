@@ -1,0 +1,6 @@
+<ruleset name="Pieq.eu">
+	<target host="pieq.eu" />
+	<target host="www.pieq.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Softanka.com">
+	<target host="softanka.com" />
+	<target host="www.softanka.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Solinter.com.br">
+	<target host="solinter.com.br" />
+	<target host="www.solinter.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

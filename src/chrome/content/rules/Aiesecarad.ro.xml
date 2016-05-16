@@ -1,0 +1,6 @@
+<ruleset name="Aiesecarad.ro">
+	<target host="aiesecarad.ro" />
+	<target host="www.aiesecarad.ro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

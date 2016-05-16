@@ -1,0 +1,6 @@
+<ruleset name="Kontentino.com">
+	<target host="kontentino.com" />
+	<target host="www.kontentino.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

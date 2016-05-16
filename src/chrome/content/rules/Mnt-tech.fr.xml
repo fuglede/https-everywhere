@@ -1,0 +1,6 @@
+<ruleset name="Mnt-tech.fr">
+	<target host="mnt-tech.fr" />
+	<target host="www.mnt-tech.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

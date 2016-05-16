@@ -1,0 +1,6 @@
+<ruleset name="Alpencam.com">
+	<target host="alpencam.com" />
+	<target host="www.alpencam.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

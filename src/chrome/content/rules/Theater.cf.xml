@@ -1,0 +1,6 @@
+<ruleset name="Theater.cf">
+	<target host="theater.cf" />
+	<target host="www.theater.cf" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

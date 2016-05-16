@@ -1,0 +1,6 @@
+<ruleset name="Nettrust.nz">
+	<target host="nettrust.nz" />
+	<target host="www.nettrust.nz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

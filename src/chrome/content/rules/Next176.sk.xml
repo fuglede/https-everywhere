@@ -1,0 +1,6 @@
+<ruleset name="Next176.sk">
+	<target host="next176.sk" />
+	<target host="www.next176.sk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Meredithkm.info">
+	<target host="meredithkm.info" />
+	<target host="www.meredithkm.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

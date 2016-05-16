@@ -1,0 +1,6 @@
+<ruleset name="Schritt4fit.de">
+	<target host="schritt4fit.de" />
+	<target host="www.schritt4fit.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

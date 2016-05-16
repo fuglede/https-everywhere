@@ -1,0 +1,6 @@
+<ruleset name="Apollojersey.com">
+	<target host="apollojersey.com" />
+	<target host="www.apollojersey.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

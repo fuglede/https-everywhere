@@ -1,0 +1,6 @@
+<ruleset name="Tartaneagle.org.uk">
+	<target host="tartaneagle.org.uk" />
+	<target host="www.tartaneagle.org.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

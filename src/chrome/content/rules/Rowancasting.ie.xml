@@ -1,0 +1,6 @@
+<ruleset name="Rowancasting.ie">
+	<target host="rowancasting.ie" />
+	<target host="www.rowancasting.ie" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

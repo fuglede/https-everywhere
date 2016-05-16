@@ -1,0 +1,6 @@
+<ruleset name="Newkaliningrad.ru">
+	<target host="newkaliningrad.ru" />
+	<target host="www.newkaliningrad.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

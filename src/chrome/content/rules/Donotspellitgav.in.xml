@@ -1,0 +1,6 @@
+<ruleset name="Donotspellitgav.in">
+	<target host="donotspellitgav.in" />
+	<target host="www.donotspellitgav.in" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Eatvisor.co.uk">
+	<target host="eatvisor.co.uk" />
+	<target host="www.eatvisor.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

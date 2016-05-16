@@ -1,0 +1,6 @@
+<ruleset name="Prayward.net">
+	<target host="prayward.net" />
+	<target host="www.prayward.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

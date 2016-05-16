@@ -1,0 +1,6 @@
+<ruleset name="Kackscharf.de">
+	<target host="kackscharf.de" />
+	<target host="www.kackscharf.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Versbeton.nl">
+	<target host="versbeton.nl" />
+	<target host="www.versbeton.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

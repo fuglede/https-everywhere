@@ -1,0 +1,6 @@
+<ruleset name="Hackest.org">
+	<target host="hackest.org" />
+	<target host="www.hackest.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

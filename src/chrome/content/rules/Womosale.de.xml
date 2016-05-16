@@ -1,0 +1,6 @@
+<ruleset name="Womosale.de">
+	<target host="womosale.de" />
+	<target host="www.womosale.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

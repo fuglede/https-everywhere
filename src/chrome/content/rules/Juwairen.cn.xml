@@ -1,0 +1,6 @@
+<ruleset name="Juwairen.cn">
+	<target host="juwairen.cn" />
+	<target host="www.juwairen.cn" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

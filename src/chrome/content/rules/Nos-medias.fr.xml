@@ -1,0 +1,6 @@
+<ruleset name="Nos-medias.fr">
+	<target host="nos-medias.fr" />
+	<target host="www.nos-medias.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

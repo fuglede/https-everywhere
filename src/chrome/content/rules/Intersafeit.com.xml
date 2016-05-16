@@ -1,0 +1,6 @@
+<ruleset name="Intersafeit.com">
+	<target host="intersafeit.com" />
+	<target host="www.intersafeit.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

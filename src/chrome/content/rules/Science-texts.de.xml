@@ -1,0 +1,6 @@
+<ruleset name="Science-texts.de">
+	<target host="science-texts.de" />
+	<target host="www.science-texts.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

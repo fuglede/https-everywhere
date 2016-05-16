@@ -1,0 +1,6 @@
+<ruleset name="Gamesiyo.com">
+	<target host="gamesiyo.com" />
+	<target host="www.gamesiyo.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

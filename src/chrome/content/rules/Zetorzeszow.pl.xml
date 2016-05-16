@@ -1,0 +1,6 @@
+<ruleset name="Zetorzeszow.pl">
+	<target host="zetorzeszow.pl" />
+	<target host="www.zetorzeszow.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

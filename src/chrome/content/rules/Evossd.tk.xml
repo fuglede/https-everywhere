@@ -1,0 +1,6 @@
+<ruleset name="Evossd.tk">
+	<target host="evossd.tk" />
+	<target host="www.evossd.tk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

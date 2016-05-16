@@ -1,0 +1,6 @@
+<ruleset name="Genialix.de">
+	<target host="genialix.de" />
+	<target host="www.genialix.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

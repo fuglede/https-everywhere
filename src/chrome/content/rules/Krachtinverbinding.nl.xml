@@ -1,0 +1,6 @@
+<ruleset name="Krachtinverbinding.nl">
+	<target host="krachtinverbinding.nl" />
+	<target host="www.krachtinverbinding.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

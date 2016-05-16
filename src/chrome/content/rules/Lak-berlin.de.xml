@@ -1,0 +1,6 @@
+<ruleset name="Lak-berlin.de">
+	<target host="lak-berlin.de" />
+	<target host="www.lak-berlin.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

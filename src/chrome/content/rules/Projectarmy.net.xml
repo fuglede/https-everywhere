@@ -1,0 +1,6 @@
+<ruleset name="Projectarmy.net">
+	<target host="projectarmy.net" />
+	<target host="www.projectarmy.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

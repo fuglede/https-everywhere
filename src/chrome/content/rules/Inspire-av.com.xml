@@ -1,0 +1,6 @@
+<ruleset name="Inspire-av.com">
+	<target host="inspire-av.com" />
+	<target host="www.inspire-av.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

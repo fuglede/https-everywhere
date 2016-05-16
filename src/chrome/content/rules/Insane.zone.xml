@@ -1,0 +1,6 @@
+<ruleset name="Insane.zone">
+	<target host="insane.zone" />
+	<target host="www.insane.zone" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

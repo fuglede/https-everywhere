@@ -1,0 +1,6 @@
+<ruleset name="Kpvpn.com">
+	<target host="kpvpn.com" />
+	<target host="www.kpvpn.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

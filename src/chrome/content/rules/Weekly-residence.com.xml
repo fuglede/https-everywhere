@@ -1,0 +1,6 @@
+<ruleset name="Weekly-residence.com">
+	<target host="weekly-residence.com" />
+	<target host="www.weekly-residence.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

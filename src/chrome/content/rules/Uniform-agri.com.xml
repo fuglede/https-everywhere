@@ -1,0 +1,6 @@
+<ruleset name="Uniform-agri.com">
+	<target host="uniform-agri.com" />
+	<target host="www.uniform-agri.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

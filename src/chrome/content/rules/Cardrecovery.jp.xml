@@ -1,0 +1,6 @@
+<ruleset name="Cardrecovery.jp">
+	<target host="cardrecovery.jp" />
+	<target host="www.cardrecovery.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

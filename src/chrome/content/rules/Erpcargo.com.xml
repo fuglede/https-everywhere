@@ -1,0 +1,6 @@
+<ruleset name="Erpcargo.com">
+	<target host="erpcargo.com" />
+	<target host="www.erpcargo.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Terraform.io">
+	<target host="terraform.io" />
+	<target host="www.terraform.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

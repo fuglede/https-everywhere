@@ -1,0 +1,6 @@
+<ruleset name="Vaccines411.ca">
+	<target host="vaccines411.ca" />
+	<target host="www.vaccines411.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

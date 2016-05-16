@@ -1,0 +1,6 @@
+<ruleset name="Flareon.net">
+	<target host="flareon.net" />
+	<target host="www.flareon.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

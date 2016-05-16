@@ -1,0 +1,6 @@
+<ruleset name="Admailer.ie">
+	<target host="admailer.ie" />
+	<target host="www.admailer.ie" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Cheapestgamecards.se">
+	<target host="cheapestgamecards.se" />
+	<target host="www.cheapestgamecards.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

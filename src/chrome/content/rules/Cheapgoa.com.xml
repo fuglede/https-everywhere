@@ -1,0 +1,6 @@
+<ruleset name="Cheapgoa.com">
+	<target host="cheapgoa.com" />
+	<target host="www.cheapgoa.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

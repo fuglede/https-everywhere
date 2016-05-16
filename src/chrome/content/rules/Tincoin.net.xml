@@ -1,0 +1,6 @@
+<ruleset name="Tincoin.net">
+	<target host="tincoin.net" />
+	<target host="www.tincoin.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Iprim.ru">
+	<target host="iprim.ru" />
+	<target host="www.iprim.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Starmusic.ga">
+	<target host="starmusic.ga" />
+	<target host="www.starmusic.ga" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

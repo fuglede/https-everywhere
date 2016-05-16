@@ -1,0 +1,6 @@
+<ruleset name="Inmyarea.com">
+	<target host="inmyarea.com" />
+	<target host="www.inmyarea.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

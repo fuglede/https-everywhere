@@ -1,0 +1,6 @@
+<ruleset name="Doodledraw.ninja">
+	<target host="doodledraw.ninja" />
+	<target host="www.doodledraw.ninja" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

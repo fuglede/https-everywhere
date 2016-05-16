@@ -1,0 +1,6 @@
+<ruleset name="Achievebestpractice.co.nz">
+	<target host="achievebestpractice.co.nz" />
+	<target host="www.achievebestpractice.co.nz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

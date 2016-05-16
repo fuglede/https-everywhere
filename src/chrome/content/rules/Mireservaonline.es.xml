@@ -1,0 +1,6 @@
+<ruleset name="Mireservaonline.es">
+	<target host="mireservaonline.es" />
+	<target host="www.mireservaonline.es" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

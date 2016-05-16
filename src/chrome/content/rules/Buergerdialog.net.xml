@@ -1,0 +1,6 @@
+<ruleset name="Buergerdialog.net">
+	<target host="buergerdialog.net" />
+	<target host="www.buergerdialog.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

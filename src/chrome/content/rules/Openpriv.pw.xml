@@ -1,0 +1,6 @@
+<ruleset name="Openpriv.pw">
+	<target host="openpriv.pw" />
+	<target host="www.openpriv.pw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Calypso-tour.net">
+	<target host="calypso-tour.net" />
+	<target host="www.calypso-tour.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

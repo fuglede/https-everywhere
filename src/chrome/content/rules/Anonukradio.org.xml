@@ -1,0 +1,6 @@
+<ruleset name="Anonukradio.org">
+	<target host="anonukradio.org" />
+	<target host="www.anonukradio.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

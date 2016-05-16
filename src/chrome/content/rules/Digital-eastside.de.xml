@@ -1,0 +1,6 @@
+<ruleset name="Digital-eastside.de">
+	<target host="digital-eastside.de" />
+	<target host="www.digital-eastside.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

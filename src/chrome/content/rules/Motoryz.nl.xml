@@ -1,0 +1,6 @@
+<ruleset name="Motoryz.nl">
+	<target host="motoryz.nl" />
+	<target host="www.motoryz.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

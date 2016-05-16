@@ -1,0 +1,6 @@
+<ruleset name="By4cqb.cn">
+	<target host="by4cqb.cn" />
+	<target host="www.by4cqb.cn" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Beamonte.io">
+	<target host="beamonte.io" />
+	<target host="www.beamonte.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

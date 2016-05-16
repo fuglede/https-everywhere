@@ -1,0 +1,6 @@
+<ruleset name="Glidingshop.eu">
+	<target host="glidingshop.eu" />
+	<target host="www.glidingshop.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

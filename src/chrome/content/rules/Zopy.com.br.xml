@@ -1,0 +1,6 @@
+<ruleset name="Zopy.com.br">
+	<target host="zopy.com.br" />
+	<target host="www.zopy.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

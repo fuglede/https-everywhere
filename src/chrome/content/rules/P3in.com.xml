@@ -1,0 +1,6 @@
+<ruleset name="P3in.com">
+	<target host="p3in.com" />
+	<target host="www.p3in.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

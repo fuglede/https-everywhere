@@ -1,0 +1,6 @@
+<ruleset name="Firstaction.com.au">
+	<target host="firstaction.com.au" />
+	<target host="www.firstaction.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

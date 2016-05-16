@@ -1,0 +1,6 @@
+<ruleset name="Vumetric.com">
+	<target host="vumetric.com" />
+	<target host="www.vumetric.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Tinastahlschmidt.de">
+	<target host="tinastahlschmidt.de" />
+	<target host="www.tinastahlschmidt.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

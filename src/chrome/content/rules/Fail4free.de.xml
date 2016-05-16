@@ -1,0 +1,6 @@
+<ruleset name="Fail4free.de">
+	<target host="fail4free.de" />
+	<target host="www.fail4free.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

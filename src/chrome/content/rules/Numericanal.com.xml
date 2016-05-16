@@ -1,0 +1,6 @@
+<ruleset name="Numericanal.com">
+	<target host="numericanal.com" />
+	<target host="www.numericanal.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

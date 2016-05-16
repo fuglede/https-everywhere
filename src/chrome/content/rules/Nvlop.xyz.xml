@@ -1,0 +1,6 @@
+<ruleset name="Nvlop.xyz">
+	<target host="nvlop.xyz" />
+	<target host="www.nvlop.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

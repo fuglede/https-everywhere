@@ -1,0 +1,6 @@
+<ruleset name="Meteosherbrooke.com">
+	<target host="meteosherbrooke.com" />
+	<target host="www.meteosherbrooke.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

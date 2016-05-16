@@ -1,0 +1,6 @@
+<ruleset name="Dd.art.pl">
+	<target host="dd.art.pl" />
+	<target host="www.dd.art.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

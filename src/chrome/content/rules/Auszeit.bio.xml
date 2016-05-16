@@ -1,0 +1,6 @@
+<ruleset name="Auszeit.bio">
+	<target host="auszeit.bio" />
+	<target host="www.auszeit.bio" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

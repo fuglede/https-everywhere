@@ -1,0 +1,6 @@
+<ruleset name="Shenghaiautoparts.com">
+	<target host="shenghaiautoparts.com" />
+	<target host="www.shenghaiautoparts.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

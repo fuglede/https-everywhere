@@ -1,0 +1,6 @@
+<ruleset name="Payupay.ru">
+	<target host="payupay.ru" />
+	<target host="www.payupay.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

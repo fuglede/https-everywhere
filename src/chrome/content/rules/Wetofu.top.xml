@@ -1,0 +1,6 @@
+<ruleset name="Wetofu.top">
+	<target host="wetofu.top" />
+	<target host="www.wetofu.top" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

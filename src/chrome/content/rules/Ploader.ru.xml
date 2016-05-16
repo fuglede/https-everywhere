@@ -1,0 +1,6 @@
+<ruleset name="Ploader.ru">
+	<target host="ploader.ru" />
+	<target host="www.ploader.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

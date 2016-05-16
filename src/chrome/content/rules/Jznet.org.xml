@@ -1,0 +1,6 @@
+<ruleset name="Jznet.org">
+	<target host="jznet.org" />
+	<target host="www.jznet.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Homecareassociatespa.com">
+	<target host="homecareassociatespa.com" />
+	<target host="www.homecareassociatespa.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

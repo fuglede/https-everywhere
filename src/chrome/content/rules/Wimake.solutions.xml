@@ -1,0 +1,6 @@
+<ruleset name="Wimake.solutions">
+	<target host="wimake.solutions" />
+	<target host="www.wimake.solutions" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

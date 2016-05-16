@@ -1,0 +1,6 @@
+<ruleset name="Bund-von-theramore.de">
+	<target host="bund-von-theramore.de" />
+	<target host="www.bund-von-theramore.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

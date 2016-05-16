@@ -1,0 +1,6 @@
+<ruleset name="Finalgear.com">
+	<target host="finalgear.com" />
+	<target host="www.finalgear.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

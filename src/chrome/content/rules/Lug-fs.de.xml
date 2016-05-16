@@ -1,0 +1,6 @@
+<ruleset name="Lug-fs.de">
+	<target host="lug-fs.de" />
+	<target host="www.lug-fs.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

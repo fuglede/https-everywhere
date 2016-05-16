@@ -1,0 +1,6 @@
+<ruleset name="Gemeentemolenwaard.nl">
+	<target host="gemeentemolenwaard.nl" />
+	<target host="www.gemeentemolenwaard.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

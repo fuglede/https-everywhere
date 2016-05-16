@@ -1,0 +1,6 @@
+<ruleset name="Pic.gov">
+	<target host="pic.gov" />
+	<target host="www.pic.gov" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

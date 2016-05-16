@@ -1,0 +1,6 @@
+<ruleset name="Champicreuse.fr">
+	<target host="champicreuse.fr" />
+	<target host="www.champicreuse.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

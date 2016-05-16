@@ -1,0 +1,6 @@
+<ruleset name="Yclan.net">
+	<target host="yclan.net" />
+	<target host="www.yclan.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

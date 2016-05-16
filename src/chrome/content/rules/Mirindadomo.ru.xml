@@ -1,0 +1,6 @@
+<ruleset name="Mirindadomo.ru">
+	<target host="mirindadomo.ru" />
+	<target host="www.mirindadomo.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

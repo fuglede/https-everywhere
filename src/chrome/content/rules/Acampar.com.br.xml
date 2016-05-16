@@ -1,0 +1,6 @@
+<ruleset name="Acampar.com.br">
+	<target host="acampar.com.br" />
+	<target host="www.acampar.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

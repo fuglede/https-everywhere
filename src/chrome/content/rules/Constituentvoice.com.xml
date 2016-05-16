@@ -1,0 +1,6 @@
+<ruleset name="Constituentvoice.com">
+	<target host="constituentvoice.com" />
+	<target host="www.constituentvoice.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

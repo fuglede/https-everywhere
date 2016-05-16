@@ -1,0 +1,6 @@
+<ruleset name="Track.plus">
+	<target host="track.plus" />
+	<target host="www.track.plus" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

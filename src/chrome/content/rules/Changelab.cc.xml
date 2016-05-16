@@ -1,0 +1,6 @@
+<ruleset name="Changelab.cc">
+	<target host="changelab.cc" />
+	<target host="www.changelab.cc" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Jikken.de">
+	<target host="jikken.de" />
+	<target host="www.jikken.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

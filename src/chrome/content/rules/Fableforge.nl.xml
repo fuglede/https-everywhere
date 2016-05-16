@@ -1,0 +1,6 @@
+<ruleset name="Fableforge.nl">
+	<target host="fableforge.nl" />
+	<target host="www.fableforge.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Secure.chat">
+	<target host="secure.chat" />
+	<target host="www.secure.chat" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

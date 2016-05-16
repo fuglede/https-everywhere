@@ -1,0 +1,6 @@
+<ruleset name="Hoffnungswiese.de">
+	<target host="hoffnungswiese.de" />
+	<target host="www.hoffnungswiese.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

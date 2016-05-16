@@ -1,0 +1,6 @@
+<ruleset name="Downloadsoftwaregratisan.com">
+	<target host="downloadsoftwaregratisan.com" />
+	<target host="www.downloadsoftwaregratisan.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

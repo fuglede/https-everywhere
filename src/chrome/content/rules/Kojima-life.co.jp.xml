@@ -1,0 +1,6 @@
+<ruleset name="Kojima-life.co.jp">
+	<target host="kojima-life.co.jp" />
+	<target host="www.kojima-life.co.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

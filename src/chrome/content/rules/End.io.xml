@@ -1,0 +1,6 @@
+<ruleset name="End.io">
+	<target host="end.io" />
+	<target host="www.end.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Citrakaryautama.com">
+	<target host="citrakaryautama.com" />
+	<target host="www.citrakaryautama.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

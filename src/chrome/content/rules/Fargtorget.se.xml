@@ -1,0 +1,6 @@
+<ruleset name="Fargtorget.se">
+	<target host="fargtorget.se" />
+	<target host="www.fargtorget.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

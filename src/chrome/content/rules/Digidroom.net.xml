@@ -1,0 +1,6 @@
+<ruleset name="Digidroom.net">
+	<target host="digidroom.net" />
+	<target host="www.digidroom.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

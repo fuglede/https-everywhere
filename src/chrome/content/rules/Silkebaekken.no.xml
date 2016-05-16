@@ -1,0 +1,6 @@
+<ruleset name="Silkebaekken.no">
+	<target host="silkebaekken.no" />
+	<target host="www.silkebaekken.no" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

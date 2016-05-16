@@ -1,0 +1,6 @@
+<ruleset name="Xtserv.net">
+	<target host="xtserv.net" />
+	<target host="www.xtserv.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

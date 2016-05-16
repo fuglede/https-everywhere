@@ -1,0 +1,6 @@
+<ruleset name="Hr-intranet.com">
+	<target host="hr-intranet.com" />
+	<target host="www.hr-intranet.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

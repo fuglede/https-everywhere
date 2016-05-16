@@ -1,0 +1,6 @@
+<ruleset name="Onewebdev.info">
+	<target host="onewebdev.info" />
+	<target host="www.onewebdev.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

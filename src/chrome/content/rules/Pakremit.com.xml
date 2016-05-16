@@ -1,0 +1,6 @@
+<ruleset name="Pakremit.com">
+	<target host="pakremit.com" />
+	<target host="www.pakremit.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

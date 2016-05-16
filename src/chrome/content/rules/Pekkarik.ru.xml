@@ -1,0 +1,6 @@
+<ruleset name="Pekkarik.ru">
+	<target host="pekkarik.ru" />
+	<target host="www.pekkarik.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

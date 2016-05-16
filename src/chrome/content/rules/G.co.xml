@@ -1,0 +1,6 @@
+<ruleset name="G.co">
+	<target host="g.co" />
+	<target host="www.g.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

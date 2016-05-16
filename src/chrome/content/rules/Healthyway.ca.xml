@@ -1,0 +1,6 @@
+<ruleset name="Healthyway.ca">
+	<target host="healthyway.ca" />
+	<target host="www.healthyway.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

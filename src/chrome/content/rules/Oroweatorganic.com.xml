@@ -1,0 +1,6 @@
+<ruleset name="Oroweatorganic.com">
+	<target host="oroweatorganic.com" />
+	<target host="www.oroweatorganic.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

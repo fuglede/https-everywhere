@@ -1,0 +1,6 @@
+<ruleset name="Absynthe-inquisition.fr">
+	<target host="absynthe-inquisition.fr" />
+	<target host="www.absynthe-inquisition.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

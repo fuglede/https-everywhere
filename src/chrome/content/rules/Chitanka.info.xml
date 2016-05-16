@@ -1,0 +1,6 @@
+<ruleset name="Chitanka.info">
+	<target host="chitanka.info" />
+	<target host="www.chitanka.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

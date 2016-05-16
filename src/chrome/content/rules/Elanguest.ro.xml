@@ -1,0 +1,6 @@
+<ruleset name="Elanguest.ro">
+	<target host="elanguest.ro" />
+	<target host="www.elanguest.ro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

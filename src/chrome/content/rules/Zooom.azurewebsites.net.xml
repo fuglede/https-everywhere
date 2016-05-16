@@ -1,0 +1,6 @@
+<ruleset name="Zooom.azurewebsites.net">
+	<target host="zooom.azurewebsites.net" />
+	<target host="www.zooom.azurewebsites.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

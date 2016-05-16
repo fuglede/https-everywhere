@@ -1,0 +1,6 @@
+<ruleset name="Backupcrypt.com.hr">
+	<target host="backupcrypt.com.hr" />
+	<target host="www.backupcrypt.com.hr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

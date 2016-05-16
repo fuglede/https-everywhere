@@ -1,0 +1,6 @@
+<ruleset name="247scaffoldtower.co.uk">
+	<target host="247scaffoldtower.co.uk" />
+	<target host="www.247scaffoldtower.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

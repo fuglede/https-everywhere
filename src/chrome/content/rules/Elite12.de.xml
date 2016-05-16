@@ -1,0 +1,6 @@
+<ruleset name="Elite12.de">
+	<target host="elite12.de" />
+	<target host="www.elite12.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

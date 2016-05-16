@@ -1,0 +1,6 @@
+<ruleset name="Divegearexpress.com">
+	<target host="divegearexpress.com" />
+	<target host="www.divegearexpress.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

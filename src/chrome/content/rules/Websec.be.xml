@@ -1,0 +1,6 @@
+<ruleset name="Websec.be">
+	<target host="websec.be" />
+	<target host="www.websec.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

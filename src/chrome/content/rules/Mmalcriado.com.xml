@@ -1,0 +1,6 @@
+<ruleset name="Mmalcriado.com">
+	<target host="mmalcriado.com" />
+	<target host="www.mmalcriado.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

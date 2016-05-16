@@ -1,0 +1,6 @@
+<ruleset name="Tinylan.com">
+	<target host="tinylan.com" />
+	<target host="www.tinylan.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

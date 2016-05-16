@@ -1,0 +1,6 @@
+<ruleset name="Tx041cap.org">
+	<target host="tx041cap.org" />
+	<target host="www.tx041cap.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Regiovertrieb.de">
+	<target host="regiovertrieb.de" />
+	<target host="www.regiovertrieb.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

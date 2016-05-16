@@ -1,0 +1,6 @@
+<ruleset name="Pace.car">
+	<target host="pace.car" />
+	<target host="www.pace.car" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Pysays.net">
+	<target host="pysays.net" />
+	<target host="www.pysays.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

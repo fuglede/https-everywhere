@@ -1,0 +1,6 @@
+<ruleset name="Aessencia.com.br">
+	<target host="aessencia.com.br" />
+	<target host="www.aessencia.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

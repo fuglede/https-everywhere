@@ -1,0 +1,6 @@
+<ruleset name="Bridholm.se">
+	<target host="bridholm.se" />
+	<target host="www.bridholm.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Dedmorozrzn.ru">
+	<target host="dedmorozrzn.ru" />
+	<target host="www.dedmorozrzn.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

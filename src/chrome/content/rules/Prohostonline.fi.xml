@@ -1,0 +1,6 @@
+<ruleset name="Prohostonline.fi">
+	<target host="prohostonline.fi" />
+	<target host="www.prohostonline.fi" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

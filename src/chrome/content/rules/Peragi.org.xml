@@ -1,0 +1,6 @@
+<ruleset name="Peragi.org">
+	<target host="peragi.org" />
+	<target host="www.peragi.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

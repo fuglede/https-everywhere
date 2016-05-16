@@ -1,0 +1,6 @@
+<ruleset name="Webergrillrestaurant.com">
+	<target host="webergrillrestaurant.com" />
+	<target host="www.webergrillrestaurant.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Lingros-test.tk">
+	<target host="lingros-test.tk" />
+	<target host="www.lingros-test.tk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

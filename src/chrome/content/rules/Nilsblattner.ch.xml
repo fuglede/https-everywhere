@@ -1,0 +1,6 @@
+<ruleset name="Nilsblattner.ch">
+	<target host="nilsblattner.ch" />
+	<target host="www.nilsblattner.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

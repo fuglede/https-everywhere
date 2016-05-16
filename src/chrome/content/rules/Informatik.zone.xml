@@ -1,0 +1,6 @@
+<ruleset name="Informatik.zone">
+	<target host="informatik.zone" />
+	<target host="www.informatik.zone" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

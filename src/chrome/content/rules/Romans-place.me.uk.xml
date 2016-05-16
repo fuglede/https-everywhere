@@ -1,0 +1,6 @@
+<ruleset name="Romans-place.me.uk">
+	<target host="romans-place.me.uk" />
+	<target host="www.romans-place.me.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

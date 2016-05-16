@@ -1,0 +1,6 @@
+<ruleset name="Ansdell.info">
+	<target host="ansdell.info" />
+	<target host="www.ansdell.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

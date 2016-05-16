@@ -1,0 +1,6 @@
+<ruleset name="Qikan.net">
+	<target host="qikan.net" />
+	<target host="www.qikan.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

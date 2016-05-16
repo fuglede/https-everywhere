@@ -1,0 +1,6 @@
+<ruleset name="Zzw.ca">
+	<target host="zzw.ca" />
+	<target host="www.zzw.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

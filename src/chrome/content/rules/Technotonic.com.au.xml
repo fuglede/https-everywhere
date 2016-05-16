@@ -1,0 +1,6 @@
+<ruleset name="Technotonic.com.au">
+	<target host="technotonic.com.au" />
+	<target host="www.technotonic.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

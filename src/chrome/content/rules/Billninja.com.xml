@@ -1,0 +1,6 @@
+<ruleset name="Billninja.com">
+	<target host="billninja.com" />
+	<target host="www.billninja.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

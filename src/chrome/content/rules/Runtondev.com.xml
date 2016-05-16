@@ -1,0 +1,6 @@
+<ruleset name="Runtondev.com">
+	<target host="runtondev.com" />
+	<target host="www.runtondev.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

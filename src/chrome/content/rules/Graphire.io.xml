@@ -1,0 +1,6 @@
+<ruleset name="Graphire.io">
+	<target host="graphire.io" />
+	<target host="www.graphire.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Comotalk.com">
+	<target host="comotalk.com" />
+	<target host="www.comotalk.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

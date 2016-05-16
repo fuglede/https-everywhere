@@ -1,0 +1,6 @@
+<ruleset name="Communityriskreduction.org.au">
+	<target host="communityriskreduction.org.au" />
+	<target host="www.communityriskreduction.org.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

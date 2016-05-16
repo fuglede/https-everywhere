@@ -1,0 +1,6 @@
+<ruleset name="Alphagamers.net">
+	<target host="alphagamers.net" />
+	<target host="www.alphagamers.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

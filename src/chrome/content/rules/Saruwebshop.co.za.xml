@@ -1,0 +1,6 @@
+<ruleset name="Saruwebshop.co.za">
+	<target host="saruwebshop.co.za" />
+	<target host="www.saruwebshop.co.za" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

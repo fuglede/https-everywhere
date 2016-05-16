@@ -1,0 +1,6 @@
+<ruleset name="Pwntr.com">
+	<target host="pwntr.com" />
+	<target host="www.pwntr.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

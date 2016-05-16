@@ -1,0 +1,6 @@
+<ruleset name="Dokitt.net">
+	<target host="dokitt.net" />
+	<target host="www.dokitt.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

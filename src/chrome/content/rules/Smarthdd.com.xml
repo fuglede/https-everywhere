@@ -1,0 +1,6 @@
+<ruleset name="Smarthdd.com">
+	<target host="smarthdd.com" />
+	<target host="www.smarthdd.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

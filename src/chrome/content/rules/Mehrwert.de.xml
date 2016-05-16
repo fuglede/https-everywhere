@@ -1,0 +1,6 @@
+<ruleset name="Mehrwert.de">
+	<target host="mehrwert.de" />
+	<target host="www.mehrwert.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

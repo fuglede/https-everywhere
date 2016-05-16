@@ -1,0 +1,6 @@
+<ruleset name="Uniformespousoalegre.com.br">
+	<target host="uniformespousoalegre.com.br" />
+	<target host="www.uniformespousoalegre.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Developmentaid.org">
+	<target host="developmentaid.org" />
+	<target host="www.developmentaid.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

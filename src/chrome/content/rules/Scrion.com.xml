@@ -1,0 +1,6 @@
+<ruleset name="Scrion.com">
+	<target host="scrion.com" />
+	<target host="www.scrion.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

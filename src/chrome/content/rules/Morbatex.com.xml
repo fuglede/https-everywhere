@@ -1,0 +1,6 @@
+<ruleset name="Morbatex.com">
+	<target host="morbatex.com" />
+	<target host="www.morbatex.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

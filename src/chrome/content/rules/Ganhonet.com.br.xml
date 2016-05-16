@@ -1,0 +1,6 @@
+<ruleset name="Ganhonet.com.br">
+	<target host="ganhonet.com.br" />
+	<target host="www.ganhonet.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

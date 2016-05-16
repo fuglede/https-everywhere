@@ -1,0 +1,6 @@
+<ruleset name="Thumbtack.com">
+	<target host="thumbtack.com" />
+	<target host="www.thumbtack.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

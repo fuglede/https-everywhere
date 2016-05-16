@@ -1,0 +1,6 @@
+<ruleset name="Fedux.com.ar">
+	<target host="fedux.com.ar" />
+	<target host="www.fedux.com.ar" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

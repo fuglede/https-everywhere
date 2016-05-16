@@ -1,0 +1,6 @@
+<ruleset name="Yinlei.org">
+	<target host="yinlei.org" />
+	<target host="www.yinlei.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

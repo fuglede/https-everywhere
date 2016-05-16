@@ -1,0 +1,6 @@
+<ruleset name="Qittfx.com">
+	<target host="qittfx.com" />
+	<target host="www.qittfx.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

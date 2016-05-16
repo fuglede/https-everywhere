@@ -1,0 +1,6 @@
+<ruleset name="Vespacascadia.com">
+	<target host="vespacascadia.com" />
+	<target host="www.vespacascadia.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

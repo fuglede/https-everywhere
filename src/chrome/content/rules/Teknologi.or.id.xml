@@ -1,0 +1,6 @@
+<ruleset name="Teknologi.or.id">
+	<target host="teknologi.or.id" />
+	<target host="www.teknologi.or.id" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Gabrieldwi.web.id">
+	<target host="gabrieldwi.web.id" />
+	<target host="www.gabrieldwi.web.id" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

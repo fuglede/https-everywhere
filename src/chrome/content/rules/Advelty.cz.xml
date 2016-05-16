@@ -1,0 +1,6 @@
+<ruleset name="Advelty.cz">
+	<target host="advelty.cz" />
+	<target host="www.advelty.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

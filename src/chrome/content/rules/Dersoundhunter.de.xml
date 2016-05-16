@@ -1,0 +1,6 @@
+<ruleset name="Dersoundhunter.de">
+	<target host="dersoundhunter.de" />
+	<target host="www.dersoundhunter.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

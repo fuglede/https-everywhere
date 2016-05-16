@@ -1,0 +1,6 @@
+<ruleset name="Itcko.sk">
+	<target host="itcko.sk" />
+	<target host="www.itcko.sk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

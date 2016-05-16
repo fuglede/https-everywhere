@@ -1,0 +1,6 @@
+<ruleset name="Espacemontmorency.com">
+	<target host="espacemontmorency.com" />
+	<target host="www.espacemontmorency.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

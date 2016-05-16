@@ -1,0 +1,6 @@
+<ruleset name="Bysymphony.com">
+	<target host="bysymphony.com" />
+	<target host="www.bysymphony.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

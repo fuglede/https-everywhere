@@ -1,0 +1,6 @@
+<ruleset name="Baxiworks.co.uk">
+	<target host="baxiworks.co.uk" />
+	<target host="www.baxiworks.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

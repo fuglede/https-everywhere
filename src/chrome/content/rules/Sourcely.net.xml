@@ -1,0 +1,6 @@
+<ruleset name="Sourcely.net">
+	<target host="sourcely.net" />
+	<target host="www.sourcely.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

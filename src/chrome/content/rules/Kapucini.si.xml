@@ -1,0 +1,6 @@
+<ruleset name="Kapucini.si">
+	<target host="kapucini.si" />
+	<target host="www.kapucini.si" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

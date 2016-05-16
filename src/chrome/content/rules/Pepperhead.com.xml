@@ -1,0 +1,6 @@
+<ruleset name="Pepperhead.com">
+	<target host="pepperhead.com" />
+	<target host="www.pepperhead.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

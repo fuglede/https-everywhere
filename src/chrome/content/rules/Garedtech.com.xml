@@ -1,0 +1,6 @@
+<ruleset name="Garedtech.com">
+	<target host="garedtech.com" />
+	<target host="www.garedtech.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

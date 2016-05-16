@@ -1,0 +1,6 @@
+<ruleset name="Pocloud.homelinux.net">
+	<target host="pocloud.homelinux.net" />
+	<target host="www.pocloud.homelinux.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

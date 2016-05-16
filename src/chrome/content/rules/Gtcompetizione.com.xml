@@ -1,0 +1,6 @@
+<ruleset name="Gtcompetizione.com">
+	<target host="gtcompetizione.com" />
+	<target host="www.gtcompetizione.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

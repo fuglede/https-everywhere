@@ -1,0 +1,6 @@
+<ruleset name="Ceritadewasa.me">
+	<target host="ceritadewasa.me" />
+	<target host="www.ceritadewasa.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

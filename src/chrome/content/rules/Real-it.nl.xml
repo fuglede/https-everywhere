@@ -1,0 +1,6 @@
+<ruleset name="Real-it.nl">
+	<target host="real-it.nl" />
+	<target host="www.real-it.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

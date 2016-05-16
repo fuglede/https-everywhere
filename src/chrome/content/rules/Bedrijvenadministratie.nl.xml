@@ -1,0 +1,6 @@
+<ruleset name="Bedrijvenadministratie.nl">
+	<target host="bedrijvenadministratie.nl" />
+	<target host="www.bedrijvenadministratie.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

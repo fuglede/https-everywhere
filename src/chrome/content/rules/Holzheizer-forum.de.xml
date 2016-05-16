@@ -1,0 +1,6 @@
+<ruleset name="Holzheizer-forum.de">
+	<target host="holzheizer-forum.de" />
+	<target host="www.holzheizer-forum.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Buffalodrinkinggame.beer">
+	<target host="buffalodrinkinggame.beer" />
+	<target host="www.buffalodrinkinggame.beer" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

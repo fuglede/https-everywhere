@@ -1,0 +1,6 @@
+<ruleset name="Istanbultravelguide.info">
+	<target host="istanbultravelguide.info" />
+	<target host="www.istanbultravelguide.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

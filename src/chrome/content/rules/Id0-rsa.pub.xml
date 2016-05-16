@@ -1,0 +1,6 @@
+<ruleset name="Id0-rsa.pub">
+	<target host="id0-rsa.pub" />
+	<target host="www.id0-rsa.pub" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

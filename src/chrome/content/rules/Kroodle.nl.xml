@@ -1,0 +1,6 @@
+<ruleset name="Kroodle.nl">
+	<target host="kroodle.nl" />
+	<target host="www.kroodle.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

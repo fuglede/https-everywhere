@@ -1,0 +1,6 @@
+<ruleset name="Collegepulse.org">
+	<target host="collegepulse.org" />
+	<target host="www.collegepulse.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

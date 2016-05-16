@@ -1,0 +1,6 @@
+<ruleset name="Edcphenix.tk">
+	<target host="edcphenix.tk" />
+	<target host="www.edcphenix.tk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="E-deca2.org">
+	<target host="e-deca2.org" />
+	<target host="www.e-deca2.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

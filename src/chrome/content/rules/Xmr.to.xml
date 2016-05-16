@@ -1,0 +1,6 @@
+<ruleset name="Xmr.to">
+	<target host="xmr.to" />
+	<target host="www.xmr.to" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

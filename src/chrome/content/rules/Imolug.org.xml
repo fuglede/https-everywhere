@@ -1,0 +1,6 @@
+<ruleset name="Imolug.org">
+	<target host="imolug.org" />
+	<target host="www.imolug.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

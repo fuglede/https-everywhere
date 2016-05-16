@@ -1,0 +1,6 @@
+<ruleset name="Pro-link.eu">
+	<target host="pro-link.eu" />
+	<target host="www.pro-link.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

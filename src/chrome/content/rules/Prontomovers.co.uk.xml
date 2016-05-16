@@ -1,0 +1,6 @@
+<ruleset name="Prontomovers.co.uk">
+	<target host="prontomovers.co.uk" />
+	<target host="www.prontomovers.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

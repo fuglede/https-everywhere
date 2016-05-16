@@ -1,0 +1,6 @@
+<ruleset name="Ridhomulyaworo.my.id">
+	<target host="ridhomulyaworo.my.id" />
+	<target host="www.ridhomulyaworo.my.id" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

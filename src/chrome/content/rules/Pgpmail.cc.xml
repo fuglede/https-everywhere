@@ -1,0 +1,6 @@
+<ruleset name="Pgpmail.cc">
+	<target host="pgpmail.cc" />
+	<target host="www.pgpmail.cc" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

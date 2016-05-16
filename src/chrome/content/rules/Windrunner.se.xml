@@ -1,0 +1,6 @@
+<ruleset name="Windrunner.se">
+	<target host="windrunner.se" />
+	<target host="www.windrunner.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

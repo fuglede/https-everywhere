@@ -1,0 +1,6 @@
+<ruleset name="Paga.moe">
+	<target host="paga.moe" />
+	<target host="www.paga.moe" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

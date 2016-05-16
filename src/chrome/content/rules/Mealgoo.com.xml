@@ -1,0 +1,6 @@
+<ruleset name="Mealgoo.com">
+	<target host="mealgoo.com" />
+	<target host="www.mealgoo.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

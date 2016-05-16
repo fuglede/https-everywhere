@@ -1,0 +1,6 @@
+<ruleset name="Schoolsonice.nl">
+	<target host="schoolsonice.nl" />
+	<target host="www.schoolsonice.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

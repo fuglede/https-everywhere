@@ -1,0 +1,6 @@
+<ruleset name="Continuumgaming.com">
+	<target host="continuumgaming.com" />
+	<target host="www.continuumgaming.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

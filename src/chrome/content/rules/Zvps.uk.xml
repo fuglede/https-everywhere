@@ -1,0 +1,6 @@
+<ruleset name="Zvps.uk">
+	<target host="zvps.uk" />
+	<target host="www.zvps.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

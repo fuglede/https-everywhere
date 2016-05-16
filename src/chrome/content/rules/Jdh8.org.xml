@@ -1,0 +1,6 @@
+<ruleset name="Jdh8.org">
+	<target host="jdh8.org" />
+	<target host="www.jdh8.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

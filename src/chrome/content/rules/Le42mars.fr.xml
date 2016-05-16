@@ -1,0 +1,6 @@
+<ruleset name="Le42mars.fr">
+	<target host="le42mars.fr" />
+	<target host="www.le42mars.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

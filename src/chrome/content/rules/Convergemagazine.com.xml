@@ -1,0 +1,6 @@
+<ruleset name="Convergemagazine.com">
+	<target host="convergemagazine.com" />
+	<target host="www.convergemagazine.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

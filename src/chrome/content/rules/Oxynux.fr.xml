@@ -1,0 +1,6 @@
+<ruleset name="Oxynux.fr">
+	<target host="oxynux.fr" />
+	<target host="www.oxynux.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

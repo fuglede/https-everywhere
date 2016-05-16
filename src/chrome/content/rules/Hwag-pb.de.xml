@@ -1,0 +1,6 @@
+<ruleset name="Hwag-pb.de">
+	<target host="hwag-pb.de" />
+	<target host="www.hwag-pb.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

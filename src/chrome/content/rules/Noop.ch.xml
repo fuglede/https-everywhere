@@ -1,0 +1,6 @@
+<ruleset name="Noop.ch">
+	<target host="noop.ch" />
+	<target host="www.noop.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

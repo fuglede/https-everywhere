@@ -1,0 +1,6 @@
+<ruleset name="Chicnawdiewholesale.com">
+	<target host="chicnawdiewholesale.com" />
+	<target host="www.chicnawdiewholesale.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

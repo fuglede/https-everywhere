@@ -1,0 +1,6 @@
+<ruleset name="Lifeskillsdirect.com">
+	<target host="lifeskillsdirect.com" />
+	<target host="www.lifeskillsdirect.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

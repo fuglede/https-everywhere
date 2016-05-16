@@ -1,0 +1,6 @@
+<ruleset name="Webwork.pw">
+	<target host="webwork.pw" />
+	<target host="www.webwork.pw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

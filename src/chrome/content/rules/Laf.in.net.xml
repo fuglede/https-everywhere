@@ -1,0 +1,6 @@
+<ruleset name="Laf.in.net">
+	<target host="laf.in.net" />
+	<target host="www.laf.in.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

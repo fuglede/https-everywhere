@@ -1,0 +1,6 @@
+<ruleset name="Tafoma.com">
+	<target host="tafoma.com" />
+	<target host="www.tafoma.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

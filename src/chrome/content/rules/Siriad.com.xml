@@ -1,0 +1,6 @@
+<ruleset name="Siriad.com">
+	<target host="siriad.com" />
+	<target host="www.siriad.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

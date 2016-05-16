@@ -1,0 +1,6 @@
+<ruleset name="Drakefortreasurer.sexy">
+	<target host="drakefortreasurer.sexy" />
+	<target host="www.drakefortreasurer.sexy" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Namacindia.com">
+	<target host="namacindia.com" />
+	<target host="www.namacindia.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

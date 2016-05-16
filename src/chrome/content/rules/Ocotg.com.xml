@@ -1,0 +1,6 @@
+<ruleset name="Ocotg.com">
+	<target host="ocotg.com" />
+	<target host="www.ocotg.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

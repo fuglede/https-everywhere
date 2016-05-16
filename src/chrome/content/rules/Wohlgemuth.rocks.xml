@@ -1,0 +1,6 @@
+<ruleset name="Wohlgemuth.rocks">
+	<target host="wohlgemuth.rocks" />
+	<target host="www.wohlgemuth.rocks" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

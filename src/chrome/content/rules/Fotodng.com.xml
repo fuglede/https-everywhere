@@ -1,0 +1,6 @@
+<ruleset name="Fotodng.com">
+	<target host="fotodng.com" />
+	<target host="www.fotodng.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

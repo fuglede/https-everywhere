@@ -1,0 +1,6 @@
+<ruleset name="Taniesianie.pl">
+	<target host="taniesianie.pl" />
+	<target host="www.taniesianie.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

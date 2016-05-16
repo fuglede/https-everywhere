@@ -1,0 +1,6 @@
+<ruleset name="Czechamlp.com">
+	<target host="czechamlp.com" />
+	<target host="www.czechamlp.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Sexshopnet.com.br">
+	<target host="sexshopnet.com.br" />
+	<target host="www.sexshopnet.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

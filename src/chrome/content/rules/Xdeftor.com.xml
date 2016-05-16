@@ -1,0 +1,6 @@
+<ruleset name="Xdeftor.com">
+	<target host="xdeftor.com" />
+	<target host="www.xdeftor.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Asmui.ml">
+	<target host="asmui.ml" />
+	<target host="www.asmui.ml" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

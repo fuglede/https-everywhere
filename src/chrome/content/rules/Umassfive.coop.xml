@@ -1,0 +1,6 @@
+<ruleset name="Umassfive.coop">
+	<target host="umassfive.coop" />
+	<target host="www.umassfive.coop" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

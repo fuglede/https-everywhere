@@ -1,0 +1,6 @@
+<ruleset name="Antscript.com">
+	<target host="antscript.com" />
+	<target host="www.antscript.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

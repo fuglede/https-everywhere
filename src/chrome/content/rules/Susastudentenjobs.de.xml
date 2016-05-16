@@ -1,0 +1,6 @@
+<ruleset name="Susastudentenjobs.de">
+	<target host="susastudentenjobs.de" />
+	<target host="www.susastudentenjobs.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

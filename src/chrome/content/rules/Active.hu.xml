@@ -1,0 +1,6 @@
+<ruleset name="Active.hu">
+	<target host="active.hu" />
+	<target host="www.active.hu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

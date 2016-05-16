@@ -1,0 +1,6 @@
+<ruleset name="Cutorrent.com">
+	<target host="cutorrent.com" />
+	<target host="www.cutorrent.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

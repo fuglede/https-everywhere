@@ -1,0 +1,6 @@
+<ruleset name="Sterlingtrader.com">
+	<target host="sterlingtrader.com" />
+	<target host="www.sterlingtrader.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

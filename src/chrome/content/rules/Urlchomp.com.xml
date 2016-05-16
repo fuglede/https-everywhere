@@ -1,0 +1,6 @@
+<ruleset name="Urlchomp.com">
+	<target host="urlchomp.com" />
+	<target host="www.urlchomp.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

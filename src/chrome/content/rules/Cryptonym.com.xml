@@ -1,0 +1,6 @@
+<ruleset name="Cryptonym.com">
+	<target host="cryptonym.com" />
+	<target host="www.cryptonym.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

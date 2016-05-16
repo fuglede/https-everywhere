@@ -1,0 +1,6 @@
+<ruleset name="Etxt.biz">
+	<target host="etxt.biz" />
+	<target host="www.etxt.biz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

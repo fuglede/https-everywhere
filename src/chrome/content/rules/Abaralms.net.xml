@@ -1,0 +1,6 @@
+<ruleset name="Abaralms.net">
+	<target host="abaralms.net" />
+	<target host="www.abaralms.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

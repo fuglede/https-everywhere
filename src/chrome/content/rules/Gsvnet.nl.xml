@@ -1,0 +1,6 @@
+<ruleset name="Gsvnet.nl">
+	<target host="gsvnet.nl" />
+	<target host="www.gsvnet.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

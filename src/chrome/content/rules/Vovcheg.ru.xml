@@ -1,0 +1,6 @@
+<ruleset name="Vovcheg.ru">
+	<target host="vovcheg.ru" />
+	<target host="www.vovcheg.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

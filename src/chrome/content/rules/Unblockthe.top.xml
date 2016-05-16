@@ -1,0 +1,6 @@
+<ruleset name="Unblockthe.top">
+	<target host="unblockthe.top" />
+	<target host="www.unblockthe.top" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

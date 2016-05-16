@@ -1,0 +1,6 @@
+<ruleset name="Kuschelbettdecke.com">
+	<target host="kuschelbettdecke.com" />
+	<target host="www.kuschelbettdecke.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

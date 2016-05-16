@@ -1,0 +1,6 @@
+<ruleset name="Ring0.xyz">
+	<target host="ring0.xyz" />
+	<target host="www.ring0.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

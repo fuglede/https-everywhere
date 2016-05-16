@@ -1,0 +1,6 @@
+<ruleset name="Edvps.com">
+	<target host="edvps.com" />
+	<target host="www.edvps.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

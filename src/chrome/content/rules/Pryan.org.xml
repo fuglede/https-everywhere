@@ -1,0 +1,6 @@
+<ruleset name="Pryan.org">
+	<target host="pryan.org" />
+	<target host="www.pryan.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

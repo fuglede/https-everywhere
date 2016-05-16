@@ -1,0 +1,6 @@
+<ruleset name="7thheavenrestaurant.com">
+	<target host="7thheavenrestaurant.com" />
+	<target host="www.7thheavenrestaurant.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

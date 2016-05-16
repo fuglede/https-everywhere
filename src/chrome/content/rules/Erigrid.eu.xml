@@ -1,0 +1,6 @@
+<ruleset name="Erigrid.eu">
+	<target host="erigrid.eu" />
+	<target host="www.erigrid.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Nearby.in.th">
+	<target host="nearby.in.th" />
+	<target host="www.nearby.in.th" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

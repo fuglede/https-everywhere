@@ -1,0 +1,6 @@
+<ruleset name="Teahut.net">
+	<target host="teahut.net" />
+	<target host="www.teahut.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

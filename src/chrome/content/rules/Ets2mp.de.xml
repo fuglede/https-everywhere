@@ -1,0 +1,6 @@
+<ruleset name="Ets2mp.de">
+	<target host="ets2mp.de" />
+	<target host="www.ets2mp.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

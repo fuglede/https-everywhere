@@ -1,0 +1,6 @@
+<ruleset name="Stateofexception.io">
+	<target host="stateofexception.io" />
+	<target host="www.stateofexception.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

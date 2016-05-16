@@ -1,0 +1,6 @@
+<ruleset name="Hortifarm.ro">
+	<target host="hortifarm.ro" />
+	<target host="www.hortifarm.ro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

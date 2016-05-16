@@ -1,0 +1,6 @@
+<ruleset name="Lyx.dk">
+	<target host="lyx.dk" />
+	<target host="www.lyx.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

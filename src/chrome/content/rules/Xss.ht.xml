@@ -1,0 +1,6 @@
+<ruleset name="Xss.ht">
+	<target host="xss.ht" />
+	<target host="www.xss.ht" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

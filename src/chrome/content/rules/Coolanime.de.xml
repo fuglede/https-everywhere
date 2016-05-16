@@ -1,0 +1,6 @@
+<ruleset name="Coolanime.de">
+	<target host="coolanime.de" />
+	<target host="www.coolanime.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

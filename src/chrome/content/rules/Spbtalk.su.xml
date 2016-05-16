@@ -1,0 +1,6 @@
+<ruleset name="Spbtalk.su">
+	<target host="spbtalk.su" />
+	<target host="www.spbtalk.su" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

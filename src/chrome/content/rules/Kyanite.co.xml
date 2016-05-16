@@ -1,0 +1,6 @@
+<ruleset name="Kyanite.co">
+	<target host="kyanite.co" />
+	<target host="www.kyanite.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

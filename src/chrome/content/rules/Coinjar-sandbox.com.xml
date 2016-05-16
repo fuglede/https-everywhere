@@ -1,0 +1,6 @@
+<ruleset name="Coinjar-sandbox.com">
+	<target host="coinjar-sandbox.com" />
+	<target host="www.coinjar-sandbox.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

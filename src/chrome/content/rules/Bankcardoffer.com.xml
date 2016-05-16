@@ -1,0 +1,6 @@
+<ruleset name="Bankcardoffer.com">
+	<target host="bankcardoffer.com" />
+	<target host="www.bankcardoffer.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

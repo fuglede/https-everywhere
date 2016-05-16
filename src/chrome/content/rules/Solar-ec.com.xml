@@ -1,0 +1,6 @@
+<ruleset name="Solar-ec.com">
+	<target host="solar-ec.com" />
+	<target host="www.solar-ec.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

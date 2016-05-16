@@ -1,0 +1,6 @@
+<ruleset name="Critical.today">
+	<target host="critical.today" />
+	<target host="www.critical.today" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

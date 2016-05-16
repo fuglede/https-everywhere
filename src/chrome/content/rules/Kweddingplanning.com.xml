@@ -1,0 +1,6 @@
+<ruleset name="Kweddingplanning.com">
+	<target host="kweddingplanning.com" />
+	<target host="www.kweddingplanning.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

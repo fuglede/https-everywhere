@@ -1,0 +1,6 @@
+<ruleset name="Rainbowbarracuda.com">
+	<target host="rainbowbarracuda.com" />
+	<target host="www.rainbowbarracuda.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

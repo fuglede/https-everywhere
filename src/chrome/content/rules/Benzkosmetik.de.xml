@@ -1,0 +1,6 @@
+<ruleset name="Benzkosmetik.de">
+	<target host="benzkosmetik.de" />
+	<target host="www.benzkosmetik.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

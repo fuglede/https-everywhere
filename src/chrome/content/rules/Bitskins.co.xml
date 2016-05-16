@@ -1,0 +1,6 @@
+<ruleset name="Bitskins.co">
+	<target host="bitskins.co" />
+	<target host="www.bitskins.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

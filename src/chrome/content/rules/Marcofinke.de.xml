@@ -1,0 +1,6 @@
+<ruleset name="Marcofinke.de">
+	<target host="marcofinke.de" />
+	<target host="www.marcofinke.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

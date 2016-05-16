@@ -1,0 +1,6 @@
+<ruleset name="Zamorano.edu">
+	<target host="zamorano.edu" />
+	<target host="www.zamorano.edu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

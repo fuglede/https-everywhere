@@ -1,0 +1,6 @@
+<ruleset name="Mamaxi.org">
+	<target host="mamaxi.org" />
+	<target host="www.mamaxi.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

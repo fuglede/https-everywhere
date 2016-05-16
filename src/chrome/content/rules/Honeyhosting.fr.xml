@@ -1,0 +1,6 @@
+<ruleset name="Honeyhosting.fr">
+	<target host="honeyhosting.fr" />
+	<target host="www.honeyhosting.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Link2serve.com">
+	<target host="link2serve.com" />
+	<target host="www.link2serve.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

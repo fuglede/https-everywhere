@@ -1,0 +1,6 @@
+<ruleset name="Directebanking.com">
+	<target host="directebanking.com" />
+	<target host="www.directebanking.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

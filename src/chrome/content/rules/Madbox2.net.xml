@@ -1,0 +1,6 @@
+<ruleset name="Madbox2.net">
+	<target host="madbox2.net" />
+	<target host="www.madbox2.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

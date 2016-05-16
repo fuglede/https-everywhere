@@ -1,0 +1,6 @@
+<ruleset name="Xyfun.net">
+	<target host="xyfun.net" />
+	<target host="www.xyfun.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

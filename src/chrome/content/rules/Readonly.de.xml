@@ -1,0 +1,6 @@
+<ruleset name="Readonly.de">
+	<target host="readonly.de" />
+	<target host="www.readonly.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

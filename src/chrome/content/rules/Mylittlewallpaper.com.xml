@@ -1,0 +1,6 @@
+<ruleset name="Mylittlewallpaper.com">
+	<target host="mylittlewallpaper.com" />
+	<target host="www.mylittlewallpaper.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

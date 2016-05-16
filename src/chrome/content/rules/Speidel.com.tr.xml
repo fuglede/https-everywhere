@@ -1,0 +1,6 @@
+<ruleset name="Speidel.com.tr">
+	<target host="speidel.com.tr" />
+	<target host="www.speidel.com.tr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

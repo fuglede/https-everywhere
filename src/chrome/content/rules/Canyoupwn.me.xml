@@ -1,0 +1,6 @@
+<ruleset name="Canyoupwn.me">
+	<target host="canyoupwn.me" />
+	<target host="www.canyoupwn.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

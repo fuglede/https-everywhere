@@ -1,0 +1,6 @@
+<ruleset name="Cesardcommerce.com.br">
+	<target host="cesardcommerce.com.br" />
+	<target host="www.cesardcommerce.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

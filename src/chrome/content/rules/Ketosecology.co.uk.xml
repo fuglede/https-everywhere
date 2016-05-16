@@ -1,0 +1,6 @@
+<ruleset name="Ketosecology.co.uk">
+	<target host="ketosecology.co.uk" />
+	<target host="www.ketosecology.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

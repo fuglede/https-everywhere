@@ -1,0 +1,6 @@
+<ruleset name="Supercleanlondon.co.uk">
+	<target host="supercleanlondon.co.uk" />
+	<target host="www.supercleanlondon.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

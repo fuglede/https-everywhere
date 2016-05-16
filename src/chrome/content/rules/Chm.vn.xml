@@ -1,0 +1,6 @@
+<ruleset name="Chm.vn">
+	<target host="chm.vn" />
+	<target host="www.chm.vn" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

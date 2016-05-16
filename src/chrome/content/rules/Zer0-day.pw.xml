@@ -1,0 +1,6 @@
+<ruleset name="Zer0-day.pw">
+	<target host="zer0-day.pw" />
+	<target host="www.zer0-day.pw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

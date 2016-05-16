@@ -1,0 +1,6 @@
+<ruleset name="Panamainvestmentlots.com">
+	<target host="panamainvestmentlots.com" />
+	<target host="www.panamainvestmentlots.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

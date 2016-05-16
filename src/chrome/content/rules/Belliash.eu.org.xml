@@ -1,0 +1,6 @@
+<ruleset name="Belliash.eu.org">
+	<target host="belliash.eu.org" />
+	<target host="www.belliash.eu.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

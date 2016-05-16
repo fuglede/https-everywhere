@@ -1,0 +1,6 @@
+<ruleset name="Chorpinkpoemps.de">
+	<target host="chorpinkpoemps.de" />
+	<target host="www.chorpinkpoemps.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

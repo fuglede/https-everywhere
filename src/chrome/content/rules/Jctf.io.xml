@@ -1,0 +1,6 @@
+<ruleset name="Jctf.io">
+	<target host="jctf.io" />
+	<target host="www.jctf.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

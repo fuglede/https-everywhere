@@ -1,0 +1,6 @@
+<ruleset name="Brilliantdecisionmaking.com">
+	<target host="brilliantdecisionmaking.com" />
+	<target host="www.brilliantdecisionmaking.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

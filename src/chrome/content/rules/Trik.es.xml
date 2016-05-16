@@ -1,0 +1,6 @@
+<ruleset name="Trik.es">
+	<target host="trik.es" />
+	<target host="www.trik.es" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

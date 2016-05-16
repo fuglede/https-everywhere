@@ -1,0 +1,6 @@
+<ruleset name="Ambiona.net">
+	<target host="ambiona.net" />
+	<target host="www.ambiona.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

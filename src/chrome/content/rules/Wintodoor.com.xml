@@ -1,0 +1,6 @@
+<ruleset name="Wintodoor.com">
+	<target host="wintodoor.com" />
+	<target host="www.wintodoor.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

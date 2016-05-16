@@ -1,0 +1,6 @@
+<ruleset name="Warekon.dk">
+	<target host="warekon.dk" />
+	<target host="www.warekon.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Iactu.info">
+	<target host="iactu.info" />
+	<target host="www.iactu.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

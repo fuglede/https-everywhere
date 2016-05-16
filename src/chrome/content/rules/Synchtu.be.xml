@@ -1,0 +1,6 @@
+<ruleset name="Synchtu.be">
+	<target host="synchtu.be" />
+	<target host="www.synchtu.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

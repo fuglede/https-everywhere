@@ -1,0 +1,6 @@
+<ruleset name="Sistemy48.ru">
+	<target host="sistemy48.ru" />
+	<target host="www.sistemy48.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

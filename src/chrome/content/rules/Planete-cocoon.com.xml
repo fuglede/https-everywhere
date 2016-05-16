@@ -1,0 +1,6 @@
+<ruleset name="Planete-cocoon.com">
+	<target host="planete-cocoon.com" />
+	<target host="www.planete-cocoon.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

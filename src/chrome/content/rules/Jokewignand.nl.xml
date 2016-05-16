@@ -1,0 +1,6 @@
+<ruleset name="Jokewignand.nl">
+	<target host="jokewignand.nl" />
+	<target host="www.jokewignand.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

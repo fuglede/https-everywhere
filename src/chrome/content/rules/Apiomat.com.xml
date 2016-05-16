@@ -1,0 +1,6 @@
+<ruleset name="Apiomat.com">
+	<target host="apiomat.com" />
+	<target host="www.apiomat.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

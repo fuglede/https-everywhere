@@ -1,0 +1,6 @@
+<ruleset name="Laglab.org">
+	<target host="laglab.org" />
+	<target host="www.laglab.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

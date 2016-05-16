@@ -1,0 +1,6 @@
+<ruleset name="Cubua.com">
+	<target host="cubua.com" />
+	<target host="www.cubua.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

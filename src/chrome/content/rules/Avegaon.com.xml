@@ -1,0 +1,6 @@
+<ruleset name="Avegaon.com">
+	<target host="avegaon.com" />
+	<target host="www.avegaon.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

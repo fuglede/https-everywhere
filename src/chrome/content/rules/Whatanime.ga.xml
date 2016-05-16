@@ -1,0 +1,6 @@
+<ruleset name="Whatanime.ga">
+	<target host="whatanime.ga" />
+	<target host="www.whatanime.ga" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

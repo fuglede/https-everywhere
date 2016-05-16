@@ -1,0 +1,6 @@
+<ruleset name="Transmithe.net">
+	<target host="transmithe.net" />
+	<target host="www.transmithe.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

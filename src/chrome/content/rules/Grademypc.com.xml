@@ -1,0 +1,6 @@
+<ruleset name="Grademypc.com">
+	<target host="grademypc.com" />
+	<target host="www.grademypc.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

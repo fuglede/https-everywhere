@@ -1,0 +1,6 @@
+<ruleset name="Silentlink.io">
+	<target host="silentlink.io" />
+	<target host="www.silentlink.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

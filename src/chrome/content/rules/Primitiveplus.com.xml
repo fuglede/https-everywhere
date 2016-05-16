@@ -1,0 +1,6 @@
+<ruleset name="Primitiveplus.com">
+	<target host="primitiveplus.com" />
+	<target host="www.primitiveplus.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

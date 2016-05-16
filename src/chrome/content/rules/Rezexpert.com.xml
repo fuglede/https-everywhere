@@ -1,0 +1,6 @@
+<ruleset name="Rezexpert.com">
+	<target host="rezexpert.com" />
+	<target host="www.rezexpert.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Dakrib.net">
+	<target host="dakrib.net" />
+	<target host="www.dakrib.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

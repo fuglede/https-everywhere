@@ -1,0 +1,6 @@
+<ruleset name="Tvstaufia.de">
+	<target host="tvstaufia.de" />
+	<target host="www.tvstaufia.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

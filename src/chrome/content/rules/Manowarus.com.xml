@@ -1,0 +1,6 @@
+<ruleset name="Manowarus.com">
+	<target host="manowarus.com" />
+	<target host="www.manowarus.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

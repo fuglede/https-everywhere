@@ -1,0 +1,6 @@
+<ruleset name="Pfarchimedes-pensioen123.nl">
+	<target host="pfarchimedes-pensioen123.nl" />
+	<target host="www.pfarchimedes-pensioen123.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

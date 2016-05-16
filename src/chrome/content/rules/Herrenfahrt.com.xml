@@ -1,0 +1,6 @@
+<ruleset name="Herrenfahrt.com">
+	<target host="herrenfahrt.com" />
+	<target host="www.herrenfahrt.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

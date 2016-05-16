@@ -1,0 +1,6 @@
+<ruleset name="Mainlywrenches.co">
+	<target host="mainlywrenches.co" />
+	<target host="www.mainlywrenches.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

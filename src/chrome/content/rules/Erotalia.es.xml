@@ -1,0 +1,6 @@
+<ruleset name="Erotalia.es">
+	<target host="erotalia.es" />
+	<target host="www.erotalia.es" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

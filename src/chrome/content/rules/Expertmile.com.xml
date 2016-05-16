@@ -1,0 +1,6 @@
+<ruleset name="Expertmile.com">
+	<target host="expertmile.com" />
+	<target host="www.expertmile.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

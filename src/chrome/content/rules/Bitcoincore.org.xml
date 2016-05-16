@@ -1,0 +1,6 @@
+<ruleset name="Bitcoincore.org">
+	<target host="bitcoincore.org" />
+	<target host="www.bitcoincore.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

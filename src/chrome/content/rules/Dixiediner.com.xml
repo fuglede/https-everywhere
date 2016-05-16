@@ -1,0 +1,6 @@
+<ruleset name="Dixiediner.com">
+	<target host="dixiediner.com" />
+	<target host="www.dixiediner.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

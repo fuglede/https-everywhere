@@ -1,0 +1,6 @@
+<ruleset name="Maliskovik.si">
+	<target host="maliskovik.si" />
+	<target host="www.maliskovik.si" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

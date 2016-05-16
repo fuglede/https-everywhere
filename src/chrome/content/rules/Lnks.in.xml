@@ -1,0 +1,6 @@
+<ruleset name="Lnks.in">
+	<target host="lnks.in" />
+	<target host="www.lnks.in" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

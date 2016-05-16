@@ -1,0 +1,6 @@
+<ruleset name="Elliriehl.at">
+	<target host="elliriehl.at" />
+	<target host="www.elliriehl.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

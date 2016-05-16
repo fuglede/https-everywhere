@@ -1,0 +1,6 @@
+<ruleset name="Adaptivemechanics.edu.au">
+	<target host="adaptivemechanics.edu.au" />
+	<target host="www.adaptivemechanics.edu.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

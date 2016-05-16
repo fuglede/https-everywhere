@@ -1,0 +1,6 @@
+<ruleset name="Packlane.com">
+	<target host="packlane.com" />
+	<target host="www.packlane.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

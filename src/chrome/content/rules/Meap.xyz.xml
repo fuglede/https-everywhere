@@ -1,0 +1,6 @@
+<ruleset name="Meap.xyz">
+	<target host="meap.xyz" />
+	<target host="www.meap.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Easez.net">
+	<target host="easez.net" />
+	<target host="www.easez.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

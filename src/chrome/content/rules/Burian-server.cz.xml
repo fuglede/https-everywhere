@@ -1,0 +1,6 @@
+<ruleset name="Burian-server.cz">
+	<target host="burian-server.cz" />
+	<target host="www.burian-server.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

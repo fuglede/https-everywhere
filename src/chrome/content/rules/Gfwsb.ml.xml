@@ -1,0 +1,6 @@
+<ruleset name="Gfwsb.ml">
+	<target host="gfwsb.ml" />
+	<target host="www.gfwsb.ml" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

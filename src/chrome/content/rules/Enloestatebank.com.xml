@@ -1,0 +1,6 @@
+<ruleset name="Enloestatebank.com">
+	<target host="enloestatebank.com" />
+	<target host="www.enloestatebank.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

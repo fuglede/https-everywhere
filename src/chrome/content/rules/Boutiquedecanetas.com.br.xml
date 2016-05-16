@@ -1,0 +1,6 @@
+<ruleset name="Boutiquedecanetas.com.br">
+	<target host="boutiquedecanetas.com.br" />
+	<target host="www.boutiquedecanetas.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

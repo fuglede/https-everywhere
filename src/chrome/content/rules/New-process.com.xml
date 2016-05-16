@@ -1,0 +1,6 @@
+<ruleset name="New-process.com">
+	<target host="new-process.com" />
+	<target host="www.new-process.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

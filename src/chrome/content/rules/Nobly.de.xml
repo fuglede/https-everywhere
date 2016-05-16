@@ -1,0 +1,6 @@
+<ruleset name="Nobly.de">
+	<target host="nobly.de" />
+	<target host="www.nobly.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

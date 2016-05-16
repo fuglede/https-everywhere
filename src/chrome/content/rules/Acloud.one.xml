@@ -1,0 +1,6 @@
+<ruleset name="Acloud.one">
+	<target host="acloud.one" />
+	<target host="www.acloud.one" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

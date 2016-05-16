@@ -1,0 +1,6 @@
+<ruleset name="Taquilla.com">
+	<target host="taquilla.com" />
+	<target host="www.taquilla.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

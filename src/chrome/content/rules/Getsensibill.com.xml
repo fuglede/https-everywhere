@@ -1,0 +1,6 @@
+<ruleset name="Getsensibill.com">
+	<target host="getsensibill.com" />
+	<target host="www.getsensibill.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

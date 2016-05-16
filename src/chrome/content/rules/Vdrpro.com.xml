@@ -1,0 +1,6 @@
+<ruleset name="Vdrpro.com">
+	<target host="vdrpro.com" />
+	<target host="www.vdrpro.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

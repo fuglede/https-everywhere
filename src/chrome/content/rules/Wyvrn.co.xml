@@ -1,0 +1,6 @@
+<ruleset name="Wyvrn.co">
+	<target host="wyvrn.co" />
+	<target host="www.wyvrn.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

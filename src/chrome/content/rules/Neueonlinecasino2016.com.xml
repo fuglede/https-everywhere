@@ -1,0 +1,6 @@
+<ruleset name="Neueonlinecasino2016.com">
+	<target host="neueonlinecasino2016.com" />
+	<target host="www.neueonlinecasino2016.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

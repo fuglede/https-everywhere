@@ -1,0 +1,6 @@
+<ruleset name="Studlan.no">
+	<target host="studlan.no" />
+	<target host="www.studlan.no" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Visionarymedia.nl">
+	<target host="visionarymedia.nl" />
+	<target host="www.visionarymedia.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

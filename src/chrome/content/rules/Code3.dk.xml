@@ -1,0 +1,6 @@
+<ruleset name="Code3.dk">
+	<target host="code3.dk" />
+	<target host="www.code3.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

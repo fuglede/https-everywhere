@@ -1,0 +1,6 @@
+<ruleset name="Bgcparkstad.nl">
+	<target host="bgcparkstad.nl" />
+	<target host="www.bgcparkstad.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Ulmo.dk">
+	<target host="ulmo.dk" />
+	<target host="www.ulmo.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

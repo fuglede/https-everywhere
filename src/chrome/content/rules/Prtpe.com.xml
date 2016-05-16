@@ -1,0 +1,6 @@
+<ruleset name="Prtpe.com">
+	<target host="prtpe.com" />
+	<target host="www.prtpe.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

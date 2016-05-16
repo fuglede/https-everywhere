@@ -1,0 +1,6 @@
+<ruleset name="Gillmanandsoame.co.uk">
+	<target host="gillmanandsoame.co.uk" />
+	<target host="www.gillmanandsoame.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

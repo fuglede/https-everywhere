@@ -1,0 +1,6 @@
+<ruleset name="Egg-ortho.ch">
+	<target host="egg-ortho.ch" />
+	<target host="www.egg-ortho.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

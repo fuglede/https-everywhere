@@ -1,0 +1,6 @@
+<ruleset name="Svijet-medija.hr">
+	<target host="svijet-medija.hr" />
+	<target host="www.svijet-medija.hr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

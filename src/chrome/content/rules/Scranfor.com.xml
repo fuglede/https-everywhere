@@ -1,0 +1,6 @@
+<ruleset name="Scranfor.com">
+	<target host="scranfor.com" />
+	<target host="www.scranfor.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

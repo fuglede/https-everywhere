@@ -1,0 +1,6 @@
+<ruleset name="Trident-online.de">
+	<target host="trident-online.de" />
+	<target host="www.trident-online.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

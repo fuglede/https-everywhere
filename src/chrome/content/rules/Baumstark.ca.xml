@@ -1,0 +1,6 @@
+<ruleset name="Baumstark.ca">
+	<target host="baumstark.ca" />
+	<target host="www.baumstark.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

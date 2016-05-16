@@ -1,0 +1,6 @@
+<ruleset name="Teos.online">
+	<target host="teos.online" />
+	<target host="www.teos.online" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Roseitsolutions.co.uk">
+	<target host="roseitsolutions.co.uk" />
+	<target host="www.roseitsolutions.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

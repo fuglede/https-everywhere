@@ -1,0 +1,6 @@
+<ruleset name="Mirodasilva.be">
+	<target host="mirodasilva.be" />
+	<target host="www.mirodasilva.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

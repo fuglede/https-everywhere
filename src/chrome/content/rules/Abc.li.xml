@@ -1,0 +1,6 @@
+<ruleset name="Abc.li">
+	<target host="abc.li" />
+	<target host="www.abc.li" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

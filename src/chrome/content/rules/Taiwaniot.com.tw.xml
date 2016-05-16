@@ -1,0 +1,6 @@
+<ruleset name="Taiwaniot.com.tw">
+	<target host="taiwaniot.com.tw" />
+	<target host="www.taiwaniot.com.tw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

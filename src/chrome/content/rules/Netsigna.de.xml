@@ -1,0 +1,6 @@
+<ruleset name="Netsigna.de">
+	<target host="netsigna.de" />
+	<target host="www.netsigna.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

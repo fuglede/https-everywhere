@@ -1,0 +1,6 @@
+<ruleset name="Immobilier-nice.fr">
+	<target host="immobilier-nice.fr" />
+	<target host="www.immobilier-nice.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

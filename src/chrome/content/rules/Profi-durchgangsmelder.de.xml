@@ -1,0 +1,6 @@
+<ruleset name="Profi-durchgangsmelder.de">
+	<target host="profi-durchgangsmelder.de" />
+	<target host="www.profi-durchgangsmelder.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

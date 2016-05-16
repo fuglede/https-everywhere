@@ -1,0 +1,6 @@
+<ruleset name="Pixi.chat">
+	<target host="pixi.chat" />
+	<target host="www.pixi.chat" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

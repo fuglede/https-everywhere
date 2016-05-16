@@ -1,0 +1,6 @@
+<ruleset name="Hellosecurity.org">
+	<target host="hellosecurity.org" />
+	<target host="www.hellosecurity.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

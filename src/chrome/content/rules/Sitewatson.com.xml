@@ -1,0 +1,6 @@
+<ruleset name="Sitewatson.com">
+	<target host="sitewatson.com" />
+	<target host="www.sitewatson.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

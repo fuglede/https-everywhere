@@ -1,0 +1,6 @@
+<ruleset name="Caps.is">
+	<target host="caps.is" />
+	<target host="www.caps.is" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

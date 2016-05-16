@@ -1,0 +1,6 @@
+<ruleset name="Christadelphiananswers.org">
+	<target host="christadelphiananswers.org" />
+	<target host="www.christadelphiananswers.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

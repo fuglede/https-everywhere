@@ -1,0 +1,6 @@
+<ruleset name="Engineeryourmarketing.com">
+	<target host="engineeryourmarketing.com" />
+	<target host="www.engineeryourmarketing.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

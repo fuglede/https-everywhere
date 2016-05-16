@@ -1,0 +1,6 @@
+<ruleset name="Erotische-aanbiedingen.nl">
+	<target host="erotische-aanbiedingen.nl" />
+	<target host="www.erotische-aanbiedingen.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

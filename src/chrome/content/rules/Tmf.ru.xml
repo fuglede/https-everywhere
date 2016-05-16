@@ -1,0 +1,6 @@
+<ruleset name="Tmf.ru">
+	<target host="tmf.ru" />
+	<target host="www.tmf.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

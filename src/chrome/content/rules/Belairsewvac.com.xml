@@ -1,0 +1,6 @@
+<ruleset name="Belairsewvac.com">
+	<target host="belairsewvac.com" />
+	<target host="www.belairsewvac.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

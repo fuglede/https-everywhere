@@ -1,0 +1,6 @@
+<ruleset name="Bitcoin.asia">
+	<target host="bitcoin.asia" />
+	<target host="www.bitcoin.asia" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

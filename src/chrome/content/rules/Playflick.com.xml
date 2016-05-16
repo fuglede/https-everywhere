@@ -1,0 +1,6 @@
+<ruleset name="Playflick.com">
+	<target host="playflick.com" />
+	<target host="www.playflick.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

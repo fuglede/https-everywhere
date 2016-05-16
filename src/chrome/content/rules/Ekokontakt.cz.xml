@@ -1,0 +1,6 @@
+<ruleset name="Ekokontakt.cz">
+	<target host="ekokontakt.cz" />
+	<target host="www.ekokontakt.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

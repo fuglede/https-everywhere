@@ -1,0 +1,6 @@
+<ruleset name="Nutleyeducationalfoundation.org">
+	<target host="nutleyeducationalfoundation.org" />
+	<target host="www.nutleyeducationalfoundation.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

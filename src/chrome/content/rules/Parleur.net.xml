@@ -1,0 +1,6 @@
+<ruleset name="Parleur.net">
+	<target host="parleur.net" />
+	<target host="www.parleur.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

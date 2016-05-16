@@ -1,0 +1,6 @@
+<ruleset name="Informatiebeveiliging.nl">
+	<target host="informatiebeveiliging.nl" />
+	<target host="www.informatiebeveiliging.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Junkdrome.org">
+	<target host="junkdrome.org" />
+	<target host="www.junkdrome.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Sniderman.eu.org">
+	<target host="sniderman.eu.org" />
+	<target host="www.sniderman.eu.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

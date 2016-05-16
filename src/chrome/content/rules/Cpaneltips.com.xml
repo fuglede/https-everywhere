@@ -1,0 +1,6 @@
+<ruleset name="Cpaneltips.com">
+	<target host="cpaneltips.com" />
+	<target host="www.cpaneltips.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

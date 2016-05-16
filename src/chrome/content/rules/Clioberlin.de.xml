@@ -1,0 +1,6 @@
+<ruleset name="Clioberlin.de">
+	<target host="clioberlin.de" />
+	<target host="www.clioberlin.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

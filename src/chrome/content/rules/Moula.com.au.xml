@@ -1,0 +1,6 @@
+<ruleset name="Moula.com.au">
+	<target host="moula.com.au" />
+	<target host="www.moula.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

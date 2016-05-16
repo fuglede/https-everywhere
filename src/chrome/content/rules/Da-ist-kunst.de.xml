@@ -1,0 +1,6 @@
+<ruleset name="Da-ist-kunst.de">
+	<target host="da-ist-kunst.de" />
+	<target host="www.da-ist-kunst.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

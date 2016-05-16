@@ -1,0 +1,6 @@
+<ruleset name="Cmsbattle.com">
+	<target host="cmsbattle.com" />
+	<target host="www.cmsbattle.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

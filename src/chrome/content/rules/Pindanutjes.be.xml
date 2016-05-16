@@ -1,0 +1,6 @@
+<ruleset name="Pindanutjes.be">
+	<target host="pindanutjes.be" />
+	<target host="www.pindanutjes.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

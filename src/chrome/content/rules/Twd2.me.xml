@@ -1,0 +1,6 @@
+<ruleset name="Twd2.me">
+	<target host="twd2.me" />
+	<target host="www.twd2.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

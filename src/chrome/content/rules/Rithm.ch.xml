@@ -1,0 +1,6 @@
+<ruleset name="Rithm.ch">
+	<target host="rithm.ch" />
+	<target host="www.rithm.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

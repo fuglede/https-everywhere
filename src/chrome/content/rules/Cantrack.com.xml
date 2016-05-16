@@ -1,0 +1,6 @@
+<ruleset name="Cantrack.com">
+	<target host="cantrack.com" />
+	<target host="www.cantrack.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

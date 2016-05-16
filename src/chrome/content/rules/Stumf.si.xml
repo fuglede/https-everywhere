@@ -1,0 +1,6 @@
+<ruleset name="Stumf.si">
+	<target host="stumf.si" />
+	<target host="www.stumf.si" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

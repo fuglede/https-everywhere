@@ -1,0 +1,6 @@
+<ruleset name="Stopscam.dk">
+	<target host="stopscam.dk" />
+	<target host="www.stopscam.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

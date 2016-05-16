@@ -1,0 +1,6 @@
+<ruleset name="Neuhaus-city.de">
+	<target host="neuhaus-city.de" />
+	<target host="www.neuhaus-city.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

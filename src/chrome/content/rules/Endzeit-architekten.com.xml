@@ -1,0 +1,6 @@
+<ruleset name="Endzeit-architekten.com">
+	<target host="endzeit-architekten.com" />
+	<target host="www.endzeit-architekten.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Ntbs.pro">
+	<target host="ntbs.pro" />
+	<target host="www.ntbs.pro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

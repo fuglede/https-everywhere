@@ -1,0 +1,6 @@
+<ruleset name="Forex-reviews.ru">
+	<target host="forex-reviews.ru" />
+	<target host="www.forex-reviews.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

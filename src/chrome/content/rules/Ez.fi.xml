@@ -1,0 +1,6 @@
+<ruleset name="Ez.fi">
+	<target host="ez.fi" />
+	<target host="www.ez.fi" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

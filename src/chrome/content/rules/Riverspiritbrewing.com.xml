@@ -1,0 +1,6 @@
+<ruleset name="Riverspiritbrewing.com">
+	<target host="riverspiritbrewing.com" />
+	<target host="www.riverspiritbrewing.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

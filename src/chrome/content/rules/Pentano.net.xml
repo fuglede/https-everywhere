@@ -1,0 +1,6 @@
+<ruleset name="Pentano.net">
+	<target host="pentano.net" />
+	<target host="www.pentano.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

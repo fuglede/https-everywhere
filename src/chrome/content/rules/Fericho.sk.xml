@@ -1,0 +1,6 @@
+<ruleset name="Fericho.sk">
+	<target host="fericho.sk" />
+	<target host="www.fericho.sk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

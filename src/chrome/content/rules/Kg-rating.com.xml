@@ -1,0 +1,6 @@
+<ruleset name="Kg-rating.com">
+	<target host="kg-rating.com" />
+	<target host="www.kg-rating.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

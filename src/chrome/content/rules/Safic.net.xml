@@ -1,0 +1,6 @@
+<ruleset name="Safic.net">
+	<target host="safic.net" />
+	<target host="www.safic.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Mydocserve.com">
+	<target host="mydocserve.com" />
+	<target host="www.mydocserve.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

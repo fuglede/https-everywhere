@@ -1,0 +1,6 @@
+<ruleset name="Masse.org">
+	<target host="masse.org" />
+	<target host="www.masse.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

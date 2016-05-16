@@ -1,0 +1,6 @@
+<ruleset name="Skarrok.com">
+	<target host="skarrok.com" />
+	<target host="www.skarrok.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Xg3n1us.de">
+	<target host="xg3n1us.de" />
+	<target host="www.xg3n1us.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

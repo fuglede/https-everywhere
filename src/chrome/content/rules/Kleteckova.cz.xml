@@ -1,0 +1,6 @@
+<ruleset name="Kleteckova.cz">
+	<target host="kleteckova.cz" />
+	<target host="www.kleteckova.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

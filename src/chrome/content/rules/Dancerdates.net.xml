@@ -1,0 +1,6 @@
+<ruleset name="Dancerdates.net">
+	<target host="dancerdates.net" />
+	<target host="www.dancerdates.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

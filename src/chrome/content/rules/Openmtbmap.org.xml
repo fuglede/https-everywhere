@@ -1,0 +1,6 @@
+<ruleset name="Openmtbmap.org">
+	<target host="openmtbmap.org" />
+	<target host="www.openmtbmap.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Cozmaadrian.ro">
+	<target host="cozmaadrian.ro" />
+	<target host="www.cozmaadrian.ro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

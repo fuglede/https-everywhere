@@ -1,0 +1,6 @@
+<ruleset name="Reconnectonecard.com.au">
+	<target host="reconnectonecard.com.au" />
+	<target host="www.reconnectonecard.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

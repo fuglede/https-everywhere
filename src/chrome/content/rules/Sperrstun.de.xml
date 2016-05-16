@@ -1,0 +1,6 @@
+<ruleset name="Sperrstun.de">
+	<target host="sperrstun.de" />
+	<target host="www.sperrstun.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Apeasternpower.com">
+	<target host="apeasternpower.com" />
+	<target host="www.apeasternpower.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

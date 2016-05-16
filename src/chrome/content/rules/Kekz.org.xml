@@ -1,0 +1,6 @@
+<ruleset name="Kekz.org">
+	<target host="kekz.org" />
+	<target host="www.kekz.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

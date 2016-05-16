@@ -1,0 +1,6 @@
+<ruleset name="Expoundite.net">
+	<target host="expoundite.net" />
+	<target host="www.expoundite.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

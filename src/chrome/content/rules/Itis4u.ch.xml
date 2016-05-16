@@ -1,0 +1,6 @@
+<ruleset name="Itis4u.ch">
+	<target host="itis4u.ch" />
+	<target host="www.itis4u.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

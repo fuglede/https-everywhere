@@ -1,0 +1,6 @@
+<ruleset name="Kionetworks.com">
+	<target host="kionetworks.com" />
+	<target host="www.kionetworks.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

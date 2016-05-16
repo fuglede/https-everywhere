@@ -1,0 +1,6 @@
+<ruleset name="Cornercircle.co.uk">
+	<target host="cornercircle.co.uk" />
+	<target host="www.cornercircle.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

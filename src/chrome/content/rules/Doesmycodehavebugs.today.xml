@@ -1,0 +1,6 @@
+<ruleset name="Doesmycodehavebugs.today">
+	<target host="doesmycodehavebugs.today" />
+	<target host="www.doesmycodehavebugs.today" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

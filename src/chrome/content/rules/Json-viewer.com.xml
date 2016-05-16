@@ -1,0 +1,6 @@
+<ruleset name="Json-viewer.com">
+	<target host="json-viewer.com" />
+	<target host="www.json-viewer.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

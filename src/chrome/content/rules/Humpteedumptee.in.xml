@@ -1,0 +1,6 @@
+<ruleset name="Humpteedumptee.in">
+	<target host="humpteedumptee.in" />
+	<target host="www.humpteedumptee.in" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

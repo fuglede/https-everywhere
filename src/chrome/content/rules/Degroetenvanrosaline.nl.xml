@@ -1,0 +1,6 @@
+<ruleset name="Degroetenvanrosaline.nl">
+	<target host="degroetenvanrosaline.nl" />
+	<target host="www.degroetenvanrosaline.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

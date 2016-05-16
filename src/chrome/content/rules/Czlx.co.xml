@@ -1,0 +1,6 @@
+<ruleset name="Czlx.co">
+	<target host="czlx.co" />
+	<target host="www.czlx.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

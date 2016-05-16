@@ -1,0 +1,6 @@
+<ruleset name="Thai.land">
+	<target host="thai.land" />
+	<target host="www.thai.land" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

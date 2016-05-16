@@ -1,0 +1,6 @@
+<ruleset name="Burgerdev.de">
+	<target host="burgerdev.de" />
+	<target host="www.burgerdev.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

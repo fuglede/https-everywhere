@@ -1,0 +1,6 @@
+<ruleset name="Sizingservers.be">
+	<target host="sizingservers.be" />
+	<target host="www.sizingservers.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Oticasaopaulo.com.br">
+	<target host="oticasaopaulo.com.br" />
+	<target host="www.oticasaopaulo.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

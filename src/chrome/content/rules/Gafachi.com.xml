@@ -1,0 +1,6 @@
+<ruleset name="Gafachi.com">
+	<target host="gafachi.com" />
+	<target host="www.gafachi.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

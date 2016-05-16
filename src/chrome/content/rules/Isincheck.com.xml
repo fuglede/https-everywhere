@@ -1,0 +1,6 @@
+<ruleset name="Isincheck.com">
+	<target host="isincheck.com" />
+	<target host="www.isincheck.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

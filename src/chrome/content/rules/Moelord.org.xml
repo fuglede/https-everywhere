@@ -1,0 +1,6 @@
+<ruleset name="Moelord.org">
+	<target host="moelord.org" />
+	<target host="www.moelord.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

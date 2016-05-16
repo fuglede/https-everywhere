@@ -1,0 +1,6 @@
+<ruleset name="Troi.de">
+	<target host="troi.de" />
+	<target host="www.troi.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

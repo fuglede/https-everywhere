@@ -1,0 +1,6 @@
+<ruleset name="Hdeaves.uk">
+	<target host="hdeaves.uk" />
+	<target host="www.hdeaves.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

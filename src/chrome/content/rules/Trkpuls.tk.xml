@@ -1,0 +1,6 @@
+<ruleset name="Trkpuls.tk">
+	<target host="trkpuls.tk" />
+	<target host="www.trkpuls.tk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

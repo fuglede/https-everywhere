@@ -1,0 +1,6 @@
+<ruleset name="Morpork.xyz">
+	<target host="morpork.xyz" />
+	<target host="www.morpork.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

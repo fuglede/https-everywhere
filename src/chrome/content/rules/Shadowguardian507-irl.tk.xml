@@ -1,0 +1,6 @@
+<ruleset name="Shadowguardian507-irl.tk">
+	<target host="shadowguardian507-irl.tk" />
+	<target host="www.shadowguardian507-irl.tk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

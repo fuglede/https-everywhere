@@ -1,0 +1,6 @@
+<ruleset name="Statecover.com.au">
+	<target host="statecover.com.au" />
+	<target host="www.statecover.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

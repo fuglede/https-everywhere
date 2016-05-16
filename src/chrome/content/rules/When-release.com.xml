@@ -1,0 +1,6 @@
+<ruleset name="When-release.com">
+	<target host="when-release.com" />
+	<target host="www.when-release.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

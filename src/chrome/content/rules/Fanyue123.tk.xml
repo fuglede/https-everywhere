@@ -1,0 +1,6 @@
+<ruleset name="Fanyue123.tk">
+	<target host="fanyue123.tk" />
+	<target host="www.fanyue123.tk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

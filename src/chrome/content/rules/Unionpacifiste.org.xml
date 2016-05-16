@@ -1,0 +1,6 @@
+<ruleset name="Unionpacifiste.org">
+	<target host="unionpacifiste.org" />
+	<target host="www.unionpacifiste.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

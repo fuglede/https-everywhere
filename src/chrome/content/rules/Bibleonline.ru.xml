@@ -1,0 +1,6 @@
+<ruleset name="Bibleonline.ru">
+	<target host="bibleonline.ru" />
+	<target host="www.bibleonline.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

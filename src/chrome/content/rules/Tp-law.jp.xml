@@ -1,0 +1,6 @@
+<ruleset name="Tp-law.jp">
+	<target host="tp-law.jp" />
+	<target host="www.tp-law.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Tesoro.pr">
+	<target host="tesoro.pr" />
+	<target host="www.tesoro.pr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

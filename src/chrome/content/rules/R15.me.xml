@@ -1,0 +1,6 @@
+<ruleset name="R15.me">
+	<target host="r15.me" />
+	<target host="www.r15.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

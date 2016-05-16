@@ -1,0 +1,6 @@
+<ruleset name="Devincrow.me">
+	<target host="devincrow.me" />
+	<target host="www.devincrow.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

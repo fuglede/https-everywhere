@@ -1,0 +1,6 @@
+<ruleset name="Depletionmode.com">
+	<target host="depletionmode.com" />
+	<target host="www.depletionmode.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

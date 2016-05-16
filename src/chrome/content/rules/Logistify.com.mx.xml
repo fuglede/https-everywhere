@@ -1,0 +1,6 @@
+<ruleset name="Logistify.com.mx">
+	<target host="logistify.com.mx" />
+	<target host="www.logistify.com.mx" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

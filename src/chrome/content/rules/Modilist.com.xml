@@ -1,0 +1,6 @@
+<ruleset name="Modilist.com">
+	<target host="modilist.com" />
+	<target host="www.modilist.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

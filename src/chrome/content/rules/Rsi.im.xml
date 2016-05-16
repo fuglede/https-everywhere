@@ -1,0 +1,6 @@
+<ruleset name="Rsi.im">
+	<target host="rsi.im" />
+	<target host="www.rsi.im" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

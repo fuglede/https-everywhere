@@ -1,0 +1,6 @@
+<ruleset name="Rmz.fi">
+	<target host="rmz.fi" />
+	<target host="www.rmz.fi" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

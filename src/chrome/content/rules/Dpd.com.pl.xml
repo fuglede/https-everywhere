@@ -1,0 +1,6 @@
+<ruleset name="Dpd.com.pl">
+	<target host="dpd.com.pl" />
+	<target host="www.dpd.com.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

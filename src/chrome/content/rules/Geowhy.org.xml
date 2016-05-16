@@ -1,0 +1,6 @@
+<ruleset name="Geowhy.org">
+	<target host="geowhy.org" />
+	<target host="www.geowhy.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

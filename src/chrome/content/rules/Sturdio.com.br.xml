@@ -1,0 +1,6 @@
+<ruleset name="Sturdio.com.br">
+	<target host="sturdio.com.br" />
+	<target host="www.sturdio.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

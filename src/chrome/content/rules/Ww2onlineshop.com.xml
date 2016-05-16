@@ -1,0 +1,6 @@
+<ruleset name="Ww2onlineshop.com">
+	<target host="ww2onlineshop.com" />
+	<target host="www.ww2onlineshop.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Perplex.nl">
+	<target host="perplex.nl" />
+	<target host="www.perplex.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

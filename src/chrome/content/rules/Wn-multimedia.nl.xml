@@ -1,0 +1,6 @@
+<ruleset name="Wn-multimedia.nl">
+	<target host="wn-multimedia.nl" />
+	<target host="www.wn-multimedia.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

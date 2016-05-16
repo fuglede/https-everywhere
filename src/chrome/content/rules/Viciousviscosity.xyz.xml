@@ -1,0 +1,6 @@
+<ruleset name="Viciousviscosity.xyz">
+	<target host="viciousviscosity.xyz" />
+	<target host="www.viciousviscosity.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Peakpayment.com">
+	<target host="peakpayment.com" />
+	<target host="www.peakpayment.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

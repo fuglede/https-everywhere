@@ -1,0 +1,6 @@
+<ruleset name="Sos.sk">
+	<target host="sos.sk" />
+	<target host="www.sos.sk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

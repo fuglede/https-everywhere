@@ -1,0 +1,6 @@
+<ruleset name="Bouncourseplanner.net">
+	<target host="bouncourseplanner.net" />
+	<target host="www.bouncourseplanner.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

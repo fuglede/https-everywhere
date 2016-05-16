@@ -1,0 +1,6 @@
+<ruleset name="Localchum.com">
+	<target host="localchum.com" />
+	<target host="www.localchum.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

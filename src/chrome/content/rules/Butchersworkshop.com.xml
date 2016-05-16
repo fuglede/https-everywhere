@@ -1,0 +1,6 @@
+<ruleset name="Butchersworkshop.com">
+	<target host="butchersworkshop.com" />
+	<target host="www.butchersworkshop.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

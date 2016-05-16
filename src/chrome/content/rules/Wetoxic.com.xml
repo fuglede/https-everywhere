@@ -1,0 +1,6 @@
+<ruleset name="Wetoxic.com">
+	<target host="wetoxic.com" />
+	<target host="www.wetoxic.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

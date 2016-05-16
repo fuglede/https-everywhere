@@ -1,0 +1,6 @@
+<ruleset name="Titanous.com">
+	<target host="titanous.com" />
+	<target host="www.titanous.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Lampl.info">
+	<target host="lampl.info" />
+	<target host="www.lampl.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

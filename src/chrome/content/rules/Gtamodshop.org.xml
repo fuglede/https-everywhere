@@ -1,0 +1,6 @@
+<ruleset name="Gtamodshop.org">
+	<target host="gtamodshop.org" />
+	<target host="www.gtamodshop.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

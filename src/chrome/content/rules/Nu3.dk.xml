@@ -1,0 +1,6 @@
+<ruleset name="Nu3.dk">
+	<target host="nu3.dk" />
+	<target host="www.nu3.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

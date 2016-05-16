@@ -1,0 +1,6 @@
+<ruleset name="Quakelive.dk">
+	<target host="quakelive.dk" />
+	<target host="www.quakelive.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

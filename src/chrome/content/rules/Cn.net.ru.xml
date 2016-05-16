@@ -1,0 +1,6 @@
+<ruleset name="Cn.net.ru">
+	<target host="cn.net.ru" />
+	<target host="www.cn.net.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

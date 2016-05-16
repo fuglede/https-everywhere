@@ -1,0 +1,6 @@
+<ruleset name="Siammedia.co">
+	<target host="siammedia.co" />
+	<target host="www.siammedia.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

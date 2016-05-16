@@ -1,0 +1,6 @@
+<ruleset name="Rightcapital.com">
+	<target host="rightcapital.com" />
+	<target host="www.rightcapital.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

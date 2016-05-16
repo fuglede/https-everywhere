@@ -1,0 +1,6 @@
+<ruleset name="Buurman.nu">
+	<target host="buurman.nu" />
+	<target host="www.buurman.nu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

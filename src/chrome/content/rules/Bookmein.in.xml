@@ -1,0 +1,6 @@
+<ruleset name="Bookmein.in">
+	<target host="bookmein.in" />
+	<target host="www.bookmein.in" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

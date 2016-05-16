@@ -1,0 +1,6 @@
+<ruleset name="Spotifyripper.tk">
+	<target host="spotifyripper.tk" />
+	<target host="www.spotifyripper.tk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Sourcebox.be">
+	<target host="sourcebox.be" />
+	<target host="www.sourcebox.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

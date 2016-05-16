@@ -1,0 +1,6 @@
+<ruleset name="Mycsb.com">
+	<target host="mycsb.com" />
+	<target host="www.mycsb.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

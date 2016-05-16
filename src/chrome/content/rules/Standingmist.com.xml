@@ -1,0 +1,6 @@
+<ruleset name="Standingmist.com">
+	<target host="standingmist.com" />
+	<target host="www.standingmist.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

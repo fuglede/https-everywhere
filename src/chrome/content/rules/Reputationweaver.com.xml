@@ -1,0 +1,6 @@
+<ruleset name="Reputationweaver.com">
+	<target host="reputationweaver.com" />
+	<target host="www.reputationweaver.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

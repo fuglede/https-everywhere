@@ -1,0 +1,6 @@
+<ruleset name="Ender.co.at">
+	<target host="ender.co.at" />
+	<target host="www.ender.co.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

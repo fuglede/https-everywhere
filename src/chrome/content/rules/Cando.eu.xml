@@ -1,0 +1,6 @@
+<ruleset name="Cando.eu">
+	<target host="cando.eu" />
+	<target host="www.cando.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

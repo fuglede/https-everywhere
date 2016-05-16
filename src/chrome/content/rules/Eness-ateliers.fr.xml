@@ -1,0 +1,6 @@
+<ruleset name="Eness-ateliers.fr">
+	<target host="eness-ateliers.fr" />
+	<target host="www.eness-ateliers.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

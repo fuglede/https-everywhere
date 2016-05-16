@@ -1,0 +1,6 @@
+<ruleset name="Teoskanta.fi">
+	<target host="teoskanta.fi" />
+	<target host="www.teoskanta.fi" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

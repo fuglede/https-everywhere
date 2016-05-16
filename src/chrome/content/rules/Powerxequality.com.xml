@@ -1,0 +1,6 @@
+<ruleset name="Powerxequality.com">
+	<target host="powerxequality.com" />
+	<target host="www.powerxequality.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

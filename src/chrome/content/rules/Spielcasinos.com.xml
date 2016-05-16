@@ -1,0 +1,6 @@
+<ruleset name="Spielcasinos.com">
+	<target host="spielcasinos.com" />
+	<target host="www.spielcasinos.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

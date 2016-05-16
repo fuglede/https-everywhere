@@ -1,0 +1,6 @@
+<ruleset name="Casinolistings.com">
+	<target host="casinolistings.com" />
+	<target host="www.casinolistings.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

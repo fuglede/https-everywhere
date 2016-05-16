@@ -1,0 +1,6 @@
+<ruleset name="Ioglo.be">
+	<target host="ioglo.be" />
+	<target host="www.ioglo.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

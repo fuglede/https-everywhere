@@ -1,0 +1,6 @@
+<ruleset name="Whatsstalk.me">
+	<target host="whatsstalk.me" />
+	<target host="www.whatsstalk.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

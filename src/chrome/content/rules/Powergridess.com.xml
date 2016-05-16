@@ -1,0 +1,6 @@
+<ruleset name="Powergridess.com">
+	<target host="powergridess.com" />
+	<target host="www.powergridess.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

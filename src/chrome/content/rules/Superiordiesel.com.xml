@@ -1,0 +1,6 @@
+<ruleset name="Superiordiesel.com">
+	<target host="superiordiesel.com" />
+	<target host="www.superiordiesel.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

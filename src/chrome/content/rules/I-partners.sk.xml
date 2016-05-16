@@ -1,0 +1,6 @@
+<ruleset name="I-partners.sk">
+	<target host="i-partners.sk" />
+	<target host="www.i-partners.sk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

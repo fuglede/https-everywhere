@@ -1,0 +1,6 @@
+<ruleset name="Thirdpartytrade.com">
+	<target host="thirdpartytrade.com" />
+	<target host="www.thirdpartytrade.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Ced-services.nl">
+	<target host="ced-services.nl" />
+	<target host="www.ced-services.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

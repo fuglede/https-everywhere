@@ -1,0 +1,6 @@
+<ruleset name="Jugendsuenden.info">
+	<target host="jugendsuenden.info" />
+	<target host="www.jugendsuenden.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

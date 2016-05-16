@@ -1,0 +1,6 @@
+<ruleset name="Nierenpraxis-dr-merkel.de">
+	<target host="nierenpraxis-dr-merkel.de" />
+	<target host="www.nierenpraxis-dr-merkel.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

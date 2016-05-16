@@ -1,0 +1,6 @@
+<ruleset name="Backmountaingas.com">
+	<target host="backmountaingas.com" />
+	<target host="www.backmountaingas.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="28spots.net">
+	<target host="28spots.net" />
+	<target host="www.28spots.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="M3-gmbh.de">
+	<target host="m3-gmbh.de" />
+	<target host="www.m3-gmbh.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

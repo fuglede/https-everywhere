@@ -1,0 +1,6 @@
+<ruleset name="Studiodoprazer.com.br">
+	<target host="studiodoprazer.com.br" />
+	<target host="www.studiodoprazer.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

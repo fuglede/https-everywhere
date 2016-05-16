@@ -1,0 +1,6 @@
+<ruleset name="Carigami.fr">
+	<target host="carigami.fr" />
+	<target host="www.carigami.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

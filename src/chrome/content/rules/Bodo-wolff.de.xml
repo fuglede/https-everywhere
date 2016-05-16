@@ -1,0 +1,6 @@
+<ruleset name="Bodo-wolff.de">
+	<target host="bodo-wolff.de" />
+	<target host="www.bodo-wolff.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

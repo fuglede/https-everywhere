@@ -1,0 +1,6 @@
+<ruleset name="Nctx.co.uk">
+	<target host="nctx.co.uk" />
+	<target host="www.nctx.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Joffcom.net">
+	<target host="joffcom.net" />
+	<target host="www.joffcom.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

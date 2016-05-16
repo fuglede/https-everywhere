@@ -1,0 +1,6 @@
+<ruleset name="Tfnapps.de">
+	<target host="tfnapps.de" />
+	<target host="www.tfnapps.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

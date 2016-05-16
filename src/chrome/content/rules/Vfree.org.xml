@@ -1,0 +1,6 @@
+<ruleset name="Vfree.org">
+	<target host="vfree.org" />
+	<target host="www.vfree.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

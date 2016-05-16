@@ -1,0 +1,6 @@
+<ruleset name="Modifiedmind.com">
+	<target host="modifiedmind.com" />
+	<target host="www.modifiedmind.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

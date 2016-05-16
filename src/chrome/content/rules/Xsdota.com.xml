@@ -1,0 +1,6 @@
+<ruleset name="Xsdota.com">
+	<target host="xsdota.com" />
+	<target host="www.xsdota.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Mcth.fr">
+	<target host="mcth.fr" />
+	<target host="www.mcth.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

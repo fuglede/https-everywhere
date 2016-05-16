@@ -1,0 +1,6 @@
+<ruleset name="Heycms.com">
+	<target host="heycms.com" />
+	<target host="www.heycms.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

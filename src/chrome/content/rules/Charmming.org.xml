@@ -1,0 +1,6 @@
+<ruleset name="Charmming.org">
+	<target host="charmming.org" />
+	<target host="www.charmming.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

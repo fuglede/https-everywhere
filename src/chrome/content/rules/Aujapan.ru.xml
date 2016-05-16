@@ -1,0 +1,6 @@
+<ruleset name="Aujapan.ru">
+	<target host="aujapan.ru" />
+	<target host="www.aujapan.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

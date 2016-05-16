@@ -1,0 +1,6 @@
+<ruleset name="69lyon.club">
+	<target host="69lyon.club" />
+	<target host="www.69lyon.club" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

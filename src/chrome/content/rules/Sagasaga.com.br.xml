@@ -1,0 +1,6 @@
+<ruleset name="Sagasaga.com.br">
+	<target host="sagasaga.com.br" />
+	<target host="www.sagasaga.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

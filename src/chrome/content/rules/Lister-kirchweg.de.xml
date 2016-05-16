@@ -1,0 +1,6 @@
+<ruleset name="Lister-kirchweg.de">
+	<target host="lister-kirchweg.de" />
+	<target host="www.lister-kirchweg.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Quietapple.org">
+	<target host="quietapple.org" />
+	<target host="www.quietapple.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

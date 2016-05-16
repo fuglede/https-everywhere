@@ -1,0 +1,6 @@
+<ruleset name="Aberdeenjudo.co.uk">
+	<target host="aberdeenjudo.co.uk" />
+	<target host="www.aberdeenjudo.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Celldesign.com.br">
+	<target host="celldesign.com.br" />
+	<target host="www.celldesign.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

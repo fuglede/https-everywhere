@@ -1,0 +1,6 @@
+<ruleset name="Bibliotrek.be">
+	<target host="bibliotrek.be" />
+	<target host="www.bibliotrek.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

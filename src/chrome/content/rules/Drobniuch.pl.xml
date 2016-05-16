@@ -1,0 +1,6 @@
+<ruleset name="Drobniuch.pl">
+	<target host="drobniuch.pl" />
+	<target host="www.drobniuch.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

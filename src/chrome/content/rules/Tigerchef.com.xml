@@ -1,0 +1,6 @@
+<ruleset name="Tigerchef.com">
+	<target host="tigerchef.com" />
+	<target host="www.tigerchef.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

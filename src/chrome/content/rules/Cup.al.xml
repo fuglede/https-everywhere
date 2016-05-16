@@ -1,0 +1,6 @@
+<ruleset name="Cup.al">
+	<target host="cup.al" />
+	<target host="www.cup.al" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

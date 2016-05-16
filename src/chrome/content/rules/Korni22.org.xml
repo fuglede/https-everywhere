@@ -1,0 +1,6 @@
+<ruleset name="Korni22.org">
+	<target host="korni22.org" />
+	<target host="www.korni22.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

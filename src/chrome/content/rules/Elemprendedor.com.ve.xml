@@ -1,0 +1,6 @@
+<ruleset name="Elemprendedor.com.ve">
+	<target host="elemprendedor.com.ve" />
+	<target host="www.elemprendedor.com.ve" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

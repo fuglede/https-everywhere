@@ -1,0 +1,6 @@
+<ruleset name="Trommelwirbel.com">
+	<target host="trommelwirbel.com" />
+	<target host="www.trommelwirbel.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

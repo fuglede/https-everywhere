@@ -1,0 +1,6 @@
+<ruleset name="Cerfrance.fr">
+	<target host="cerfrance.fr" />
+	<target host="www.cerfrance.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

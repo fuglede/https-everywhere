@@ -1,0 +1,6 @@
+<ruleset name="Iomstamps.com">
+	<target host="iomstamps.com" />
+	<target host="www.iomstamps.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

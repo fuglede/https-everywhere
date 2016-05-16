@@ -1,0 +1,6 @@
+<ruleset name="Buildsaver.co.za">
+	<target host="buildsaver.co.za" />
+	<target host="www.buildsaver.co.za" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

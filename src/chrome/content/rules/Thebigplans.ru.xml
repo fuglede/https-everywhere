@@ -1,0 +1,6 @@
+<ruleset name="Thebigplans.ru">
+	<target host="thebigplans.ru" />
+	<target host="www.thebigplans.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

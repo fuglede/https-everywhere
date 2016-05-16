@@ -1,0 +1,6 @@
+<ruleset name="Javelinsms.com">
+	<target host="javelinsms.com" />
+	<target host="www.javelinsms.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

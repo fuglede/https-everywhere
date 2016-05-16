@@ -1,0 +1,6 @@
+<ruleset name="Smartairkey.com">
+	<target host="smartairkey.com" />
+	<target host="www.smartairkey.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

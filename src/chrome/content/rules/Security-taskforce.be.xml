@@ -1,0 +1,6 @@
+<ruleset name="Security-taskforce.be">
+	<target host="security-taskforce.be" />
+	<target host="www.security-taskforce.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

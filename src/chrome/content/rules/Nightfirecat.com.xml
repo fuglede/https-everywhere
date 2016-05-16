@@ -1,0 +1,6 @@
+<ruleset name="Nightfirecat.com">
+	<target host="nightfirecat.com" />
+	<target host="www.nightfirecat.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

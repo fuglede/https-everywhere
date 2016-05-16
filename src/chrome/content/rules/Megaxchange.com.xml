@@ -1,0 +1,6 @@
+<ruleset name="Megaxchange.com">
+	<target host="megaxchange.com" />
+	<target host="www.megaxchange.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

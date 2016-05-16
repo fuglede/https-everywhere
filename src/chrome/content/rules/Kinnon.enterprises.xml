@@ -1,0 +1,6 @@
+<ruleset name="Kinnon.enterprises">
+	<target host="kinnon.enterprises" />
+	<target host="www.kinnon.enterprises" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

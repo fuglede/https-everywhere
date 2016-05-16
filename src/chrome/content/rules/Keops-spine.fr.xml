@@ -1,0 +1,6 @@
+<ruleset name="Keops-spine.fr">
+	<target host="keops-spine.fr" />
+	<target host="www.keops-spine.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

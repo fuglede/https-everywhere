@@ -1,0 +1,6 @@
+<ruleset name="Minez-nightswatch.com">
+	<target host="minez-nightswatch.com" />
+	<target host="www.minez-nightswatch.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Cosplay.tours">
+	<target host="cosplay.tours" />
+	<target host="www.cosplay.tours" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

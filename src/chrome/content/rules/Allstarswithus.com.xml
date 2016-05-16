@@ -1,0 +1,6 @@
+<ruleset name="Allstarswithus.com">
+	<target host="allstarswithus.com" />
+	<target host="www.allstarswithus.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

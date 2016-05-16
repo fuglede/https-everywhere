@@ -1,0 +1,6 @@
+<ruleset name="Vitapingu.de">
+	<target host="vitapingu.de" />
+	<target host="www.vitapingu.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

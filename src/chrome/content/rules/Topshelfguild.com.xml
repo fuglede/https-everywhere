@@ -1,0 +1,6 @@
+<ruleset name="Topshelfguild.com">
+	<target host="topshelfguild.com" />
+	<target host="www.topshelfguild.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Mainlined.org">
+	<target host="mainlined.org" />
+	<target host="www.mainlined.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

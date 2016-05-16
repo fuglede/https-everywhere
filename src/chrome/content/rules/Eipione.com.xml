@@ -1,0 +1,6 @@
+<ruleset name="Eipione.com">
+	<target host="eipione.com" />
+	<target host="www.eipione.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Approbo.com">
+	<target host="approbo.com" />
+	<target host="www.approbo.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

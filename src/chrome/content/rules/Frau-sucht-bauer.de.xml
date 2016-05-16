@@ -1,0 +1,6 @@
+<ruleset name="Frau-sucht-bauer.de">
+	<target host="frau-sucht-bauer.de" />
+	<target host="www.frau-sucht-bauer.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

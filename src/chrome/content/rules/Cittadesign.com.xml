@@ -1,0 +1,6 @@
+<ruleset name="Cittadesign.com">
+	<target host="cittadesign.com" />
+	<target host="www.cittadesign.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

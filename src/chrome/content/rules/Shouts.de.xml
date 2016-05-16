@@ -1,0 +1,6 @@
+<ruleset name="Shouts.de">
+	<target host="shouts.de" />
+	<target host="www.shouts.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

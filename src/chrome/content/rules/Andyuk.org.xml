@@ -1,0 +1,6 @@
+<ruleset name="Andyuk.org">
+	<target host="andyuk.org" />
+	<target host="www.andyuk.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Xn--pbt947am3ab71g.com">
+	<target host="xn--pbt947am3ab71g.com" />
+	<target host="www.xn--pbt947am3ab71g.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

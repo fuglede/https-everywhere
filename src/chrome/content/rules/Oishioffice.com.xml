@@ -1,0 +1,6 @@
+<ruleset name="Oishioffice.com">
+	<target host="oishioffice.com" />
+	<target host="www.oishioffice.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Spot-events.com">
+	<target host="spot-events.com" />
+	<target host="www.spot-events.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

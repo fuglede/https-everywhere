@@ -1,0 +1,6 @@
+<ruleset name="Gmantra.org">
+	<target host="gmantra.org" />
+	<target host="www.gmantra.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

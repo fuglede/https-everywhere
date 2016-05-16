@@ -1,0 +1,6 @@
+<ruleset name="Otpsmart.com.ua">
+	<target host="otpsmart.com.ua" />
+	<target host="www.otpsmart.com.ua" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

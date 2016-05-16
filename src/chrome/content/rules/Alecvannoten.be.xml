@@ -1,0 +1,6 @@
+<ruleset name="Alecvannoten.be">
+	<target host="alecvannoten.be" />
+	<target host="www.alecvannoten.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

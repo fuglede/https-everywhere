@@ -1,0 +1,6 @@
+<ruleset name="Delgrani.com.br">
+	<target host="delgrani.com.br" />
+	<target host="www.delgrani.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

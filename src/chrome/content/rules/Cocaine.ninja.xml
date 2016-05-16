@@ -1,0 +1,6 @@
+<ruleset name="Cocaine.ninja">
+	<target host="cocaine.ninja" />
+	<target host="www.cocaine.ninja" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

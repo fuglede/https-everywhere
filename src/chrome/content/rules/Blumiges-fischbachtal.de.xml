@@ -1,0 +1,6 @@
+<ruleset name="Blumiges-fischbachtal.de">
+	<target host="blumiges-fischbachtal.de" />
+	<target host="www.blumiges-fischbachtal.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Schwarzwaldcon.de">
+	<target host="schwarzwaldcon.de" />
+	<target host="www.schwarzwaldcon.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

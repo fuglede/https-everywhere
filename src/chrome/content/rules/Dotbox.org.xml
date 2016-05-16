@@ -1,0 +1,6 @@
+<ruleset name="Dotbox.org">
+	<target host="dotbox.org" />
+	<target host="www.dotbox.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

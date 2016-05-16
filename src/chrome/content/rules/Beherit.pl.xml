@@ -1,0 +1,6 @@
+<ruleset name="Beherit.pl">
+	<target host="beherit.pl" />
+	<target host="www.beherit.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

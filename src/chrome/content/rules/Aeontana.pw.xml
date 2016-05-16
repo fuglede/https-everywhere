@@ -1,0 +1,6 @@
+<ruleset name="Aeontana.pw">
+	<target host="aeontana.pw" />
+	<target host="www.aeontana.pw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

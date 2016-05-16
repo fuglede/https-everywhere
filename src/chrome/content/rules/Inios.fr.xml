@@ -1,0 +1,6 @@
+<ruleset name="Inios.fr">
+	<target host="inios.fr" />
+	<target host="www.inios.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

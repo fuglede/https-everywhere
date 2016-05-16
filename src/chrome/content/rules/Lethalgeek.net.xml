@@ -1,0 +1,6 @@
+<ruleset name="Lethalgeek.net">
+	<target host="lethalgeek.net" />
+	<target host="www.lethalgeek.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

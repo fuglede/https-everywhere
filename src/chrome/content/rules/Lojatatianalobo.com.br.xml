@@ -1,0 +1,6 @@
+<ruleset name="Lojatatianalobo.com.br">
+	<target host="lojatatianalobo.com.br" />
+	<target host="www.lojatatianalobo.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

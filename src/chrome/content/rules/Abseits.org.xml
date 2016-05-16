@@ -1,0 +1,6 @@
+<ruleset name="Abseits.org">
+	<target host="abseits.org" />
+	<target host="www.abseits.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

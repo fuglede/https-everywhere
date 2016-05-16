@@ -1,0 +1,6 @@
+<ruleset name="Wapjt.cn">
+	<target host="wapjt.cn" />
+	<target host="www.wapjt.cn" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

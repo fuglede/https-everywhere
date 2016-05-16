@@ -1,0 +1,6 @@
+<ruleset name="Agenda-loto.net">
+	<target host="agenda-loto.net" />
+	<target host="www.agenda-loto.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

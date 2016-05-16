@@ -1,0 +1,6 @@
+<ruleset name="Hibilog.com">
+	<target host="hibilog.com" />
+	<target host="www.hibilog.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

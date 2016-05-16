@@ -1,0 +1,6 @@
+<ruleset name="Fatox.de">
+	<target host="fatox.de" />
+	<target host="www.fatox.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Kupelne-ptacek.sk">
+	<target host="kupelne-ptacek.sk" />
+	<target host="www.kupelne-ptacek.sk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

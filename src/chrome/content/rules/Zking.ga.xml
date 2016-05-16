@@ -1,0 +1,6 @@
+<ruleset name="Zking.ga">
+	<target host="zking.ga" />
+	<target host="www.zking.ga" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

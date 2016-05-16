@@ -1,0 +1,6 @@
+<ruleset name="Transportal.sk">
+	<target host="transportal.sk" />
+	<target host="www.transportal.sk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

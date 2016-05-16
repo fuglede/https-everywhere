@@ -1,0 +1,6 @@
+<ruleset name="Teunstuinposters.nl">
+	<target host="teunstuinposters.nl" />
+	<target host="www.teunstuinposters.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

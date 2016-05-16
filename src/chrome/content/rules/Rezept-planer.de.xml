@@ -1,0 +1,6 @@
+<ruleset name="Rezept-planer.de">
+	<target host="rezept-planer.de" />
+	<target host="www.rezept-planer.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

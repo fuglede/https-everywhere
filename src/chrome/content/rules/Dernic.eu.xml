@@ -1,0 +1,6 @@
+<ruleset name="Dernic.eu">
+	<target host="dernic.eu" />
+	<target host="www.dernic.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

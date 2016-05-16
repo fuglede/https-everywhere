@@ -1,0 +1,6 @@
+<ruleset name="Railyardurgentcare.com">
+	<target host="railyardurgentcare.com" />
+	<target host="www.railyardurgentcare.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

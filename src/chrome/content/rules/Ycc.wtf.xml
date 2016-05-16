@@ -1,0 +1,6 @@
+<ruleset name="Ycc.wtf">
+	<target host="ycc.wtf" />
+	<target host="www.ycc.wtf" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Genbud.biz">
+	<target host="genbud.biz" />
+	<target host="www.genbud.biz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

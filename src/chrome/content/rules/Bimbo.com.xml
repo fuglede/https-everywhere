@@ -1,0 +1,6 @@
+<ruleset name="Bimbo.com">
+	<target host="bimbo.com" />
+	<target host="www.bimbo.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

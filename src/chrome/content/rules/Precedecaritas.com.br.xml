@@ -1,0 +1,6 @@
+<ruleset name="Precedecaritas.com.br">
+	<target host="precedecaritas.com.br" />
+	<target host="www.precedecaritas.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

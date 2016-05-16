@@ -1,0 +1,6 @@
+<ruleset name="Codeforhakodate.org">
+	<target host="codeforhakodate.org" />
+	<target host="www.codeforhakodate.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

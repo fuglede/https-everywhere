@@ -1,0 +1,6 @@
+<ruleset name="Alliances-faq.de">
+	<target host="alliances-faq.de" />
+	<target host="www.alliances-faq.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Kleine-dingen.nl">
+	<target host="kleine-dingen.nl" />
+	<target host="www.kleine-dingen.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

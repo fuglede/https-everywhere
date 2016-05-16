@@ -1,0 +1,6 @@
+<ruleset name="Gillet-cros.fr">
+	<target host="gillet-cros.fr" />
+	<target host="www.gillet-cros.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

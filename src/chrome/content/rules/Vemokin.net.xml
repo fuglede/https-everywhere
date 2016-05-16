@@ -1,0 +1,6 @@
+<ruleset name="Vemokin.net">
+	<target host="vemokin.net" />
+	<target host="www.vemokin.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

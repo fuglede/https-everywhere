@@ -1,0 +1,6 @@
+<ruleset name="Alliedfrozenstorage.com">
+	<target host="alliedfrozenstorage.com" />
+	<target host="www.alliedfrozenstorage.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

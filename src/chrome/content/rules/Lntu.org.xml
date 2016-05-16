@@ -1,0 +1,6 @@
+<ruleset name="Lntu.org">
+	<target host="lntu.org" />
+	<target host="www.lntu.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

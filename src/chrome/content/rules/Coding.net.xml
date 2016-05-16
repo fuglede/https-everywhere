@@ -1,0 +1,6 @@
+<ruleset name="Coding.net">
+	<target host="coding.net" />
+	<target host="www.coding.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

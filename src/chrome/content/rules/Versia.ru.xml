@@ -1,0 +1,6 @@
+<ruleset name="Versia.ru">
+	<target host="versia.ru" />
+	<target host="www.versia.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

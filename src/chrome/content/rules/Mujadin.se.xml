@@ -1,0 +1,6 @@
+<ruleset name="Mujadin.se">
+	<target host="mujadin.se" />
+	<target host="www.mujadin.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

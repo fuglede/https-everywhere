@@ -1,0 +1,6 @@
+<ruleset name="Lakhesis.net">
+	<target host="lakhesis.net" />
+	<target host="www.lakhesis.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

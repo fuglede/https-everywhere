@@ -1,0 +1,6 @@
+<ruleset name="Maxima.at">
+	<target host="maxima.at" />
+	<target host="www.maxima.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Bsagan.fr">
+	<target host="bsagan.fr" />
+	<target host="www.bsagan.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

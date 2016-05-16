@@ -1,0 +1,6 @@
+<ruleset name="Myownconference.fr">
+	<target host="myownconference.fr" />
+	<target host="www.myownconference.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Ensured.nl">
+	<target host="ensured.nl" />
+	<target host="www.ensured.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

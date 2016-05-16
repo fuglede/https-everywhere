@@ -1,0 +1,6 @@
+<ruleset name="Realwaycome.com">
+	<target host="realwaycome.com" />
+	<target host="www.realwaycome.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

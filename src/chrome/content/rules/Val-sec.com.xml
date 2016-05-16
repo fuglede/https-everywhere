@@ -1,0 +1,6 @@
+<ruleset name="Val-sec.com">
+	<target host="val-sec.com" />
+	<target host="www.val-sec.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

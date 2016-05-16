@@ -1,0 +1,6 @@
+<ruleset name="Life-time.nl">
+	<target host="life-time.nl" />
+	<target host="www.life-time.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

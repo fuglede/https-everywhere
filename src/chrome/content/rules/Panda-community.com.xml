@@ -1,0 +1,6 @@
+<ruleset name="Panda-community.com">
+	<target host="panda-community.com" />
+	<target host="www.panda-community.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

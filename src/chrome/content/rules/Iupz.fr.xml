@@ -1,0 +1,6 @@
+<ruleset name="Iupz.fr">
+	<target host="iupz.fr" />
+	<target host="www.iupz.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

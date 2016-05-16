@@ -1,0 +1,6 @@
+<ruleset name="Devinfo.net">
+	<target host="devinfo.net" />
+	<target host="www.devinfo.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

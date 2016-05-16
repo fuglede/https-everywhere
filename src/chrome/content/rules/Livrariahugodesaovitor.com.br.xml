@@ -1,0 +1,6 @@
+<ruleset name="Livrariahugodesaovitor.com.br">
+	<target host="livrariahugodesaovitor.com.br" />
+	<target host="www.livrariahugodesaovitor.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

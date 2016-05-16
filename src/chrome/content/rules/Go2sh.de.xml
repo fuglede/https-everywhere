@@ -1,0 +1,6 @@
+<ruleset name="Go2sh.de">
+	<target host="go2sh.de" />
+	<target host="www.go2sh.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

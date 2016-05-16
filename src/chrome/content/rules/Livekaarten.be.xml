@@ -1,0 +1,6 @@
+<ruleset name="Livekaarten.be">
+	<target host="livekaarten.be" />
+	<target host="www.livekaarten.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

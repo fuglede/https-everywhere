@@ -1,0 +1,6 @@
+<ruleset name="Glubbforum.de">
+	<target host="glubbforum.de" />
+	<target host="www.glubbforum.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

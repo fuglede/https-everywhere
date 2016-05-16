@@ -1,0 +1,6 @@
+<ruleset name="Plhdb.org">
+	<target host="plhdb.org" />
+	<target host="www.plhdb.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

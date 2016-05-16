@@ -1,0 +1,6 @@
+<ruleset name="The-epito.me">
+	<target host="the-epito.me" />
+	<target host="www.the-epito.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

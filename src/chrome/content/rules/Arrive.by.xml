@@ -1,0 +1,6 @@
+<ruleset name="Arrive.by">
+	<target host="arrive.by" />
+	<target host="www.arrive.by" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

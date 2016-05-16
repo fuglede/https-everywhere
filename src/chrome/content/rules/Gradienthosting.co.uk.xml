@@ -1,0 +1,6 @@
+<ruleset name="Gradienthosting.co.uk">
+	<target host="gradienthosting.co.uk" />
+	<target host="www.gradienthosting.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Hashru.nl">
+	<target host="hashru.nl" />
+	<target host="www.hashru.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

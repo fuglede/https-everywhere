@@ -1,0 +1,6 @@
+<ruleset name="Xn--knstler-n2a.tips">
+	<target host="xn--knstler-n2a.tips" />
+	<target host="www.xn--knstler-n2a.tips" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

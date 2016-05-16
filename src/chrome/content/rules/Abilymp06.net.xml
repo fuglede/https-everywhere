@@ -1,0 +1,6 @@
+<ruleset name="Abilymp06.net">
+	<target host="abilymp06.net" />
+	<target host="www.abilymp06.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

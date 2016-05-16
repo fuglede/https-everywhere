@@ -1,0 +1,6 @@
+<ruleset name="Realmofespionage.xyz">
+	<target host="realmofespionage.xyz" />
+	<target host="www.realmofespionage.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

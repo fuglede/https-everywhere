@@ -1,0 +1,6 @@
+<ruleset name="Goedeke.ml">
+	<target host="goedeke.ml" />
+	<target host="www.goedeke.ml" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

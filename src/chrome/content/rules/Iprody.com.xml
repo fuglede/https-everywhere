@@ -1,0 +1,6 @@
+<ruleset name="Iprody.com">
+	<target host="iprody.com" />
+	<target host="www.iprody.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

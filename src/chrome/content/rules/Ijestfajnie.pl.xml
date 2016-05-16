@@ -1,0 +1,6 @@
+<ruleset name="Ijestfajnie.pl">
+	<target host="ijestfajnie.pl" />
+	<target host="www.ijestfajnie.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

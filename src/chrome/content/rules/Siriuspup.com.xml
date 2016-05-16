@@ -1,0 +1,6 @@
+<ruleset name="Siriuspup.com">
+	<target host="siriuspup.com" />
+	<target host="www.siriuspup.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

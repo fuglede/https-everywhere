@@ -1,0 +1,6 @@
+<ruleset name="2ulcceria.nl">
+	<target host="2ulcceria.nl" />
+	<target host="www.2ulcceria.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

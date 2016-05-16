@@ -1,0 +1,6 @@
+<ruleset name="Minf3.de">
+	<target host="minf3.de" />
+	<target host="www.minf3.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

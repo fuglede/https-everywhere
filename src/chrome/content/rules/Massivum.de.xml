@@ -1,0 +1,6 @@
+<ruleset name="Massivum.de">
+	<target host="massivum.de" />
+	<target host="www.massivum.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

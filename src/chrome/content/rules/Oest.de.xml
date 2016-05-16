@@ -1,0 +1,6 @@
+<ruleset name="Oest.de">
+	<target host="oest.de" />
+	<target host="www.oest.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

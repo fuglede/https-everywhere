@@ -1,0 +1,6 @@
+<ruleset name="Dnshallinta.fi">
+	<target host="dnshallinta.fi" />
+	<target host="www.dnshallinta.fi" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

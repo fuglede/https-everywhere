@@ -1,0 +1,6 @@
+<ruleset name="Blewebprojects.com">
+	<target host="blewebprojects.com" />
+	<target host="www.blewebprojects.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

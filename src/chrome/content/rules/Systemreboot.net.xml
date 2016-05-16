@@ -1,0 +1,6 @@
+<ruleset name="Systemreboot.net">
+	<target host="systemreboot.net" />
+	<target host="www.systemreboot.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

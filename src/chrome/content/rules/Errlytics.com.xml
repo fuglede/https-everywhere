@@ -1,0 +1,6 @@
+<ruleset name="Errlytics.com">
+	<target host="errlytics.com" />
+	<target host="www.errlytics.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

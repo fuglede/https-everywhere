@@ -1,0 +1,6 @@
+<ruleset name="Everythingkitchens.com">
+	<target host="everythingkitchens.com" />
+	<target host="www.everythingkitchens.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

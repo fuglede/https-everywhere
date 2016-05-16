@@ -1,0 +1,6 @@
+<ruleset name="Welteneroberer.de">
+	<target host="welteneroberer.de" />
+	<target host="www.welteneroberer.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

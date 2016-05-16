@@ -1,0 +1,6 @@
+<ruleset name="Othermedia.cc">
+	<target host="othermedia.cc" />
+	<target host="www.othermedia.cc" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Mdewendt.de">
+	<target host="mdewendt.de" />
+	<target host="www.mdewendt.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

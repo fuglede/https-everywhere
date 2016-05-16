@@ -1,0 +1,6 @@
+<ruleset name="Giunchi.net">
+	<target host="giunchi.net" />
+	<target host="www.giunchi.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

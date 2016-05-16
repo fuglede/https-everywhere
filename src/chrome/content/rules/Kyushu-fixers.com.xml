@@ -1,0 +1,6 @@
+<ruleset name="Kyushu-fixers.com">
+	<target host="kyushu-fixers.com" />
+	<target host="www.kyushu-fixers.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

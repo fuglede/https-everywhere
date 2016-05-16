@@ -1,0 +1,6 @@
+<ruleset name="Thisserver.dontexist.net">
+	<target host="thisserver.dontexist.net" />
+	<target host="www.thisserver.dontexist.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Hostisan.com">
+	<target host="hostisan.com" />
+	<target host="www.hostisan.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

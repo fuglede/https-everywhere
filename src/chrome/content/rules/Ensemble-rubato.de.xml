@@ -1,0 +1,6 @@
+<ruleset name="Ensemble-rubato.de">
+	<target host="ensemble-rubato.de" />
+	<target host="www.ensemble-rubato.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

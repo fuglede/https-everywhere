@@ -1,0 +1,6 @@
+<ruleset name="Easypv.ch">
+	<target host="easypv.ch" />
+	<target host="www.easypv.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

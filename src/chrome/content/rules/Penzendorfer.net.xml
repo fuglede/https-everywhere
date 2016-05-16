@@ -1,0 +1,6 @@
+<ruleset name="Penzendorfer.net">
+	<target host="penzendorfer.net" />
+	<target host="www.penzendorfer.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

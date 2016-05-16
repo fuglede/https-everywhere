@@ -1,0 +1,6 @@
+<ruleset name="Trackchair.com">
+	<target host="trackchair.com" />
+	<target host="www.trackchair.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

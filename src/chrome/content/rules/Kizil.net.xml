@@ -1,0 +1,6 @@
+<ruleset name="Kizil.net">
+	<target host="kizil.net" />
+	<target host="www.kizil.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Simod.org">
+	<target host="simod.org" />
+	<target host="www.simod.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

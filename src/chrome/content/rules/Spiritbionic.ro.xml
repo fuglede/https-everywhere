@@ -1,0 +1,6 @@
+<ruleset name="Spiritbionic.ro">
+	<target host="spiritbionic.ro" />
+	<target host="www.spiritbionic.ro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

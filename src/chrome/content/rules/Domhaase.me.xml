@@ -1,0 +1,6 @@
+<ruleset name="Domhaase.me">
+	<target host="domhaase.me" />
+	<target host="www.domhaase.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

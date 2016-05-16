@@ -1,0 +1,6 @@
+<ruleset name="Storytellingengine.com">
+	<target host="storytellingengine.com" />
+	<target host="www.storytellingengine.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

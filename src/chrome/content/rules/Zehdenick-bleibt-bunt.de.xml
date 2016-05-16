@@ -1,0 +1,6 @@
+<ruleset name="Zehdenick-bleibt-bunt.de">
+	<target host="zehdenick-bleibt-bunt.de" />
+	<target host="www.zehdenick-bleibt-bunt.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

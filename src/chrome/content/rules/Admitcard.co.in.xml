@@ -1,0 +1,6 @@
+<ruleset name="Admitcard.co.in">
+	<target host="admitcard.co.in" />
+	<target host="www.admitcard.co.in" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

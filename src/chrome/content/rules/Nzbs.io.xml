@@ -1,0 +1,6 @@
+<ruleset name="Nzbs.io">
+	<target host="nzbs.io" />
+	<target host="www.nzbs.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="3s-hosting.de">
+	<target host="3s-hosting.de" />
+	<target host="www.3s-hosting.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

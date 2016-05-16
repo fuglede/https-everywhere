@@ -1,0 +1,6 @@
+<ruleset name="Familjenm.se">
+	<target host="familjenm.se" />
+	<target host="www.familjenm.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

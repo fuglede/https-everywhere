@@ -1,0 +1,6 @@
+<ruleset name="Hexony.com">
+	<target host="hexony.com" />
+	<target host="www.hexony.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

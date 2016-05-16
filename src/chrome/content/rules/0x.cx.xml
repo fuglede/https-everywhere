@@ -1,0 +1,6 @@
+<ruleset name="0x.cx">
+	<target host="0x.cx" />
+	<target host="www.0x.cx" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

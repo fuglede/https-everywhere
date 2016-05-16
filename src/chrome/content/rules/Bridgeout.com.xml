@@ -1,0 +1,6 @@
+<ruleset name="Bridgeout.com">
+	<target host="bridgeout.com" />
+	<target host="www.bridgeout.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

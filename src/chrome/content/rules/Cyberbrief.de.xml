@@ -1,0 +1,6 @@
+<ruleset name="Cyberbrief.de">
+	<target host="cyberbrief.de" />
+	<target host="www.cyberbrief.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

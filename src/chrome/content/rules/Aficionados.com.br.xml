@@ -1,0 +1,6 @@
+<ruleset name="Aficionados.com.br">
+	<target host="aficionados.com.br" />
+	<target host="www.aficionados.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

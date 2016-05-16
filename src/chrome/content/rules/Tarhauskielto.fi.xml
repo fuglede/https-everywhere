@@ -1,0 +1,6 @@
+<ruleset name="Tarhauskielto.fi">
+	<target host="tarhauskielto.fi" />
+	<target host="www.tarhauskielto.fi" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

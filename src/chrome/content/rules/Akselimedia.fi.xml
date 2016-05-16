@@ -1,0 +1,6 @@
+<ruleset name="Akselimedia.fi">
+	<target host="akselimedia.fi" />
+	<target host="www.akselimedia.fi" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

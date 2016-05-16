@@ -1,0 +1,6 @@
+<ruleset name="Digitalehandtekeningen.nl">
+	<target host="digitalehandtekeningen.nl" />
+	<target host="www.digitalehandtekeningen.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

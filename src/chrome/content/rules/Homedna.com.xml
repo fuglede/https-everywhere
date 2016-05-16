@@ -1,0 +1,6 @@
+<ruleset name="Homedna.com">
+	<target host="homedna.com" />
+	<target host="www.homedna.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

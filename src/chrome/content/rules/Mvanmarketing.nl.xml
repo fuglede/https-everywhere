@@ -1,0 +1,6 @@
+<ruleset name="Mvanmarketing.nl">
+	<target host="mvanmarketing.nl" />
+	<target host="www.mvanmarketing.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

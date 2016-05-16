@@ -1,0 +1,6 @@
+<ruleset name="Subdimension.org">
+	<target host="subdimension.org" />
+	<target host="www.subdimension.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

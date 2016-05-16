@@ -1,0 +1,6 @@
+<ruleset name="Firstforex.co.uk">
+	<target host="firstforex.co.uk" />
+	<target host="www.firstforex.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

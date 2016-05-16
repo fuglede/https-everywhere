@@ -1,0 +1,6 @@
+<ruleset name="Therapyportal.com">
+	<target host="therapyportal.com" />
+	<target host="www.therapyportal.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

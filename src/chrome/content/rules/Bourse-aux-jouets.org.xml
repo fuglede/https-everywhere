@@ -1,0 +1,6 @@
+<ruleset name="Bourse-aux-jouets.org">
+	<target host="bourse-aux-jouets.org" />
+	<target host="www.bourse-aux-jouets.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

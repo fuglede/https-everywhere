@@ -1,0 +1,6 @@
+<ruleset name="Tenni.xyz">
+	<target host="tenni.xyz" />
+	<target host="www.tenni.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

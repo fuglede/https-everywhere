@@ -1,0 +1,6 @@
+<ruleset name="Acslimited.co.uk">
+	<target host="acslimited.co.uk" />
+	<target host="www.acslimited.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Kirinas.com">
+	<target host="kirinas.com" />
+	<target host="www.kirinas.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

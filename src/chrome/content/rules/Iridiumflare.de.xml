@@ -1,0 +1,6 @@
+<ruleset name="Iridiumflare.de">
+	<target host="iridiumflare.de" />
+	<target host="www.iridiumflare.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

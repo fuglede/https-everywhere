@@ -1,0 +1,6 @@
+<ruleset name="Storvann.net">
+	<target host="storvann.net" />
+	<target host="www.storvann.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

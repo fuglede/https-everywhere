@@ -1,0 +1,6 @@
+<ruleset name="Timhansen.io">
+	<target host="timhansen.io" />
+	<target host="www.timhansen.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

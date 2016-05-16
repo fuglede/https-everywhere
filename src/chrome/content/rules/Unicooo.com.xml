@@ -1,0 +1,6 @@
+<ruleset name="Unicooo.com">
+	<target host="unicooo.com" />
+	<target host="www.unicooo.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

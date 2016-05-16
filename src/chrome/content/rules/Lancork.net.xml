@@ -1,0 +1,6 @@
+<ruleset name="Lancork.net">
+	<target host="lancork.net" />
+	<target host="www.lancork.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

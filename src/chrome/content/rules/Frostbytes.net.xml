@@ -1,0 +1,6 @@
+<ruleset name="Frostbytes.net">
+	<target host="frostbytes.net" />
+	<target host="www.frostbytes.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Trunkjunk.co">
+	<target host="trunkjunk.co" />
+	<target host="www.trunkjunk.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

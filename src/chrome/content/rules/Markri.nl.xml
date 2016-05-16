@@ -1,0 +1,6 @@
+<ruleset name="Markri.nl">
+	<target host="markri.nl" />
+	<target host="www.markri.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

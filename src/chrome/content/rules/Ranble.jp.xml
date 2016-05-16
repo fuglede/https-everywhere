@@ -1,0 +1,6 @@
+<ruleset name="Ranble.jp">
+	<target host="ranble.jp" />
+	<target host="www.ranble.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

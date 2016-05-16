@@ -1,0 +1,6 @@
+<ruleset name="Saamhorigheidsfonds.nl">
+	<target host="saamhorigheidsfonds.nl" />
+	<target host="www.saamhorigheidsfonds.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

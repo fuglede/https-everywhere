@@ -1,0 +1,6 @@
+<ruleset name="Hexicurity.com">
+	<target host="hexicurity.com" />
+	<target host="www.hexicurity.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

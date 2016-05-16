@@ -1,0 +1,6 @@
+<ruleset name="Miss-mie.de">
+	<target host="miss-mie.de" />
+	<target host="www.miss-mie.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Partnerbeam.com">
+	<target host="partnerbeam.com" />
+	<target host="www.partnerbeam.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

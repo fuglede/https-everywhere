@@ -1,0 +1,6 @@
+<ruleset name="Nemesis-corp.eu">
+	<target host="nemesis-corp.eu" />
+	<target host="www.nemesis-corp.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

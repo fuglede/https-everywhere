@@ -1,0 +1,6 @@
+<ruleset name="Geterp.ru">
+	<target host="geterp.ru" />
+	<target host="www.geterp.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

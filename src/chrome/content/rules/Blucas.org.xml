@@ -1,0 +1,6 @@
+<ruleset name="Blucas.org">
+	<target host="blucas.org" />
+	<target host="www.blucas.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

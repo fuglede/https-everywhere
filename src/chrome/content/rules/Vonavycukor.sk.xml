@@ -1,0 +1,6 @@
+<ruleset name="Vonavycukor.sk">
+	<target host="vonavycukor.sk" />
+	<target host="www.vonavycukor.sk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

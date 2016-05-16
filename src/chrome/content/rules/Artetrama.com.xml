@@ -1,0 +1,6 @@
+<ruleset name="Artetrama.com">
+	<target host="artetrama.com" />
+	<target host="www.artetrama.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

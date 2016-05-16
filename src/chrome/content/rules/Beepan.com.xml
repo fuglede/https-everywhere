@@ -1,0 +1,6 @@
+<ruleset name="Beepan.com">
+	<target host="beepan.com" />
+	<target host="www.beepan.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

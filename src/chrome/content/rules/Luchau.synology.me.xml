@@ -1,0 +1,6 @@
+<ruleset name="Luchau.synology.me">
+	<target host="luchau.synology.me" />
+	<target host="www.luchau.synology.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

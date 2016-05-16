@@ -1,0 +1,6 @@
+<ruleset name="Genyhitch.com">
+	<target host="genyhitch.com" />
+	<target host="www.genyhitch.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Softscheck.com">
+	<target host="softscheck.com" />
+	<target host="www.softscheck.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

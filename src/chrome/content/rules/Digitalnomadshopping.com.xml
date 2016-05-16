@@ -1,0 +1,6 @@
+<ruleset name="Digitalnomadshopping.com">
+	<target host="digitalnomadshopping.com" />
+	<target host="www.digitalnomadshopping.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

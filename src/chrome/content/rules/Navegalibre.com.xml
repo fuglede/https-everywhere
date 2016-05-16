@@ -1,0 +1,6 @@
+<ruleset name="Navegalibre.com">
+	<target host="navegalibre.com" />
+	<target host="www.navegalibre.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

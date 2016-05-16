@@ -1,0 +1,6 @@
+<ruleset name="Phongmay24h.com">
+	<target host="phongmay24h.com" />
+	<target host="www.phongmay24h.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

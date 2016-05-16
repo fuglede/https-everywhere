@@ -1,0 +1,6 @@
+<ruleset name="2wickl.de">
+	<target host="2wickl.de" />
+	<target host="www.2wickl.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

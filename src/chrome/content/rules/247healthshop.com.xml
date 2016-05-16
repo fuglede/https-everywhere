@@ -1,0 +1,6 @@
+<ruleset name="247healthshop.com">
+	<target host="247healthshop.com" />
+	<target host="www.247healthshop.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

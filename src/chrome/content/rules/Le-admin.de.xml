@@ -1,0 +1,6 @@
+<ruleset name="Le-admin.de">
+	<target host="le-admin.de" />
+	<target host="www.le-admin.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

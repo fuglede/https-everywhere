@@ -1,0 +1,6 @@
+<ruleset name="Intranetsec.fr">
+	<target host="intranetsec.fr" />
+	<target host="www.intranetsec.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Zyf.pw">
+	<target host="zyf.pw" />
+	<target host="www.zyf.pw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

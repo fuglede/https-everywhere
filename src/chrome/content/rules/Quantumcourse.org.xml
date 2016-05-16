@@ -1,0 +1,6 @@
+<ruleset name="Quantumcourse.org">
+	<target host="quantumcourse.org" />
+	<target host="www.quantumcourse.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

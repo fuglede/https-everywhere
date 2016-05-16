@@ -1,0 +1,6 @@
+<ruleset name="Cdndepo.com">
+	<target host="cdndepo.com" />
+	<target host="www.cdndepo.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

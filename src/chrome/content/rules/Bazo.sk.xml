@@ -1,0 +1,6 @@
+<ruleset name="Bazo.sk">
+	<target host="bazo.sk" />
+	<target host="www.bazo.sk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Graavaapi.elasticbeanstalk.com">
+	<target host="graavaapi.elasticbeanstalk.com" />
+	<target host="www.graavaapi.elasticbeanstalk.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

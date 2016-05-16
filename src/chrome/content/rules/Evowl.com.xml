@@ -1,0 +1,6 @@
+<ruleset name="Evowl.com">
+	<target host="evowl.com" />
+	<target host="www.evowl.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Michasfahrschule.com">
+	<target host="michasfahrschule.com" />
+	<target host="www.michasfahrschule.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

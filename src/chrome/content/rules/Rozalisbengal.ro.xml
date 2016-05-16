@@ -1,0 +1,6 @@
+<ruleset name="Rozalisbengal.ro">
+	<target host="rozalisbengal.ro" />
+	<target host="www.rozalisbengal.ro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Pass2u.net">
+	<target host="pass2u.net" />
+	<target host="www.pass2u.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

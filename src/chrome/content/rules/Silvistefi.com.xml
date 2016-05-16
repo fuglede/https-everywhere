@@ -1,0 +1,6 @@
+<ruleset name="Silvistefi.com">
+	<target host="silvistefi.com" />
+	<target host="www.silvistefi.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

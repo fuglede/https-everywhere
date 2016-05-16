@@ -1,0 +1,6 @@
+<ruleset name="Matrix.ac">
+	<target host="matrix.ac" />
+	<target host="www.matrix.ac" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

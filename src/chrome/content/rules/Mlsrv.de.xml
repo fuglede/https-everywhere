@@ -1,0 +1,6 @@
+<ruleset name="Mlsrv.de">
+	<target host="mlsrv.de" />
+	<target host="www.mlsrv.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

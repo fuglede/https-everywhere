@@ -1,0 +1,6 @@
+<ruleset name="Simplystoves.ltd.uk">
+	<target host="simplystoves.ltd.uk" />
+	<target host="www.simplystoves.ltd.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

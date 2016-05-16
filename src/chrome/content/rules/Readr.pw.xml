@@ -1,0 +1,6 @@
+<ruleset name="Readr.pw">
+	<target host="readr.pw" />
+	<target host="www.readr.pw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Extremenetworking.net">
+	<target host="extremenetworking.net" />
+	<target host="www.extremenetworking.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Epicwalnutcreek.com">
+	<target host="epicwalnutcreek.com" />
+	<target host="www.epicwalnutcreek.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

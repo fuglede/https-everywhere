@@ -1,0 +1,6 @@
+<ruleset name="Regalosymuestrasgratis.com">
+	<target host="regalosymuestrasgratis.com" />
+	<target host="www.regalosymuestrasgratis.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

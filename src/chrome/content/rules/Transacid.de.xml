@@ -1,0 +1,6 @@
+<ruleset name="Transacid.de">
+	<target host="transacid.de" />
+	<target host="www.transacid.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

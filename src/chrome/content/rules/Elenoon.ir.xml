@@ -1,0 +1,6 @@
+<ruleset name="Elenoon.ir">
+	<target host="elenoon.ir" />
+	<target host="www.elenoon.ir" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

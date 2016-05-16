@@ -1,0 +1,6 @@
+<ruleset name="Kana.me">
+	<target host="kana.me" />
+	<target host="www.kana.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Data.haus">
+	<target host="data.haus" />
+	<target host="www.data.haus" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

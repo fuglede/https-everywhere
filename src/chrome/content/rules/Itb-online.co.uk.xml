@@ -1,0 +1,6 @@
+<ruleset name="Itb-online.co.uk">
+	<target host="itb-online.co.uk" />
+	<target host="www.itb-online.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

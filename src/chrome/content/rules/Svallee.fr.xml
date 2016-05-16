@@ -1,0 +1,6 @@
+<ruleset name="Svallee.fr">
+	<target host="svallee.fr" />
+	<target host="www.svallee.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

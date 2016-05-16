@@ -1,0 +1,6 @@
+<ruleset name="Innovaptor.at">
+	<target host="innovaptor.at" />
+	<target host="www.innovaptor.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

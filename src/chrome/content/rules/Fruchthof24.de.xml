@@ -1,0 +1,6 @@
+<ruleset name="Fruchthof24.de">
+	<target host="fruchthof24.de" />
+	<target host="www.fruchthof24.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

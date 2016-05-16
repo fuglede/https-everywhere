@@ -1,0 +1,6 @@
+<ruleset name="Paragreen.net">
+	<target host="paragreen.net" />
+	<target host="www.paragreen.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

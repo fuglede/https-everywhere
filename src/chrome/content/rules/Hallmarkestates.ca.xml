@@ -1,0 +1,6 @@
+<ruleset name="Hallmarkestates.ca">
+	<target host="hallmarkestates.ca" />
+	<target host="www.hallmarkestates.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

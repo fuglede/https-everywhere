@@ -1,0 +1,6 @@
+<ruleset name="E-teacher.pl">
+	<target host="e-teacher.pl" />
+	<target host="www.e-teacher.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

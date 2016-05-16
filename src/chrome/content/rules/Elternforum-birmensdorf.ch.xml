@@ -1,0 +1,6 @@
+<ruleset name="Elternforum-birmensdorf.ch">
+	<target host="elternforum-birmensdorf.ch" />
+	<target host="www.elternforum-birmensdorf.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

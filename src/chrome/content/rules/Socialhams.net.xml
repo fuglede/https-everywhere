@@ -1,0 +1,6 @@
+<ruleset name="Socialhams.net">
+	<target host="socialhams.net" />
+	<target host="www.socialhams.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

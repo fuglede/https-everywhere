@@ -1,0 +1,6 @@
+<ruleset name="Marketingmonster.club">
+	<target host="marketingmonster.club" />
+	<target host="www.marketingmonster.club" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Tahf.net">
+	<target host="tahf.net" />
+	<target host="www.tahf.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

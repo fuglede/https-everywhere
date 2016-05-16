@@ -1,0 +1,6 @@
+<ruleset name="Evantageglobal.com">
+	<target host="evantageglobal.com" />
+	<target host="www.evantageglobal.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

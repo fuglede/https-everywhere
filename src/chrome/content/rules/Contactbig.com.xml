@@ -1,0 +1,6 @@
+<ruleset name="Contactbig.com">
+	<target host="contactbig.com" />
+	<target host="www.contactbig.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

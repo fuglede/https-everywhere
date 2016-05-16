@@ -1,0 +1,6 @@
+<ruleset name="Chromebookchart.com">
+	<target host="chromebookchart.com" />
+	<target host="www.chromebookchart.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Haurumcraft.net">
+	<target host="haurumcraft.net" />
+	<target host="www.haurumcraft.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

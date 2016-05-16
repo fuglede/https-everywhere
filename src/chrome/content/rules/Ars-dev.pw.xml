@@ -1,0 +1,6 @@
+<ruleset name="Ars-dev.pw">
+	<target host="ars-dev.pw" />
+	<target host="www.ars-dev.pw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

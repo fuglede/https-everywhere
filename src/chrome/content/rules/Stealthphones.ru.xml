@@ -1,0 +1,6 @@
+<ruleset name="Stealthphones.ru">
+	<target host="stealthphones.ru" />
+	<target host="www.stealthphones.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

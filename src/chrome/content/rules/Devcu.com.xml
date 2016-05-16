@@ -1,0 +1,6 @@
+<ruleset name="Devcu.com">
+	<target host="devcu.com" />
+	<target host="www.devcu.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

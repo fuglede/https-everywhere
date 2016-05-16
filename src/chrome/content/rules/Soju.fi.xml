@@ -1,0 +1,6 @@
+<ruleset name="Soju.fi">
+	<target host="soju.fi" />
+	<target host="www.soju.fi" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

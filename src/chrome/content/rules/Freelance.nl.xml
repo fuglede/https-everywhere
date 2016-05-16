@@ -1,0 +1,6 @@
+<ruleset name="Freelance.nl">
+	<target host="freelance.nl" />
+	<target host="www.freelance.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Onvori.com">
+	<target host="onvori.com" />
+	<target host="www.onvori.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Metis.pw">
+	<target host="metis.pw" />
+	<target host="www.metis.pw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

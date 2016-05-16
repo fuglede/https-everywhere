@@ -1,0 +1,6 @@
+<ruleset name="Cu-it.de">
+	<target host="cu-it.de" />
+	<target host="www.cu-it.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

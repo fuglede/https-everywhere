@@ -1,0 +1,6 @@
+<ruleset name="Threedpro.me">
+	<target host="threedpro.me" />
+	<target host="www.threedpro.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

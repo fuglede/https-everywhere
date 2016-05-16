@@ -1,0 +1,6 @@
+<ruleset name="Pinbits.com">
+	<target host="pinbits.com" />
+	<target host="www.pinbits.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

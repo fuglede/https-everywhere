@@ -1,0 +1,6 @@
+<ruleset name="Rsauget.fr">
+	<target host="rsauget.fr" />
+	<target host="www.rsauget.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

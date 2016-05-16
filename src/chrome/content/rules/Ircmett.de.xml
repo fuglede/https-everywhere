@@ -1,0 +1,6 @@
+<ruleset name="Ircmett.de">
+	<target host="ircmett.de" />
+	<target host="www.ircmett.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

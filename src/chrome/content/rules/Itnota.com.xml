@@ -1,0 +1,6 @@
+<ruleset name="Itnota.com">
+	<target host="itnota.com" />
+	<target host="www.itnota.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

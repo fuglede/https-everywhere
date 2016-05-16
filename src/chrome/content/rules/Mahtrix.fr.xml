@@ -1,0 +1,6 @@
+<ruleset name="Mahtrix.fr">
+	<target host="mahtrix.fr" />
+	<target host="www.mahtrix.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

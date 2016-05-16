@@ -1,0 +1,6 @@
+<ruleset name="Crumbcontrol.com">
+	<target host="crumbcontrol.com" />
+	<target host="www.crumbcontrol.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

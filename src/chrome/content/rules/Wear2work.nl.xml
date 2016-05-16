@@ -1,0 +1,6 @@
+<ruleset name="Wear2work.nl">
+	<target host="wear2work.nl" />
+	<target host="www.wear2work.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

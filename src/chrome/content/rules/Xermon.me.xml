@@ -1,0 +1,6 @@
+<ruleset name="Xermon.me">
+	<target host="xermon.me" />
+	<target host="www.xermon.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

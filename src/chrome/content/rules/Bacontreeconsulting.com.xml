@@ -1,0 +1,6 @@
+<ruleset name="Bacontreeconsulting.com">
+	<target host="bacontreeconsulting.com" />
+	<target host="www.bacontreeconsulting.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

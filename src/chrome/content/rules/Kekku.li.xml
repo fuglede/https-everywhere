@@ -1,0 +1,6 @@
+<ruleset name="Kekku.li">
+	<target host="kekku.li" />
+	<target host="www.kekku.li" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Lost-pvp.de">
+	<target host="lost-pvp.de" />
+	<target host="www.lost-pvp.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

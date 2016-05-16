@@ -1,0 +1,6 @@
+<ruleset name="Bakabt.info">
+	<target host="bakabt.info" />
+	<target host="www.bakabt.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

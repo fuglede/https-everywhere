@@ -1,0 +1,6 @@
+<ruleset name="Rcafox.com">
+	<target host="rcafox.com" />
+	<target host="www.rcafox.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

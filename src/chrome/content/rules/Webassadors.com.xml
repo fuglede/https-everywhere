@@ -1,0 +1,6 @@
+<ruleset name="Webassadors.com">
+	<target host="webassadors.com" />
+	<target host="www.webassadors.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Japan-foods.co.uk">
+	<target host="japan-foods.co.uk" />
+	<target host="www.japan-foods.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

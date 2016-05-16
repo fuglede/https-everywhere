@@ -1,0 +1,6 @@
+<ruleset name="Lgts.se">
+	<target host="lgts.se" />
+	<target host="www.lgts.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

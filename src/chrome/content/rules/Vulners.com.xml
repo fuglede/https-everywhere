@@ -1,0 +1,6 @@
+<ruleset name="Vulners.com">
+	<target host="vulners.com" />
+	<target host="www.vulners.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

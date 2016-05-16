@@ -1,0 +1,6 @@
+<ruleset name="Effortlesshr.com">
+	<target host="effortlesshr.com" />
+	<target host="www.effortlesshr.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

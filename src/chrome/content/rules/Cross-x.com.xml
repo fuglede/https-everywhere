@@ -1,0 +1,6 @@
+<ruleset name="Cross-x.com">
+	<target host="cross-x.com" />
+	<target host="www.cross-x.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

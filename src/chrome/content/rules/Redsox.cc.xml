@@ -1,0 +1,6 @@
+<ruleset name="Redsox.cc">
+	<target host="redsox.cc" />
+	<target host="www.redsox.cc" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

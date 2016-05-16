@@ -1,0 +1,6 @@
+<ruleset name="8t8.eu">
+	<target host="8t8.eu" />
+	<target host="www.8t8.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

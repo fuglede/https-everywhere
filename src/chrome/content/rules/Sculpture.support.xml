@@ -1,0 +1,6 @@
+<ruleset name="Sculpture.support">
+	<target host="sculpture.support" />
+	<target host="www.sculpture.support" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Mintrak2.com">
+	<target host="mintrak2.com" />
+	<target host="www.mintrak2.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

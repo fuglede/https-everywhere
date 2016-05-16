@@ -1,0 +1,6 @@
+<ruleset name="Biolindo.com">
+	<target host="biolindo.com" />
+	<target host="www.biolindo.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Lagalerievirtuelle.fr">
+	<target host="lagalerievirtuelle.fr" />
+	<target host="www.lagalerievirtuelle.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

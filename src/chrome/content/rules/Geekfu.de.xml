@@ -1,0 +1,6 @@
+<ruleset name="Geekfu.de">
+	<target host="geekfu.de" />
+	<target host="www.geekfu.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

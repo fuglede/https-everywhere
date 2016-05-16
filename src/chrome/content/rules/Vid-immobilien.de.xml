@@ -1,0 +1,6 @@
+<ruleset name="Vid-immobilien.de">
+	<target host="vid-immobilien.de" />
+	<target host="www.vid-immobilien.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

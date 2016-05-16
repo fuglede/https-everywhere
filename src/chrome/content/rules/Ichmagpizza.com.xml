@@ -1,0 +1,6 @@
+<ruleset name="Ichmagpizza.com">
+	<target host="ichmagpizza.com" />
+	<target host="www.ichmagpizza.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

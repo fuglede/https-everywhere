@@ -1,0 +1,6 @@
+<ruleset name="Transformify.org">
+	<target host="transformify.org" />
+	<target host="www.transformify.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

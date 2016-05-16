@@ -1,0 +1,6 @@
+<ruleset name="Chestnut.cf">
+	<target host="chestnut.cf" />
+	<target host="www.chestnut.cf" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

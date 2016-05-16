@@ -1,0 +1,6 @@
+<ruleset name="Flags.ninja">
+	<target host="flags.ninja" />
+	<target host="www.flags.ninja" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

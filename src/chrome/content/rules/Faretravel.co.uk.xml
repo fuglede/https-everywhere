@@ -1,0 +1,6 @@
+<ruleset name="Faretravel.co.uk">
+	<target host="faretravel.co.uk" />
+	<target host="www.faretravel.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Wear2gym.co.uk">
+	<target host="wear2gym.co.uk" />
+	<target host="www.wear2gym.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

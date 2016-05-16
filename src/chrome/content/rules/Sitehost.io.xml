@@ -1,0 +1,6 @@
+<ruleset name="Sitehost.io">
+	<target host="sitehost.io" />
+	<target host="www.sitehost.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Svarovani.tk">
+	<target host="svarovani.tk" />
+	<target host="www.svarovani.tk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

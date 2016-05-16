@@ -1,0 +1,6 @@
+<ruleset name="Norrliden.de">
+	<target host="norrliden.de" />
+	<target host="www.norrliden.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

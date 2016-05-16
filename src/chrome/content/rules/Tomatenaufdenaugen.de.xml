@@ -1,0 +1,6 @@
+<ruleset name="Tomatenaufdenaugen.de">
+	<target host="tomatenaufdenaugen.de" />
+	<target host="www.tomatenaufdenaugen.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

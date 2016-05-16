@@ -1,0 +1,6 @@
+<ruleset name="Suprlink.net">
+	<target host="suprlink.net" />
+	<target host="www.suprlink.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

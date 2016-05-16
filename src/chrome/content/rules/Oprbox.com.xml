@@ -1,0 +1,6 @@
+<ruleset name="Oprbox.com">
+	<target host="oprbox.com" />
+	<target host="www.oprbox.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

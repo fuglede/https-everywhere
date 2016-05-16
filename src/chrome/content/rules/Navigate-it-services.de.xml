@@ -1,0 +1,6 @@
+<ruleset name="Navigate-it-services.de">
+	<target host="navigate-it-services.de" />
+	<target host="www.navigate-it-services.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

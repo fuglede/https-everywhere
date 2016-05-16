@@ -1,0 +1,6 @@
+<ruleset name="Anakwarik.id">
+	<target host="anakwarik.id" />
+	<target host="www.anakwarik.id" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

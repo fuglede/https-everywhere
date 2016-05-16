@@ -1,0 +1,6 @@
+<ruleset name="Mailfence.com">
+	<target host="mailfence.com" />
+	<target host="www.mailfence.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

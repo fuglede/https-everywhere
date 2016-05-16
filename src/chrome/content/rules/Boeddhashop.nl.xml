@@ -1,0 +1,6 @@
+<ruleset name="Boeddhashop.nl">
+	<target host="boeddhashop.nl" />
+	<target host="www.boeddhashop.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

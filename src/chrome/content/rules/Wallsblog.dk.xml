@@ -1,0 +1,6 @@
+<ruleset name="Wallsblog.dk">
+	<target host="wallsblog.dk" />
+	<target host="www.wallsblog.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

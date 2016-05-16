@@ -1,0 +1,6 @@
+<ruleset name="Xbind.io">
+	<target host="xbind.io" />
+	<target host="www.xbind.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

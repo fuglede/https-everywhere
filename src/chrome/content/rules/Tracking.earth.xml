@@ -1,0 +1,6 @@
+<ruleset name="Tracking.earth">
+	<target host="tracking.earth" />
+	<target host="www.tracking.earth" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

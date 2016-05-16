@@ -1,0 +1,6 @@
+<ruleset name="Transfigurewizard.com">
+	<target host="transfigurewizard.com" />
+	<target host="www.transfigurewizard.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

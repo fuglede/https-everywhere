@@ -1,0 +1,6 @@
+<ruleset name="Pulsangebut.com">
+	<target host="pulsangebut.com" />
+	<target host="www.pulsangebut.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

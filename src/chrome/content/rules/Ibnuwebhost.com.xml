@@ -1,0 +1,6 @@
+<ruleset name="Ibnuwebhost.com">
+	<target host="ibnuwebhost.com" />
+	<target host="www.ibnuwebhost.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

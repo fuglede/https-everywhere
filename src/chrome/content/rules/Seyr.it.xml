@@ -1,0 +1,6 @@
+<ruleset name="Seyr.it">
+	<target host="seyr.it" />
+	<target host="www.seyr.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

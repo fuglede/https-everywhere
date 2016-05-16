@@ -1,0 +1,6 @@
+<ruleset name="Lavabit.no">
+	<target host="lavabit.no" />
+	<target host="www.lavabit.no" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

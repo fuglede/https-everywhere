@@ -1,0 +1,6 @@
+<ruleset name="Solidus.systems">
+	<target host="solidus.systems" />
+	<target host="www.solidus.systems" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

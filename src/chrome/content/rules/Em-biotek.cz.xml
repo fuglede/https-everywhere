@@ -1,0 +1,6 @@
+<ruleset name="Em-biotek.cz">
+	<target host="em-biotek.cz" />
+	<target host="www.em-biotek.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Zakmccrac.de">
+	<target host="zakmccrac.de" />
+	<target host="www.zakmccrac.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

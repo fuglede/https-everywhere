@@ -1,0 +1,6 @@
+<ruleset name="Dspyder.com">
+	<target host="dspyder.com" />
+	<target host="www.dspyder.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

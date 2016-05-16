@@ -1,0 +1,6 @@
+<ruleset name="Nja.id.au">
+	<target host="nja.id.au" />
+	<target host="www.nja.id.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

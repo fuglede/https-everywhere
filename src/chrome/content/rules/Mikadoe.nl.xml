@@ -1,0 +1,6 @@
+<ruleset name="Mikadoe.nl">
+	<target host="mikadoe.nl" />
+	<target host="www.mikadoe.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

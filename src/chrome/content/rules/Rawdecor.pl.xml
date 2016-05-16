@@ -1,0 +1,6 @@
+<ruleset name="Rawdecor.pl">
+	<target host="rawdecor.pl" />
+	<target host="www.rawdecor.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

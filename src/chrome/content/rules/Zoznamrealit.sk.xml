@@ -1,0 +1,6 @@
+<ruleset name="Zoznamrealit.sk">
+	<target host="zoznamrealit.sk" />
+	<target host="www.zoznamrealit.sk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Sattrans.net">
+	<target host="sattrans.net" />
+	<target host="www.sattrans.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

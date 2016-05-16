@@ -1,0 +1,6 @@
+<ruleset name="Structurally.net">
+	<target host="structurally.net" />
+	<target host="www.structurally.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

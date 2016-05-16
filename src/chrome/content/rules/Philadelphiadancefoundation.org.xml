@@ -1,0 +1,6 @@
+<ruleset name="Philadelphiadancefoundation.org">
+	<target host="philadelphiadancefoundation.org" />
+	<target host="www.philadelphiadancefoundation.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

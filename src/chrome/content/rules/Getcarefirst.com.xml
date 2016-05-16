@@ -1,0 +1,6 @@
+<ruleset name="Getcarefirst.com">
+	<target host="getcarefirst.com" />
+	<target host="www.getcarefirst.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

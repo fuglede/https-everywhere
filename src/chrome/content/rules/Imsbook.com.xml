@@ -1,0 +1,6 @@
+<ruleset name="Imsbook.com">
+	<target host="imsbook.com" />
+	<target host="www.imsbook.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

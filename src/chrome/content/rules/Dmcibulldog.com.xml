@@ -1,0 +1,6 @@
+<ruleset name="Dmcibulldog.com">
+	<target host="dmcibulldog.com" />
+	<target host="www.dmcibulldog.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

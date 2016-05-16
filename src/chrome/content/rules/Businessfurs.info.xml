@@ -1,0 +1,6 @@
+<ruleset name="Businessfurs.info">
+	<target host="businessfurs.info" />
+	<target host="www.businessfurs.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

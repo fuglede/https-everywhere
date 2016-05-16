@@ -1,0 +1,6 @@
+<ruleset name="Renderloop.com">
+	<target host="renderloop.com" />
+	<target host="www.renderloop.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

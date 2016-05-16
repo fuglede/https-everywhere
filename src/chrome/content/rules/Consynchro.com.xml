@@ -1,0 +1,6 @@
+<ruleset name="Consynchro.com">
+	<target host="consynchro.com" />
+	<target host="www.consynchro.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

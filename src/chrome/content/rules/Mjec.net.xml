@@ -1,0 +1,6 @@
+<ruleset name="Mjec.net">
+	<target host="mjec.net" />
+	<target host="www.mjec.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

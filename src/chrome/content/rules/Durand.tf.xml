@@ -1,0 +1,6 @@
+<ruleset name="Durand.tf">
+	<target host="durand.tf" />
+	<target host="www.durand.tf" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

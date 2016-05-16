@@ -1,0 +1,6 @@
+<ruleset name="Learningorder.com">
+	<target host="learningorder.com" />
+	<target host="www.learningorder.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

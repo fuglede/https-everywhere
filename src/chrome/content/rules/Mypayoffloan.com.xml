@@ -1,0 +1,6 @@
+<ruleset name="Mypayoffloan.com">
+	<target host="mypayoffloan.com" />
+	<target host="www.mypayoffloan.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

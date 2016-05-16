@@ -1,0 +1,6 @@
+<ruleset name="Enveloppenopmaat.nl">
+	<target host="enveloppenopmaat.nl" />
+	<target host="www.enveloppenopmaat.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Bitf.ly">
+	<target host="bitf.ly" />
+	<target host="www.bitf.ly" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

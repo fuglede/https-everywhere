@@ -1,0 +1,6 @@
+<ruleset name="Trustedinnovators.com">
+	<target host="trustedinnovators.com" />
+	<target host="www.trustedinnovators.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

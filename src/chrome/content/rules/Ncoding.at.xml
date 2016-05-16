@@ -1,0 +1,6 @@
+<ruleset name="Ncoding.at">
+	<target host="ncoding.at" />
+	<target host="www.ncoding.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

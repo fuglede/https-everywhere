@@ -1,0 +1,6 @@
+<ruleset name="Zbirna.com.ua">
+	<target host="zbirna.com.ua" />
+	<target host="www.zbirna.com.ua" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

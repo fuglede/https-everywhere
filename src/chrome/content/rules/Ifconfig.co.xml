@@ -1,0 +1,6 @@
+<ruleset name="Ifconfig.co">
+	<target host="ifconfig.co" />
+	<target host="www.ifconfig.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Ridder-server.de">
+	<target host="ridder-server.de" />
+	<target host="www.ridder-server.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Bremen-lacrosse.de">
+	<target host="bremen-lacrosse.de" />
+	<target host="www.bremen-lacrosse.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

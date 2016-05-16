@@ -1,0 +1,6 @@
+<ruleset name="Qcstudentcenter.com">
+	<target host="qcstudentcenter.com" />
+	<target host="www.qcstudentcenter.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

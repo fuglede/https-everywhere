@@ -1,0 +1,6 @@
+<ruleset name="Lamboo.be">
+	<target host="lamboo.be" />
+	<target host="www.lamboo.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

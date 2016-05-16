@@ -1,0 +1,6 @@
+<ruleset name="Pennergold.net">
+	<target host="pennergold.net" />
+	<target host="www.pennergold.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

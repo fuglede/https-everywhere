@@ -1,0 +1,6 @@
+<ruleset name="Pubreviews.com">
+	<target host="pubreviews.com" />
+	<target host="www.pubreviews.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

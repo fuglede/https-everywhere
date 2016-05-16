@@ -1,0 +1,6 @@
+<ruleset name="Die-speisekammer-reutlingen.de">
+	<target host="die-speisekammer-reutlingen.de" />
+	<target host="www.die-speisekammer-reutlingen.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

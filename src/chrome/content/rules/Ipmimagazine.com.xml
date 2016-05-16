@@ -1,0 +1,6 @@
+<ruleset name="Ipmimagazine.com">
+	<target host="ipmimagazine.com" />
+	<target host="www.ipmimagazine.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Optimista.soy">
+	<target host="optimista.soy" />
+	<target host="www.optimista.soy" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

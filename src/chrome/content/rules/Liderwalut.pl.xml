@@ -1,0 +1,6 @@
+<ruleset name="Liderwalut.pl">
+	<target host="liderwalut.pl" />
+	<target host="www.liderwalut.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

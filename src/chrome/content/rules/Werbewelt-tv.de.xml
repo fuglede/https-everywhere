@@ -1,0 +1,6 @@
+<ruleset name="Werbewelt-tv.de">
+	<target host="werbewelt-tv.de" />
+	<target host="www.werbewelt-tv.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

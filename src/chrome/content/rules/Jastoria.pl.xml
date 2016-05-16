@@ -1,0 +1,6 @@
+<ruleset name="Jastoria.pl">
+	<target host="jastoria.pl" />
+	<target host="www.jastoria.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

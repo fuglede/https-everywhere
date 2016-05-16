@@ -1,0 +1,6 @@
+<ruleset name="Datarank.com">
+	<target host="datarank.com" />
+	<target host="www.datarank.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

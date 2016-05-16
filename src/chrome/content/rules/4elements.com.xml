@@ -1,0 +1,6 @@
+<ruleset name="4elements.com">
+	<target host="4elements.com" />
+	<target host="www.4elements.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

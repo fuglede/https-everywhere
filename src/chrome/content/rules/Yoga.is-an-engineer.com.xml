@@ -1,0 +1,6 @@
+<ruleset name="Yoga.is-an-engineer.com">
+	<target host="yoga.is-an-engineer.com" />
+	<target host="www.yoga.is-an-engineer.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

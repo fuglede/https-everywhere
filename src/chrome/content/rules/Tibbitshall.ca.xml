@@ -1,0 +1,6 @@
+<ruleset name="Tibbitshall.ca">
+	<target host="tibbitshall.ca" />
+	<target host="www.tibbitshall.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Foraje-profesionale.ro">
+	<target host="foraje-profesionale.ro" />
+	<target host="www.foraje-profesionale.ro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

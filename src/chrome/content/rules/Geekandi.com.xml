@@ -1,0 +1,6 @@
+<ruleset name="Geekandi.com">
+	<target host="geekandi.com" />
+	<target host="www.geekandi.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

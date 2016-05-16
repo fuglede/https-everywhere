@@ -1,0 +1,6 @@
+<ruleset name="Kamobish.com">
+	<target host="kamobish.com" />
+	<target host="www.kamobish.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

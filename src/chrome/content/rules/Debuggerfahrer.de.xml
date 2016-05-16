@@ -1,0 +1,6 @@
+<ruleset name="Debuggerfahrer.de">
+	<target host="debuggerfahrer.de" />
+	<target host="www.debuggerfahrer.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

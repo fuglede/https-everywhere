@@ -1,0 +1,6 @@
+<ruleset name="Cogitoltd.com">
+	<target host="cogitoltd.com" />
+	<target host="www.cogitoltd.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

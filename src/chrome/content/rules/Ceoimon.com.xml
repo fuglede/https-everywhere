@@ -1,0 +1,6 @@
+<ruleset name="Ceoimon.com">
+	<target host="ceoimon.com" />
+	<target host="www.ceoimon.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

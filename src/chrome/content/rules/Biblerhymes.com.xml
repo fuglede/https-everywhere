@@ -1,0 +1,6 @@
+<ruleset name="Biblerhymes.com">
+	<target host="biblerhymes.com" />
+	<target host="www.biblerhymes.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

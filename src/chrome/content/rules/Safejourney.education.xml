@@ -1,0 +1,6 @@
+<ruleset name="Safejourney.education">
+	<target host="safejourney.education" />
+	<target host="www.safejourney.education" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Forkforge.net">
+	<target host="forkforge.net" />
+	<target host="www.forkforge.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

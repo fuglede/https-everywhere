@@ -1,0 +1,6 @@
+<ruleset name="Dietcetera.nl">
+	<target host="dietcetera.nl" />
+	<target host="www.dietcetera.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Sopwer.net">
+	<target host="sopwer.net" />
+	<target host="www.sopwer.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

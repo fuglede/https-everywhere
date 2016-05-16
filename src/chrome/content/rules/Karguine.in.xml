@@ -1,0 +1,6 @@
+<ruleset name="Karguine.in">
+	<target host="karguine.in" />
+	<target host="www.karguine.in" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

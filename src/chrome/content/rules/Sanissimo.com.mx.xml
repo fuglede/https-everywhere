@@ -1,0 +1,6 @@
+<ruleset name="Sanissimo.com.mx">
+	<target host="sanissimo.com.mx" />
+	<target host="www.sanissimo.com.mx" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

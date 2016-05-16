@@ -1,0 +1,6 @@
+<ruleset name="Persson.im">
+	<target host="persson.im" />
+	<target host="www.persson.im" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

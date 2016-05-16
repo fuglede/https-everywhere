@@ -1,0 +1,6 @@
+<ruleset name="Study-smart.net">
+	<target host="study-smart.net" />
+	<target host="www.study-smart.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

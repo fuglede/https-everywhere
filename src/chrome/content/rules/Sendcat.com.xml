@@ -1,0 +1,6 @@
+<ruleset name="Sendcat.com">
+	<target host="sendcat.com" />
+	<target host="www.sendcat.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Ynode.co">
+	<target host="ynode.co" />
+	<target host="www.ynode.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Hedgeschool.ie">
+	<target host="hedgeschool.ie" />
+	<target host="www.hedgeschool.ie" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

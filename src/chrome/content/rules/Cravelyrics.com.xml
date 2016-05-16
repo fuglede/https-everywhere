@@ -1,0 +1,6 @@
+<ruleset name="Cravelyrics.com">
+	<target host="cravelyrics.com" />
+	<target host="www.cravelyrics.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

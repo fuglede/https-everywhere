@@ -1,0 +1,6 @@
+<ruleset name="Jobmedic.com">
+	<target host="jobmedic.com" />
+	<target host="www.jobmedic.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

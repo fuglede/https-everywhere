@@ -1,0 +1,6 @@
+<ruleset name="Mansfieldplacevt.com">
+	<target host="mansfieldplacevt.com" />
+	<target host="www.mansfieldplacevt.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

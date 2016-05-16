@@ -1,0 +1,6 @@
+<ruleset name="Musictours.biz">
+	<target host="musictours.biz" />
+	<target host="www.musictours.biz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

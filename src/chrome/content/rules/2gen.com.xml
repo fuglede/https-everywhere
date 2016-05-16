@@ -1,0 +1,6 @@
+<ruleset name="2gen.com">
+	<target host="2gen.com" />
+	<target host="www.2gen.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

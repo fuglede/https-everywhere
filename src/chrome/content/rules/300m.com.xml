@@ -1,0 +1,6 @@
+<ruleset name="300m.com">
+	<target host="300m.com" />
+	<target host="www.300m.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

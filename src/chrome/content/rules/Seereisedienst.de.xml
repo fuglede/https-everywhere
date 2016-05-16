@@ -1,0 +1,6 @@
+<ruleset name="Seereisedienst.de">
+	<target host="seereisedienst.de" />
+	<target host="www.seereisedienst.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

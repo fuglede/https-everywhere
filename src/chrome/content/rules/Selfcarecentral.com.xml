@@ -1,0 +1,6 @@
+<ruleset name="Selfcarecentral.com">
+	<target host="selfcarecentral.com" />
+	<target host="www.selfcarecentral.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

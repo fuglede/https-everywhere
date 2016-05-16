@@ -1,0 +1,6 @@
+<ruleset name="Entpack.com">
+	<target host="entpack.com" />
+	<target host="www.entpack.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Clintonbloodworth.io">
+	<target host="clintonbloodworth.io" />
+	<target host="www.clintonbloodworth.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

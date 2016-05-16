@@ -1,0 +1,6 @@
+<ruleset name="Motivations.fr">
+	<target host="motivations.fr" />
+	<target host="www.motivations.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

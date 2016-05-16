@@ -1,0 +1,6 @@
+<ruleset name="Ownersplace.de">
+	<target host="ownersplace.de" />
+	<target host="www.ownersplace.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

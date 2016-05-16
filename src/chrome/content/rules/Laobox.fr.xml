@@ -1,0 +1,6 @@
+<ruleset name="Laobox.fr">
+	<target host="laobox.fr" />
+	<target host="www.laobox.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

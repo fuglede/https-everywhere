@@ -1,0 +1,6 @@
+<ruleset name="Er.dog">
+	<target host="er.dog" />
+	<target host="www.er.dog" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

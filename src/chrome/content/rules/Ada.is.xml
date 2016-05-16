@@ -1,0 +1,6 @@
+<ruleset name="Ada.is">
+	<target host="ada.is" />
+	<target host="www.ada.is" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

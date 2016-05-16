@@ -1,0 +1,6 @@
+<ruleset name="Fawkex.me">
+	<target host="fawkex.me" />
+	<target host="www.fawkex.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

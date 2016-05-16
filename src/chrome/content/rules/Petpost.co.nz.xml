@@ -1,0 +1,6 @@
+<ruleset name="Petpost.co.nz">
+	<target host="petpost.co.nz" />
+	<target host="www.petpost.co.nz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

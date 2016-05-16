@@ -1,0 +1,6 @@
+<ruleset name="Prodpad.com">
+	<target host="prodpad.com" />
+	<target host="www.prodpad.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Deathy.ro">
+	<target host="deathy.ro" />
+	<target host="www.deathy.ro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

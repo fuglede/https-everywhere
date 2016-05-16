@@ -1,0 +1,6 @@
+<ruleset name="Quantumfurball.net">
+	<target host="quantumfurball.net" />
+	<target host="www.quantumfurball.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

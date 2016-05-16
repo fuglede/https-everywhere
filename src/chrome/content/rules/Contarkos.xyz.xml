@@ -1,0 +1,6 @@
+<ruleset name="Contarkos.xyz">
+	<target host="contarkos.xyz" />
+	<target host="www.contarkos.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

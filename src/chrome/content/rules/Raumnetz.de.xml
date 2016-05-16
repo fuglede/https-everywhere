@@ -1,0 +1,6 @@
+<ruleset name="Raumnetz.de">
+	<target host="raumnetz.de" />
+	<target host="www.raumnetz.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

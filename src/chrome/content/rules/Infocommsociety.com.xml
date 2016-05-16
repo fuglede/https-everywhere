@@ -1,0 +1,6 @@
+<ruleset name="Infocommsociety.com">
+	<target host="infocommsociety.com" />
+	<target host="www.infocommsociety.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

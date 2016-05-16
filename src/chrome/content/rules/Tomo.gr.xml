@@ -1,0 +1,6 @@
+<ruleset name="Tomo.gr">
+	<target host="tomo.gr" />
+	<target host="www.tomo.gr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

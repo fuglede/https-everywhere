@@ -1,0 +1,6 @@
+<ruleset name="Wheeler.kiwi.nz">
+	<target host="wheeler.kiwi.nz" />
+	<target host="www.wheeler.kiwi.nz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

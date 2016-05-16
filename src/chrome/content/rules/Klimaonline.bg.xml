@@ -1,0 +1,6 @@
+<ruleset name="Klimaonline.bg">
+	<target host="klimaonline.bg" />
+	<target host="www.klimaonline.bg" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

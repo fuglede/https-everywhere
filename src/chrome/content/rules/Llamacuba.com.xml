@@ -1,0 +1,6 @@
+<ruleset name="Llamacuba.com">
+	<target host="llamacuba.com" />
+	<target host="www.llamacuba.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

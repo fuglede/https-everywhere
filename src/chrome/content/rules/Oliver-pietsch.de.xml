@@ -1,0 +1,6 @@
+<ruleset name="Oliver-pietsch.de">
+	<target host="oliver-pietsch.de" />
+	<target host="www.oliver-pietsch.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

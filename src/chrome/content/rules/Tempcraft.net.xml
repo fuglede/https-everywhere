@@ -1,0 +1,6 @@
+<ruleset name="Tempcraft.net">
+	<target host="tempcraft.net" />
+	<target host="www.tempcraft.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

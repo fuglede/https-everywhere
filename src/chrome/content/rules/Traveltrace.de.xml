@@ -1,0 +1,6 @@
+<ruleset name="Traveltrace.de">
+	<target host="traveltrace.de" />
+	<target host="www.traveltrace.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

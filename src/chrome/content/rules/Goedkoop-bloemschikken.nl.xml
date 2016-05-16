@@ -1,0 +1,6 @@
+<ruleset name="Goedkoop-bloemschikken.nl">
+	<target host="goedkoop-bloemschikken.nl" />
+	<target host="www.goedkoop-bloemschikken.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

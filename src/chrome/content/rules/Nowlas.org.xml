@@ -1,0 +1,6 @@
+<ruleset name="Nowlas.org">
+	<target host="nowlas.org" />
+	<target host="www.nowlas.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

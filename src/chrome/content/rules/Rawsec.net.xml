@@ -1,0 +1,6 @@
+<ruleset name="Rawsec.net">
+	<target host="rawsec.net" />
+	<target host="www.rawsec.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

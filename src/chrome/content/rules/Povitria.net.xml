@@ -1,0 +1,6 @@
+<ruleset name="Povitria.net">
+	<target host="povitria.net" />
+	<target host="www.povitria.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="4500.co.il">
+	<target host="4500.co.il" />
+	<target host="www.4500.co.il" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

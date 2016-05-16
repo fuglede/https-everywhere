@@ -1,0 +1,6 @@
+<ruleset name="Webtheapp.com">
+	<target host="webtheapp.com" />
+	<target host="www.webtheapp.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

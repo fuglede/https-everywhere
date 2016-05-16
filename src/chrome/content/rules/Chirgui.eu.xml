@@ -1,0 +1,6 @@
+<ruleset name="Chirgui.eu">
+	<target host="chirgui.eu" />
+	<target host="www.chirgui.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

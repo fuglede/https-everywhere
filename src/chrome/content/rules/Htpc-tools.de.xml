@@ -1,0 +1,6 @@
+<ruleset name="Htpc-tools.de">
+	<target host="htpc-tools.de" />
+	<target host="www.htpc-tools.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

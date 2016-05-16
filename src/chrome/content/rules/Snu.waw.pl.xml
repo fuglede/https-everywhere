@@ -1,0 +1,6 @@
+<ruleset name="Snu.waw.pl">
+	<target host="snu.waw.pl" />
+	<target host="www.snu.waw.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

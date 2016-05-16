@@ -1,0 +1,6 @@
+<ruleset name="Skigebiete-test.de">
+	<target host="skigebiete-test.de" />
+	<target host="www.skigebiete-test.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

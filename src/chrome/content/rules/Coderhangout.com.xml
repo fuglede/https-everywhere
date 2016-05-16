@@ -1,0 +1,6 @@
+<ruleset name="Coderhangout.com">
+	<target host="coderhangout.com" />
+	<target host="www.coderhangout.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

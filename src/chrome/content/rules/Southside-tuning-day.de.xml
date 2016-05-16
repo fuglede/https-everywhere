@@ -1,0 +1,6 @@
+<ruleset name="Southside-tuning-day.de">
+	<target host="southside-tuning-day.de" />
+	<target host="www.southside-tuning-day.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

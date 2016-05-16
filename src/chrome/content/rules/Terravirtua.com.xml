@@ -1,0 +1,6 @@
+<ruleset name="Terravirtua.com">
+	<target host="terravirtua.com" />
+	<target host="www.terravirtua.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

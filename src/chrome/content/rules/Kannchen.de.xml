@@ -1,0 +1,6 @@
+<ruleset name="Kannchen.de">
+	<target host="kannchen.de" />
+	<target host="www.kannchen.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

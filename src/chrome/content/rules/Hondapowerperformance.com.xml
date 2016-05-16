@@ -1,0 +1,6 @@
+<ruleset name="Hondapowerperformance.com">
+	<target host="hondapowerperformance.com" />
+	<target host="www.hondapowerperformance.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

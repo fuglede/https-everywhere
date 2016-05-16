@@ -1,0 +1,6 @@
+<ruleset name="Pointiswunderland.de">
+	<target host="pointiswunderland.de" />
+	<target host="www.pointiswunderland.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

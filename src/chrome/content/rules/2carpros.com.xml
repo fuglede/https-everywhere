@@ -1,0 +1,6 @@
+<ruleset name="2carpros.com">
+	<target host="2carpros.com" />
+	<target host="www.2carpros.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Lkummer.cz">
+	<target host="lkummer.cz" />
+	<target host="www.lkummer.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

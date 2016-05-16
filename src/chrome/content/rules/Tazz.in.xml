@@ -1,0 +1,6 @@
+<ruleset name="Tazz.in">
+	<target host="tazz.in" />
+	<target host="www.tazz.in" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

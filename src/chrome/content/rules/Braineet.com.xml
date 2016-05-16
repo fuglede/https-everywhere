@@ -1,0 +1,6 @@
+<ruleset name="Braineet.com">
+	<target host="braineet.com" />
+	<target host="www.braineet.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

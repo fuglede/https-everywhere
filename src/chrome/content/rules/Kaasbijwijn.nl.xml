@@ -1,0 +1,6 @@
+<ruleset name="Kaasbijwijn.nl">
+	<target host="kaasbijwijn.nl" />
+	<target host="www.kaasbijwijn.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Thehistory.me">
+	<target host="thehistory.me" />
+	<target host="www.thehistory.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

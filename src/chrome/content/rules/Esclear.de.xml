@@ -1,0 +1,6 @@
+<ruleset name="Esclear.de">
+	<target host="esclear.de" />
+	<target host="www.esclear.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Sin30.net">
+	<target host="sin30.net" />
+	<target host="www.sin30.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

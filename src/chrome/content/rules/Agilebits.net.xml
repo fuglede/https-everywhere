@@ -1,0 +1,6 @@
+<ruleset name="Agilebits.net">
+	<target host="agilebits.net" />
+	<target host="www.agilebits.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

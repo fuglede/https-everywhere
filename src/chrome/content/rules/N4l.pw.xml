@@ -1,0 +1,6 @@
+<ruleset name="N4l.pw">
+	<target host="n4l.pw" />
+	<target host="www.n4l.pw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

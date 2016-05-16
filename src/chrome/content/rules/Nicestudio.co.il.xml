@@ -1,0 +1,6 @@
+<ruleset name="Nicestudio.co.il">
+	<target host="nicestudio.co.il" />
+	<target host="www.nicestudio.co.il" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Vratny.space">
+	<target host="vratny.space" />
+	<target host="www.vratny.space" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

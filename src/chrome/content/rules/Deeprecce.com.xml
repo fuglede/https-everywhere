@@ -1,0 +1,6 @@
+<ruleset name="Deeprecce.com">
+	<target host="deeprecce.com" />
+	<target host="www.deeprecce.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

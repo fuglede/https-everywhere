@@ -1,0 +1,6 @@
+<ruleset name="Hourensou-net.jp">
+	<target host="hourensou-net.jp" />
+	<target host="www.hourensou-net.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

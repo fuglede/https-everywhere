@@ -1,0 +1,6 @@
+<ruleset name="Trim-a-slab.com">
+	<target host="trim-a-slab.com" />
+	<target host="www.trim-a-slab.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Meteobox.sk">
+	<target host="meteobox.sk" />
+	<target host="www.meteobox.sk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

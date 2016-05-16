@@ -1,0 +1,6 @@
+<ruleset name="Carriercentral.com">
+	<target host="carriercentral.com" />
+	<target host="www.carriercentral.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

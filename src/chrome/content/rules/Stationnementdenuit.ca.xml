@@ -1,0 +1,6 @@
+<ruleset name="Stationnementdenuit.ca">
+	<target host="stationnementdenuit.ca" />
+	<target host="www.stationnementdenuit.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

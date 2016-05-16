@@ -1,0 +1,6 @@
+<ruleset name="Taskforce512.de">
+	<target host="taskforce512.de" />
+	<target host="www.taskforce512.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

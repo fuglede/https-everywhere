@@ -1,0 +1,6 @@
+<ruleset name="Joostbovee.nl">
+	<target host="joostbovee.nl" />
+	<target host="www.joostbovee.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

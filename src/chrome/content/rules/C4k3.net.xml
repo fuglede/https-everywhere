@@ -1,0 +1,6 @@
+<ruleset name="C4k3.net">
+	<target host="c4k3.net" />
+	<target host="www.c4k3.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Orangecountysem.com">
+	<target host="orangecountysem.com" />
+	<target host="www.orangecountysem.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

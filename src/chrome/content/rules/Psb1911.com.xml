@@ -1,0 +1,6 @@
+<ruleset name="Psb1911.com">
+	<target host="psb1911.com" />
+	<target host="www.psb1911.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

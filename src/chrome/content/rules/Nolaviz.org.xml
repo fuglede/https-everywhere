@@ -1,0 +1,6 @@
+<ruleset name="Nolaviz.org">
+	<target host="nolaviz.org" />
+	<target host="www.nolaviz.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

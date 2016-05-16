@@ -1,0 +1,6 @@
+<ruleset name="Makedin.net">
+	<target host="makedin.net" />
+	<target host="www.makedin.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

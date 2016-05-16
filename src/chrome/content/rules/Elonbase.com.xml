@@ -1,0 +1,6 @@
+<ruleset name="Elonbase.com">
+	<target host="elonbase.com" />
+	<target host="www.elonbase.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

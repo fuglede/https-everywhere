@@ -1,0 +1,6 @@
+<ruleset name="Nyiad.edu">
+	<target host="nyiad.edu" />
+	<target host="www.nyiad.edu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

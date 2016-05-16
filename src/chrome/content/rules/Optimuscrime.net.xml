@@ -1,0 +1,6 @@
+<ruleset name="Optimuscrime.net">
+	<target host="optimuscrime.net" />
+	<target host="www.optimuscrime.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

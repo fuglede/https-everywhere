@@ -1,0 +1,6 @@
+<ruleset name="Vivaldi.club">
+	<target host="vivaldi.club" />
+	<target host="www.vivaldi.club" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

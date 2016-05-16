@@ -1,0 +1,6 @@
+<ruleset name="Opq.pw">
+	<target host="opq.pw" />
+	<target host="www.opq.pw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Tnes.dk">
+	<target host="tnes.dk" />
+	<target host="www.tnes.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

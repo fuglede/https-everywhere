@@ -1,0 +1,6 @@
+<ruleset name="Fusedrops.com">
+	<target host="fusedrops.com" />
+	<target host="www.fusedrops.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

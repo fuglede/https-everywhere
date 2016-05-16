@@ -1,0 +1,6 @@
+<ruleset name="Sl-informatique.fr">
+	<target host="sl-informatique.fr" />
+	<target host="www.sl-informatique.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

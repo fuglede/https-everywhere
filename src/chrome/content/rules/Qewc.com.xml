@@ -1,0 +1,6 @@
+<ruleset name="Qewc.com">
+	<target host="qewc.com" />
+	<target host="www.qewc.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Ahri.ovh">
+	<target host="ahri.ovh" />
+	<target host="www.ahri.ovh" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

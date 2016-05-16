@@ -1,0 +1,6 @@
+<ruleset name="Revensoftware.com">
+	<target host="revensoftware.com" />
+	<target host="www.revensoftware.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

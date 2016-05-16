@@ -1,0 +1,6 @@
+<ruleset name="Ginzadelunch.jp">
+	<target host="ginzadelunch.jp" />
+	<target host="www.ginzadelunch.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

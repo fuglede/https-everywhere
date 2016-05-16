@@ -1,0 +1,6 @@
+<ruleset name="Rescoll.fr">
+	<target host="rescoll.fr" />
+	<target host="www.rescoll.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

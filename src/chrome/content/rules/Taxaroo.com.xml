@@ -1,0 +1,6 @@
+<ruleset name="Taxaroo.com">
+	<target host="taxaroo.com" />
+	<target host="www.taxaroo.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

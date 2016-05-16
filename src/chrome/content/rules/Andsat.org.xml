@@ -1,0 +1,6 @@
+<ruleset name="Andsat.org">
+	<target host="andsat.org" />
+	<target host="www.andsat.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

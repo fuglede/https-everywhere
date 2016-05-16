@@ -1,0 +1,6 @@
+<ruleset name="Ionc.ca">
+	<target host="ionc.ca" />
+	<target host="www.ionc.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

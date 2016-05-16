@@ -1,0 +1,6 @@
+<ruleset name="Cymtech.net">
+	<target host="cymtech.net" />
+	<target host="www.cymtech.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

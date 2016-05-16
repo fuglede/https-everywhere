@@ -1,0 +1,6 @@
+<ruleset name="Kainz.be">
+	<target host="kainz.be" />
+	<target host="www.kainz.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

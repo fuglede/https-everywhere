@@ -1,0 +1,6 @@
+<ruleset name="Scandicom.fi">
+	<target host="scandicom.fi" />
+	<target host="www.scandicom.fi" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

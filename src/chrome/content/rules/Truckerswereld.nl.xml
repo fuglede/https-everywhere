@@ -1,0 +1,6 @@
+<ruleset name="Truckerswereld.nl">
+	<target host="truckerswereld.nl" />
+	<target host="www.truckerswereld.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

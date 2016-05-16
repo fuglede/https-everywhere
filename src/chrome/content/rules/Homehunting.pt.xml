@@ -1,0 +1,6 @@
+<ruleset name="Homehunting.pt">
+	<target host="homehunting.pt" />
+	<target host="www.homehunting.pt" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Dammekens.be">
+	<target host="dammekens.be" />
+	<target host="www.dammekens.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

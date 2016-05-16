@@ -1,0 +1,6 @@
+<ruleset name="Yoloboatrentals.com">
+	<target host="yoloboatrentals.com" />
+	<target host="www.yoloboatrentals.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Empice-it.de">
+	<target host="empice-it.de" />
+	<target host="www.empice-it.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

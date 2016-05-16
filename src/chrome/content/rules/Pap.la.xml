@@ -1,0 +1,6 @@
+<ruleset name="Pap.la">
+	<target host="pap.la" />
+	<target host="www.pap.la" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

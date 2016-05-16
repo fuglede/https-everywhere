@@ -1,0 +1,6 @@
+<ruleset name="Infosenior.ch">
+	<target host="infosenior.ch" />
+	<target host="www.infosenior.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

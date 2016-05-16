@@ -1,0 +1,6 @@
+<ruleset name="Zionsbancorperc.com">
+	<target host="zionsbancorperc.com" />
+	<target host="www.zionsbancorperc.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

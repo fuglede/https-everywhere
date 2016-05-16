@@ -1,0 +1,6 @@
+<ruleset name="Korrelzout.nl">
+	<target host="korrelzout.nl" />
+	<target host="www.korrelzout.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

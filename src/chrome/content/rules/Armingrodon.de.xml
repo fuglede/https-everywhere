@@ -1,0 +1,6 @@
+<ruleset name="Armingrodon.de">
+	<target host="armingrodon.de" />
+	<target host="www.armingrodon.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

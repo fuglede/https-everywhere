@@ -1,0 +1,6 @@
+<ruleset name="Echowhale.com">
+	<target host="echowhale.com" />
+	<target host="www.echowhale.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

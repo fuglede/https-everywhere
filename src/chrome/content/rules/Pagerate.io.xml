@@ -1,0 +1,6 @@
+<ruleset name="Pagerate.io">
+	<target host="pagerate.io" />
+	<target host="www.pagerate.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Revtut.net">
+	<target host="revtut.net" />
+	<target host="www.revtut.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

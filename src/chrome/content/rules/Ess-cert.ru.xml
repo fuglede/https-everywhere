@@ -1,0 +1,6 @@
+<ruleset name="Ess-cert.ru">
+	<target host="ess-cert.ru" />
+	<target host="www.ess-cert.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

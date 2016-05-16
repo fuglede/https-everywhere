@@ -1,0 +1,6 @@
+<ruleset name="Bah.im">
+	<target host="bah.im" />
+	<target host="www.bah.im" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

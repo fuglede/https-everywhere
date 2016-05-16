@@ -1,0 +1,6 @@
+<ruleset name="Tantalos.nl">
+	<target host="tantalos.nl" />
+	<target host="www.tantalos.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

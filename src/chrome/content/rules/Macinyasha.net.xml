@@ -1,0 +1,6 @@
+<ruleset name="Macinyasha.net">
+	<target host="macinyasha.net" />
+	<target host="www.macinyasha.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

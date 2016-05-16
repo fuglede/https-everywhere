@@ -1,0 +1,6 @@
+<ruleset name="Decoratrix.com">
+	<target host="decoratrix.com" />
+	<target host="www.decoratrix.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Supereight.net">
+	<target host="supereight.net" />
+	<target host="www.supereight.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

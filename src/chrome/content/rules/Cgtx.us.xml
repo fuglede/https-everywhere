@@ -1,0 +1,6 @@
+<ruleset name="Cgtx.us">
+	<target host="cgtx.us" />
+	<target host="www.cgtx.us" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

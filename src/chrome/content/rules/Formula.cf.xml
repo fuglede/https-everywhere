@@ -1,0 +1,6 @@
+<ruleset name="Formula.cf">
+	<target host="formula.cf" />
+	<target host="www.formula.cf" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

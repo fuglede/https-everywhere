@@ -1,0 +1,6 @@
+<ruleset name="Bevinco2020.com">
+	<target host="bevinco2020.com" />
+	<target host="www.bevinco2020.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

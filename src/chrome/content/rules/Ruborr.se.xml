@@ -1,0 +1,6 @@
+<ruleset name="Ruborr.se">
+	<target host="ruborr.se" />
+	<target host="www.ruborr.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Estilosapeca.com">
+	<target host="estilosapeca.com" />
+	<target host="www.estilosapeca.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

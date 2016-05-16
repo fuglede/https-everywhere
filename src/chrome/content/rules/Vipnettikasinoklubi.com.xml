@@ -1,0 +1,6 @@
+<ruleset name="Vipnettikasinoklubi.com">
+	<target host="vipnettikasinoklubi.com" />
+	<target host="www.vipnettikasinoklubi.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Ceilingpac.org">
+	<target host="ceilingpac.org" />
+	<target host="www.ceilingpac.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

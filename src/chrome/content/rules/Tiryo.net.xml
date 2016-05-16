@@ -1,0 +1,6 @@
+<ruleset name="Tiryo.net">
+	<target host="tiryo.net" />
+	<target host="www.tiryo.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

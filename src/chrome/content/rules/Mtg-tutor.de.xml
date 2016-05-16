@@ -1,0 +1,6 @@
+<ruleset name="Mtg-tutor.de">
+	<target host="mtg-tutor.de" />
+	<target host="www.mtg-tutor.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

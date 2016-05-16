@@ -1,0 +1,6 @@
+<ruleset name="Piekacz.eu.org">
+	<target host="piekacz.eu.org" />
+	<target host="www.piekacz.eu.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

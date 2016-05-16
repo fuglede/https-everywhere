@@ -1,0 +1,6 @@
+<ruleset name="Pengi.me">
+	<target host="pengi.me" />
+	<target host="www.pengi.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

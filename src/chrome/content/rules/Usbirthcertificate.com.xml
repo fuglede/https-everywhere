@@ -1,0 +1,6 @@
+<ruleset name="Usbirthcertificate.com">
+	<target host="usbirthcertificate.com" />
+	<target host="www.usbirthcertificate.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

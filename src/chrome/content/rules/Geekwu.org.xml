@@ -1,0 +1,6 @@
+<ruleset name="Geekwu.org">
+	<target host="geekwu.org" />
+	<target host="www.geekwu.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

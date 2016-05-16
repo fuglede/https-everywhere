@@ -1,0 +1,6 @@
+<ruleset name="Simon-hofmann.org">
+	<target host="simon-hofmann.org" />
+	<target host="www.simon-hofmann.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

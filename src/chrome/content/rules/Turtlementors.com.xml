@@ -1,0 +1,6 @@
+<ruleset name="Turtlementors.com">
+	<target host="turtlementors.com" />
+	<target host="www.turtlementors.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

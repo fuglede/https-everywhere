@@ -1,0 +1,6 @@
+<ruleset name="Mrettich.org">
+	<target host="mrettich.org" />
+	<target host="www.mrettich.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

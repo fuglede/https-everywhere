@@ -1,0 +1,6 @@
+<ruleset name="Unblockmy.party">
+	<target host="unblockmy.party" />
+	<target host="www.unblockmy.party" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

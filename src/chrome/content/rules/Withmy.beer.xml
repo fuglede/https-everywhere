@@ -1,0 +1,6 @@
+<ruleset name="Withmy.beer">
+	<target host="withmy.beer" />
+	<target host="www.withmy.beer" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

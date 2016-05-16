@@ -1,0 +1,6 @@
+<ruleset name="Anarchistischegroepnijmegen.nl">
+	<target host="anarchistischegroepnijmegen.nl" />
+	<target host="www.anarchistischegroepnijmegen.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

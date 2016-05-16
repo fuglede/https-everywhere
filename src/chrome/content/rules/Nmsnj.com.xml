@@ -1,0 +1,6 @@
+<ruleset name="Nmsnj.com">
+	<target host="nmsnj.com" />
+	<target host="www.nmsnj.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

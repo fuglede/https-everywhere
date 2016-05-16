@@ -1,0 +1,6 @@
+<ruleset name="Arpa.ph">
+	<target host="arpa.ph" />
+	<target host="www.arpa.ph" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

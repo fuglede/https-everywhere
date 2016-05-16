@@ -1,0 +1,6 @@
+<ruleset name="Merson.me">
+	<target host="merson.me" />
+	<target host="www.merson.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

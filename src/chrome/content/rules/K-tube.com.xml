@@ -1,0 +1,6 @@
+<ruleset name="K-tube.com">
+	<target host="k-tube.com" />
+	<target host="www.k-tube.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

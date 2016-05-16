@@ -1,0 +1,6 @@
+<ruleset name="Gotjavaxo.com">
+	<target host="gotjavaxo.com" />
+	<target host="www.gotjavaxo.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

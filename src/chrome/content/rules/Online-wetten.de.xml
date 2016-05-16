@@ -1,0 +1,6 @@
+<ruleset name="Online-wetten.de">
+	<target host="online-wetten.de" />
+	<target host="www.online-wetten.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

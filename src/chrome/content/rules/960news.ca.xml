@@ -1,0 +1,6 @@
+<ruleset name="960news.ca">
+	<target host="960news.ca" />
+	<target host="www.960news.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

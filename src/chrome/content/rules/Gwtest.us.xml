@@ -1,0 +1,6 @@
+<ruleset name="Gwtest.us">
+	<target host="gwtest.us" />
+	<target host="www.gwtest.us" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

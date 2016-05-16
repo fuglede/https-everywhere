@@ -1,0 +1,6 @@
+<ruleset name="Atmoswiki.de">
+	<target host="atmoswiki.de" />
+	<target host="www.atmoswiki.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

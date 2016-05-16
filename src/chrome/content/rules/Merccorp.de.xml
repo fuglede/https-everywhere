@@ -1,0 +1,6 @@
+<ruleset name="Merccorp.de">
+	<target host="merccorp.de" />
+	<target host="www.merccorp.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

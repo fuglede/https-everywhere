@@ -1,0 +1,6 @@
+<ruleset name="Montenero.pl">
+	<target host="montenero.pl" />
+	<target host="www.montenero.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="808.lv">
+	<target host="808.lv" />
+	<target host="www.808.lv" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

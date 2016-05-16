@@ -1,0 +1,6 @@
+<ruleset name="Crystalclassics.co.uk">
+	<target host="crystalclassics.co.uk" />
+	<target host="www.crystalclassics.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

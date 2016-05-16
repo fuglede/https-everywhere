@@ -1,0 +1,6 @@
+<ruleset name="Cyberdna.events">
+	<target host="cyberdna.events" />
+	<target host="www.cyberdna.events" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

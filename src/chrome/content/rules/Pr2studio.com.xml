@@ -1,0 +1,6 @@
+<ruleset name="Pr2studio.com">
+	<target host="pr2studio.com" />
+	<target host="www.pr2studio.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

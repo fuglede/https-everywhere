@@ -1,0 +1,6 @@
+<ruleset name="Nerull7.info">
+	<target host="nerull7.info" />
+	<target host="www.nerull7.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

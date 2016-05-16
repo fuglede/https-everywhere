@@ -1,0 +1,6 @@
+<ruleset name="Pensiunealido.ro">
+	<target host="pensiunealido.ro" />
+	<target host="www.pensiunealido.ro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

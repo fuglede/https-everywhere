@@ -1,0 +1,6 @@
+<ruleset name="Optumrxhealthstore.com">
+	<target host="optumrxhealthstore.com" />
+	<target host="www.optumrxhealthstore.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

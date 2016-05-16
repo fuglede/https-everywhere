@@ -1,0 +1,6 @@
+<ruleset name="Cybersecuritychallenge.be">
+	<target host="cybersecuritychallenge.be" />
+	<target host="www.cybersecuritychallenge.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

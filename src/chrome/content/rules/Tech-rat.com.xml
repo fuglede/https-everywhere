@@ -1,0 +1,6 @@
+<ruleset name="Tech-rat.com">
+	<target host="tech-rat.com" />
+	<target host="www.tech-rat.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

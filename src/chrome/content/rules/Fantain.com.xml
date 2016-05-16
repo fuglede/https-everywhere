@@ -1,0 +1,6 @@
+<ruleset name="Fantain.com">
+	<target host="fantain.com" />
+	<target host="www.fantain.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

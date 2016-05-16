@@ -1,0 +1,6 @@
+<ruleset name="Thepb.in">
+	<target host="thepb.in" />
+	<target host="www.thepb.in" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Rrke.cc">
+	<target host="rrke.cc" />
+	<target host="www.rrke.cc" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

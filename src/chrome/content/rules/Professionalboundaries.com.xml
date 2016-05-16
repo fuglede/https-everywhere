@@ -1,0 +1,6 @@
+<ruleset name="Professionalboundaries.com">
+	<target host="professionalboundaries.com" />
+	<target host="www.professionalboundaries.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Depijl-mz.nl">
+	<target host="depijl-mz.nl" />
+	<target host="www.depijl-mz.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

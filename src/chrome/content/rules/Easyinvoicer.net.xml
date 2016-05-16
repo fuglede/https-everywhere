@@ -1,0 +1,6 @@
+<ruleset name="Easyinvoicer.net">
+	<target host="easyinvoicer.net" />
+	<target host="www.easyinvoicer.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

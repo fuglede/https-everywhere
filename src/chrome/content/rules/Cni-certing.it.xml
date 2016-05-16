@@ -1,0 +1,6 @@
+<ruleset name="Cni-certing.it">
+	<target host="cni-certing.it" />
+	<target host="www.cni-certing.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

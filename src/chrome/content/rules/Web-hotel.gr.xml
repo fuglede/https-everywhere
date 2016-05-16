@@ -1,0 +1,6 @@
+<ruleset name="Web-hotel.gr">
+	<target host="web-hotel.gr" />
+	<target host="www.web-hotel.gr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

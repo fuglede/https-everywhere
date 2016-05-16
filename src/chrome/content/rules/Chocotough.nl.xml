@@ -1,0 +1,6 @@
+<ruleset name="Chocotough.nl">
+	<target host="chocotough.nl" />
+	<target host="www.chocotough.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

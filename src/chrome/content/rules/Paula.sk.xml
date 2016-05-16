@@ -1,0 +1,6 @@
+<ruleset name="Paula.sk">
+	<target host="paula.sk" />
+	<target host="www.paula.sk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

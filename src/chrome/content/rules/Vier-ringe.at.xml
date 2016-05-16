@@ -1,0 +1,6 @@
+<ruleset name="Vier-ringe.at">
+	<target host="vier-ringe.at" />
+	<target host="www.vier-ringe.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

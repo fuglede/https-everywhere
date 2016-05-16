@@ -1,0 +1,6 @@
+<ruleset name="Brunn.email">
+	<target host="brunn.email" />
+	<target host="www.brunn.email" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

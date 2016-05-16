@@ -1,0 +1,6 @@
+<ruleset name="Fitapt.com">
+	<target host="fitapt.com" />
+	<target host="www.fitapt.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

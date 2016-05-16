@@ -1,0 +1,6 @@
+<ruleset name="Painosso.org">
+	<target host="painosso.org" />
+	<target host="www.painosso.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

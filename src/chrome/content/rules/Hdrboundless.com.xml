@@ -1,0 +1,6 @@
+<ruleset name="Hdrboundless.com">
+	<target host="hdrboundless.com" />
+	<target host="www.hdrboundless.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

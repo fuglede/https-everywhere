@@ -1,0 +1,6 @@
+<ruleset name="Dipl.io">
+	<target host="dipl.io" />
+	<target host="www.dipl.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

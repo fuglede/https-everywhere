@@ -1,0 +1,6 @@
+<ruleset name="Portosonline.pl">
+	<target host="portosonline.pl" />
+	<target host="www.portosonline.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

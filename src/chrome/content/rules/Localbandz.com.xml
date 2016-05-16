@@ -1,0 +1,6 @@
+<ruleset name="Localbandz.com">
+	<target host="localbandz.com" />
+	<target host="www.localbandz.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

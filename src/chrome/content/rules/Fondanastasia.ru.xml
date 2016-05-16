@@ -1,0 +1,6 @@
+<ruleset name="Fondanastasia.ru">
+	<target host="fondanastasia.ru" />
+	<target host="www.fondanastasia.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

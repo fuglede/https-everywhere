@@ -1,0 +1,6 @@
+<ruleset name="Enfoqueseguro.com">
+	<target host="enfoqueseguro.com" />
+	<target host="www.enfoqueseguro.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

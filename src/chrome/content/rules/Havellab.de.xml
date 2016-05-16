@@ -1,0 +1,6 @@
+<ruleset name="Havellab.de">
+	<target host="havellab.de" />
+	<target host="www.havellab.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

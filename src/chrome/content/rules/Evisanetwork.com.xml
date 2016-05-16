@@ -1,0 +1,6 @@
+<ruleset name="Evisanetwork.com">
+	<target host="evisanetwork.com" />
+	<target host="www.evisanetwork.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

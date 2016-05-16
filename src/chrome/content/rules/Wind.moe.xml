@@ -1,0 +1,6 @@
+<ruleset name="Wind.moe">
+	<target host="wind.moe" />
+	<target host="www.wind.moe" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

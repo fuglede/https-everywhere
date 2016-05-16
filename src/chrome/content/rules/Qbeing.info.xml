@@ -1,0 +1,6 @@
+<ruleset name="Qbeing.info">
+	<target host="qbeing.info" />
+	<target host="www.qbeing.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

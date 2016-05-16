@@ -1,0 +1,6 @@
+<ruleset name="Worldpovertysolutions.org">
+	<target host="worldpovertysolutions.org" />
+	<target host="www.worldpovertysolutions.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

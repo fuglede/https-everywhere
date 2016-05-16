@@ -1,0 +1,6 @@
+<ruleset name="Lost.host">
+	<target host="lost.host" />
+	<target host="www.lost.host" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

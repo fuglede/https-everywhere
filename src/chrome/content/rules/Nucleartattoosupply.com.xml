@@ -1,0 +1,6 @@
+<ruleset name="Nucleartattoosupply.com">
+	<target host="nucleartattoosupply.com" />
+	<target host="www.nucleartattoosupply.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

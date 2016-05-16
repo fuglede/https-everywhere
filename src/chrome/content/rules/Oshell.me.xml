@@ -1,0 +1,6 @@
+<ruleset name="Oshell.me">
+	<target host="oshell.me" />
+	<target host="www.oshell.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

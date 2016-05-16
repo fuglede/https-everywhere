@@ -1,0 +1,6 @@
+<ruleset name="Nord-sud.be">
+	<target host="nord-sud.be" />
+	<target host="www.nord-sud.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

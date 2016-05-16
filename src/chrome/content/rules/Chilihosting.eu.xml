@@ -1,0 +1,6 @@
+<ruleset name="Chilihosting.eu">
+	<target host="chilihosting.eu" />
+	<target host="www.chilihosting.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

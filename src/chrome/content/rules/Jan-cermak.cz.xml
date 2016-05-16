@@ -1,0 +1,6 @@
+<ruleset name="Jan-cermak.cz">
+	<target host="jan-cermak.cz" />
+	<target host="www.jan-cermak.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

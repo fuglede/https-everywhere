@@ -1,0 +1,6 @@
+<ruleset name="Rauros.net">
+	<target host="rauros.net" />
+	<target host="www.rauros.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

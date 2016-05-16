@@ -1,0 +1,6 @@
+<ruleset name="Ublox.com">
+	<target host="ublox.com" />
+	<target host="www.ublox.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Sushifrick.de">
+	<target host="sushifrick.de" />
+	<target host="www.sushifrick.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

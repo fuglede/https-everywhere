@@ -1,0 +1,6 @@
+<ruleset name="Litchidova.nl">
+	<target host="litchidova.nl" />
+	<target host="www.litchidova.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

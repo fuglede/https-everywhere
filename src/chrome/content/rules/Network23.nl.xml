@@ -1,0 +1,6 @@
+<ruleset name="Network23.nl">
+	<target host="network23.nl" />
+	<target host="www.network23.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

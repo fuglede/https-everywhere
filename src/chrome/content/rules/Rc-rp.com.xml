@@ -1,0 +1,6 @@
+<ruleset name="Rc-rp.com">
+	<target host="rc-rp.com" />
+	<target host="www.rc-rp.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

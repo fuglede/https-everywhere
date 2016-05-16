@@ -1,0 +1,6 @@
+<ruleset name="Qwikinow.de">
+	<target host="qwikinow.de" />
+	<target host="www.qwikinow.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

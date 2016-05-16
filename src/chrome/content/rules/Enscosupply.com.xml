@@ -1,0 +1,6 @@
+<ruleset name="Enscosupply.com">
+	<target host="enscosupply.com" />
+	<target host="www.enscosupply.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

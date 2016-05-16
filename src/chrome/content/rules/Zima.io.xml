@@ -1,0 +1,6 @@
+<ruleset name="Zima.io">
+	<target host="zima.io" />
+	<target host="www.zima.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

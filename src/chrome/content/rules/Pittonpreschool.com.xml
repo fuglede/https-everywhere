@@ -1,0 +1,6 @@
+<ruleset name="Pittonpreschool.com">
+	<target host="pittonpreschool.com" />
+	<target host="www.pittonpreschool.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

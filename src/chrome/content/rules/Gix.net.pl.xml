@@ -1,0 +1,6 @@
+<ruleset name="Gix.net.pl">
+	<target host="gix.net.pl" />
+	<target host="www.gix.net.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

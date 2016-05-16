@@ -1,0 +1,6 @@
+<ruleset name="Tech-essential.com">
+	<target host="tech-essential.com" />
+	<target host="www.tech-essential.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

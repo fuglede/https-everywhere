@@ -1,0 +1,6 @@
+<ruleset name="Databutlr.net">
+	<target host="databutlr.net" />
+	<target host="www.databutlr.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

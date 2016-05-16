@@ -1,0 +1,6 @@
+<ruleset name="Andreaboero.it">
+	<target host="andreaboero.it" />
+	<target host="www.andreaboero.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

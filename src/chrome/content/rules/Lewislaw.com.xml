@@ -1,0 +1,6 @@
+<ruleset name="Lewislaw.com">
+	<target host="lewislaw.com" />
+	<target host="www.lewislaw.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

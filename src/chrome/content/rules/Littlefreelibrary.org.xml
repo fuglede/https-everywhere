@@ -1,0 +1,6 @@
+<ruleset name="Littlefreelibrary.org">
+	<target host="littlefreelibrary.org" />
+	<target host="www.littlefreelibrary.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

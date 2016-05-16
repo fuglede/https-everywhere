@@ -1,0 +1,6 @@
+<ruleset name="Kylapps.com">
+	<target host="kylapps.com" />
+	<target host="www.kylapps.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

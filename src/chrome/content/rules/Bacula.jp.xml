@@ -1,0 +1,6 @@
+<ruleset name="Bacula.jp">
+	<target host="bacula.jp" />
+	<target host="www.bacula.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

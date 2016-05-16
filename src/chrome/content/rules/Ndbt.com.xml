@@ -1,0 +1,6 @@
+<ruleset name="Ndbt.com">
+	<target host="ndbt.com" />
+	<target host="www.ndbt.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

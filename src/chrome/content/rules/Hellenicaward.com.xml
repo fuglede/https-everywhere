@@ -1,0 +1,6 @@
+<ruleset name="Hellenicaward.com">
+	<target host="hellenicaward.com" />
+	<target host="www.hellenicaward.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

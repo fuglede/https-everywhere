@@ -1,0 +1,6 @@
+<ruleset name="Cryptojar.io">
+	<target host="cryptojar.io" />
+	<target host="www.cryptojar.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

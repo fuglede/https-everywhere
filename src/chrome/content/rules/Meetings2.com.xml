@@ -1,0 +1,6 @@
+<ruleset name="Meetings2.com">
+	<target host="meetings2.com" />
+	<target host="www.meetings2.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

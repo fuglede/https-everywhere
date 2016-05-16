@@ -1,0 +1,6 @@
+<ruleset name="Ssnc.org">
+	<target host="ssnc.org" />
+	<target host="www.ssnc.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Starsam80.net">
+	<target host="starsam80.net" />
+	<target host="www.starsam80.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

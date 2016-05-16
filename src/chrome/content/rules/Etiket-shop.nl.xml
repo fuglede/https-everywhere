@@ -1,0 +1,6 @@
+<ruleset name="Etiket-shop.nl">
+	<target host="etiket-shop.nl" />
+	<target host="www.etiket-shop.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

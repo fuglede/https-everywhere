@@ -1,0 +1,6 @@
+<ruleset name="Denverprophit.us">
+	<target host="denverprophit.us" />
+	<target host="www.denverprophit.us" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

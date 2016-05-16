@@ -1,0 +1,6 @@
+<ruleset name="A2cn.de">
+	<target host="a2cn.de" />
+	<target host="www.a2cn.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

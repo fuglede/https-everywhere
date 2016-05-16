@@ -1,0 +1,6 @@
+<ruleset name="Devb.nl">
+	<target host="devb.nl" />
+	<target host="www.devb.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

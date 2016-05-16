@@ -1,0 +1,6 @@
+<ruleset name="Game.yt">
+	<target host="game.yt" />
+	<target host="www.game.yt" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

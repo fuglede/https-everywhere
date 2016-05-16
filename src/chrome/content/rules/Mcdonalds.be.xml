@@ -1,0 +1,6 @@
+<ruleset name="Mcdonalds.be">
+	<target host="mcdonalds.be" />
+	<target host="www.mcdonalds.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

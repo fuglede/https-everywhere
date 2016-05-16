@@ -1,0 +1,6 @@
+<ruleset name="Arignanaturalgardens.com">
+	<target host="arignanaturalgardens.com" />
+	<target host="www.arignanaturalgardens.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

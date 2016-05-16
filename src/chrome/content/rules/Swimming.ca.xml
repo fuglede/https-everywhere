@@ -1,0 +1,6 @@
+<ruleset name="Swimming.ca">
+	<target host="swimming.ca" />
+	<target host="www.swimming.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

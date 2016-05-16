@@ -1,0 +1,6 @@
+<ruleset name="Thegcccoin.com">
+	<target host="thegcccoin.com" />
+	<target host="www.thegcccoin.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

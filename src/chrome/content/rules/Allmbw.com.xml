@@ -1,0 +1,6 @@
+<ruleset name="Allmbw.com">
+	<target host="allmbw.com" />
+	<target host="www.allmbw.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

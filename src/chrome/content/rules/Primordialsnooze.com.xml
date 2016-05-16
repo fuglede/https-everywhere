@@ -1,0 +1,6 @@
+<ruleset name="Primordialsnooze.com">
+	<target host="primordialsnooze.com" />
+	<target host="www.primordialsnooze.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

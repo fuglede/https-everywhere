@@ -1,0 +1,6 @@
+<ruleset name="Benmatthews.com.au">
+	<target host="benmatthews.com.au" />
+	<target host="www.benmatthews.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

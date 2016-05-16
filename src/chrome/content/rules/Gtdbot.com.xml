@@ -1,0 +1,6 @@
+<ruleset name="Gtdbot.com">
+	<target host="gtdbot.com" />
+	<target host="www.gtdbot.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

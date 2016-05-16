@@ -1,0 +1,6 @@
+<ruleset name="Berr.yt">
+	<target host="berr.yt" />
+	<target host="www.berr.yt" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

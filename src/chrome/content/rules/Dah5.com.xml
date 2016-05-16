@@ -1,0 +1,6 @@
+<ruleset name="Dah5.com">
+	<target host="dah5.com" />
+	<target host="www.dah5.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

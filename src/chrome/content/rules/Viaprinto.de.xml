@@ -1,0 +1,6 @@
+<ruleset name="Viaprinto.de">
+	<target host="viaprinto.de" />
+	<target host="www.viaprinto.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Ken-electric.com.br">
+	<target host="ken-electric.com.br" />
+	<target host="www.ken-electric.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

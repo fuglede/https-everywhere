@@ -1,0 +1,6 @@
+<ruleset name="Mcia.com.br">
+	<target host="mcia.com.br" />
+	<target host="www.mcia.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Bioshome.de">
+	<target host="bioshome.de" />
+	<target host="www.bioshome.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

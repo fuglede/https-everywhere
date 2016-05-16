@@ -1,0 +1,6 @@
+<ruleset name="Th-bl.de">
+	<target host="th-bl.de" />
+	<target host="www.th-bl.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

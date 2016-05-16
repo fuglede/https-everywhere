@@ -1,0 +1,6 @@
+<ruleset name="Capturapp.com">
+	<target host="capturapp.com" />
+	<target host="www.capturapp.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

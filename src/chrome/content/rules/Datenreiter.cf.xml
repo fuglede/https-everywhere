@@ -1,0 +1,6 @@
+<ruleset name="Datenreiter.cf">
+	<target host="datenreiter.cf" />
+	<target host="www.datenreiter.cf" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

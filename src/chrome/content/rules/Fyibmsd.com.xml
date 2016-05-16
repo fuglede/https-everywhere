@@ -1,0 +1,6 @@
+<ruleset name="Fyibmsd.com">
+	<target host="fyibmsd.com" />
+	<target host="www.fyibmsd.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

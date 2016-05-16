@@ -1,0 +1,6 @@
+<ruleset name="Goldmark.net.nz">
+	<target host="goldmark.net.nz" />
+	<target host="www.goldmark.net.nz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

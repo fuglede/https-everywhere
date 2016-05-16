@@ -1,0 +1,6 @@
+<ruleset name="Kirkforcongress.com">
+	<target host="kirkforcongress.com" />
+	<target host="www.kirkforcongress.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

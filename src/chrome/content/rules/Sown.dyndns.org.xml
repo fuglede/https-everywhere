@@ -1,0 +1,6 @@
+<ruleset name="Sown.dyndns.org">
+	<target host="sown.dyndns.org" />
+	<target host="www.sown.dyndns.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

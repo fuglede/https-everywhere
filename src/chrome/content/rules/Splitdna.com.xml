@@ -1,0 +1,6 @@
+<ruleset name="Splitdna.com">
+	<target host="splitdna.com" />
+	<target host="www.splitdna.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

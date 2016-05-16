@@ -1,0 +1,6 @@
+<ruleset name="Blinkenlight.com.au">
+	<target host="blinkenlight.com.au" />
+	<target host="www.blinkenlight.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

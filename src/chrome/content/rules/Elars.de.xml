@@ -1,0 +1,6 @@
+<ruleset name="Elars.de">
+	<target host="elars.de" />
+	<target host="www.elars.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

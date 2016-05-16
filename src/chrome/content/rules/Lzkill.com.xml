@@ -1,0 +1,6 @@
+<ruleset name="Lzkill.com">
+	<target host="lzkill.com" />
+	<target host="www.lzkill.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Amihub.com">
+	<target host="amihub.com" />
+	<target host="www.amihub.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

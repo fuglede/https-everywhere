@@ -1,0 +1,6 @@
+<ruleset name="Chinternet.xyz">
+	<target host="chinternet.xyz" />
+	<target host="www.chinternet.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

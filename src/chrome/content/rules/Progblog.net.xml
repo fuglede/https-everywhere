@@ -1,0 +1,6 @@
+<ruleset name="Progblog.net">
+	<target host="progblog.net" />
+	<target host="www.progblog.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

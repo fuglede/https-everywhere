@@ -1,0 +1,6 @@
+<ruleset name="Ankarayilmaznakliyat.com">
+	<target host="ankarayilmaznakliyat.com" />
+	<target host="www.ankarayilmaznakliyat.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Nexth.de">
+	<target host="nexth.de" />
+	<target host="www.nexth.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Valshamar.is">
+	<target host="valshamar.is" />
+	<target host="www.valshamar.is" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

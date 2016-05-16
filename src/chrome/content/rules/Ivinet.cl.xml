@@ -1,0 +1,6 @@
+<ruleset name="Ivinet.cl">
+	<target host="ivinet.cl" />
+	<target host="www.ivinet.cl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Webapps.directory">
+	<target host="webapps.directory" />
+	<target host="www.webapps.directory" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

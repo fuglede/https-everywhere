@@ -1,0 +1,6 @@
+<ruleset name="Monitman.com">
+	<target host="monitman.com" />
+	<target host="www.monitman.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

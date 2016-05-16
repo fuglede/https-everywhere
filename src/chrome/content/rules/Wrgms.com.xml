@@ -1,0 +1,6 @@
+<ruleset name="Wrgms.com">
+	<target host="wrgms.com" />
+	<target host="www.wrgms.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

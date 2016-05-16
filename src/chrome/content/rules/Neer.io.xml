@@ -1,0 +1,6 @@
+<ruleset name="Neer.io">
+	<target host="neer.io" />
+	<target host="www.neer.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

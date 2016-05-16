@@ -1,0 +1,6 @@
+<ruleset name="Tradedesk.co.za">
+	<target host="tradedesk.co.za" />
+	<target host="www.tradedesk.co.za" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

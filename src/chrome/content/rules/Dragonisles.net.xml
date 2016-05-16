@@ -1,0 +1,6 @@
+<ruleset name="Dragonisles.net">
+	<target host="dragonisles.net" />
+	<target host="www.dragonisles.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

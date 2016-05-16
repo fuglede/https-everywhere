@@ -1,0 +1,6 @@
+<ruleset name="Lemonet.ch">
+	<target host="lemonet.ch" />
+	<target host="www.lemonet.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Numero-aleatorio.com">
+	<target host="numero-aleatorio.com" />
+	<target host="www.numero-aleatorio.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

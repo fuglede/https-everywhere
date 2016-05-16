@@ -1,0 +1,6 @@
+<ruleset name="Khmb.ru">
+	<target host="khmb.ru" />
+	<target host="www.khmb.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

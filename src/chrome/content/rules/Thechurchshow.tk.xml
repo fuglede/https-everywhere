@@ -1,0 +1,6 @@
+<ruleset name="Thechurchshow.tk">
+	<target host="thechurchshow.tk" />
+	<target host="www.thechurchshow.tk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Echomobiles.com">
+	<target host="echomobiles.com" />
+	<target host="www.echomobiles.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

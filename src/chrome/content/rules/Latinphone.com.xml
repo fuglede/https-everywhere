@@ -1,0 +1,6 @@
+<ruleset name="Latinphone.com">
+	<target host="latinphone.com" />
+	<target host="www.latinphone.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

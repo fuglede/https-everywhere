@@ -1,0 +1,6 @@
+<ruleset name="Mokhtarmial.com">
+	<target host="mokhtarmial.com" />
+	<target host="www.mokhtarmial.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Euro.ro">
+	<target host="euro.ro" />
+	<target host="www.euro.ro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

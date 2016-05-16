@@ -1,0 +1,6 @@
+<ruleset name="Swedishhost.se">
+	<target host="swedishhost.se" />
+	<target host="www.swedishhost.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

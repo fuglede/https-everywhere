@@ -1,0 +1,6 @@
+<ruleset name="Nedraconsult.ru">
+	<target host="nedraconsult.ru" />
+	<target host="www.nedraconsult.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

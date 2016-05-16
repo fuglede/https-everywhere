@@ -1,0 +1,6 @@
+<ruleset name="Instantdev.io">
+	<target host="instantdev.io" />
+	<target host="www.instantdev.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Libbitcoin.org">
+	<target host="libbitcoin.org" />
+	<target host="www.libbitcoin.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

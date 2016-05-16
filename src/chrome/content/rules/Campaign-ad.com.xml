@@ -1,0 +1,6 @@
+<ruleset name="Campaign-ad.com">
+	<target host="campaign-ad.com" />
+	<target host="www.campaign-ad.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

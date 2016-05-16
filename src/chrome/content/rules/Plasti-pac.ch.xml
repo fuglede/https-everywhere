@@ -1,0 +1,6 @@
+<ruleset name="Plasti-pac.ch">
+	<target host="plasti-pac.ch" />
+	<target host="www.plasti-pac.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

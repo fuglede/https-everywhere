@@ -1,0 +1,6 @@
+<ruleset name="Nyyu.tk">
+	<target host="nyyu.tk" />
+	<target host="www.nyyu.tk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

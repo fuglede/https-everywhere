@@ -1,0 +1,6 @@
+<ruleset name="Classicday.nl">
+	<target host="classicday.nl" />
+	<target host="www.classicday.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

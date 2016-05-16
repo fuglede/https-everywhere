@@ -1,0 +1,6 @@
+<ruleset name="Xbb.li">
+	<target host="xbb.li" />
+	<target host="www.xbb.li" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

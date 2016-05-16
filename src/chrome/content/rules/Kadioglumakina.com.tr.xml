@@ -1,0 +1,6 @@
+<ruleset name="Kadioglumakina.com.tr">
+	<target host="kadioglumakina.com.tr" />
+	<target host="www.kadioglumakina.com.tr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

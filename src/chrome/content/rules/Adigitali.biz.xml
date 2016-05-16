@@ -1,0 +1,6 @@
+<ruleset name="Adigitali.biz">
+	<target host="adigitali.biz" />
+	<target host="www.adigitali.biz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

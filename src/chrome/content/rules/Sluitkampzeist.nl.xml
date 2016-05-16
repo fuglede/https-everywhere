@@ -1,0 +1,6 @@
+<ruleset name="Sluitkampzeist.nl">
+	<target host="sluitkampzeist.nl" />
+	<target host="www.sluitkampzeist.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

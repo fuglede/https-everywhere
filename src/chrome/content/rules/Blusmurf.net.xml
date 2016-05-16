@@ -1,0 +1,6 @@
+<ruleset name="Blusmurf.net">
+	<target host="blusmurf.net" />
+	<target host="www.blusmurf.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

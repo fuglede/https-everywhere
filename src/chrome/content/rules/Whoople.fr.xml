@@ -1,0 +1,6 @@
+<ruleset name="Whoople.fr">
+	<target host="whoople.fr" />
+	<target host="www.whoople.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

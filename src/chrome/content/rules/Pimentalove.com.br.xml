@@ -1,0 +1,6 @@
+<ruleset name="Pimentalove.com.br">
+	<target host="pimentalove.com.br" />
+	<target host="www.pimentalove.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

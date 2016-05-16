@@ -1,0 +1,6 @@
+<ruleset name="Marquiseclub.se">
+	<target host="marquiseclub.se" />
+	<target host="www.marquiseclub.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

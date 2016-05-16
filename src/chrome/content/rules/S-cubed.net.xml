@@ -1,0 +1,6 @@
+<ruleset name="S-cubed.net">
+	<target host="s-cubed.net" />
+	<target host="www.s-cubed.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

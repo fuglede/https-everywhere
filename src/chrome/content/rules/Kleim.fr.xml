@@ -1,0 +1,6 @@
+<ruleset name="Kleim.fr">
+	<target host="kleim.fr" />
+	<target host="www.kleim.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

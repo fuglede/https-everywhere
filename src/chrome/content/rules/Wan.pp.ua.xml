@@ -1,0 +1,6 @@
+<ruleset name="Wan.pp.ua">
+	<target host="wan.pp.ua" />
+	<target host="www.wan.pp.ua" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

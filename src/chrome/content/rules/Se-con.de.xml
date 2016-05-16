@@ -1,0 +1,6 @@
+<ruleset name="Se-con.de">
+	<target host="se-con.de" />
+	<target host="www.se-con.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

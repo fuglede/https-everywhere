@@ -1,0 +1,6 @@
+<ruleset name="Revolt.tv">
+	<target host="revolt.tv" />
+	<target host="www.revolt.tv" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Rebootmc.com">
+	<target host="rebootmc.com" />
+	<target host="www.rebootmc.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

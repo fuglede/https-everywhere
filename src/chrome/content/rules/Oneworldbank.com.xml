@@ -1,0 +1,6 @@
+<ruleset name="Oneworldbank.com">
+	<target host="oneworldbank.com" />
+	<target host="www.oneworldbank.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

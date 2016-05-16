@@ -1,0 +1,6 @@
+<ruleset name="China-line.org">
+	<target host="china-line.org" />
+	<target host="www.china-line.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

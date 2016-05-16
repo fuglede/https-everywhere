@@ -1,0 +1,6 @@
+<ruleset name="Shellsec.pw">
+	<target host="shellsec.pw" />
+	<target host="www.shellsec.pw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

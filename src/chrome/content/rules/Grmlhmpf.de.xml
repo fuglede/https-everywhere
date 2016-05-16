@@ -1,0 +1,6 @@
+<ruleset name="Grmlhmpf.de">
+	<target host="grmlhmpf.de" />
+	<target host="www.grmlhmpf.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

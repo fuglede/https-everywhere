@@ -1,0 +1,6 @@
+<ruleset name="Mdscomp.net">
+	<target host="mdscomp.net" />
+	<target host="www.mdscomp.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

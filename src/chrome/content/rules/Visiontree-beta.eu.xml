@@ -1,0 +1,6 @@
+<ruleset name="Visiontree-beta.eu">
+	<target host="visiontree-beta.eu" />
+	<target host="www.visiontree-beta.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Lifestylehunter.co.uk">
+	<target host="lifestylehunter.co.uk" />
+	<target host="www.lifestylehunter.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

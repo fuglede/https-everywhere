@@ -1,0 +1,6 @@
+<ruleset name="Radioaryanpodcasts.com">
+	<target host="radioaryanpodcasts.com" />
+	<target host="www.radioaryanpodcasts.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

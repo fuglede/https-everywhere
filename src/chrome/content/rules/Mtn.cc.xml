@@ -1,0 +1,6 @@
+<ruleset name="Mtn.cc">
+	<target host="mtn.cc" />
+	<target host="www.mtn.cc" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Mauricioghiorzi.com.ar">
+	<target host="mauricioghiorzi.com.ar" />
+	<target host="www.mauricioghiorzi.com.ar" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

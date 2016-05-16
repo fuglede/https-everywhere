@@ -1,0 +1,6 @@
+<ruleset name="Santing.net">
+	<target host="santing.net" />
+	<target host="www.santing.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

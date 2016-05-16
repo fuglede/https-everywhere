@@ -1,0 +1,6 @@
+<ruleset name="Pamsoft.pl">
+	<target host="pamsoft.pl" />
+	<target host="www.pamsoft.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

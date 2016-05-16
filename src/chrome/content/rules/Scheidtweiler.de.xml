@@ -1,0 +1,6 @@
+<ruleset name="Scheidtweiler.de">
+	<target host="scheidtweiler.de" />
+	<target host="www.scheidtweiler.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

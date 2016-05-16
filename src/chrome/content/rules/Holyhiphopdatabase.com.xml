@@ -1,0 +1,6 @@
+<ruleset name="Holyhiphopdatabase.com">
+	<target host="holyhiphopdatabase.com" />
+	<target host="www.holyhiphopdatabase.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

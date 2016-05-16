@@ -1,0 +1,6 @@
+<ruleset name="Mce.nyc">
+	<target host="mce.nyc" />
+	<target host="www.mce.nyc" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

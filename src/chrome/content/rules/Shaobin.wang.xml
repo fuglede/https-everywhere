@@ -1,0 +1,6 @@
+<ruleset name="Shaobin.wang">
+	<target host="shaobin.wang" />
+	<target host="www.shaobin.wang" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

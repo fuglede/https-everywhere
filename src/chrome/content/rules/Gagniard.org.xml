@@ -1,0 +1,6 @@
+<ruleset name="Gagniard.org">
+	<target host="gagniard.org" />
+	<target host="www.gagniard.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

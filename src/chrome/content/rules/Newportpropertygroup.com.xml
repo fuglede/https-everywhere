@@ -1,0 +1,6 @@
+<ruleset name="Newportpropertygroup.com">
+	<target host="newportpropertygroup.com" />
+	<target host="www.newportpropertygroup.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

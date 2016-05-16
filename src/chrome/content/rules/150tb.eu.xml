@@ -1,0 +1,6 @@
+<ruleset name="150tb.eu">
+	<target host="150tb.eu" />
+	<target host="www.150tb.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

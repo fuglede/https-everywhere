@@ -1,0 +1,6 @@
+<ruleset name="Satriyowibowo.my.id">
+	<target host="satriyowibowo.my.id" />
+	<target host="www.satriyowibowo.my.id" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

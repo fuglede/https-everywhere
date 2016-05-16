@@ -1,0 +1,6 @@
+<ruleset name="Sotar.us">
+	<target host="sotar.us" />
+	<target host="www.sotar.us" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

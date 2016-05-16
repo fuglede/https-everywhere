@@ -1,0 +1,6 @@
+<ruleset name="Gaestehaus-monika.com">
+	<target host="gaestehaus-monika.com" />
+	<target host="www.gaestehaus-monika.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

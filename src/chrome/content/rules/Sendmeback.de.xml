@@ -1,0 +1,6 @@
+<ruleset name="Sendmeback.de">
+	<target host="sendmeback.de" />
+	<target host="www.sendmeback.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Gameisbest.jp">
+	<target host="gameisbest.jp" />
+	<target host="www.gameisbest.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

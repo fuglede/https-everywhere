@@ -1,0 +1,6 @@
+<ruleset name="Dsscc.nl">
+	<target host="dsscc.nl" />
+	<target host="www.dsscc.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

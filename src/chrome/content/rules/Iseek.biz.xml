@@ -1,0 +1,6 @@
+<ruleset name="Iseek.biz">
+	<target host="iseek.biz" />
+	<target host="www.iseek.biz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Vetdnacenter.com">
+	<target host="vetdnacenter.com" />
+	<target host="www.vetdnacenter.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

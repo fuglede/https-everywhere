@@ -1,0 +1,6 @@
+<ruleset name="Beurre.de">
+	<target host="beurre.de" />
+	<target host="www.beurre.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

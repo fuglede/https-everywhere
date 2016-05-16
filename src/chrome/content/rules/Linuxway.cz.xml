@@ -1,0 +1,6 @@
+<ruleset name="Linuxway.cz">
+	<target host="linuxway.cz" />
+	<target host="www.linuxway.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

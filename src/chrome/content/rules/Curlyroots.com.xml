@@ -1,0 +1,6 @@
+<ruleset name="Curlyroots.com">
+	<target host="curlyroots.com" />
+	<target host="www.curlyroots.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

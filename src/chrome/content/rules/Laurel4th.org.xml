@@ -1,0 +1,6 @@
+<ruleset name="Laurel4th.org">
+	<target host="laurel4th.org" />
+	<target host="www.laurel4th.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Backscattering.de">
+	<target host="backscattering.de" />
+	<target host="www.backscattering.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Townhousedevelopments.com.au">
+	<target host="townhousedevelopments.com.au" />
+	<target host="www.townhousedevelopments.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

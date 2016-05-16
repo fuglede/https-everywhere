@@ -1,0 +1,6 @@
+<ruleset name="Relaxintwente.nl">
+	<target host="relaxintwente.nl" />
+	<target host="www.relaxintwente.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

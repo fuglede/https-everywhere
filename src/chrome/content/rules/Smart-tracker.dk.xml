@@ -1,0 +1,6 @@
+<ruleset name="Smart-tracker.dk">
+	<target host="smart-tracker.dk" />
+	<target host="www.smart-tracker.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

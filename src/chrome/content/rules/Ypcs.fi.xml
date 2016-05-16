@@ -1,0 +1,6 @@
+<ruleset name="Ypcs.fi">
+	<target host="ypcs.fi" />
+	<target host="www.ypcs.fi" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

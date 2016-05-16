@@ -1,0 +1,6 @@
+<ruleset name="Kuponrazzi.com">
+	<target host="kuponrazzi.com" />
+	<target host="www.kuponrazzi.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

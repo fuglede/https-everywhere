@@ -1,0 +1,6 @@
+<ruleset name="Humeurs.net">
+	<target host="humeurs.net" />
+	<target host="www.humeurs.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

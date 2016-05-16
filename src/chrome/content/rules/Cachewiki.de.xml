@@ -1,0 +1,6 @@
+<ruleset name="Cachewiki.de">
+	<target host="cachewiki.de" />
+	<target host="www.cachewiki.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

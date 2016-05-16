@@ -1,0 +1,6 @@
+<ruleset name="Noexpect.org">
+	<target host="noexpect.org" />
+	<target host="www.noexpect.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

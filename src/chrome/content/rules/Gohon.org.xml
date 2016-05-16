@@ -1,0 +1,6 @@
+<ruleset name="Gohon.org">
+	<target host="gohon.org" />
+	<target host="www.gohon.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

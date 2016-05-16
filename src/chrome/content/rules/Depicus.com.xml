@@ -1,0 +1,6 @@
+<ruleset name="Depicus.com">
+	<target host="depicus.com" />
+	<target host="www.depicus.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

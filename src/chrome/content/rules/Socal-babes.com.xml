@@ -1,0 +1,6 @@
+<ruleset name="Socal-babes.com">
+	<target host="socal-babes.com" />
+	<target host="www.socal-babes.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

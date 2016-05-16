@@ -1,0 +1,6 @@
+<ruleset name="Eventaro.com">
+	<target host="eventaro.com" />
+	<target host="www.eventaro.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

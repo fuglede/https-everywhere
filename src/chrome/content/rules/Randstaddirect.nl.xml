@@ -1,0 +1,6 @@
+<ruleset name="Randstaddirect.nl">
+	<target host="randstaddirect.nl" />
+	<target host="www.randstaddirect.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

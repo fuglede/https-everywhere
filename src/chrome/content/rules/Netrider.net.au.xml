@@ -1,0 +1,6 @@
+<ruleset name="Netrider.net.au">
+	<target host="netrider.net.au" />
+	<target host="www.netrider.net.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

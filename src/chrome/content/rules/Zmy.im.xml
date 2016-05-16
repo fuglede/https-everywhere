@@ -1,0 +1,6 @@
+<ruleset name="Zmy.im">
+	<target host="zmy.im" />
+	<target host="www.zmy.im" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

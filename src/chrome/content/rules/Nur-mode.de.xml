@@ -1,0 +1,6 @@
+<ruleset name="Nur-mode.de">
+	<target host="nur-mode.de" />
+	<target host="www.nur-mode.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

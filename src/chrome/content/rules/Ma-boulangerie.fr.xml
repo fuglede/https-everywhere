@@ -1,0 +1,6 @@
+<ruleset name="Ma-boulangerie.fr">
+	<target host="ma-boulangerie.fr" />
+	<target host="www.ma-boulangerie.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

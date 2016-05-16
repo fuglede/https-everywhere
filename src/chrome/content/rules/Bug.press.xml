@@ -1,0 +1,6 @@
+<ruleset name="Bug.press">
+	<target host="bug.press" />
+	<target host="www.bug.press" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

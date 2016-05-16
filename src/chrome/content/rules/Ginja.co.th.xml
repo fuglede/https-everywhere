@@ -1,0 +1,6 @@
+<ruleset name="Ginja.co.th">
+	<target host="ginja.co.th" />
+	<target host="www.ginja.co.th" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

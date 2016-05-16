@@ -1,0 +1,6 @@
+<ruleset name="Codabix.de">
+	<target host="codabix.de" />
+	<target host="www.codabix.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

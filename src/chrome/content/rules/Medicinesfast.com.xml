@@ -1,0 +1,6 @@
+<ruleset name="Medicinesfast.com">
+	<target host="medicinesfast.com" />
+	<target host="www.medicinesfast.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

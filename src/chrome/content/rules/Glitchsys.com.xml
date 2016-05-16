@@ -1,0 +1,6 @@
+<ruleset name="Glitchsys.com">
+	<target host="glitchsys.com" />
+	<target host="www.glitchsys.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

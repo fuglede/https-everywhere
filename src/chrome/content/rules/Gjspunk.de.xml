@@ -1,0 +1,6 @@
+<ruleset name="Gjspunk.de">
+	<target host="gjspunk.de" />
+	<target host="www.gjspunk.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

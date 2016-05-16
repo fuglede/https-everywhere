@@ -1,0 +1,6 @@
+<ruleset name="Fsbturton.com">
+	<target host="fsbturton.com" />
+	<target host="www.fsbturton.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

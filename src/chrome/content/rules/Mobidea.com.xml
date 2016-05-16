@@ -1,0 +1,6 @@
+<ruleset name="Mobidea.com">
+	<target host="mobidea.com" />
+	<target host="www.mobidea.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Parleu2016.nl">
+	<target host="parleu2016.nl" />
+	<target host="www.parleu2016.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

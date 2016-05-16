@@ -1,0 +1,6 @@
+<ruleset name="Erepublik-deutschland.de">
+	<target host="erepublik-deutschland.de" />
+	<target host="www.erepublik-deutschland.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

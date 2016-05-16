@@ -1,0 +1,6 @@
+<ruleset name="Mplusm.eu">
+	<target host="mplusm.eu" />
+	<target host="www.mplusm.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

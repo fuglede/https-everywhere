@@ -1,0 +1,6 @@
+<ruleset name="9vx.org">
+	<target host="9vx.org" />
+	<target host="www.9vx.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

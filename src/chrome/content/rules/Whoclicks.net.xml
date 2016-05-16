@@ -1,0 +1,6 @@
+<ruleset name="Whoclicks.net">
+	<target host="whoclicks.net" />
+	<target host="www.whoclicks.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

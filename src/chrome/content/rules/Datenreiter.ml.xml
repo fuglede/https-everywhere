@@ -1,0 +1,6 @@
+<ruleset name="Datenreiter.ml">
+	<target host="datenreiter.ml" />
+	<target host="www.datenreiter.ml" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

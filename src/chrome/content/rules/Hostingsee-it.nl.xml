@@ -1,0 +1,6 @@
+<ruleset name="Hostingsee-it.nl">
+	<target host="hostingsee-it.nl" />
+	<target host="www.hostingsee-it.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

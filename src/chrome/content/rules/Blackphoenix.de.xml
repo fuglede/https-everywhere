@@ -1,0 +1,6 @@
+<ruleset name="Blackphoenix.de">
+	<target host="blackphoenix.de" />
+	<target host="www.blackphoenix.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

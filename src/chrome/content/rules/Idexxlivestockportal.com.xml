@@ -1,0 +1,6 @@
+<ruleset name="Idexxlivestockportal.com">
+	<target host="idexxlivestockportal.com" />
+	<target host="www.idexxlivestockportal.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Fanjoe.be">
+	<target host="fanjoe.be" />
+	<target host="www.fanjoe.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

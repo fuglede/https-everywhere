@@ -1,0 +1,6 @@
+<ruleset name="Decoyrouting.com">
+	<target host="decoyrouting.com" />
+	<target host="www.decoyrouting.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Goldpreisfinder.at">
+	<target host="goldpreisfinder.at" />
+	<target host="www.goldpreisfinder.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

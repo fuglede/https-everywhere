@@ -1,0 +1,6 @@
+<ruleset name="Syneic.com">
+	<target host="syneic.com" />
+	<target host="www.syneic.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

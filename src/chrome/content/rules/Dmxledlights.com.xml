@@ -1,0 +1,6 @@
+<ruleset name="Dmxledlights.com">
+	<target host="dmxledlights.com" />
+	<target host="www.dmxledlights.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

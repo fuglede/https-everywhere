@@ -1,0 +1,6 @@
+<ruleset name="Resc.la">
+	<target host="resc.la" />
+	<target host="www.resc.la" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

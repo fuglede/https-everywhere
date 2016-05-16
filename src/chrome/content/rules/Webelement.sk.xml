@@ -1,0 +1,6 @@
+<ruleset name="Webelement.sk">
+	<target host="webelement.sk" />
+	<target host="www.webelement.sk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

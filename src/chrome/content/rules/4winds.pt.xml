@@ -1,0 +1,6 @@
+<ruleset name="4winds.pt">
+	<target host="4winds.pt" />
+	<target host="www.4winds.pt" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

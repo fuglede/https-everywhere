@@ -1,0 +1,6 @@
+<ruleset name="Fiws.net">
+	<target host="fiws.net" />
+	<target host="www.fiws.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

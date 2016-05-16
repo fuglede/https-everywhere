@@ -1,0 +1,6 @@
+<ruleset name="Recapp.ch">
+	<target host="recapp.ch" />
+	<target host="www.recapp.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

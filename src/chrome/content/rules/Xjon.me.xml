@@ -1,0 +1,6 @@
+<ruleset name="Xjon.me">
+	<target host="xjon.me" />
+	<target host="www.xjon.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

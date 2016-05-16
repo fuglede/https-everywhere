@@ -1,0 +1,6 @@
+<ruleset name="Kaitoriguide.com">
+	<target host="kaitoriguide.com" />
+	<target host="www.kaitoriguide.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="H404bi.com">
+	<target host="h404bi.com" />
+	<target host="www.h404bi.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

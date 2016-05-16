@@ -1,0 +1,6 @@
+<ruleset name="Nickloose.de">
+	<target host="nickloose.de" />
+	<target host="www.nickloose.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

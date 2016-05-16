@@ -1,0 +1,6 @@
+<ruleset name="Kindlyfire.me">
+	<target host="kindlyfire.me" />
+	<target host="www.kindlyfire.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

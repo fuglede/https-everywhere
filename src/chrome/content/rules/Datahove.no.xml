@@ -1,0 +1,6 @@
+<ruleset name="Datahove.no">
+	<target host="datahove.no" />
+	<target host="www.datahove.no" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

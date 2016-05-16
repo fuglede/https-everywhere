@@ -1,0 +1,6 @@
+<ruleset name="Moon.lc">
+	<target host="moon.lc" />
+	<target host="www.moon.lc" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

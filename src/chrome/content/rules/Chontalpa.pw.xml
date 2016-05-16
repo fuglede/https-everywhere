@@ -1,0 +1,6 @@
+<ruleset name="Chontalpa.pw">
+	<target host="chontalpa.pw" />
+	<target host="www.chontalpa.pw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

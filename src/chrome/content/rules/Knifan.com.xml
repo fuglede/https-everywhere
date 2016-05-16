@@ -1,0 +1,6 @@
+<ruleset name="Knifan.com">
+	<target host="knifan.com" />
+	<target host="www.knifan.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

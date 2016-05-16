@@ -1,0 +1,6 @@
+<ruleset name="Imu.li">
+	<target host="imu.li" />
+	<target host="www.imu.li" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

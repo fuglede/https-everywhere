@@ -1,0 +1,6 @@
+<ruleset name="Gqgqgqgqgqgqgqgqgqgq.gq">
+	<target host="gqgqgqgqgqgqgqgqgqgq.gq" />
+	<target host="www.gqgqgqgqgqgqgqgqgqgq.gq" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

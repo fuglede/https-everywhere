@@ -1,0 +1,6 @@
+<ruleset name="Csfm.com">
+	<target host="csfm.com" />
+	<target host="www.csfm.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

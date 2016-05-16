@@ -1,0 +1,6 @@
+<ruleset name="Lewis.li">
+	<target host="lewis.li" />
+	<target host="www.lewis.li" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

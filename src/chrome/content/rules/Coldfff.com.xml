@@ -1,0 +1,6 @@
+<ruleset name="Coldfff.com">
+	<target host="coldfff.com" />
+	<target host="www.coldfff.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Thecitywarehouse.clothing">
+	<target host="thecitywarehouse.clothing" />
+	<target host="www.thecitywarehouse.clothing" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

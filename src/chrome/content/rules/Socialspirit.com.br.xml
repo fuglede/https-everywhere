@@ -1,0 +1,6 @@
+<ruleset name="Socialspirit.com.br">
+	<target host="socialspirit.com.br" />
+	<target host="www.socialspirit.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Cielo-usvt.com">
+	<target host="cielo-usvt.com" />
+	<target host="www.cielo-usvt.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Studentresearcher.org">
+	<target host="studentresearcher.org" />
+	<target host="www.studentresearcher.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

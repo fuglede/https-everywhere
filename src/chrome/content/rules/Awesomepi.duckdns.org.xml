@@ -1,0 +1,6 @@
+<ruleset name="Awesomepi.duckdns.org">
+	<target host="awesomepi.duckdns.org" />
+	<target host="www.awesomepi.duckdns.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

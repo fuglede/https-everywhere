@@ -1,0 +1,6 @@
+<ruleset name="Jeugdkans.nl">
+	<target host="jeugdkans.nl" />
+	<target host="www.jeugdkans.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

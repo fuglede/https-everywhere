@@ -1,0 +1,6 @@
+<ruleset name="Ideal-envelopes.co.uk">
+	<target host="ideal-envelopes.co.uk" />
+	<target host="www.ideal-envelopes.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

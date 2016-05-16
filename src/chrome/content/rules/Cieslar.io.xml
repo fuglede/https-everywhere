@@ -1,0 +1,6 @@
+<ruleset name="Cieslar.io">
+	<target host="cieslar.io" />
+	<target host="www.cieslar.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

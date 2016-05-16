@@ -1,0 +1,6 @@
+<ruleset name="Correctpaardbatterijnietje.nl">
+	<target host="correctpaardbatterijnietje.nl" />
+	<target host="www.correctpaardbatterijnietje.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

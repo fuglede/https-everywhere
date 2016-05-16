@@ -1,0 +1,6 @@
+<ruleset name="Oberhausen-tourismus.de">
+	<target host="oberhausen-tourismus.de" />
+	<target host="www.oberhausen-tourismus.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

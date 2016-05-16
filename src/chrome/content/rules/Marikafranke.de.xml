@@ -1,0 +1,6 @@
+<ruleset name="Marikafranke.de">
+	<target host="marikafranke.de" />
+	<target host="www.marikafranke.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

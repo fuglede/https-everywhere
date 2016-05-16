@@ -1,0 +1,6 @@
+<ruleset name="Kunkel-dienstleistungen.com">
+	<target host="kunkel-dienstleistungen.com" />
+	<target host="www.kunkel-dienstleistungen.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

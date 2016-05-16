@@ -1,0 +1,6 @@
+<ruleset name="Xinbiji.cn">
+	<target host="xinbiji.cn" />
+	<target host="www.xinbiji.cn" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

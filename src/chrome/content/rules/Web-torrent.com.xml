@@ -1,0 +1,6 @@
+<ruleset name="Web-torrent.com">
+	<target host="web-torrent.com" />
+	<target host="www.web-torrent.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

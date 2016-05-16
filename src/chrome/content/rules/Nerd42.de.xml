@@ -1,0 +1,6 @@
+<ruleset name="Nerd42.de">
+	<target host="nerd42.de" />
+	<target host="www.nerd42.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

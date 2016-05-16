@@ -1,0 +1,6 @@
+<ruleset name="Addstar.jp">
+	<target host="addstar.jp" />
+	<target host="www.addstar.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

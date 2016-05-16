@@ -1,0 +1,6 @@
+<ruleset name="Dalfiume.it">
+	<target host="dalfiume.it" />
+	<target host="www.dalfiume.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

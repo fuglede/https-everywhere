@@ -1,0 +1,6 @@
+<ruleset name="Symbiose.com">
+	<target host="symbiose.com" />
+	<target host="www.symbiose.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

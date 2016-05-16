@@ -1,0 +1,6 @@
+<ruleset name="Benk.press">
+	<target host="benk.press" />
+	<target host="www.benk.press" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

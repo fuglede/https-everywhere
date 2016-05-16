@@ -1,0 +1,6 @@
+<ruleset name="Plainjs.com">
+	<target host="plainjs.com" />
+	<target host="www.plainjs.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

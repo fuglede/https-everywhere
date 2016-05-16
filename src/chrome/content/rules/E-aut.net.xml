@@ -1,0 +1,6 @@
+<ruleset name="E-aut.net">
+	<target host="e-aut.net" />
+	<target host="www.e-aut.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

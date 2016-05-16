@@ -1,0 +1,6 @@
+<ruleset name="Netstorage.at">
+	<target host="netstorage.at" />
+	<target host="www.netstorage.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

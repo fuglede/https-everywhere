@@ -1,0 +1,6 @@
+<ruleset name="Coraclesociety.org.uk">
+	<target host="coraclesociety.org.uk" />
+	<target host="www.coraclesociety.org.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

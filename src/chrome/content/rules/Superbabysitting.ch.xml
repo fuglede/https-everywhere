@@ -1,0 +1,6 @@
+<ruleset name="Superbabysitting.ch">
+	<target host="superbabysitting.ch" />
+	<target host="www.superbabysitting.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

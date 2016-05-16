@@ -1,0 +1,6 @@
+<ruleset name="Firmafund.com">
+	<target host="firmafund.com" />
+	<target host="www.firmafund.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

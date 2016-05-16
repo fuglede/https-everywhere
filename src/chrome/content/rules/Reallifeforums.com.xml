@@ -1,0 +1,6 @@
+<ruleset name="Reallifeforums.com">
+	<target host="reallifeforums.com" />
+	<target host="www.reallifeforums.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

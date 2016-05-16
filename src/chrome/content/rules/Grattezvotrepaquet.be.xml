@@ -1,0 +1,6 @@
+<ruleset name="Grattezvotrepaquet.be">
+	<target host="grattezvotrepaquet.be" />
+	<target host="www.grattezvotrepaquet.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Api-geek.com">
+	<target host="api-geek.com" />
+	<target host="www.api-geek.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Orlives.de">
+	<target host="orlives.de" />
+	<target host="www.orlives.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

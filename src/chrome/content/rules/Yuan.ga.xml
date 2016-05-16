@@ -1,0 +1,6 @@
+<ruleset name="Yuan.ga">
+	<target host="yuan.ga" />
+	<target host="www.yuan.ga" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Sysadmin.xyz">
+	<target host="sysadmin.xyz" />
+	<target host="www.sysadmin.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

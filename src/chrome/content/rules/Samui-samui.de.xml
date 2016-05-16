@@ -1,0 +1,6 @@
+<ruleset name="Samui-samui.de">
+	<target host="samui-samui.de" />
+	<target host="www.samui-samui.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

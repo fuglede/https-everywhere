@@ -1,0 +1,6 @@
+<ruleset name="Dahlberg.cologne">
+	<target host="dahlberg.cologne" />
+	<target host="www.dahlberg.cologne" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

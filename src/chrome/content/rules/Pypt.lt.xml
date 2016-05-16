@@ -1,0 +1,6 @@
+<ruleset name="Pypt.lt">
+	<target host="pypt.lt" />
+	<target host="www.pypt.lt" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

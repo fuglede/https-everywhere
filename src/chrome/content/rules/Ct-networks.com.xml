@@ -1,0 +1,6 @@
+<ruleset name="Ct-networks.com">
+	<target host="ct-networks.com" />
+	<target host="www.ct-networks.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

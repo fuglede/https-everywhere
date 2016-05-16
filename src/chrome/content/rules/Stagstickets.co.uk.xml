@@ -1,0 +1,6 @@
+<ruleset name="Stagstickets.co.uk">
+	<target host="stagstickets.co.uk" />
+	<target host="www.stagstickets.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

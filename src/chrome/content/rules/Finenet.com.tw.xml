@@ -1,0 +1,6 @@
+<ruleset name="Finenet.com.tw">
+	<target host="finenet.com.tw" />
+	<target host="www.finenet.com.tw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

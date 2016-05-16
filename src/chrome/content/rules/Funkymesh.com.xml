@@ -1,0 +1,6 @@
+<ruleset name="Funkymesh.com">
+	<target host="funkymesh.com" />
+	<target host="www.funkymesh.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Aderal.io">
+	<target host="aderal.io" />
+	<target host="www.aderal.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

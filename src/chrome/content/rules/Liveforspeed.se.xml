@@ -1,0 +1,6 @@
+<ruleset name="Liveforspeed.se">
+	<target host="liveforspeed.se" />
+	<target host="www.liveforspeed.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

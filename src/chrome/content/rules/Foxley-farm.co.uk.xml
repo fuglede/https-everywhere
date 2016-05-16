@@ -1,0 +1,6 @@
+<ruleset name="Foxley-farm.co.uk">
+	<target host="foxley-farm.co.uk" />
+	<target host="www.foxley-farm.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

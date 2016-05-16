@@ -1,0 +1,6 @@
+<ruleset name="Missrain.tw">
+	<target host="missrain.tw" />
+	<target host="www.missrain.tw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

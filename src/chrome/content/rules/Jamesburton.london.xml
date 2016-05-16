@@ -1,0 +1,6 @@
+<ruleset name="Jamesburton.london">
+	<target host="jamesburton.london" />
+	<target host="www.jamesburton.london" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

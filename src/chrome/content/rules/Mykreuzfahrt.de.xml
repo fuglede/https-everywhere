@@ -1,0 +1,6 @@
+<ruleset name="Mykreuzfahrt.de">
+	<target host="mykreuzfahrt.de" />
+	<target host="www.mykreuzfahrt.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

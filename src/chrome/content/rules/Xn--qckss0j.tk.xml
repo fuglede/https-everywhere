@@ -1,0 +1,6 @@
+<ruleset name="Xn--qckss0j.tk">
+	<target host="xn--qckss0j.tk" />
+	<target host="www.xn--qckss0j.tk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

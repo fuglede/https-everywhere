@@ -1,0 +1,6 @@
+<ruleset name="Genesisoncology.org.nz">
+	<target host="genesisoncology.org.nz" />
+	<target host="www.genesisoncology.org.nz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

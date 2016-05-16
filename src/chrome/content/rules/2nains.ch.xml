@@ -1,0 +1,6 @@
+<ruleset name="2nains.ch">
+	<target host="2nains.ch" />
+	<target host="www.2nains.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

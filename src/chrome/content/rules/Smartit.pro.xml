@@ -1,0 +1,6 @@
+<ruleset name="Smartit.pro">
+	<target host="smartit.pro" />
+	<target host="www.smartit.pro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

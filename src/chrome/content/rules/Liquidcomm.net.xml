@@ -1,0 +1,6 @@
+<ruleset name="Liquidcomm.net">
+	<target host="liquidcomm.net" />
+	<target host="www.liquidcomm.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

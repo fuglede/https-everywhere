@@ -1,0 +1,6 @@
+<ruleset name="Levert.ch">
+	<target host="levert.ch" />
+	<target host="www.levert.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

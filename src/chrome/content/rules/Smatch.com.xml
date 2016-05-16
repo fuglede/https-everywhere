@@ -1,0 +1,6 @@
+<ruleset name="Smatch.com">
+	<target host="smatch.com" />
+	<target host="www.smatch.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

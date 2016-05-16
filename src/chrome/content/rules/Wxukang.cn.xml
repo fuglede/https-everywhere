@@ -1,0 +1,6 @@
+<ruleset name="Wxukang.cn">
+	<target host="wxukang.cn" />
+	<target host="www.wxukang.cn" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

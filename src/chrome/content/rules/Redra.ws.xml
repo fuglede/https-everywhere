@@ -1,0 +1,6 @@
+<ruleset name="Redra.ws">
+	<target host="redra.ws" />
+	<target host="www.redra.ws" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

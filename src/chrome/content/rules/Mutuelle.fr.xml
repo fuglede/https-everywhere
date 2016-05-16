@@ -1,0 +1,6 @@
+<ruleset name="Mutuelle.fr">
+	<target host="mutuelle.fr" />
+	<target host="www.mutuelle.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Kwok.tv">
+	<target host="kwok.tv" />
+	<target host="www.kwok.tv" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

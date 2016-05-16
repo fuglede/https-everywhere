@@ -1,0 +1,6 @@
+<ruleset name="Po.gl">
+	<target host="po.gl" />
+	<target host="www.po.gl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

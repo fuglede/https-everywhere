@@ -1,0 +1,6 @@
+<ruleset name="Betaclean.fr">
+	<target host="betaclean.fr" />
+	<target host="www.betaclean.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

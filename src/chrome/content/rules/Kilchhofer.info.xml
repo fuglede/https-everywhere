@@ -1,0 +1,6 @@
+<ruleset name="Kilchhofer.info">
+	<target host="kilchhofer.info" />
+	<target host="www.kilchhofer.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

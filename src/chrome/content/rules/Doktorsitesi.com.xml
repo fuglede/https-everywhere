@@ -1,0 +1,6 @@
+<ruleset name="Doktorsitesi.com">
+	<target host="doktorsitesi.com" />
+	<target host="www.doktorsitesi.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

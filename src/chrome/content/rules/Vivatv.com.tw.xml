@@ -1,0 +1,6 @@
+<ruleset name="Vivatv.com.tw">
+	<target host="vivatv.com.tw" />
+	<target host="www.vivatv.com.tw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

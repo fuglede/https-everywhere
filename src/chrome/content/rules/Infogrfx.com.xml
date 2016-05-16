@@ -1,0 +1,6 @@
+<ruleset name="Infogrfx.com">
+	<target host="infogrfx.com" />
+	<target host="www.infogrfx.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

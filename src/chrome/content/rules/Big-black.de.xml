@@ -1,0 +1,6 @@
+<ruleset name="Big-black.de">
+	<target host="big-black.de" />
+	<target host="www.big-black.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

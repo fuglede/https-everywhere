@@ -1,0 +1,6 @@
+<ruleset name="Sourcepad.com">
+	<target host="sourcepad.com" />
+	<target host="www.sourcepad.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

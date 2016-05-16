@@ -1,0 +1,6 @@
+<ruleset name="Babelfisch.eu">
+	<target host="babelfisch.eu" />
+	<target host="www.babelfisch.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

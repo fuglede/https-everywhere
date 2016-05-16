@@ -1,0 +1,6 @@
+<ruleset name="Gamishou.fr">
+	<target host="gamishou.fr" />
+	<target host="www.gamishou.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

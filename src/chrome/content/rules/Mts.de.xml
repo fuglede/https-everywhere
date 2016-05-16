@@ -1,0 +1,6 @@
+<ruleset name="Mts.de">
+	<target host="mts.de" />
+	<target host="www.mts.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

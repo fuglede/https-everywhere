@@ -1,0 +1,6 @@
+<ruleset name="Frontiermoving.net">
+	<target host="frontiermoving.net" />
+	<target host="www.frontiermoving.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

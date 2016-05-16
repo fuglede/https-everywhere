@@ -1,0 +1,6 @@
+<ruleset name="Iraqidinar.org">
+	<target host="iraqidinar.org" />
+	<target host="www.iraqidinar.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

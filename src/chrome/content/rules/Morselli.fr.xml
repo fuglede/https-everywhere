@@ -1,0 +1,6 @@
+<ruleset name="Morselli.fr">
+	<target host="morselli.fr" />
+	<target host="www.morselli.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

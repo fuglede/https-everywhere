@@ -1,0 +1,6 @@
+<ruleset name="Deetzen.de">
+	<target host="deetzen.de" />
+	<target host="www.deetzen.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

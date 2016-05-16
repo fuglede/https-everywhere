@@ -1,0 +1,6 @@
+<ruleset name="Imperialwebsolutions.com">
+	<target host="imperialwebsolutions.com" />
+	<target host="www.imperialwebsolutions.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

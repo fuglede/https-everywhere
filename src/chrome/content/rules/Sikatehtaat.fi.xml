@@ -1,0 +1,6 @@
+<ruleset name="Sikatehtaat.fi">
+	<target host="sikatehtaat.fi" />
+	<target host="www.sikatehtaat.fi" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

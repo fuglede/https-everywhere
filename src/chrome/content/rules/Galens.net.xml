@@ -1,0 +1,6 @@
+<ruleset name="Galens.net">
+	<target host="galens.net" />
+	<target host="www.galens.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

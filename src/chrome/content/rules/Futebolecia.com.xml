@@ -1,0 +1,6 @@
+<ruleset name="Futebolecia.com">
+	<target host="futebolecia.com" />
+	<target host="www.futebolecia.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

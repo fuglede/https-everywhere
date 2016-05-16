@@ -1,0 +1,6 @@
+<ruleset name="Koezmangal.ch">
+	<target host="koezmangal.ch" />
+	<target host="www.koezmangal.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

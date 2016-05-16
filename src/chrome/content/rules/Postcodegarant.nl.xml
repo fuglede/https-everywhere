@@ -1,0 +1,6 @@
+<ruleset name="Postcodegarant.nl">
+	<target host="postcodegarant.nl" />
+	<target host="www.postcodegarant.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

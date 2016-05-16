@@ -1,0 +1,6 @@
+<ruleset name="Bdikaros-network.net">
+	<target host="bdikaros-network.net" />
+	<target host="www.bdikaros-network.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

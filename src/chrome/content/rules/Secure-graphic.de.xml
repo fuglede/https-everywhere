@@ -1,0 +1,6 @@
+<ruleset name="Secure-graphic.de">
+	<target host="secure-graphic.de" />
+	<target host="www.secure-graphic.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

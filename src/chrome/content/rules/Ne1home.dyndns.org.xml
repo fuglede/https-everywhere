@@ -1,0 +1,6 @@
+<ruleset name="Ne1home.dyndns.org">
+	<target host="ne1home.dyndns.org" />
+	<target host="www.ne1home.dyndns.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

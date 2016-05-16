@@ -1,0 +1,6 @@
+<ruleset name="Clackamascountybank.com">
+	<target host="clackamascountybank.com" />
+	<target host="www.clackamascountybank.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

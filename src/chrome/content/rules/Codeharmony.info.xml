@@ -1,0 +1,6 @@
+<ruleset name="Codeharmony.info">
+	<target host="codeharmony.info" />
+	<target host="www.codeharmony.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

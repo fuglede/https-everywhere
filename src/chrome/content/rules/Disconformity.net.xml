@@ -1,0 +1,6 @@
+<ruleset name="Disconformity.net">
+	<target host="disconformity.net" />
+	<target host="www.disconformity.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

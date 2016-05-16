@@ -1,0 +1,6 @@
+<ruleset name="Activeweb.top">
+	<target host="activeweb.top" />
+	<target host="www.activeweb.top" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

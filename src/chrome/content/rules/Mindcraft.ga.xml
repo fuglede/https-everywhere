@@ -1,0 +1,6 @@
+<ruleset name="Mindcraft.ga">
+	<target host="mindcraft.ga" />
+	<target host="www.mindcraft.ga" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

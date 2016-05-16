@@ -1,0 +1,6 @@
+<ruleset name="Nav.jobs">
+	<target host="nav.jobs" />
+	<target host="www.nav.jobs" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

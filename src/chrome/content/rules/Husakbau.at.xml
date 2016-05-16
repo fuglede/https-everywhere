@@ -1,0 +1,6 @@
+<ruleset name="Husakbau.at">
+	<target host="husakbau.at" />
+	<target host="www.husakbau.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

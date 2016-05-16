@@ -1,0 +1,6 @@
+<ruleset name="Hilti.com">
+	<target host="hilti.com" />
+	<target host="www.hilti.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

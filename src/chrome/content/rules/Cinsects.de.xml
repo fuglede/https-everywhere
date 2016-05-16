@@ -1,0 +1,6 @@
+<ruleset name="Cinsects.de">
+	<target host="cinsects.de" />
+	<target host="www.cinsects.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

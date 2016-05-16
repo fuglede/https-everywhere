@@ -1,0 +1,6 @@
+<ruleset name="Kb3.net">
+	<target host="kb3.net" />
+	<target host="www.kb3.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Kall.is">
+	<target host="kall.is" />
+	<target host="www.kall.is" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

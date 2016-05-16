@@ -1,0 +1,6 @@
+<ruleset name="Snowalerts.eu">
+	<target host="snowalerts.eu" />
+	<target host="www.snowalerts.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

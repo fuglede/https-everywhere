@@ -1,0 +1,6 @@
+<ruleset name="Kingpepermunt.nl">
+	<target host="kingpepermunt.nl" />
+	<target host="www.kingpepermunt.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

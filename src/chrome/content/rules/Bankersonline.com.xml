@@ -1,0 +1,6 @@
+<ruleset name="Bankersonline.com">
+	<target host="bankersonline.com" />
+	<target host="www.bankersonline.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

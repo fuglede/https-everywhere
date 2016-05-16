@@ -1,0 +1,6 @@
+<ruleset name="Rodney.id.au">
+	<target host="rodney.id.au" />
+	<target host="www.rodney.id.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Capitalquadatv.org.nz">
+	<target host="capitalquadatv.org.nz" />
+	<target host="www.capitalquadatv.org.nz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

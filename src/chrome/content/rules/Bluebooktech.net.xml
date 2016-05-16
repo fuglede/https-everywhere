@@ -1,0 +1,6 @@
+<ruleset name="Bluebooktech.net">
+	<target host="bluebooktech.net" />
+	<target host="www.bluebooktech.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

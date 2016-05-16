@@ -1,0 +1,6 @@
+<ruleset name="Qldformulaford.org">
+	<target host="qldformulaford.org" />
+	<target host="www.qldformulaford.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

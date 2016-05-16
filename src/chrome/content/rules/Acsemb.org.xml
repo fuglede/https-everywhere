@@ -1,0 +1,6 @@
+<ruleset name="Acsemb.org">
+	<target host="acsemb.org" />
+	<target host="www.acsemb.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

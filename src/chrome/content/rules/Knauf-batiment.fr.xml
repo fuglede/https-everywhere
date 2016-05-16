@@ -1,0 +1,6 @@
+<ruleset name="Knauf-batiment.fr">
+	<target host="knauf-batiment.fr" />
+	<target host="www.knauf-batiment.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

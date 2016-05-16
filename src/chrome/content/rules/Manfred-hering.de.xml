@@ -1,0 +1,6 @@
+<ruleset name="Manfred-hering.de">
+	<target host="manfred-hering.de" />
+	<target host="www.manfred-hering.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

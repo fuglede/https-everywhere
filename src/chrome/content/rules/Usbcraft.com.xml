@@ -1,0 +1,6 @@
+<ruleset name="Usbcraft.com">
+	<target host="usbcraft.com" />
+	<target host="www.usbcraft.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

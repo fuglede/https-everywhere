@@ -1,0 +1,6 @@
+<ruleset name="Christianbargon.de">
+	<target host="christianbargon.de" />
+	<target host="www.christianbargon.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

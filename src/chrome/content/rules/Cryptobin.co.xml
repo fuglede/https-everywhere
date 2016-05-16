@@ -1,0 +1,6 @@
+<ruleset name="Cryptobin.co">
+	<target host="cryptobin.co" />
+	<target host="www.cryptobin.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

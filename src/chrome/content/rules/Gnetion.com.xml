@@ -1,0 +1,6 @@
+<ruleset name="Gnetion.com">
+	<target host="gnetion.com" />
+	<target host="www.gnetion.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

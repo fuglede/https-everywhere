@@ -1,0 +1,6 @@
+<ruleset name="Palomino.sk">
+	<target host="palomino.sk" />
+	<target host="www.palomino.sk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

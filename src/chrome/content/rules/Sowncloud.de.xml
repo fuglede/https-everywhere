@@ -1,0 +1,6 @@
+<ruleset name="Sowncloud.de">
+	<target host="sowncloud.de" />
+	<target host="www.sowncloud.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

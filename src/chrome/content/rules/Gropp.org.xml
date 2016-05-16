@@ -1,0 +1,6 @@
+<ruleset name="Gropp.org">
+	<target host="gropp.org" />
+	<target host="www.gropp.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

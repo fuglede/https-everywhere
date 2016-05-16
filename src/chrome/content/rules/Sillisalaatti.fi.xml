@@ -1,0 +1,6 @@
+<ruleset name="Sillisalaatti.fi">
+	<target host="sillisalaatti.fi" />
+	<target host="www.sillisalaatti.fi" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Fantasiascarol.com.br">
+	<target host="fantasiascarol.com.br" />
+	<target host="www.fantasiascarol.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

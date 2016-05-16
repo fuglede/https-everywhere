@@ -1,0 +1,6 @@
+<ruleset name="Nichthelfer.de">
+	<target host="nichthelfer.de" />
+	<target host="www.nichthelfer.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

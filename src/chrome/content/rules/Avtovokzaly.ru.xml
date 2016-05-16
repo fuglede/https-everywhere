@@ -1,0 +1,6 @@
+<ruleset name="Avtovokzaly.ru">
+	<target host="avtovokzaly.ru" />
+	<target host="www.avtovokzaly.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Backhaus-24.de">
+	<target host="backhaus-24.de" />
+	<target host="www.backhaus-24.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

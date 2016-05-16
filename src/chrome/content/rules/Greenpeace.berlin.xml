@@ -1,0 +1,6 @@
+<ruleset name="Greenpeace.berlin">
+	<target host="greenpeace.berlin" />
+	<target host="www.greenpeace.berlin" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Hardwaredatastore.com">
+	<target host="hardwaredatastore.com" />
+	<target host="www.hardwaredatastore.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

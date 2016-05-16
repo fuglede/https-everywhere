@@ -1,0 +1,6 @@
+<ruleset name="Fotiu.com">
+	<target host="fotiu.com" />
+	<target host="www.fotiu.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

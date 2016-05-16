@@ -1,0 +1,6 @@
+<ruleset name="Anon.network">
+	<target host="anon.network" />
+	<target host="www.anon.network" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

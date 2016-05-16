@@ -1,0 +1,6 @@
+<ruleset name="Gocanarytel.com">
+	<target host="gocanarytel.com" />
+	<target host="www.gocanarytel.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

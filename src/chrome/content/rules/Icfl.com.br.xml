@@ -1,0 +1,6 @@
+<ruleset name="Icfl.com.br">
+	<target host="icfl.com.br" />
+	<target host="www.icfl.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Namegrep.com">
+	<target host="namegrep.com" />
+	<target host="www.namegrep.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

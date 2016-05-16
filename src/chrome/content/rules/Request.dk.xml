@@ -1,0 +1,6 @@
+<ruleset name="Request.dk">
+	<target host="request.dk" />
+	<target host="www.request.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

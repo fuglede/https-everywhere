@@ -1,0 +1,6 @@
+<ruleset name="Teleriko.com">
+	<target host="teleriko.com" />
+	<target host="www.teleriko.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

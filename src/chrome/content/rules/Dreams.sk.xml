@@ -1,0 +1,6 @@
+<ruleset name="Dreams.sk">
+	<target host="dreams.sk" />
+	<target host="www.dreams.sk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

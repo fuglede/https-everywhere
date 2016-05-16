@@ -1,0 +1,6 @@
+<ruleset name="Linkenheil.org">
+	<target host="linkenheil.org" />
+	<target host="www.linkenheil.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

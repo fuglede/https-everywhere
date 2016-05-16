@@ -1,0 +1,6 @@
+<ruleset name="Eirastudios.co.uk">
+	<target host="eirastudios.co.uk" />
+	<target host="www.eirastudios.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Responding-community.de">
+	<target host="responding-community.de" />
+	<target host="www.responding-community.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

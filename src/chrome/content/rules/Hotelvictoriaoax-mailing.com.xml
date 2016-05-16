@@ -1,0 +1,6 @@
+<ruleset name="Hotelvictoriaoax-mailing.com">
+	<target host="hotelvictoriaoax-mailing.com" />
+	<target host="www.hotelvictoriaoax-mailing.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

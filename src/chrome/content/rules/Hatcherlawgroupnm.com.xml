@@ -1,0 +1,6 @@
+<ruleset name="Hatcherlawgroupnm.com">
+	<target host="hatcherlawgroupnm.com" />
+	<target host="www.hatcherlawgroupnm.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

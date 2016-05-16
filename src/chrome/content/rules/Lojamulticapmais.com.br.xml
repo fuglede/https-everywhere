@@ -1,0 +1,6 @@
+<ruleset name="Lojamulticapmais.com.br">
+	<target host="lojamulticapmais.com.br" />
+	<target host="www.lojamulticapmais.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

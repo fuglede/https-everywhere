@@ -1,0 +1,6 @@
+<ruleset name="Asashi.net">
+	<target host="asashi.net" />
+	<target host="www.asashi.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

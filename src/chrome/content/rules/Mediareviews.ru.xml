@@ -1,0 +1,6 @@
+<ruleset name="Mediareviews.ru">
+	<target host="mediareviews.ru" />
+	<target host="www.mediareviews.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

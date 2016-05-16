@@ -1,0 +1,6 @@
+<ruleset name="Elektropost.org">
+	<target host="elektropost.org" />
+	<target host="www.elektropost.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

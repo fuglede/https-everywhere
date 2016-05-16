@@ -1,0 +1,6 @@
+<ruleset name="Xtronics.com">
+	<target host="xtronics.com" />
+	<target host="www.xtronics.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

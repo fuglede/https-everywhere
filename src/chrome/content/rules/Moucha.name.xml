@@ -1,0 +1,6 @@
+<ruleset name="Moucha.name">
+	<target host="moucha.name" />
+	<target host="www.moucha.name" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Zellari.ru">
+	<target host="zellari.ru" />
+	<target host="www.zellari.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

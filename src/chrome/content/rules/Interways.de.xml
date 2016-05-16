@@ -1,0 +1,6 @@
+<ruleset name="Interways.de">
+	<target host="interways.de" />
+	<target host="www.interways.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

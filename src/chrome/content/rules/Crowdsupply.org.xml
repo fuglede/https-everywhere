@@ -1,0 +1,6 @@
+<ruleset name="Crowdsupply.org">
+	<target host="crowdsupply.org" />
+	<target host="www.crowdsupply.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

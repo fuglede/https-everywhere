@@ -1,0 +1,6 @@
+<ruleset name="Sdgeeks.com">
+	<target host="sdgeeks.com" />
+	<target host="www.sdgeeks.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

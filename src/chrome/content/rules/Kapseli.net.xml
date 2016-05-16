@@ -1,0 +1,6 @@
+<ruleset name="Kapseli.net">
+	<target host="kapseli.net" />
+	<target host="www.kapseli.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

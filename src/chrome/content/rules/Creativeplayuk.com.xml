@@ -1,0 +1,6 @@
+<ruleset name="Creativeplayuk.com">
+	<target host="creativeplayuk.com" />
+	<target host="www.creativeplayuk.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Lerp.me">
+	<target host="lerp.me" />
+	<target host="www.lerp.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

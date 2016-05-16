@@ -1,0 +1,6 @@
+<ruleset name="Harvestrenewal.org">
+	<target host="harvestrenewal.org" />
+	<target host="www.harvestrenewal.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

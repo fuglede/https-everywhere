@@ -1,0 +1,6 @@
+<ruleset name="Traffixdevices.com">
+	<target host="traffixdevices.com" />
+	<target host="www.traffixdevices.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

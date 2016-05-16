@@ -1,0 +1,6 @@
+<ruleset name="Php-tuning.de">
+	<target host="php-tuning.de" />
+	<target host="www.php-tuning.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Atrinik.org">
+	<target host="atrinik.org" />
+	<target host="www.atrinik.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

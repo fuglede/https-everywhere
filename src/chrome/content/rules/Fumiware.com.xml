@@ -1,0 +1,6 @@
+<ruleset name="Fumiware.com">
+	<target host="fumiware.com" />
+	<target host="www.fumiware.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Cheapgeekts.com">
+	<target host="cheapgeekts.com" />
+	<target host="www.cheapgeekts.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

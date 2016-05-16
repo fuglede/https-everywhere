@@ -1,0 +1,6 @@
+<ruleset name="2brokegirls.org">
+	<target host="2brokegirls.org" />
+	<target host="www.2brokegirls.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

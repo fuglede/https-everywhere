@@ -1,0 +1,6 @@
+<ruleset name="Artistnetwork.nl">
+	<target host="artistnetwork.nl" />
+	<target host="www.artistnetwork.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Vabeach.com">
+	<target host="vabeach.com" />
+	<target host="www.vabeach.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

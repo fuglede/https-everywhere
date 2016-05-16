@@ -1,0 +1,6 @@
+<ruleset name="Grokker.com">
+	<target host="grokker.com" />
+	<target host="www.grokker.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

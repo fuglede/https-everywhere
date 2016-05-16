@@ -1,0 +1,6 @@
+<ruleset name="Haktec.de">
+	<target host="haktec.de" />
+	<target host="www.haktec.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

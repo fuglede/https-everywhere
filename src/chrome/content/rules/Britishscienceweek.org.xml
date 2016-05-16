@@ -1,0 +1,6 @@
+<ruleset name="Britishscienceweek.org">
+	<target host="britishscienceweek.org" />
+	<target host="www.britishscienceweek.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

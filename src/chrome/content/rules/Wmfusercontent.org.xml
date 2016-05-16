@@ -1,0 +1,6 @@
+<ruleset name="Wmfusercontent.org">
+	<target host="wmfusercontent.org" />
+	<target host="www.wmfusercontent.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

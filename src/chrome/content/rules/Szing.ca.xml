@@ -1,0 +1,6 @@
+<ruleset name="Szing.ca">
+	<target host="szing.ca" />
+	<target host="www.szing.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

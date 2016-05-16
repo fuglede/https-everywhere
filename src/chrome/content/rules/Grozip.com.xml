@@ -1,0 +1,6 @@
+<ruleset name="Grozip.com">
+	<target host="grozip.com" />
+	<target host="www.grozip.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

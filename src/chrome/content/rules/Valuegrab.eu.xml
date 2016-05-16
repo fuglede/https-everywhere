@@ -1,0 +1,6 @@
+<ruleset name="Valuegrab.eu">
+	<target host="valuegrab.eu" />
+	<target host="www.valuegrab.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Esn-ypci.com">
+	<target host="esn-ypci.com" />
+	<target host="www.esn-ypci.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Gintenreiter-photography.com">
+	<target host="gintenreiter-photography.com" />
+	<target host="www.gintenreiter-photography.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

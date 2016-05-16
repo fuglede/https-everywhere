@@ -1,0 +1,6 @@
+<ruleset name="Bismarck.moe">
+	<target host="bismarck.moe" />
+	<target host="www.bismarck.moe" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Jacobparry.ca">
+	<target host="jacobparry.ca" />
+	<target host="www.jacobparry.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

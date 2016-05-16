@@ -1,0 +1,6 @@
+<ruleset name="Frontisme.nl">
+	<target host="frontisme.nl" />
+	<target host="www.frontisme.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

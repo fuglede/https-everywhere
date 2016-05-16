@@ -1,0 +1,6 @@
+<ruleset name="Ibrasoftware.com">
+	<target host="ibrasoftware.com" />
+	<target host="www.ibrasoftware.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

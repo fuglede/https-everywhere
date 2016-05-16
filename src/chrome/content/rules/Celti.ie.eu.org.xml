@@ -1,0 +1,6 @@
+<ruleset name="Celti.ie.eu.org">
+	<target host="celti.ie.eu.org" />
+	<target host="www.celti.ie.eu.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

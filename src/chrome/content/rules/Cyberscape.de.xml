@@ -1,0 +1,6 @@
+<ruleset name="Cyberscape.de">
+	<target host="cyberscape.de" />
+	<target host="www.cyberscape.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

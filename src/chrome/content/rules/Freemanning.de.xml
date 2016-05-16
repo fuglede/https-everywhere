@@ -1,0 +1,6 @@
+<ruleset name="Freemanning.de">
+	<target host="freemanning.de" />
+	<target host="www.freemanning.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

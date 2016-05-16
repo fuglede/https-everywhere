@@ -1,0 +1,6 @@
+<ruleset name="Online-casino-test.de">
+	<target host="online-casino-test.de" />
+	<target host="www.online-casino-test.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

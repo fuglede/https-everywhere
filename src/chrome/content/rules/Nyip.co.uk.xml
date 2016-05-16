@@ -1,0 +1,6 @@
+<ruleset name="Nyip.co.uk">
+	<target host="nyip.co.uk" />
+	<target host="www.nyip.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

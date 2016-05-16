@@ -1,0 +1,6 @@
+<ruleset name="Tikutiku.pl">
+	<target host="tikutiku.pl" />
+	<target host="www.tikutiku.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

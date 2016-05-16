@@ -1,0 +1,6 @@
+<ruleset name="Itos.pl">
+	<target host="itos.pl" />
+	<target host="www.itos.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

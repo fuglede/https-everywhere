@@ -1,0 +1,6 @@
+<ruleset name="Ptd.io">
+	<target host="ptd.io" />
+	<target host="www.ptd.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

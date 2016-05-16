@@ -1,0 +1,6 @@
+<ruleset name="Kontorhaus-schlachte.de">
+	<target host="kontorhaus-schlachte.de" />
+	<target host="www.kontorhaus-schlachte.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Clouds.webcam">
+	<target host="clouds.webcam" />
+	<target host="www.clouds.webcam" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

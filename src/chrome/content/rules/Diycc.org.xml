@@ -1,0 +1,6 @@
+<ruleset name="Diycc.org">
+	<target host="diycc.org" />
+	<target host="www.diycc.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

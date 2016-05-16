@@ -1,0 +1,6 @@
+<ruleset name="Custe.rs">
+	<target host="custe.rs" />
+	<target host="www.custe.rs" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

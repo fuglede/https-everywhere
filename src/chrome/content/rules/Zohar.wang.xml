@@ -1,0 +1,6 @@
+<ruleset name="Zohar.wang">
+	<target host="zohar.wang" />
+	<target host="www.zohar.wang" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

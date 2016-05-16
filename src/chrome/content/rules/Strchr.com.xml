@@ -1,0 +1,6 @@
+<ruleset name="Strchr.com">
+	<target host="strchr.com" />
+	<target host="www.strchr.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

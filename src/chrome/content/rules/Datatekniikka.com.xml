@@ -1,0 +1,6 @@
+<ruleset name="Datatekniikka.com">
+	<target host="datatekniikka.com" />
+	<target host="www.datatekniikka.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Faircom.co.za">
+	<target host="faircom.co.za" />
+	<target host="www.faircom.co.za" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

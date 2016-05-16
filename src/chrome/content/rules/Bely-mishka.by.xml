@@ -1,0 +1,6 @@
+<ruleset name="Bely-mishka.by">
+	<target host="bely-mishka.by" />
+	<target host="www.bely-mishka.by" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

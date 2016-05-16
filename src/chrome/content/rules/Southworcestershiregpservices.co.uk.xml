@@ -1,0 +1,6 @@
+<ruleset name="Southworcestershiregpservices.co.uk">
+	<target host="southworcestershiregpservices.co.uk" />
+	<target host="www.southworcestershiregpservices.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

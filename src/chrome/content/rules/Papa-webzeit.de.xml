@@ -1,0 +1,6 @@
+<ruleset name="Papa-webzeit.de">
+	<target host="papa-webzeit.de" />
+	<target host="www.papa-webzeit.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

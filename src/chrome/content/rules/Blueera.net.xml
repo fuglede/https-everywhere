@@ -1,0 +1,6 @@
+<ruleset name="Blueera.net">
+	<target host="blueera.net" />
+	<target host="www.blueera.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

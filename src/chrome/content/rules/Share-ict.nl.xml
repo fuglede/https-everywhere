@@ -1,0 +1,6 @@
+<ruleset name="Share-ict.nl">
+	<target host="share-ict.nl" />
+	<target host="www.share-ict.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

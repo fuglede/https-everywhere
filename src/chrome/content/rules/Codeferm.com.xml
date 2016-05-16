@@ -1,0 +1,6 @@
+<ruleset name="Codeferm.com">
+	<target host="codeferm.com" />
+	<target host="www.codeferm.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

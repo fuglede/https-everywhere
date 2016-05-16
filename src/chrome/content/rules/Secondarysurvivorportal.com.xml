@@ -1,0 +1,6 @@
+<ruleset name="Secondarysurvivorportal.com">
+	<target host="secondarysurvivorportal.com" />
+	<target host="www.secondarysurvivorportal.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

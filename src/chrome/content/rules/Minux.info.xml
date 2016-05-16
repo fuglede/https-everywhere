@@ -1,0 +1,6 @@
+<ruleset name="Minux.info">
+	<target host="minux.info" />
+	<target host="www.minux.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

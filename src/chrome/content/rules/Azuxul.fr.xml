@@ -1,0 +1,6 @@
+<ruleset name="Azuxul.fr">
+	<target host="azuxul.fr" />
+	<target host="www.azuxul.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

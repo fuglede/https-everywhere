@@ -1,0 +1,6 @@
+<ruleset name="Adrianajewelry.my">
+	<target host="adrianajewelry.my" />
+	<target host="www.adrianajewelry.my" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

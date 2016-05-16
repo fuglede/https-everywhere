@@ -1,0 +1,6 @@
+<ruleset name="Frugro.be">
+	<target host="frugro.be" />
+	<target host="www.frugro.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

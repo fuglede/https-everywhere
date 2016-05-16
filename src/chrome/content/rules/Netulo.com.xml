@@ -1,0 +1,6 @@
+<ruleset name="Netulo.com">
+	<target host="netulo.com" />
+	<target host="www.netulo.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

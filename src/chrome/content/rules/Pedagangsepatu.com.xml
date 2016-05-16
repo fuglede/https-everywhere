@@ -1,0 +1,6 @@
+<ruleset name="Pedagangsepatu.com">
+	<target host="pedagangsepatu.com" />
+	<target host="www.pedagangsepatu.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

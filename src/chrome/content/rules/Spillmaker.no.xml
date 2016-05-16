@@ -1,0 +1,6 @@
+<ruleset name="Spillmaker.no">
+	<target host="spillmaker.no" />
+	<target host="www.spillmaker.no" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

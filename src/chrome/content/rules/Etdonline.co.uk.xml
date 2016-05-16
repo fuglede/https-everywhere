@@ -1,0 +1,6 @@
+<ruleset name="Etdonline.co.uk">
+	<target host="etdonline.co.uk" />
+	<target host="www.etdonline.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

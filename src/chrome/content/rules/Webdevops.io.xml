@@ -1,0 +1,6 @@
+<ruleset name="Webdevops.io">
+	<target host="webdevops.io" />
+	<target host="www.webdevops.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

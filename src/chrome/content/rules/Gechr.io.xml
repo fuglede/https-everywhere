@@ -1,0 +1,6 @@
+<ruleset name="Gechr.io">
+	<target host="gechr.io" />
+	<target host="www.gechr.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

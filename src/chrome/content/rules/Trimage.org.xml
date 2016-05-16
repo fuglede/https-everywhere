@@ -1,0 +1,6 @@
+<ruleset name="Trimage.org">
+	<target host="trimage.org" />
+	<target host="www.trimage.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

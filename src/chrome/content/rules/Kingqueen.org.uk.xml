@@ -1,0 +1,6 @@
+<ruleset name="Kingqueen.org.uk">
+	<target host="kingqueen.org.uk" />
+	<target host="www.kingqueen.org.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

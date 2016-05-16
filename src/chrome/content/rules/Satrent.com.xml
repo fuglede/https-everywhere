@@ -1,0 +1,6 @@
+<ruleset name="Satrent.com">
+	<target host="satrent.com" />
+	<target host="www.satrent.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

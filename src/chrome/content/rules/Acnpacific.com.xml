@@ -1,0 +1,6 @@
+<ruleset name="Acnpacific.com">
+	<target host="acnpacific.com" />
+	<target host="www.acnpacific.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Kulde.net">
+	<target host="kulde.net" />
+	<target host="www.kulde.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

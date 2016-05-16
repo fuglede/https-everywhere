@@ -1,0 +1,6 @@
+<ruleset name="Golf18network.com">
+	<target host="golf18network.com" />
+	<target host="www.golf18network.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Quotemaster.co.za">
+	<target host="quotemaster.co.za" />
+	<target host="www.quotemaster.co.za" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

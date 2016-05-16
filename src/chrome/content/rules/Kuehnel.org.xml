@@ -1,0 +1,6 @@
+<ruleset name="Kuehnel.org">
+	<target host="kuehnel.org" />
+	<target host="www.kuehnel.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Dedelta.net">
+	<target host="dedelta.net" />
+	<target host="www.dedelta.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

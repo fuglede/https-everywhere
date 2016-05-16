@@ -1,0 +1,6 @@
+<ruleset name="Vbest.net">
+	<target host="vbest.net" />
+	<target host="www.vbest.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

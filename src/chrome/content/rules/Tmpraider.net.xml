@@ -1,0 +1,6 @@
+<ruleset name="Tmpraider.net">
+	<target host="tmpraider.net" />
+	<target host="www.tmpraider.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

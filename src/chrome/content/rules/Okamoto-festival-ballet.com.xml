@@ -1,0 +1,6 @@
+<ruleset name="Okamoto-festival-ballet.com">
+	<target host="okamoto-festival-ballet.com" />
+	<target host="www.okamoto-festival-ballet.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

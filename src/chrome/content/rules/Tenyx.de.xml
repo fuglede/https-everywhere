@@ -1,0 +1,6 @@
+<ruleset name="Tenyx.de">
+	<target host="tenyx.de" />
+	<target host="www.tenyx.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Qop.io">
+	<target host="qop.io" />
+	<target host="www.qop.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

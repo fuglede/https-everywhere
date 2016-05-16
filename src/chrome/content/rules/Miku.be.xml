@@ -1,0 +1,6 @@
+<ruleset name="Miku.be">
+	<target host="miku.be" />
+	<target host="www.miku.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

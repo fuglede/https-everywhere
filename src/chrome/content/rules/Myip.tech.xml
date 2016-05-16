@@ -1,0 +1,6 @@
+<ruleset name="Myip.tech">
+	<target host="myip.tech" />
+	<target host="www.myip.tech" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

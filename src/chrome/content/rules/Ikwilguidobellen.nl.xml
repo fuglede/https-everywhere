@@ -1,0 +1,6 @@
+<ruleset name="Ikwilguidobellen.nl">
+	<target host="ikwilguidobellen.nl" />
+	<target host="www.ikwilguidobellen.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

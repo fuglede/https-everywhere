@@ -1,0 +1,6 @@
+<ruleset name="Missjoias.com.br">
+	<target host="missjoias.com.br" />
+	<target host="www.missjoias.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Wiedu.net">
+	<target host="wiedu.net" />
+	<target host="www.wiedu.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

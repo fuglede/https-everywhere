@@ -1,0 +1,6 @@
+<ruleset name="Kummerlaender.eu">
+	<target host="kummerlaender.eu" />
+	<target host="www.kummerlaender.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

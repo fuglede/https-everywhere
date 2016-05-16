@@ -1,0 +1,6 @@
+<ruleset name="Floridafieros.org">
+	<target host="floridafieros.org" />
+	<target host="www.floridafieros.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

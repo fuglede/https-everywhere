@@ -1,0 +1,6 @@
+<ruleset name="Thedevrycommonsbrasil.com">
+	<target host="thedevrycommonsbrasil.com" />
+	<target host="www.thedevrycommonsbrasil.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

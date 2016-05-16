@@ -1,0 +1,6 @@
+<ruleset name="Hay.amsterdam">
+	<target host="hay.amsterdam" />
+	<target host="www.hay.amsterdam" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

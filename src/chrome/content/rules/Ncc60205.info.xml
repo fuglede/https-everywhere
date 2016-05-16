@@ -1,0 +1,6 @@
+<ruleset name="Ncc60205.info">
+	<target host="ncc60205.info" />
+	<target host="www.ncc60205.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

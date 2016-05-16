@@ -1,0 +1,6 @@
+<ruleset name="Perfect.in.th">
+	<target host="perfect.in.th" />
+	<target host="www.perfect.in.th" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Mtg-esport.de">
+	<target host="mtg-esport.de" />
+	<target host="www.mtg-esport.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

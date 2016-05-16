@@ -1,0 +1,6 @@
+<ruleset name="Rem.pe">
+	<target host="rem.pe" />
+	<target host="www.rem.pe" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

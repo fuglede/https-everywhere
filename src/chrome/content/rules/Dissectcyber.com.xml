@@ -1,0 +1,6 @@
+<ruleset name="Dissectcyber.com">
+	<target host="dissectcyber.com" />
+	<target host="www.dissectcyber.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Xtremegaming.it">
+	<target host="xtremegaming.it" />
+	<target host="www.xtremegaming.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

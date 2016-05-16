@@ -1,0 +1,6 @@
+<ruleset name="Z33.ch">
+	<target host="z33.ch" />
+	<target host="www.z33.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

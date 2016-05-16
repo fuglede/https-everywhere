@@ -1,0 +1,6 @@
+<ruleset name="Cloudstoragesystems.nl">
+	<target host="cloudstoragesystems.nl" />
+	<target host="www.cloudstoragesystems.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

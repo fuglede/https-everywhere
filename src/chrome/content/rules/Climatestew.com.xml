@@ -1,0 +1,6 @@
+<ruleset name="Climatestew.com">
+	<target host="climatestew.com" />
+	<target host="www.climatestew.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

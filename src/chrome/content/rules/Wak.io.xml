@@ -1,0 +1,6 @@
+<ruleset name="Wak.io">
+	<target host="wak.io" />
+	<target host="www.wak.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Yaucy.win">
+	<target host="yaucy.win" />
+	<target host="www.yaucy.win" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

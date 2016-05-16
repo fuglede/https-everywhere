@@ -1,0 +1,6 @@
+<ruleset name="Taxiticket.nl">
+	<target host="taxiticket.nl" />
+	<target host="www.taxiticket.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

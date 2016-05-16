@@ -1,0 +1,6 @@
+<ruleset name="Stocktrade.de">
+	<target host="stocktrade.de" />
+	<target host="www.stocktrade.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

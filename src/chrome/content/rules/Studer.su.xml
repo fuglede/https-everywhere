@@ -1,0 +1,6 @@
+<ruleset name="Studer.su">
+	<target host="studer.su" />
+	<target host="www.studer.su" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Davidscherzer.at">
+	<target host="davidscherzer.at" />
+	<target host="www.davidscherzer.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

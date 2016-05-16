@@ -1,0 +1,6 @@
+<ruleset name="Inton.biz">
+	<target host="inton.biz" />
+	<target host="www.inton.biz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

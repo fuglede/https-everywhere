@@ -1,0 +1,6 @@
+<ruleset name="Quantoras.com">
+	<target host="quantoras.com" />
+	<target host="www.quantoras.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

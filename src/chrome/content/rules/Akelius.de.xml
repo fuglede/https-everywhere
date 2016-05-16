@@ -1,0 +1,6 @@
+<ruleset name="Akelius.de">
+	<target host="akelius.de" />
+	<target host="www.akelius.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

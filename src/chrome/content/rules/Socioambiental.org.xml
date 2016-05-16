@@ -1,0 +1,6 @@
+<ruleset name="Socioambiental.org">
+	<target host="socioambiental.org" />
+	<target host="www.socioambiental.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Mitnetz-strom.de">
+	<target host="mitnetz-strom.de" />
+	<target host="www.mitnetz-strom.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

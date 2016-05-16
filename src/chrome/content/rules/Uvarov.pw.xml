@@ -1,0 +1,6 @@
+<ruleset name="Uvarov.pw">
+	<target host="uvarov.pw" />
+	<target host="www.uvarov.pw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

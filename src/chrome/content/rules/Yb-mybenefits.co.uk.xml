@@ -1,0 +1,6 @@
+<ruleset name="Yb-mybenefits.co.uk">
+	<target host="yb-mybenefits.co.uk" />
+	<target host="www.yb-mybenefits.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

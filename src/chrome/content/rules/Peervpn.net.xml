@@ -1,0 +1,6 @@
+<ruleset name="Peervpn.net">
+	<target host="peervpn.net" />
+	<target host="www.peervpn.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

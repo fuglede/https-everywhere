@@ -1,0 +1,6 @@
+<ruleset name="Mce55.eu">
+	<target host="mce55.eu" />
+	<target host="www.mce55.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

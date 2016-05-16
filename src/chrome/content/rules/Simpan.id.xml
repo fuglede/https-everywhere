@@ -1,0 +1,6 @@
+<ruleset name="Simpan.id">
+	<target host="simpan.id" />
+	<target host="www.simpan.id" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

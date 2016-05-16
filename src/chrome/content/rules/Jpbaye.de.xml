@@ -1,0 +1,6 @@
+<ruleset name="Jpbaye.de">
+	<target host="jpbaye.de" />
+	<target host="www.jpbaye.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

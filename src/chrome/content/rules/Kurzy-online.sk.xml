@@ -1,0 +1,6 @@
+<ruleset name="Kurzy-online.sk">
+	<target host="kurzy-online.sk" />
+	<target host="www.kurzy-online.sk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

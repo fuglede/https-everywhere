@@ -1,0 +1,6 @@
+<ruleset name="Gyz.io">
+	<target host="gyz.io" />
+	<target host="www.gyz.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

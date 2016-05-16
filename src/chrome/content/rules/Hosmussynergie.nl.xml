@@ -1,0 +1,6 @@
+<ruleset name="Hosmussynergie.nl">
+	<target host="hosmussynergie.nl" />
+	<target host="www.hosmussynergie.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

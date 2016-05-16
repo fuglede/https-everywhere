@@ -1,0 +1,6 @@
+<ruleset name="Cetin.cz">
+	<target host="cetin.cz" />
+	<target host="www.cetin.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

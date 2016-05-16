@@ -1,0 +1,6 @@
+<ruleset name="Kradalby.no">
+	<target host="kradalby.no" />
+	<target host="www.kradalby.no" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

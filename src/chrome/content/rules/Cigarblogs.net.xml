@@ -1,0 +1,6 @@
+<ruleset name="Cigarblogs.net">
+	<target host="cigarblogs.net" />
+	<target host="www.cigarblogs.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

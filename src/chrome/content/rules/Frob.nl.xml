@@ -1,0 +1,6 @@
+<ruleset name="Frob.nl">
+	<target host="frob.nl" />
+	<target host="www.frob.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

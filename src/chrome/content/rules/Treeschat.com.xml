@@ -1,0 +1,6 @@
+<ruleset name="Treeschat.com">
+	<target host="treeschat.com" />
+	<target host="www.treeschat.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

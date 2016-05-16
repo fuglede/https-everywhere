@@ -1,0 +1,6 @@
+<ruleset name="Kumasanda.jp">
+	<target host="kumasanda.jp" />
+	<target host="www.kumasanda.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

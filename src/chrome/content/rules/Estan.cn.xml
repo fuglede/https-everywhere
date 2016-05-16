@@ -1,0 +1,6 @@
+<ruleset name="Estan.cn">
+	<target host="estan.cn" />
+	<target host="www.estan.cn" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

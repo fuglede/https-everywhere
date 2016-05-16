@@ -1,0 +1,6 @@
+<ruleset name="Dad256.tk">
+	<target host="dad256.tk" />
+	<target host="www.dad256.tk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

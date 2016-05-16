@@ -1,0 +1,6 @@
+<ruleset name="Matty.digital">
+	<target host="matty.digital" />
+	<target host="www.matty.digital" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

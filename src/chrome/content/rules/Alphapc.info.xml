@@ -1,0 +1,6 @@
+<ruleset name="Alphapc.info">
+	<target host="alphapc.info" />
+	<target host="www.alphapc.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

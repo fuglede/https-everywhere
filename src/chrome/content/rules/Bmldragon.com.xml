@@ -1,0 +1,6 @@
+<ruleset name="Bmldragon.com">
+	<target host="bmldragon.com" />
+	<target host="www.bmldragon.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

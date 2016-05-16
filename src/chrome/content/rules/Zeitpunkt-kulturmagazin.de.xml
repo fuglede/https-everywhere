@@ -1,0 +1,6 @@
+<ruleset name="Zeitpunkt-kulturmagazin.de">
+	<target host="zeitpunkt-kulturmagazin.de" />
+	<target host="www.zeitpunkt-kulturmagazin.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

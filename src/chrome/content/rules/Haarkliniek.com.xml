@@ -1,0 +1,6 @@
+<ruleset name="Haarkliniek.com">
+	<target host="haarkliniek.com" />
+	<target host="www.haarkliniek.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

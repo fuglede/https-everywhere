@@ -1,0 +1,6 @@
+<ruleset name="Dougferris.id.au">
+	<target host="dougferris.id.au" />
+	<target host="www.dougferris.id.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

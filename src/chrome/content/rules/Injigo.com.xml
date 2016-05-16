@@ -1,0 +1,6 @@
+<ruleset name="Injigo.com">
+	<target host="injigo.com" />
+	<target host="www.injigo.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Churchthemes.com">
+	<target host="churchthemes.com" />
+	<target host="www.churchthemes.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

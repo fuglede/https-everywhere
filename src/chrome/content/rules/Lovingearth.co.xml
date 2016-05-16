@@ -1,0 +1,6 @@
+<ruleset name="Lovingearth.co">
+	<target host="lovingearth.co" />
+	<target host="www.lovingearth.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

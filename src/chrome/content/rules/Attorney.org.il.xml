@@ -1,0 +1,6 @@
+<ruleset name="Attorney.org.il">
+	<target host="attorney.org.il" />
+	<target host="www.attorney.org.il" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

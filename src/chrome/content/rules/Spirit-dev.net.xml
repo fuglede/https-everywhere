@@ -1,0 +1,6 @@
+<ruleset name="Spirit-dev.net">
+	<target host="spirit-dev.net" />
+	<target host="www.spirit-dev.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

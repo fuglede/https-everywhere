@@ -1,0 +1,6 @@
+<ruleset name="Herr-webdesign.de">
+	<target host="herr-webdesign.de" />
+	<target host="www.herr-webdesign.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

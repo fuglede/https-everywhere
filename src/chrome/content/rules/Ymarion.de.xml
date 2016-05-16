@@ -1,0 +1,6 @@
+<ruleset name="Ymarion.de">
+	<target host="ymarion.de" />
+	<target host="www.ymarion.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

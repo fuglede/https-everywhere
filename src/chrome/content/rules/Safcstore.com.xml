@@ -1,0 +1,6 @@
+<ruleset name="Safcstore.com">
+	<target host="safcstore.com" />
+	<target host="www.safcstore.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

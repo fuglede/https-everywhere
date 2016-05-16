@@ -1,0 +1,6 @@
+<ruleset name="Stanandjerre.org">
+	<target host="stanandjerre.org" />
+	<target host="www.stanandjerre.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

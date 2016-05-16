@@ -1,0 +1,6 @@
+<ruleset name="Baiker.info">
+	<target host="baiker.info" />
+	<target host="www.baiker.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

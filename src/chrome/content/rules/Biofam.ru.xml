@@ -1,0 +1,6 @@
+<ruleset name="Biofam.ru">
+	<target host="biofam.ru" />
+	<target host="www.biofam.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

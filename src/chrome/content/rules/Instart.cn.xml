@@ -1,0 +1,6 @@
+<ruleset name="Instart.cn">
+	<target host="instart.cn" />
+	<target host="www.instart.cn" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Ancientkarma.com">
+	<target host="ancientkarma.com" />
+	<target host="www.ancientkarma.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Goodwaygroup-ma.com">
+	<target host="goodwaygroup-ma.com" />
+	<target host="www.goodwaygroup-ma.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

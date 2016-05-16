@@ -1,0 +1,6 @@
+<ruleset name="Blha303.com.au">
+	<target host="blha303.com.au" />
+	<target host="www.blha303.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

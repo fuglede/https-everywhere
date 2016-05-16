@@ -1,0 +1,6 @@
+<ruleset name="Ticshost.com">
+	<target host="ticshost.com" />
+	<target host="www.ticshost.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

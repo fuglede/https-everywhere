@@ -1,0 +1,6 @@
+<ruleset name="Vattulainen.fi">
+	<target host="vattulainen.fi" />
+	<target host="www.vattulainen.fi" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

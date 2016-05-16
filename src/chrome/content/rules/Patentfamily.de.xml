@@ -1,0 +1,6 @@
+<ruleset name="Patentfamily.de">
+	<target host="patentfamily.de" />
+	<target host="www.patentfamily.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

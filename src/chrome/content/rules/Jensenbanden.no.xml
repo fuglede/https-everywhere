@@ -1,0 +1,6 @@
+<ruleset name="Jensenbanden.no">
+	<target host="jensenbanden.no" />
+	<target host="www.jensenbanden.no" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

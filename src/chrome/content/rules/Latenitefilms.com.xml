@@ -1,0 +1,6 @@
+<ruleset name="Latenitefilms.com">
+	<target host="latenitefilms.com" />
+	<target host="www.latenitefilms.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

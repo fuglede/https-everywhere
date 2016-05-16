@@ -1,0 +1,6 @@
+<ruleset name="Ke7tlf.us">
+	<target host="ke7tlf.us" />
+	<target host="www.ke7tlf.us" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

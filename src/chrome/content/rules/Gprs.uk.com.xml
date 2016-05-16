@@ -1,0 +1,6 @@
+<ruleset name="Gprs.uk.com">
+	<target host="gprs.uk.com" />
+	<target host="www.gprs.uk.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

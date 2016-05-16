@@ -1,0 +1,6 @@
+<ruleset name="Mega.online">
+	<target host="mega.online" />
+	<target host="www.mega.online" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

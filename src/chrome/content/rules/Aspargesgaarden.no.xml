@@ -1,0 +1,6 @@
+<ruleset name="Aspargesgaarden.no">
+	<target host="aspargesgaarden.no" />
+	<target host="www.aspargesgaarden.no" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

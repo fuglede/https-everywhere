@@ -1,0 +1,6 @@
+<ruleset name="Getwashdaddy.com">
+	<target host="getwashdaddy.com" />
+	<target host="www.getwashdaddy.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

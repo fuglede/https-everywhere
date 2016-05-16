@@ -1,0 +1,6 @@
+<ruleset name="Gloomyvancouver.com">
+	<target host="gloomyvancouver.com" />
+	<target host="www.gloomyvancouver.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

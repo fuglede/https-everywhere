@@ -1,0 +1,6 @@
+<ruleset name="Opendesk.cc">
+	<target host="opendesk.cc" />
+	<target host="www.opendesk.cc" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

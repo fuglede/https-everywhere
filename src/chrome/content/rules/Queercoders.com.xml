@@ -1,0 +1,6 @@
+<ruleset name="Queercoders.com">
+	<target host="queercoders.com" />
+	<target host="www.queercoders.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

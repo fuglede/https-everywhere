@@ -1,0 +1,6 @@
+<ruleset name="Covoiturage.fr">
+	<target host="covoiturage.fr" />
+	<target host="www.covoiturage.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

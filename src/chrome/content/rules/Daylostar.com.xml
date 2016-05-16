@@ -1,0 +1,6 @@
+<ruleset name="Daylostar.com">
+	<target host="daylostar.com" />
+	<target host="www.daylostar.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

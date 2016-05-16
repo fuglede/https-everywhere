@@ -1,0 +1,6 @@
+<ruleset name="Functions-online.com">
+	<target host="functions-online.com" />
+	<target host="www.functions-online.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

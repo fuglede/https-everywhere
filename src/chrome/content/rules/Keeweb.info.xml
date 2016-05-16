@@ -1,0 +1,6 @@
+<ruleset name="Keeweb.info">
+	<target host="keeweb.info" />
+	<target host="www.keeweb.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

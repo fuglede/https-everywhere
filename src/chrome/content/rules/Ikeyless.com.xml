@@ -1,0 +1,6 @@
+<ruleset name="Ikeyless.com">
+	<target host="ikeyless.com" />
+	<target host="www.ikeyless.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

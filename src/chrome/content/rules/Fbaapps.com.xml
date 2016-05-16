@@ -1,0 +1,6 @@
+<ruleset name="Fbaapps.com">
+	<target host="fbaapps.com" />
+	<target host="www.fbaapps.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

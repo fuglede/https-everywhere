@@ -1,0 +1,6 @@
+<ruleset name="Cctech.ph">
+	<target host="cctech.ph" />
+	<target host="www.cctech.ph" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

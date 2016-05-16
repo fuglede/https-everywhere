@@ -1,0 +1,6 @@
+<ruleset name="Lover-bg.com">
+	<target host="lover-bg.com" />
+	<target host="www.lover-bg.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Wftda.com">
+	<target host="wftda.com" />
+	<target host="www.wftda.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

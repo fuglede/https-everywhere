@@ -1,0 +1,6 @@
+<ruleset name="Theloyalbox.com">
+	<target host="theloyalbox.com" />
+	<target host="www.theloyalbox.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

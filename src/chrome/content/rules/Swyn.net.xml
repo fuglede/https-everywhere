@@ -1,0 +1,6 @@
+<ruleset name="Swyn.net">
+	<target host="swyn.net" />
+	<target host="www.swyn.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

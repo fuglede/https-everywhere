@@ -1,0 +1,6 @@
+<ruleset name="Srolim.com">
+	<target host="srolim.com" />
+	<target host="www.srolim.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

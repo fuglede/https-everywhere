@@ -1,0 +1,6 @@
+<ruleset name="Bieberium.de">
+	<target host="bieberium.de" />
+	<target host="www.bieberium.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

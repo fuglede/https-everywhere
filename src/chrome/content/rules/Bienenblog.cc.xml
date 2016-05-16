@@ -1,0 +1,6 @@
+<ruleset name="Bienenblog.cc">
+	<target host="bienenblog.cc" />
+	<target host="www.bienenblog.cc" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

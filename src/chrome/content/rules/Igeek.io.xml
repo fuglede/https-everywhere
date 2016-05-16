@@ -1,0 +1,6 @@
+<ruleset name="Igeek.io">
+	<target host="igeek.io" />
+	<target host="www.igeek.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

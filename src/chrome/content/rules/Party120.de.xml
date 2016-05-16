@@ -1,0 +1,6 @@
+<ruleset name="Party120.de">
+	<target host="party120.de" />
+	<target host="www.party120.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

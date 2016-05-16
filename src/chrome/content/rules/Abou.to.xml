@@ -1,0 +1,6 @@
+<ruleset name="Abou.to">
+	<target host="abou.to" />
+	<target host="www.abou.to" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Chromiumcodereview.appspot.com">
+	<target host="chromiumcodereview.appspot.com" />
+	<target host="www.chromiumcodereview.appspot.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

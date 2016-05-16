@@ -1,0 +1,6 @@
+<ruleset name="Proxyweb.us">
+	<target host="proxyweb.us" />
+	<target host="www.proxyweb.us" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

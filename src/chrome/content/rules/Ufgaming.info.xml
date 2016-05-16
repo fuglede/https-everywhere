@@ -1,0 +1,6 @@
+<ruleset name="Ufgaming.info">
+	<target host="ufgaming.info" />
+	<target host="www.ufgaming.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

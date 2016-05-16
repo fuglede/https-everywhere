@@ -1,0 +1,6 @@
+<ruleset name="Intervisteperstrada.com">
+	<target host="intervisteperstrada.com" />
+	<target host="www.intervisteperstrada.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

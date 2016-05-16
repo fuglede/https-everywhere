@@ -1,0 +1,6 @@
+<ruleset name="Prowise.com">
+	<target host="prowise.com" />
+	<target host="www.prowise.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

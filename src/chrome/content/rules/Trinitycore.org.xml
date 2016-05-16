@@ -1,0 +1,6 @@
+<ruleset name="Trinitycore.org">
+	<target host="trinitycore.org" />
+	<target host="www.trinitycore.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

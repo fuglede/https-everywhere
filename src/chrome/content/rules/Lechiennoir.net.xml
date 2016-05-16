@@ -1,0 +1,6 @@
+<ruleset name="Lechiennoir.net">
+	<target host="lechiennoir.net" />
+	<target host="www.lechiennoir.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

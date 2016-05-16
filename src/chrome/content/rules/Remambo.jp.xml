@@ -1,0 +1,6 @@
+<ruleset name="Remambo.jp">
+	<target host="remambo.jp" />
+	<target host="www.remambo.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

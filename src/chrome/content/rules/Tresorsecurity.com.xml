@@ -1,0 +1,6 @@
+<ruleset name="Tresorsecurity.com">
+	<target host="tresorsecurity.com" />
+	<target host="www.tresorsecurity.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

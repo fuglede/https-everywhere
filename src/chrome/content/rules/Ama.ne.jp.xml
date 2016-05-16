@@ -1,0 +1,6 @@
+<ruleset name="Ama.ne.jp">
+	<target host="ama.ne.jp" />
+	<target host="www.ama.ne.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

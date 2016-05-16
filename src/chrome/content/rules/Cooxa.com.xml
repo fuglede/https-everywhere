@@ -1,0 +1,6 @@
+<ruleset name="Cooxa.com">
+	<target host="cooxa.com" />
+	<target host="www.cooxa.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

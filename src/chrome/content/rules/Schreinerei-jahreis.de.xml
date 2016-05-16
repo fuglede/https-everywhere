@@ -1,0 +1,6 @@
+<ruleset name="Schreinerei-jahreis.de">
+	<target host="schreinerei-jahreis.de" />
+	<target host="www.schreinerei-jahreis.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Fid.to">
+	<target host="fid.to" />
+	<target host="www.fid.to" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

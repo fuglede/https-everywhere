@@ -1,0 +1,6 @@
+<ruleset name="Nuttyveg.com">
+	<target host="nuttyveg.com" />
+	<target host="www.nuttyveg.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

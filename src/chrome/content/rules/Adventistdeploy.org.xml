@@ -1,0 +1,6 @@
+<ruleset name="Adventistdeploy.org">
+	<target host="adventistdeploy.org" />
+	<target host="www.adventistdeploy.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

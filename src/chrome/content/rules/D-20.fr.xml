@@ -1,0 +1,6 @@
+<ruleset name="D-20.fr">
+	<target host="d-20.fr" />
+	<target host="www.d-20.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

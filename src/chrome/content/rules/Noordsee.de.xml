@@ -1,0 +1,6 @@
+<ruleset name="Noordsee.de">
+	<target host="noordsee.de" />
+	<target host="www.noordsee.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

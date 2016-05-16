@@ -1,0 +1,6 @@
+<ruleset name="Hzs70.synology.me">
+	<target host="hzs70.synology.me" />
+	<target host="www.hzs70.synology.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

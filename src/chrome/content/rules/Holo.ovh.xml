@@ -1,0 +1,6 @@
+<ruleset name="Holo.ovh">
+	<target host="holo.ovh" />
+	<target host="www.holo.ovh" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

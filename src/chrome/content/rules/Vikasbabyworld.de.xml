@@ -1,0 +1,6 @@
+<ruleset name="Vikasbabyworld.de">
+	<target host="vikasbabyworld.de" />
+	<target host="www.vikasbabyworld.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

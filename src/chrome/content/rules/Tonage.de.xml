@@ -1,0 +1,6 @@
+<ruleset name="Tonage.de">
+	<target host="tonage.de" />
+	<target host="www.tonage.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

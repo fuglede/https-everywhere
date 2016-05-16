@@ -1,0 +1,6 @@
+<ruleset name="Nspeaks.com">
+	<target host="nspeaks.com" />
+	<target host="www.nspeaks.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

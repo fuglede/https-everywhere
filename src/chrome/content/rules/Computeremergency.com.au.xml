@@ -1,0 +1,6 @@
+<ruleset name="Computeremergency.com.au">
+	<target host="computeremergency.com.au" />
+	<target host="www.computeremergency.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

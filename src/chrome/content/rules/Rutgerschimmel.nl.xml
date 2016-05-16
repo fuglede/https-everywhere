@@ -1,0 +1,6 @@
+<ruleset name="Rutgerschimmel.nl">
+	<target host="rutgerschimmel.nl" />
+	<target host="www.rutgerschimmel.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

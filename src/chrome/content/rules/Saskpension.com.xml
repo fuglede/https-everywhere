@@ -1,0 +1,6 @@
+<ruleset name="Saskpension.com">
+	<target host="saskpension.com" />
+	<target host="www.saskpension.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

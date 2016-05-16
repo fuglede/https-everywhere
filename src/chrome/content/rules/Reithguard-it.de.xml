@@ -1,0 +1,6 @@
+<ruleset name="Reithguard-it.de">
+	<target host="reithguard-it.de" />
+	<target host="www.reithguard-it.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

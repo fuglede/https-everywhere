@@ -1,0 +1,6 @@
+<ruleset name="Rohedaten.de">
+	<target host="rohedaten.de" />
+	<target host="www.rohedaten.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

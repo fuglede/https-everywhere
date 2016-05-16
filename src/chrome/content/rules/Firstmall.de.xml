@@ -1,0 +1,6 @@
+<ruleset name="Firstmall.de">
+	<target host="firstmall.de" />
+	<target host="www.firstmall.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

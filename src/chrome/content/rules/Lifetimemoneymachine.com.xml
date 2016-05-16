@@ -1,0 +1,6 @@
+<ruleset name="Lifetimemoneymachine.com">
+	<target host="lifetimemoneymachine.com" />
+	<target host="www.lifetimemoneymachine.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

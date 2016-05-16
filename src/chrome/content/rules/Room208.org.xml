@@ -1,0 +1,6 @@
+<ruleset name="Room208.org">
+	<target host="room208.org" />
+	<target host="www.room208.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Syno.gq">
+	<target host="syno.gq" />
+	<target host="www.syno.gq" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

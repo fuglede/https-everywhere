@@ -1,0 +1,6 @@
+<ruleset name="Injun.me">
+	<target host="injun.me" />
+	<target host="www.injun.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

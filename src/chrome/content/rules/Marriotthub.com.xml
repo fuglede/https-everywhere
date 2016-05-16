@@ -1,0 +1,6 @@
+<ruleset name="Marriotthub.com">
+	<target host="marriotthub.com" />
+	<target host="www.marriotthub.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

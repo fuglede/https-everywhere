@@ -1,0 +1,6 @@
+<ruleset name="Eatery.co.il">
+	<target host="eatery.co.il" />
+	<target host="www.eatery.co.il" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

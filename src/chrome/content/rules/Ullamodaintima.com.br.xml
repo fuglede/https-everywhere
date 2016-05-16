@@ -1,0 +1,6 @@
+<ruleset name="Ullamodaintima.com.br">
+	<target host="ullamodaintima.com.br" />
+	<target host="www.ullamodaintima.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

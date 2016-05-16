@@ -1,0 +1,6 @@
+<ruleset name="Akstudentsfirst.org">
+	<target host="akstudentsfirst.org" />
+	<target host="www.akstudentsfirst.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

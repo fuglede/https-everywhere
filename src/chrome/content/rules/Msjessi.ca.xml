@@ -1,0 +1,6 @@
+<ruleset name="Msjessi.ca">
+	<target host="msjessi.ca" />
+	<target host="www.msjessi.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

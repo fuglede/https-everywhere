@@ -1,0 +1,6 @@
+<ruleset name="Oracaodocredo.com.br">
+	<target host="oracaodocredo.com.br" />
+	<target host="www.oracaodocredo.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Duuu.ch">
+	<target host="duuu.ch" />
+	<target host="www.duuu.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Milagrosservices.com">
+	<target host="milagrosservices.com" />
+	<target host="www.milagrosservices.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Freqlabs.com">
+	<target host="freqlabs.com" />
+	<target host="www.freqlabs.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Combatshield.cz">
+	<target host="combatshield.cz" />
+	<target host="www.combatshield.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

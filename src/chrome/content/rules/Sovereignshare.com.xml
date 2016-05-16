@@ -1,0 +1,6 @@
+<ruleset name="Sovereignshare.com">
+	<target host="sovereignshare.com" />
+	<target host="www.sovereignshare.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

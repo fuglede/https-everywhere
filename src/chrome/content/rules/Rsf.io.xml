@@ -1,0 +1,6 @@
+<ruleset name="Rsf.io">
+	<target host="rsf.io" />
+	<target host="www.rsf.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

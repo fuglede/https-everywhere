@@ -1,0 +1,6 @@
+<ruleset name="Viventor.com">
+	<target host="viventor.com" />
+	<target host="www.viventor.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

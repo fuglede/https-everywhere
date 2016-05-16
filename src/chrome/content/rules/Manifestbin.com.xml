@@ -1,0 +1,6 @@
+<ruleset name="Manifestbin.com">
+	<target host="manifestbin.com" />
+	<target host="www.manifestbin.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

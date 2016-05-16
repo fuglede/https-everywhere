@@ -1,0 +1,6 @@
+<ruleset name="Theramo.re">
+	<target host="theramo.re" />
+	<target host="www.theramo.re" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

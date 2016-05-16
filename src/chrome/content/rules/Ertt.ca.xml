@@ -1,0 +1,6 @@
+<ruleset name="Ertt.ca">
+	<target host="ertt.ca" />
+	<target host="www.ertt.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

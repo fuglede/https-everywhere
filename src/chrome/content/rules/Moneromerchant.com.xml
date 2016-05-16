@@ -1,0 +1,6 @@
+<ruleset name="Moneromerchant.com">
+	<target host="moneromerchant.com" />
+	<target host="www.moneromerchant.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

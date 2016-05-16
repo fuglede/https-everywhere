@@ -1,0 +1,6 @@
+<ruleset name="Ella-kwikmed.com">
+	<target host="ella-kwikmed.com" />
+	<target host="www.ella-kwikmed.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Floriankeller.de">
+	<target host="floriankeller.de" />
+	<target host="www.floriankeller.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

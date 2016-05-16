@@ -1,0 +1,6 @@
+<ruleset name="Donateaday.ca">
+	<target host="donateaday.ca" />
+	<target host="www.donateaday.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

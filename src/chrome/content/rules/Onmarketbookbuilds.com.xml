@@ -1,0 +1,6 @@
+<ruleset name="Onmarketbookbuilds.com">
+	<target host="onmarketbookbuilds.com" />
+	<target host="www.onmarketbookbuilds.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

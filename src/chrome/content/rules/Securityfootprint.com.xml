@@ -1,0 +1,6 @@
+<ruleset name="Securityfootprint.com">
+	<target host="securityfootprint.com" />
+	<target host="www.securityfootprint.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

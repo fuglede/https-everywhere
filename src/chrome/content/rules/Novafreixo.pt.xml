@@ -1,0 +1,6 @@
+<ruleset name="Novafreixo.pt">
+	<target host="novafreixo.pt" />
+	<target host="www.novafreixo.pt" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

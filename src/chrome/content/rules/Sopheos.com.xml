@@ -1,0 +1,6 @@
+<ruleset name="Sopheos.com">
+	<target host="sopheos.com" />
+	<target host="www.sopheos.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

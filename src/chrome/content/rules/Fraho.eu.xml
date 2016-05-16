@@ -1,0 +1,6 @@
+<ruleset name="Fraho.eu">
+	<target host="fraho.eu" />
+	<target host="www.fraho.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

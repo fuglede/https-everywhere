@@ -1,0 +1,6 @@
+<ruleset name="Kangarooislandholidayaccommodation.com.au">
+	<target host="kangarooislandholidayaccommodation.com.au" />
+	<target host="www.kangarooislandholidayaccommodation.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

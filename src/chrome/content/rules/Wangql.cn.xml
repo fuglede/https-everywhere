@@ -1,0 +1,6 @@
+<ruleset name="Wangql.cn">
+	<target host="wangql.cn" />
+	<target host="www.wangql.cn" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

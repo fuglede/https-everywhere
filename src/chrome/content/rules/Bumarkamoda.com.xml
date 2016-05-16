@@ -1,0 +1,6 @@
+<ruleset name="Bumarkamoda.com">
+	<target host="bumarkamoda.com" />
+	<target host="www.bumarkamoda.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

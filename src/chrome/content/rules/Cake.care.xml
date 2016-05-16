@@ -1,0 +1,6 @@
+<ruleset name="Cake.care">
+	<target host="cake.care" />
+	<target host="www.cake.care" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Nostraforma.com">
+	<target host="nostraforma.com" />
+	<target host="www.nostraforma.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

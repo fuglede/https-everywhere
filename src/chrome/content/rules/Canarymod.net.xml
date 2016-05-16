@@ -1,0 +1,6 @@
+<ruleset name="Canarymod.net">
+	<target host="canarymod.net" />
+	<target host="www.canarymod.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

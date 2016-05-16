@@ -1,0 +1,6 @@
+<ruleset name="Samfunnet.no">
+	<target host="samfunnet.no" />
+	<target host="www.samfunnet.no" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

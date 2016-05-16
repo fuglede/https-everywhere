@@ -1,0 +1,6 @@
+<ruleset name="Octothorpe.club">
+	<target host="octothorpe.club" />
+	<target host="www.octothorpe.club" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

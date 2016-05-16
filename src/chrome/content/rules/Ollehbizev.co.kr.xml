@@ -1,0 +1,6 @@
+<ruleset name="Ollehbizev.co.kr">
+	<target host="ollehbizev.co.kr" />
+	<target host="www.ollehbizev.co.kr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

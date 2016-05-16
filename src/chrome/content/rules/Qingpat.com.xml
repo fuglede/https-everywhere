@@ -1,0 +1,6 @@
+<ruleset name="Qingpat.com">
+	<target host="qingpat.com" />
+	<target host="www.qingpat.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Shadowsocks.net">
+	<target host="shadowsocks.net" />
+	<target host="www.shadowsocks.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

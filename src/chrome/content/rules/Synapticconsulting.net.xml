@@ -1,0 +1,6 @@
+<ruleset name="Synapticconsulting.net">
+	<target host="synapticconsulting.net" />
+	<target host="www.synapticconsulting.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

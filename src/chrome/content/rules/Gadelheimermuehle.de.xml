@@ -1,0 +1,6 @@
+<ruleset name="Gadelheimermuehle.de">
+	<target host="gadelheimermuehle.de" />
+	<target host="www.gadelheimermuehle.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

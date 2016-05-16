@@ -1,0 +1,6 @@
+<ruleset name="Gipsic.com">
+	<target host="gipsic.com" />
+	<target host="www.gipsic.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

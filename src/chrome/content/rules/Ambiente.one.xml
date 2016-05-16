@@ -1,0 +1,6 @@
+<ruleset name="Ambiente.one">
+	<target host="ambiente.one" />
+	<target host="www.ambiente.one" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

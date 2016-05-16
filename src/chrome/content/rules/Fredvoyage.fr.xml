@@ -1,0 +1,6 @@
+<ruleset name="Fredvoyage.fr">
+	<target host="fredvoyage.fr" />
+	<target host="www.fredvoyage.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

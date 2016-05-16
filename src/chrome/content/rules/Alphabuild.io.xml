@@ -1,0 +1,6 @@
+<ruleset name="Alphabuild.io">
+	<target host="alphabuild.io" />
+	<target host="www.alphabuild.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

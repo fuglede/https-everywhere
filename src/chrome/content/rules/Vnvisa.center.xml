@@ -1,0 +1,6 @@
+<ruleset name="Vnvisa.center">
+	<target host="vnvisa.center" />
+	<target host="www.vnvisa.center" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Stealsaga.net">
+	<target host="stealsaga.net" />
+	<target host="www.stealsaga.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

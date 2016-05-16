@@ -1,0 +1,6 @@
+<ruleset name="Agro-id.gov.ua">
+	<target host="agro-id.gov.ua" />
+	<target host="www.agro-id.gov.ua" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

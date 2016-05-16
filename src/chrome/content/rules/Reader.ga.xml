@@ -1,0 +1,6 @@
+<ruleset name="Reader.ga">
+	<target host="reader.ga" />
+	<target host="www.reader.ga" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Koenvdheuvel.me">
+	<target host="koenvdheuvel.me" />
+	<target host="www.koenvdheuvel.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

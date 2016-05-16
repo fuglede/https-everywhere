@@ -1,0 +1,6 @@
+<ruleset name="4w-performers.link">
+	<target host="4w-performers.link" />
+	<target host="www.4w-performers.link" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

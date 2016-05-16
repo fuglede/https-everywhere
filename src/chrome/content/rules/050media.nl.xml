@@ -1,0 +1,6 @@
+<ruleset name="050media.nl">
+	<target host="050media.nl" />
+	<target host="www.050media.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

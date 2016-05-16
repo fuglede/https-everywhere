@@ -1,0 +1,6 @@
+<ruleset name="Z-vector.com">
+	<target host="z-vector.com" />
+	<target host="www.z-vector.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

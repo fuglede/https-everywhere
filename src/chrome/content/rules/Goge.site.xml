@@ -1,0 +1,6 @@
+<ruleset name="Goge.site">
+	<target host="goge.site" />
+	<target host="www.goge.site" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

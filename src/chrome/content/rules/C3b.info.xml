@@ -1,0 +1,6 @@
+<ruleset name="C3b.info">
+	<target host="c3b.info" />
+	<target host="www.c3b.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

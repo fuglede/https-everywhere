@@ -1,0 +1,6 @@
+<ruleset name="Bourasse.fr">
+	<target host="bourasse.fr" />
+	<target host="www.bourasse.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Lingvo-svoboda.ru">
+	<target host="lingvo-svoboda.ru" />
+	<target host="www.lingvo-svoboda.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

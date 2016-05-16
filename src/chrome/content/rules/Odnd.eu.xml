@@ -1,0 +1,6 @@
+<ruleset name="Odnd.eu">
+	<target host="odnd.eu" />
+	<target host="www.odnd.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="My-owncloud.com">
+	<target host="my-owncloud.com" />
+	<target host="www.my-owncloud.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

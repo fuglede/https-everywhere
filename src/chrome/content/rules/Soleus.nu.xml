@@ -1,0 +1,6 @@
+<ruleset name="Soleus.nu">
+	<target host="soleus.nu" />
+	<target host="www.soleus.nu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

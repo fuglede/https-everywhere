@@ -1,0 +1,6 @@
+<ruleset name="Akhras.at">
+	<target host="akhras.at" />
+	<target host="www.akhras.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

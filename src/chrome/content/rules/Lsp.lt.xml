@@ -1,0 +1,6 @@
+<ruleset name="Lsp.lt">
+	<target host="lsp.lt" />
+	<target host="www.lsp.lt" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

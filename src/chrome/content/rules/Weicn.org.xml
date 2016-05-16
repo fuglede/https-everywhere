@@ -1,0 +1,6 @@
+<ruleset name="Weicn.org">
+	<target host="weicn.org" />
+	<target host="www.weicn.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

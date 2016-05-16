@@ -1,0 +1,6 @@
+<ruleset name="Civi.ninja">
+	<target host="civi.ninja" />
+	<target host="www.civi.ninja" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Elangmp.com">
+	<target host="elangmp.com" />
+	<target host="www.elangmp.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

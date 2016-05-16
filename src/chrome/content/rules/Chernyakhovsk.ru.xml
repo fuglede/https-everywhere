@@ -1,0 +1,6 @@
+<ruleset name="Chernyakhovsk.ru">
+	<target host="chernyakhovsk.ru" />
+	<target host="www.chernyakhovsk.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Make-pizza.info">
+	<target host="make-pizza.info" />
+	<target host="www.make-pizza.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Gameparade.de">
+	<target host="gameparade.de" />
+	<target host="www.gameparade.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

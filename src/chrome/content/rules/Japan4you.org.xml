@@ -1,0 +1,6 @@
+<ruleset name="Japan4you.org">
+	<target host="japan4you.org" />
+	<target host="www.japan4you.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

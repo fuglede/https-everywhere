@@ -1,0 +1,6 @@
+<ruleset name="Westtexasencounter.org">
+	<target host="westtexasencounter.org" />
+	<target host="www.westtexasencounter.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

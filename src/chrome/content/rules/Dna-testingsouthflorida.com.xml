@@ -1,0 +1,6 @@
+<ruleset name="Dna-testingsouthflorida.com">
+	<target host="dna-testingsouthflorida.com" />
+	<target host="www.dna-testingsouthflorida.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Throwaway.link">
+	<target host="throwaway.link" />
+	<target host="www.throwaway.link" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

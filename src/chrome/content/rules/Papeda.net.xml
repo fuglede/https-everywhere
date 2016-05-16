@@ -1,0 +1,6 @@
+<ruleset name="Papeda.net">
+	<target host="papeda.net" />
+	<target host="www.papeda.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

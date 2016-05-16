@@ -1,0 +1,6 @@
+<ruleset name="Appart.ninja">
+	<target host="appart.ninja" />
+	<target host="www.appart.ninja" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

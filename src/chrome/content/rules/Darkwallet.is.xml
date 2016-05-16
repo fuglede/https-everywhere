@@ -1,0 +1,6 @@
+<ruleset name="Darkwallet.is">
+	<target host="darkwallet.is" />
+	<target host="www.darkwallet.is" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Especiallyrelative.net">
+	<target host="especiallyrelative.net" />
+	<target host="www.especiallyrelative.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

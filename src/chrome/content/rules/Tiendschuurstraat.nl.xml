@@ -1,0 +1,6 @@
+<ruleset name="Tiendschuurstraat.nl">
+	<target host="tiendschuurstraat.nl" />
+	<target host="www.tiendschuurstraat.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

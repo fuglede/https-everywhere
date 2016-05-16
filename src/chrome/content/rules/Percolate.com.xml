@@ -1,0 +1,6 @@
+<ruleset name="Percolate.com">
+	<target host="percolate.com" />
+	<target host="www.percolate.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

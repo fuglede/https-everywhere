@@ -1,0 +1,6 @@
+<ruleset name="Currency-strength.com">
+	<target host="currency-strength.com" />
+	<target host="www.currency-strength.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

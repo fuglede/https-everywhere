@@ -1,0 +1,6 @@
+<ruleset name="Willi-holzwurm.de">
+	<target host="willi-holzwurm.de" />
+	<target host="www.willi-holzwurm.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

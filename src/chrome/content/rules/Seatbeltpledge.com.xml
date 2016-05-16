@@ -1,0 +1,6 @@
+<ruleset name="Seatbeltpledge.com">
+	<target host="seatbeltpledge.com" />
+	<target host="www.seatbeltpledge.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

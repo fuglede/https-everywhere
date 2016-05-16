@@ -1,0 +1,6 @@
+<ruleset name="Adventureforest.de">
+	<target host="adventureforest.de" />
+	<target host="www.adventureforest.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

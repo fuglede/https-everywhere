@@ -1,0 +1,6 @@
+<ruleset name="Drpetervoigt.de">
+	<target host="drpetervoigt.de" />
+	<target host="www.drpetervoigt.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

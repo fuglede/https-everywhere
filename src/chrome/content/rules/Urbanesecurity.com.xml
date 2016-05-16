@@ -1,0 +1,6 @@
+<ruleset name="Urbanesecurity.com">
+	<target host="urbanesecurity.com" />
+	<target host="www.urbanesecurity.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

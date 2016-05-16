@@ -1,0 +1,6 @@
+<ruleset name="Lifeas.dog">
+	<target host="lifeas.dog" />
+	<target host="www.lifeas.dog" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

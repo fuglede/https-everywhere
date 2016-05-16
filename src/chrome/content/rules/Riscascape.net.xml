@@ -1,0 +1,6 @@
+<ruleset name="Riscascape.net">
+	<target host="riscascape.net" />
+	<target host="www.riscascape.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

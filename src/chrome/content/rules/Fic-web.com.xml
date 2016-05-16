@@ -1,0 +1,6 @@
+<ruleset name="Fic-web.com">
+	<target host="fic-web.com" />
+	<target host="www.fic-web.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

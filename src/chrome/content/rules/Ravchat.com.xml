@@ -1,0 +1,6 @@
+<ruleset name="Ravchat.com">
+	<target host="ravchat.com" />
+	<target host="www.ravchat.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

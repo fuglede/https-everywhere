@@ -1,0 +1,6 @@
+<ruleset name="Email.fr">
+	<target host="email.fr" />
+	<target host="www.email.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

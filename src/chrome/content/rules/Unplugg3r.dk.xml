@@ -1,0 +1,6 @@
+<ruleset name="Unplugg3r.dk">
+	<target host="unplugg3r.dk" />
+	<target host="www.unplugg3r.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

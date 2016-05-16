@@ -1,0 +1,6 @@
+<ruleset name="Netsight.org">
+	<target host="netsight.org" />
+	<target host="www.netsight.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

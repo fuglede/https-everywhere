@@ -1,0 +1,6 @@
+<ruleset name="Tgx.ninja">
+	<target host="tgx.ninja" />
+	<target host="www.tgx.ninja" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

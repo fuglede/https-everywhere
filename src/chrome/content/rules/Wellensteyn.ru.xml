@@ -1,0 +1,6 @@
+<ruleset name="Wellensteyn.ru">
+	<target host="wellensteyn.ru" />
+	<target host="www.wellensteyn.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

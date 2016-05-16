@@ -1,0 +1,6 @@
+<ruleset name="Flipneus.net">
+	<target host="flipneus.net" />
+	<target host="www.flipneus.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

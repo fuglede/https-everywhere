@@ -1,0 +1,6 @@
+<ruleset name="Stw-group.at">
+	<target host="stw-group.at" />
+	<target host="www.stw-group.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Airbly.com">
+	<target host="airbly.com" />
+	<target host="www.airbly.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

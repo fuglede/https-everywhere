@@ -1,0 +1,6 @@
+<ruleset name="Theurbanyoga.com">
+	<target host="theurbanyoga.com" />
+	<target host="www.theurbanyoga.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

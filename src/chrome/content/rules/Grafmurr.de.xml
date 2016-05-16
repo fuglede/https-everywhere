@@ -1,0 +1,6 @@
+<ruleset name="Grafmurr.de">
+	<target host="grafmurr.de" />
+	<target host="www.grafmurr.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

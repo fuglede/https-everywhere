@@ -1,0 +1,6 @@
+<ruleset name="Darkwater.info">
+	<target host="darkwater.info" />
+	<target host="www.darkwater.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

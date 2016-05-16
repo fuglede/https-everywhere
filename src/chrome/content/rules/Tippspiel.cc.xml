@@ -1,0 +1,6 @@
+<ruleset name="Tippspiel.cc">
+	<target host="tippspiel.cc" />
+	<target host="www.tippspiel.cc" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

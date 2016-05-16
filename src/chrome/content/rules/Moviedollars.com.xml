@@ -1,0 +1,6 @@
+<ruleset name="Moviedollars.com">
+	<target host="moviedollars.com" />
+	<target host="www.moviedollars.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

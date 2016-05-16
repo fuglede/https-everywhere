@@ -1,0 +1,6 @@
+<ruleset name="Azzag.co.uk">
+	<target host="azzag.co.uk" />
+	<target host="www.azzag.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

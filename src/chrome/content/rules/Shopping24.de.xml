@@ -1,0 +1,6 @@
+<ruleset name="Shopping24.de">
+	<target host="shopping24.de" />
+	<target host="www.shopping24.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

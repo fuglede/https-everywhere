@@ -1,0 +1,6 @@
+<ruleset name="Sanandreasstories.com">
+	<target host="sanandreasstories.com" />
+	<target host="www.sanandreasstories.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

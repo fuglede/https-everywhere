@@ -1,0 +1,6 @@
+<ruleset name="Yambee.eu">
+	<target host="yambee.eu" />
+	<target host="www.yambee.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

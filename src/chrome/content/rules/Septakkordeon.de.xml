@@ -1,0 +1,6 @@
+<ruleset name="Septakkordeon.de">
+	<target host="septakkordeon.de" />
+	<target host="www.septakkordeon.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

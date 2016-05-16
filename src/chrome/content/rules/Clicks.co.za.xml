@@ -1,0 +1,6 @@
+<ruleset name="Clicks.co.za">
+	<target host="clicks.co.za" />
+	<target host="www.clicks.co.za" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

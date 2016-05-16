@@ -1,0 +1,6 @@
+<ruleset name="Drycreekphoto.com">
+	<target host="drycreekphoto.com" />
+	<target host="www.drycreekphoto.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

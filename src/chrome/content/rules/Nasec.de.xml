@@ -1,0 +1,6 @@
+<ruleset name="Nasec.de">
+	<target host="nasec.de" />
+	<target host="www.nasec.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

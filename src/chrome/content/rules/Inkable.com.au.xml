@@ -1,0 +1,6 @@
+<ruleset name="Inkable.com.au">
+	<target host="inkable.com.au" />
+	<target host="www.inkable.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

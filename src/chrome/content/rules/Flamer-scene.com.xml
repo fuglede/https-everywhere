@@ -1,0 +1,6 @@
+<ruleset name="Flamer-scene.com">
+	<target host="flamer-scene.com" />
+	<target host="www.flamer-scene.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

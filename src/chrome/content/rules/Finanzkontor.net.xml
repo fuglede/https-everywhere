@@ -1,0 +1,6 @@
+<ruleset name="Finanzkontor.net">
+	<target host="finanzkontor.net" />
+	<target host="www.finanzkontor.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

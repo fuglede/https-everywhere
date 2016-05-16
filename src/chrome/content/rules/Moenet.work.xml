@@ -1,0 +1,6 @@
+<ruleset name="Moenet.work">
+	<target host="moenet.work" />
+	<target host="www.moenet.work" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

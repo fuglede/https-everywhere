@@ -1,0 +1,6 @@
+<ruleset name="Tappublisher.com">
+	<target host="tappublisher.com" />
+	<target host="www.tappublisher.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

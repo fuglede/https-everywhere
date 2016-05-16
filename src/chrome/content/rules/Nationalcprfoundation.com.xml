@@ -1,0 +1,6 @@
+<ruleset name="Nationalcprfoundation.com">
+	<target host="nationalcprfoundation.com" />
+	<target host="www.nationalcprfoundation.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

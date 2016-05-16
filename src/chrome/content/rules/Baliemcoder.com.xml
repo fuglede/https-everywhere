@@ -1,0 +1,6 @@
+<ruleset name="Baliemcoder.com">
+	<target host="baliemcoder.com" />
+	<target host="www.baliemcoder.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

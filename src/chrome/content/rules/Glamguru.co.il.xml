@@ -1,0 +1,6 @@
+<ruleset name="Glamguru.co.il">
+	<target host="glamguru.co.il" />
+	<target host="www.glamguru.co.il" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

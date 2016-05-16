@@ -1,0 +1,6 @@
+<ruleset name="Netzwerkwerk.de">
+	<target host="netzwerkwerk.de" />
+	<target host="www.netzwerkwerk.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

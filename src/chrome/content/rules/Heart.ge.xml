@@ -1,0 +1,6 @@
+<ruleset name="Heart.ge">
+	<target host="heart.ge" />
+	<target host="www.heart.ge" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

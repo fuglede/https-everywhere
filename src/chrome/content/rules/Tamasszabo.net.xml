@@ -1,0 +1,6 @@
+<ruleset name="Tamasszabo.net">
+	<target host="tamasszabo.net" />
+	<target host="www.tamasszabo.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

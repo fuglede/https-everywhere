@@ -1,0 +1,6 @@
+<ruleset name="Sarisonproductions.com">
+	<target host="sarisonproductions.com" />
+	<target host="www.sarisonproductions.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

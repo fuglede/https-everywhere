@@ -1,0 +1,6 @@
+<ruleset name="Animurecs.com">
+	<target host="animurecs.com" />
+	<target host="www.animurecs.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

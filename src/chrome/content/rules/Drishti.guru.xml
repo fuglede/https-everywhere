@@ -1,0 +1,6 @@
+<ruleset name="Drishti.guru">
+	<target host="drishti.guru" />
+	<target host="www.drishti.guru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

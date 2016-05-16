@@ -1,0 +1,6 @@
+<ruleset name="Guevener.de">
+	<target host="guevener.de" />
+	<target host="www.guevener.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

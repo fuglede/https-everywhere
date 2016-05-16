@@ -1,0 +1,6 @@
+<ruleset name="Gotomi.info">
+	<target host="gotomi.info" />
+	<target host="www.gotomi.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

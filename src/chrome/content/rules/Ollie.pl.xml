@@ -1,0 +1,6 @@
+<ruleset name="Ollie.pl">
+	<target host="ollie.pl" />
+	<target host="www.ollie.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

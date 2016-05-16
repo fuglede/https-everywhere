@@ -1,0 +1,6 @@
+<ruleset name="Madin.ru">
+	<target host="madin.ru" />
+	<target host="www.madin.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

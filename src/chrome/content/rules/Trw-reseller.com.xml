@@ -1,0 +1,6 @@
+<ruleset name="Trw-reseller.com">
+	<target host="trw-reseller.com" />
+	<target host="www.trw-reseller.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

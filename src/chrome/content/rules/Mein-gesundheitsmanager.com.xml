@@ -1,0 +1,6 @@
+<ruleset name="Mein-gesundheitsmanager.com">
+	<target host="mein-gesundheitsmanager.com" />
+	<target host="www.mein-gesundheitsmanager.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

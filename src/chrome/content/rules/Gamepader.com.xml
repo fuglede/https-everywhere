@@ -1,0 +1,6 @@
+<ruleset name="Gamepader.com">
+	<target host="gamepader.com" />
+	<target host="www.gamepader.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

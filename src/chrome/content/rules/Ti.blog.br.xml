@@ -1,0 +1,6 @@
+<ruleset name="Ti.blog.br">
+	<target host="ti.blog.br" />
+	<target host="www.ti.blog.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

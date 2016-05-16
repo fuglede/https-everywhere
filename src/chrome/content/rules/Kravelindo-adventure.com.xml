@@ -1,0 +1,6 @@
+<ruleset name="Kravelindo-adventure.com">
+	<target host="kravelindo-adventure.com" />
+	<target host="www.kravelindo-adventure.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

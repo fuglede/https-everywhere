@@ -1,0 +1,6 @@
+<ruleset name="Sendc.at">
+	<target host="sendc.at" />
+	<target host="www.sendc.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Airsoft.ch">
+	<target host="airsoft.ch" />
+	<target host="www.airsoft.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

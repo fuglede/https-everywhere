@@ -1,0 +1,6 @@
+<ruleset name="Baer.one">
+	<target host="baer.one" />
+	<target host="www.baer.one" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

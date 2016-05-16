@@ -1,0 +1,6 @@
+<ruleset name="Acendealuz.com.br">
+	<target host="acendealuz.com.br" />
+	<target host="www.acendealuz.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

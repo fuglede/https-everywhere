@@ -1,0 +1,6 @@
+<ruleset name="Coweo.cz">
+	<target host="coweo.cz" />
+	<target host="www.coweo.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

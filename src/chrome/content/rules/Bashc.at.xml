@@ -1,0 +1,6 @@
+<ruleset name="Bashc.at">
+	<target host="bashc.at" />
+	<target host="www.bashc.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

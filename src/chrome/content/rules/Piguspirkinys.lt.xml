@@ -1,0 +1,6 @@
+<ruleset name="Piguspirkinys.lt">
+	<target host="piguspirkinys.lt" />
+	<target host="www.piguspirkinys.lt" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Criena.net">
+	<target host="criena.net" />
+	<target host="www.criena.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Findmybottleshop.com.au">
+	<target host="findmybottleshop.com.au" />
+	<target host="www.findmybottleshop.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

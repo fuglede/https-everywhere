@@ -1,0 +1,6 @@
+<ruleset name="Webtondemo.nl">
+	<target host="webtondemo.nl" />
+	<target host="www.webtondemo.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

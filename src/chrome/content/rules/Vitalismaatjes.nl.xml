@@ -1,0 +1,6 @@
+<ruleset name="Vitalismaatjes.nl">
+	<target host="vitalismaatjes.nl" />
+	<target host="www.vitalismaatjes.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

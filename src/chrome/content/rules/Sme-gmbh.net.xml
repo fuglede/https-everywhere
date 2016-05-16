@@ -1,0 +1,6 @@
+<ruleset name="Sme-gmbh.net">
+	<target host="sme-gmbh.net" />
+	<target host="www.sme-gmbh.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

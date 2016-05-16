@@ -1,0 +1,6 @@
+<ruleset name="Clywedogmaths.co.uk">
+	<target host="clywedogmaths.co.uk" />
+	<target host="www.clywedogmaths.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

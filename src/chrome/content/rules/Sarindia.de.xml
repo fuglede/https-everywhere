@@ -1,0 +1,6 @@
+<ruleset name="Sarindia.de">
+	<target host="sarindia.de" />
+	<target host="www.sarindia.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

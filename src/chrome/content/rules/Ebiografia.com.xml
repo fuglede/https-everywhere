@@ -1,0 +1,6 @@
+<ruleset name="Ebiografia.com">
+	<target host="ebiografia.com" />
+	<target host="www.ebiografia.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

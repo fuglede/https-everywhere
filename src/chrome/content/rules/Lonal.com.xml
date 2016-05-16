@@ -1,0 +1,6 @@
+<ruleset name="Lonal.com">
+	<target host="lonal.com" />
+	<target host="www.lonal.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

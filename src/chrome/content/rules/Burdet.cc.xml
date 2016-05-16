@@ -1,0 +1,6 @@
+<ruleset name="Burdet.cc">
+	<target host="burdet.cc" />
+	<target host="www.burdet.cc" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

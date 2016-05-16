@@ -1,0 +1,6 @@
+<ruleset name="Frk.wf">
+	<target host="frk.wf" />
+	<target host="www.frk.wf" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

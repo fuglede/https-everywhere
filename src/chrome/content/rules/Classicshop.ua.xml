@@ -1,0 +1,6 @@
+<ruleset name="Classicshop.ua">
+	<target host="classicshop.ua" />
+	<target host="www.classicshop.ua" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

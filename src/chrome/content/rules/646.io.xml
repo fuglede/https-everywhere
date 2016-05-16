@@ -1,0 +1,6 @@
+<ruleset name="646.io">
+	<target host="646.io" />
+	<target host="www.646.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

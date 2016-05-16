@@ -1,0 +1,6 @@
+<ruleset name="Kajak.land">
+	<target host="kajak.land" />
+	<target host="www.kajak.land" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

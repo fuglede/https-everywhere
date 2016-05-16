@@ -1,0 +1,6 @@
+<ruleset name="Eluhome.de">
+	<target host="eluhome.de" />
+	<target host="www.eluhome.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

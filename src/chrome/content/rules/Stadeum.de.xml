@@ -1,0 +1,6 @@
+<ruleset name="Stadeum.de">
+	<target host="stadeum.de" />
+	<target host="www.stadeum.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

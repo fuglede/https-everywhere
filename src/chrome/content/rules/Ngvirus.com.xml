@@ -1,0 +1,6 @@
+<ruleset name="Ngvirus.com">
+	<target host="ngvirus.com" />
+	<target host="www.ngvirus.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

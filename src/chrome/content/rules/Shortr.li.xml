@@ -1,0 +1,6 @@
+<ruleset name="Shortr.li">
+	<target host="shortr.li" />
+	<target host="www.shortr.li" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

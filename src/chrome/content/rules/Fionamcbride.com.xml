@@ -1,0 +1,6 @@
+<ruleset name="Fionamcbride.com">
+	<target host="fionamcbride.com" />
+	<target host="www.fionamcbride.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

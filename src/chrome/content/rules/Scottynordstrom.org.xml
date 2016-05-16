@@ -1,0 +1,6 @@
+<ruleset name="Scottynordstrom.org">
+	<target host="scottynordstrom.org" />
+	<target host="www.scottynordstrom.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

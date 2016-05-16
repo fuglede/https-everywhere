@@ -1,0 +1,6 @@
+<ruleset name="Greepers.nl">
+	<target host="greepers.nl" />
+	<target host="www.greepers.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

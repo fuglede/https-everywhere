@@ -1,0 +1,6 @@
+<ruleset name="Tgr.re">
+	<target host="tgr.re" />
+	<target host="www.tgr.re" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

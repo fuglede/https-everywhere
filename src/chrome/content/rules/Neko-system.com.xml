@@ -1,0 +1,6 @@
+<ruleset name="Neko-system.com">
+	<target host="neko-system.com" />
+	<target host="www.neko-system.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

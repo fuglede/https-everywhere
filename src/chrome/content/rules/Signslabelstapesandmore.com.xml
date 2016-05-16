@@ -1,0 +1,6 @@
+<ruleset name="Signslabelstapesandmore.com">
+	<target host="signslabelstapesandmore.com" />
+	<target host="www.signslabelstapesandmore.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

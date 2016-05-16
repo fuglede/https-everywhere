@@ -1,0 +1,6 @@
+<ruleset name="Shyrydan.es">
+	<target host="shyrydan.es" />
+	<target host="www.shyrydan.es" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Skills2services.com">
+	<target host="skills2services.com" />
+	<target host="www.skills2services.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Crendontech.com">
+	<target host="crendontech.com" />
+	<target host="www.crendontech.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

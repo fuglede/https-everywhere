@@ -1,0 +1,6 @@
+<ruleset name="Volkden.com">
+	<target host="volkden.com" />
+	<target host="www.volkden.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

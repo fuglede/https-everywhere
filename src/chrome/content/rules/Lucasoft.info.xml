@@ -1,0 +1,6 @@
+<ruleset name="Lucasoft.info">
+	<target host="lucasoft.info" />
+	<target host="www.lucasoft.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

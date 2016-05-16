@@ -1,0 +1,6 @@
+<ruleset name="Ueu.me">
+	<target host="ueu.me" />
+	<target host="www.ueu.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

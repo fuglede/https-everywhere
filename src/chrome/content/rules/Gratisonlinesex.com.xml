@@ -1,0 +1,6 @@
+<ruleset name="Gratisonlinesex.com">
+	<target host="gratisonlinesex.com" />
+	<target host="www.gratisonlinesex.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

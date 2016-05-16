@@ -1,0 +1,6 @@
+<ruleset name="Ncstep.org">
+	<target host="ncstep.org" />
+	<target host="www.ncstep.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

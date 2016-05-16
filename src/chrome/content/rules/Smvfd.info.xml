@@ -1,0 +1,6 @@
+<ruleset name="Smvfd.info">
+	<target host="smvfd.info" />
+	<target host="www.smvfd.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

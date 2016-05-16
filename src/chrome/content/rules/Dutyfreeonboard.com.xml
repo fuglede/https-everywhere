@@ -1,0 +1,6 @@
+<ruleset name="Dutyfreeonboard.com">
+	<target host="dutyfreeonboard.com" />
+	<target host="www.dutyfreeonboard.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

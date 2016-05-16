@@ -1,0 +1,6 @@
+<ruleset name="Jump.bg">
+	<target host="jump.bg" />
+	<target host="www.jump.bg" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Quantumbox.com.gt">
+	<target host="quantumbox.com.gt" />
+	<target host="www.quantumbox.com.gt" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

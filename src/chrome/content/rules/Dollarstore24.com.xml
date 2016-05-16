@@ -1,0 +1,6 @@
+<ruleset name="Dollarstore24.com">
+	<target host="dollarstore24.com" />
+	<target host="www.dollarstore24.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

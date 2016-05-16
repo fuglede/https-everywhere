@@ -1,0 +1,6 @@
+<ruleset name="Netronix.be">
+	<target host="netronix.be" />
+	<target host="www.netronix.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

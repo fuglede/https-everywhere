@@ -1,0 +1,6 @@
+<ruleset name="Feragon.net">
+	<target host="feragon.net" />
+	<target host="www.feragon.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

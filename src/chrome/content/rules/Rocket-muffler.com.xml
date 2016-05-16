@@ -1,0 +1,6 @@
+<ruleset name="Rocket-muffler.com">
+	<target host="rocket-muffler.com" />
+	<target host="www.rocket-muffler.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Lcwsoft.com">
+	<target host="lcwsoft.com" />
+	<target host="www.lcwsoft.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

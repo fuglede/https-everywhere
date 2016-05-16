@@ -1,0 +1,6 @@
+<ruleset name="Synchrocube.com">
+	<target host="synchrocube.com" />
+	<target host="www.synchrocube.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

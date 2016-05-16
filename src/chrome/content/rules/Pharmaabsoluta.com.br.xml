@@ -1,0 +1,6 @@
+<ruleset name="Pharmaabsoluta.com.br">
+	<target host="pharmaabsoluta.com.br" />
+	<target host="www.pharmaabsoluta.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

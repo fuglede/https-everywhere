@@ -1,0 +1,6 @@
+<ruleset name="Managementos.com">
+	<target host="managementos.com" />
+	<target host="www.managementos.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

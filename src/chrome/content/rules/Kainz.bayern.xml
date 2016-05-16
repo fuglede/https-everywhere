@@ -1,0 +1,6 @@
+<ruleset name="Kainz.bayern">
+	<target host="kainz.bayern" />
+	<target host="www.kainz.bayern" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

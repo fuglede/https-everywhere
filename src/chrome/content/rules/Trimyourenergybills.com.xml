@@ -1,0 +1,6 @@
+<ruleset name="Trimyourenergybills.com">
+	<target host="trimyourenergybills.com" />
+	<target host="www.trimyourenergybills.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

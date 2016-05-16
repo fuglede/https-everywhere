@@ -1,0 +1,6 @@
+<ruleset name="Shiftins.com">
+	<target host="shiftins.com" />
+	<target host="www.shiftins.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

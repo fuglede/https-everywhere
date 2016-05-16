@@ -1,0 +1,6 @@
+<ruleset name="Dfektlan.no">
+	<target host="dfektlan.no" />
+	<target host="www.dfektlan.no" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

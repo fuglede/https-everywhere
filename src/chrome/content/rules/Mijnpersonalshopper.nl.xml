@@ -1,0 +1,6 @@
+<ruleset name="Mijnpersonalshopper.nl">
+	<target host="mijnpersonalshopper.nl" />
+	<target host="www.mijnpersonalshopper.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

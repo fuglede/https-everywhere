@@ -1,0 +1,6 @@
+<ruleset name="Bregnedalsystems.dk">
+	<target host="bregnedalsystems.dk" />
+	<target host="www.bregnedalsystems.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

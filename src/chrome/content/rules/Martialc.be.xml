@@ -1,0 +1,6 @@
+<ruleset name="Martialc.be">
+	<target host="martialc.be" />
+	<target host="www.martialc.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

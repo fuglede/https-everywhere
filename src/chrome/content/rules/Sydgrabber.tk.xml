@@ -1,0 +1,6 @@
+<ruleset name="Sydgrabber.tk">
+	<target host="sydgrabber.tk" />
+	<target host="www.sydgrabber.tk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

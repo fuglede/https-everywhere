@@ -1,0 +1,6 @@
+<ruleset name="Memespeak.ml">
+	<target host="memespeak.ml" />
+	<target host="www.memespeak.ml" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

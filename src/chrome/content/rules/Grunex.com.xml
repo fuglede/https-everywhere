@@ -1,0 +1,6 @@
+<ruleset name="Grunex.com">
+	<target host="grunex.com" />
+	<target host="www.grunex.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

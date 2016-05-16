@@ -1,0 +1,6 @@
+<ruleset name="Wenri.org">
+	<target host="wenri.org" />
+	<target host="www.wenri.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

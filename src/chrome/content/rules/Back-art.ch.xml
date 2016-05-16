@@ -1,0 +1,6 @@
+<ruleset name="Back-art.ch">
+	<target host="back-art.ch" />
+	<target host="www.back-art.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

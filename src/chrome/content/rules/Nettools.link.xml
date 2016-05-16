@@ -1,0 +1,6 @@
+<ruleset name="Nettools.link">
+	<target host="nettools.link" />
+	<target host="www.nettools.link" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

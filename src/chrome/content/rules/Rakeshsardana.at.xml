@@ -1,0 +1,6 @@
+<ruleset name="Rakeshsardana.at">
+	<target host="rakeshsardana.at" />
+	<target host="www.rakeshsardana.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

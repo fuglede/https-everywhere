@@ -1,0 +1,6 @@
+<ruleset name="Bivsi.com">
+	<target host="bivsi.com" />
+	<target host="www.bivsi.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

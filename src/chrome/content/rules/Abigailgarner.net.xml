@@ -1,0 +1,6 @@
+<ruleset name="Abigailgarner.net">
+	<target host="abigailgarner.net" />
+	<target host="www.abigailgarner.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

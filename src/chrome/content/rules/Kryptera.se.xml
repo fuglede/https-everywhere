@@ -1,0 +1,6 @@
+<ruleset name="Kryptera.se">
+	<target host="kryptera.se" />
+	<target host="www.kryptera.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

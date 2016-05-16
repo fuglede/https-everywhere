@@ -1,0 +1,6 @@
+<ruleset name="Georgesonarthurs.com.au">
+	<target host="georgesonarthurs.com.au" />
+	<target host="www.georgesonarthurs.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

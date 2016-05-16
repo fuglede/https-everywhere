@@ -1,0 +1,6 @@
+<ruleset name="3dnature.com">
+	<target host="3dnature.com" />
+	<target host="www.3dnature.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

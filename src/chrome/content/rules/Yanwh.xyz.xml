@@ -1,0 +1,6 @@
+<ruleset name="Yanwh.xyz">
+	<target host="yanwh.xyz" />
+	<target host="www.yanwh.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

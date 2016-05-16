@@ -1,0 +1,6 @@
+<ruleset name="Ron2k.za.net">
+	<target host="ron2k.za.net" />
+	<target host="www.ron2k.za.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

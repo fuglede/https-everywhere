@@ -1,0 +1,6 @@
+<ruleset name="Roundtheme.com">
+	<target host="roundtheme.com" />
+	<target host="www.roundtheme.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

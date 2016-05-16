@@ -1,0 +1,6 @@
+<ruleset name="Workingenvironmentsfurniture.co.uk">
+	<target host="workingenvironmentsfurniture.co.uk" />
+	<target host="www.workingenvironmentsfurniture.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

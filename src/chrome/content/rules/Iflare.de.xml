@@ -1,0 +1,6 @@
+<ruleset name="Iflare.de">
+	<target host="iflare.de" />
+	<target host="www.iflare.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

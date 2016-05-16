@@ -1,0 +1,6 @@
+<ruleset name="Lugbb.org">
+	<target host="lugbb.org" />
+	<target host="www.lugbb.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

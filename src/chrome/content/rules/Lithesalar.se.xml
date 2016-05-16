@@ -1,0 +1,6 @@
+<ruleset name="Lithesalar.se">
+	<target host="lithesalar.se" />
+	<target host="www.lithesalar.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

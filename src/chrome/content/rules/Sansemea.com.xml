@@ -1,0 +1,6 @@
+<ruleset name="Sansemea.com">
+	<target host="sansemea.com" />
+	<target host="www.sansemea.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Crazydomains.co.nz">
+	<target host="crazydomains.co.nz" />
+	<target host="www.crazydomains.co.nz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

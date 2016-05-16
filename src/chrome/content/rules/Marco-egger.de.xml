@@ -1,0 +1,6 @@
+<ruleset name="Marco-egger.de">
+	<target host="marco-egger.de" />
+	<target host="www.marco-egger.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

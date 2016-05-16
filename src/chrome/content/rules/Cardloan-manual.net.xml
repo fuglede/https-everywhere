@@ -1,0 +1,6 @@
+<ruleset name="Cardloan-manual.net">
+	<target host="cardloan-manual.net" />
+	<target host="www.cardloan-manual.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

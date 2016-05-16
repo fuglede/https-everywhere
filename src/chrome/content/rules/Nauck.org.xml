@@ -1,0 +1,6 @@
+<ruleset name="Nauck.org">
+	<target host="nauck.org" />
+	<target host="www.nauck.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

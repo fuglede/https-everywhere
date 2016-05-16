@@ -1,0 +1,6 @@
+<ruleset name="Yesonline.asia">
+	<target host="yesonline.asia" />
+	<target host="www.yesonline.asia" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

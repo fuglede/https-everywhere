@@ -1,0 +1,6 @@
+<ruleset name="Lunix.io">
+	<target host="lunix.io" />
+	<target host="www.lunix.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

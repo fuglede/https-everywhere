@@ -1,0 +1,6 @@
+<ruleset name="Fanyl.cn">
+	<target host="fanyl.cn" />
+	<target host="www.fanyl.cn" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

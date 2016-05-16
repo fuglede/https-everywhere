@@ -1,0 +1,6 @@
+<ruleset name="Digminecraft.com">
+	<target host="digminecraft.com" />
+	<target host="www.digminecraft.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

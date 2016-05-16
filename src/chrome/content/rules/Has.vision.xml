@@ -1,0 +1,6 @@
+<ruleset name="Has.vision">
+	<target host="has.vision" />
+	<target host="www.has.vision" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

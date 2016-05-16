@@ -1,0 +1,6 @@
+<ruleset name="Bight.ca">
+	<target host="bight.ca" />
+	<target host="www.bight.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

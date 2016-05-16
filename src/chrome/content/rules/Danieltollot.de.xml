@@ -1,0 +1,6 @@
+<ruleset name="Danieltollot.de">
+	<target host="danieltollot.de" />
+	<target host="www.danieltollot.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

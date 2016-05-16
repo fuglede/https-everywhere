@@ -1,0 +1,6 @@
+<ruleset name="Ego-world.org">
+	<target host="ego-world.org" />
+	<target host="www.ego-world.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

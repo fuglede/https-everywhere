@@ -1,0 +1,6 @@
+<ruleset name="Analytic-s.ml">
+	<target host="analytic-s.ml" />
+	<target host="www.analytic-s.ml" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Vleij.se">
+	<target host="vleij.se" />
+	<target host="www.vleij.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

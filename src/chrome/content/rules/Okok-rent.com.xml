@@ -1,0 +1,6 @@
+<ruleset name="Okok-rent.com">
+	<target host="okok-rent.com" />
+	<target host="www.okok-rent.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Mydnaresults.com">
+	<target host="mydnaresults.com" />
+	<target host="www.mydnaresults.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

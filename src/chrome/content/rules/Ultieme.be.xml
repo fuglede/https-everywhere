@@ -1,0 +1,6 @@
+<ruleset name="Ultieme.be">
+	<target host="ultieme.be" />
+	<target host="www.ultieme.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

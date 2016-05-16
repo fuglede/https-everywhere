@@ -1,0 +1,6 @@
+<ruleset name="Westtank.de">
+	<target host="westtank.de" />
+	<target host="www.westtank.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

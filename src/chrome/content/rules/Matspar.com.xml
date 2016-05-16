@@ -1,0 +1,6 @@
+<ruleset name="Matspar.com">
+	<target host="matspar.com" />
+	<target host="www.matspar.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

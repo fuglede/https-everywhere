@@ -1,0 +1,6 @@
+<ruleset name="Igrivi.com">
+	<target host="igrivi.com" />
+	<target host="www.igrivi.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

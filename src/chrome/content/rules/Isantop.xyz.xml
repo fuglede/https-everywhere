@@ -1,0 +1,6 @@
+<ruleset name="Isantop.xyz">
+	<target host="isantop.xyz" />
+	<target host="www.isantop.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

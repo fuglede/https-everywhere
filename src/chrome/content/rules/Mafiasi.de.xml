@@ -1,0 +1,6 @@
+<ruleset name="Mafiasi.de">
+	<target host="mafiasi.de" />
+	<target host="www.mafiasi.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

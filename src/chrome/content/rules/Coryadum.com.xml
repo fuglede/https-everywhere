@@ -1,0 +1,6 @@
+<ruleset name="Coryadum.com">
+	<target host="coryadum.com" />
+	<target host="www.coryadum.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

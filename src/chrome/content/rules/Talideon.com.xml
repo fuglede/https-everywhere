@@ -1,0 +1,6 @@
+<ruleset name="Talideon.com">
+	<target host="talideon.com" />
+	<target host="www.talideon.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

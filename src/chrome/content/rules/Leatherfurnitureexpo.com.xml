@@ -1,0 +1,6 @@
+<ruleset name="Leatherfurnitureexpo.com">
+	<target host="leatherfurnitureexpo.com" />
+	<target host="www.leatherfurnitureexpo.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

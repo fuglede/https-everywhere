@@ -1,0 +1,6 @@
+<ruleset name="Bodyblog.nl">
+	<target host="bodyblog.nl" />
+	<target host="www.bodyblog.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

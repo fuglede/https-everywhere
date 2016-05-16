@@ -1,0 +1,6 @@
+<ruleset name="Speculor.net">
+	<target host="speculor.net" />
+	<target host="www.speculor.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Epicsoft.de">
+	<target host="epicsoft.de" />
+	<target host="www.epicsoft.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

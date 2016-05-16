@@ -1,0 +1,6 @@
+<ruleset name="Subtitle.rip">
+	<target host="subtitle.rip" />
+	<target host="www.subtitle.rip" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

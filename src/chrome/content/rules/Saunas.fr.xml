@@ -1,0 +1,6 @@
+<ruleset name="Saunas.fr">
+	<target host="saunas.fr" />
+	<target host="www.saunas.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Networkingphoenix.com">
+	<target host="networkingphoenix.com" />
+	<target host="www.networkingphoenix.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

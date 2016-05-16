@@ -1,0 +1,6 @@
+<ruleset name="Valitron.se">
+	<target host="valitron.se" />
+	<target host="www.valitron.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

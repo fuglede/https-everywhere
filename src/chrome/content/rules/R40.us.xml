@@ -1,0 +1,6 @@
+<ruleset name="R40.us">
+	<target host="r40.us" />
+	<target host="www.r40.us" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

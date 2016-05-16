@@ -1,0 +1,6 @@
+<ruleset name="Creativecaptiv.es">
+	<target host="creativecaptiv.es" />
+	<target host="www.creativecaptiv.es" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

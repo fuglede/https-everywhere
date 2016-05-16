@@ -1,0 +1,6 @@
+<ruleset name="Newtnote.com">
+	<target host="newtnote.com" />
+	<target host="www.newtnote.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

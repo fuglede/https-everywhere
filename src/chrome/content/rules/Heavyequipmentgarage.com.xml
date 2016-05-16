@@ -1,0 +1,6 @@
+<ruleset name="Heavyequipmentgarage.com">
+	<target host="heavyequipmentgarage.com" />
+	<target host="www.heavyequipmentgarage.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

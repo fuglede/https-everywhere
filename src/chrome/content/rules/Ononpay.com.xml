@@ -1,0 +1,6 @@
+<ruleset name="Ononpay.com">
+	<target host="ononpay.com" />
+	<target host="www.ononpay.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

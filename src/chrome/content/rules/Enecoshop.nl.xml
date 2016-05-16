@@ -1,0 +1,6 @@
+<ruleset name="Enecoshop.nl">
+	<target host="enecoshop.nl" />
+	<target host="www.enecoshop.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

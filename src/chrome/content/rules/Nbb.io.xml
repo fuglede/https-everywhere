@@ -1,0 +1,6 @@
+<ruleset name="Nbb.io">
+	<target host="nbb.io" />
+	<target host="www.nbb.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

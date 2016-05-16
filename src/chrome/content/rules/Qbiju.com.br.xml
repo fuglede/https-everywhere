@@ -1,0 +1,6 @@
+<ruleset name="Qbiju.com.br">
+	<target host="qbiju.com.br" />
+	<target host="www.qbiju.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

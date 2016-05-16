@@ -1,0 +1,6 @@
+<ruleset name="Wiechers-online.com">
+	<target host="wiechers-online.com" />
+	<target host="www.wiechers-online.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

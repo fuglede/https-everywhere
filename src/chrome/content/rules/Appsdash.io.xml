@@ -1,0 +1,6 @@
+<ruleset name="Appsdash.io">
+	<target host="appsdash.io" />
+	<target host="www.appsdash.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="It-security.tech">
+	<target host="it-security.tech" />
+	<target host="www.it-security.tech" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

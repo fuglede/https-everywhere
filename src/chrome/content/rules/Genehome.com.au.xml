@@ -1,0 +1,6 @@
+<ruleset name="Genehome.com.au">
+	<target host="genehome.com.au" />
+	<target host="www.genehome.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

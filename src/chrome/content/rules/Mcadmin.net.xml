@@ -1,0 +1,6 @@
+<ruleset name="Mcadmin.net">
+	<target host="mcadmin.net" />
+	<target host="www.mcadmin.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

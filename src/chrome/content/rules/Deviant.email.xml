@@ -1,0 +1,6 @@
+<ruleset name="Deviant.email">
+	<target host="deviant.email" />
+	<target host="www.deviant.email" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

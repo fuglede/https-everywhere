@@ -1,0 +1,6 @@
+<ruleset name="Cirurgicaexpress.com.br">
+	<target host="cirurgicaexpress.com.br" />
+	<target host="www.cirurgicaexpress.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

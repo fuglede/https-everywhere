@@ -1,0 +1,6 @@
+<ruleset name="Wholikes.us">
+	<target host="wholikes.us" />
+	<target host="www.wholikes.us" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

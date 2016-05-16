@@ -1,0 +1,6 @@
+<ruleset name="Pastenib.com">
+	<target host="pastenib.com" />
+	<target host="www.pastenib.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

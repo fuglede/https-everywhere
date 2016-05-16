@@ -1,0 +1,6 @@
+<ruleset name="Chi-intelligence.de">
+	<target host="chi-intelligence.de" />
+	<target host="www.chi-intelligence.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

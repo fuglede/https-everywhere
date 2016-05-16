@@ -1,0 +1,6 @@
+<ruleset name="Tails.com.ar">
+	<target host="tails.com.ar" />
+	<target host="www.tails.com.ar" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

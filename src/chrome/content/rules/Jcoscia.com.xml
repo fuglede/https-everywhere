@@ -1,0 +1,6 @@
+<ruleset name="Jcoscia.com">
+	<target host="jcoscia.com" />
+	<target host="www.jcoscia.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

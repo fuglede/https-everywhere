@@ -1,0 +1,6 @@
+<ruleset name="Atomik.pro">
+	<target host="atomik.pro" />
+	<target host="www.atomik.pro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

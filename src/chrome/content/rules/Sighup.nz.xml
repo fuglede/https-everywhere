@@ -1,0 +1,6 @@
+<ruleset name="Sighup.nz">
+	<target host="sighup.nz" />
+	<target host="www.sighup.nz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

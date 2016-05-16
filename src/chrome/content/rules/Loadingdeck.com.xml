@@ -1,0 +1,6 @@
+<ruleset name="Loadingdeck.com">
+	<target host="loadingdeck.com" />
+	<target host="www.loadingdeck.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

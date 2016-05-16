@@ -1,0 +1,6 @@
+<ruleset name="Techtalks.no">
+	<target host="techtalks.no" />
+	<target host="www.techtalks.no" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

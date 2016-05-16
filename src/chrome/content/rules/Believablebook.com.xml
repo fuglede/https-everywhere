@@ -1,0 +1,6 @@
+<ruleset name="Believablebook.com">
+	<target host="believablebook.com" />
+	<target host="www.believablebook.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

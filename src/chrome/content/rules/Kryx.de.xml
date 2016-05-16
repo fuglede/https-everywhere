@@ -1,0 +1,6 @@
+<ruleset name="Kryx.de">
+	<target host="kryx.de" />
+	<target host="www.kryx.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

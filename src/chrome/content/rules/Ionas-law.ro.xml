@@ -1,0 +1,6 @@
+<ruleset name="Ionas-law.ro">
+	<target host="ionas-law.ro" />
+	<target host="www.ionas-law.ro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Ceritasekshot.net">
+	<target host="ceritasekshot.net" />
+	<target host="www.ceritasekshot.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

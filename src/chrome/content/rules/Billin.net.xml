@@ -1,0 +1,6 @@
+<ruleset name="Billin.net">
+	<target host="billin.net" />
+	<target host="www.billin.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Covenantbank.net">
+	<target host="covenantbank.net" />
+	<target host="www.covenantbank.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

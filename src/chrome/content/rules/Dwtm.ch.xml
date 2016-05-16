@@ -1,0 +1,6 @@
+<ruleset name="Dwtm.ch">
+	<target host="dwtm.ch" />
+	<target host="www.dwtm.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

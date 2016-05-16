@@ -1,0 +1,6 @@
+<ruleset name="Stalder.work">
+	<target host="stalder.work" />
+	<target host="www.stalder.work" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

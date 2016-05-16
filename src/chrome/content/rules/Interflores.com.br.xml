@@ -1,0 +1,6 @@
+<ruleset name="Interflores.com.br">
+	<target host="interflores.com.br" />
+	<target host="www.interflores.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Busindre.com">
+	<target host="busindre.com" />
+	<target host="www.busindre.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

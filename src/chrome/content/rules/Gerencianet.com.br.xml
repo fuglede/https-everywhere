@@ -1,0 +1,6 @@
+<ruleset name="Gerencianet.com.br">
+	<target host="gerencianet.com.br" />
+	<target host="www.gerencianet.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

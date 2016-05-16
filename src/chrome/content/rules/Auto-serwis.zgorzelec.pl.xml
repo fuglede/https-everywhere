@@ -1,0 +1,6 @@
+<ruleset name="Auto-serwis.zgorzelec.pl">
+	<target host="auto-serwis.zgorzelec.pl" />
+	<target host="www.auto-serwis.zgorzelec.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

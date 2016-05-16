@@ -1,0 +1,6 @@
+<ruleset name="Wonder.com.mx">
+	<target host="wonder.com.mx" />
+	<target host="www.wonder.com.mx" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

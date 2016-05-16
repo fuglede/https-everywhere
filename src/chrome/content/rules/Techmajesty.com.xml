@@ -1,0 +1,6 @@
+<ruleset name="Techmajesty.com">
+	<target host="techmajesty.com" />
+	<target host="www.techmajesty.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

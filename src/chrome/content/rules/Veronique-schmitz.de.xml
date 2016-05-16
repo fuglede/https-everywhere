@@ -1,0 +1,6 @@
+<ruleset name="Veronique-schmitz.de">
+	<target host="veronique-schmitz.de" />
+	<target host="www.veronique-schmitz.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

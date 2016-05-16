@@ -1,0 +1,6 @@
+<ruleset name="Mlp.ee">
+	<target host="mlp.ee" />
+	<target host="www.mlp.ee" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

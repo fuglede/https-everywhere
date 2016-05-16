@@ -1,0 +1,6 @@
+<ruleset name="Lumiere.com">
+	<target host="lumiere.com" />
+	<target host="www.lumiere.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

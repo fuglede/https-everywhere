@@ -1,0 +1,6 @@
+<ruleset name="Team-bbd.com">
+	<target host="team-bbd.com" />
+	<target host="www.team-bbd.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

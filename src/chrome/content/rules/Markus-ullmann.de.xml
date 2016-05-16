@@ -1,0 +1,6 @@
+<ruleset name="Markus-ullmann.de">
+	<target host="markus-ullmann.de" />
+	<target host="www.markus-ullmann.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

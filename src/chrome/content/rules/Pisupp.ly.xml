@@ -1,0 +1,6 @@
+<ruleset name="Pisupp.ly">
+	<target host="pisupp.ly" />
+	<target host="www.pisupp.ly" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Ncmusic.ga">
+	<target host="ncmusic.ga" />
+	<target host="www.ncmusic.ga" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

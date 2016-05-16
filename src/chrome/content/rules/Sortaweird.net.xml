@@ -1,0 +1,6 @@
+<ruleset name="Sortaweird.net">
+	<target host="sortaweird.net" />
+	<target host="www.sortaweird.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

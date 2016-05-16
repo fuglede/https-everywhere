@@ -1,0 +1,6 @@
+<ruleset name="Ols.io">
+	<target host="ols.io" />
+	<target host="www.ols.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

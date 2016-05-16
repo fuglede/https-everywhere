@@ -1,0 +1,6 @@
+<ruleset name="Ninchat.com">
+	<target host="ninchat.com" />
+	<target host="www.ninchat.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

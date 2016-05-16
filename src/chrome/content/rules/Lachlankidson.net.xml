@@ -1,0 +1,6 @@
+<ruleset name="Lachlankidson.net">
+	<target host="lachlankidson.net" />
+	<target host="www.lachlankidson.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

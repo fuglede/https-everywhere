@@ -1,0 +1,6 @@
+<ruleset name="Poolvilla-margarita.net">
+	<target host="poolvilla-margarita.net" />
+	<target host="www.poolvilla-margarita.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

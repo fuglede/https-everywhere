@@ -1,0 +1,6 @@
+<ruleset name="Eulerpi.io">
+	<target host="eulerpi.io" />
+	<target host="www.eulerpi.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

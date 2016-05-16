@@ -1,0 +1,6 @@
+<ruleset name="Raimondastheinsane.com">
+	<target host="raimondastheinsane.com" />
+	<target host="www.raimondastheinsane.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

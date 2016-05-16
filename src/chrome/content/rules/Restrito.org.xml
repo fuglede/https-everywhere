@@ -1,0 +1,6 @@
+<ruleset name="Restrito.org">
+	<target host="restrito.org" />
+	<target host="www.restrito.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

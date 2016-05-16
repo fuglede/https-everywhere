@@ -1,0 +1,6 @@
+<ruleset name="Dsbrowser.com">
+	<target host="dsbrowser.com" />
+	<target host="www.dsbrowser.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

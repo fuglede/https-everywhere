@@ -1,0 +1,6 @@
+<ruleset name="Psicologia.co.ve">
+	<target host="psicologia.co.ve" />
+	<target host="www.psicologia.co.ve" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

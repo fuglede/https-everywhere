@@ -1,0 +1,6 @@
+<ruleset name="Przemas.pl">
+	<target host="przemas.pl" />
+	<target host="www.przemas.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

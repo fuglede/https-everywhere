@@ -1,0 +1,6 @@
+<ruleset name="Smaric.jp">
+	<target host="smaric.jp" />
+	<target host="www.smaric.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

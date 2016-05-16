@@ -1,0 +1,6 @@
+<ruleset name="Iamokay.nl">
+	<target host="iamokay.nl" />
+	<target host="www.iamokay.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

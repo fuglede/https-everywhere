@@ -1,0 +1,6 @@
+<ruleset name="Glws.org">
+	<target host="glws.org" />
+	<target host="www.glws.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

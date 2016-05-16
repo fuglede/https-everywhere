@@ -1,0 +1,6 @@
+<ruleset name="Ottmarmayer.de">
+	<target host="ottmarmayer.de" />
+	<target host="www.ottmarmayer.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

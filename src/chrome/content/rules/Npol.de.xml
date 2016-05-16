@@ -1,0 +1,6 @@
+<ruleset name="Npol.de">
+	<target host="npol.de" />
+	<target host="www.npol.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

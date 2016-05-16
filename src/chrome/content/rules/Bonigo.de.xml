@@ -1,0 +1,6 @@
+<ruleset name="Bonigo.de">
+	<target host="bonigo.de" />
+	<target host="www.bonigo.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

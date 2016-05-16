@@ -1,0 +1,6 @@
+<ruleset name="Shulan.moe">
+	<target host="shulan.moe" />
+	<target host="www.shulan.moe" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

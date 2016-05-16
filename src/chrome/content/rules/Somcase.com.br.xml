@@ -1,0 +1,6 @@
+<ruleset name="Somcase.com.br">
+	<target host="somcase.com.br" />
+	<target host="www.somcase.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

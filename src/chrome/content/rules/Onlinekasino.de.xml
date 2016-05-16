@@ -1,0 +1,6 @@
+<ruleset name="Onlinekasino.de">
+	<target host="onlinekasino.de" />
+	<target host="www.onlinekasino.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

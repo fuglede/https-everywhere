@@ -1,0 +1,6 @@
+<ruleset name="Payment-network.com">
+	<target host="payment-network.com" />
+	<target host="www.payment-network.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

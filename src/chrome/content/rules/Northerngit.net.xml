@@ -1,0 +1,6 @@
+<ruleset name="Northerngit.net">
+	<target host="northerngit.net" />
+	<target host="www.northerngit.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

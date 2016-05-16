@@ -1,0 +1,6 @@
+<ruleset name="Gaptek.id">
+	<target host="gaptek.id" />
+	<target host="www.gaptek.id" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

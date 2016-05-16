@@ -1,0 +1,6 @@
+<ruleset name="Steengoedkoop.nl">
+	<target host="steengoedkoop.nl" />
+	<target host="www.steengoedkoop.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

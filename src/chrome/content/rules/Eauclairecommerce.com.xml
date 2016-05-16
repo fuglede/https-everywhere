@@ -1,0 +1,6 @@
+<ruleset name="Eauclairecommerce.com">
+	<target host="eauclairecommerce.com" />
+	<target host="www.eauclairecommerce.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

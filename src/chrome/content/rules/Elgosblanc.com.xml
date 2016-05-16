@@ -1,0 +1,6 @@
+<ruleset name="Elgosblanc.com">
+	<target host="elgosblanc.com" />
+	<target host="www.elgosblanc.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

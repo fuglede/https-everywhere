@@ -1,0 +1,6 @@
+<ruleset name="Escritoriodearte.com">
+	<target host="escritoriodearte.com" />
+	<target host="www.escritoriodearte.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

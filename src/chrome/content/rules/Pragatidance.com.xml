@@ -1,0 +1,6 @@
+<ruleset name="Pragatidance.com">
+	<target host="pragatidance.com" />
+	<target host="www.pragatidance.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

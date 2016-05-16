@@ -1,0 +1,6 @@
+<ruleset name="Print-online-auktion.de">
+	<target host="print-online-auktion.de" />
+	<target host="www.print-online-auktion.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

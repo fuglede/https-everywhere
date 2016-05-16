@@ -1,0 +1,6 @@
+<ruleset name="Mpserver12.org">
+	<target host="mpserver12.org" />
+	<target host="www.mpserver12.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

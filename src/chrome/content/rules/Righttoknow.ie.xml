@@ -1,0 +1,6 @@
+<ruleset name="Righttoknow.ie">
+	<target host="righttoknow.ie" />
+	<target host="www.righttoknow.ie" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

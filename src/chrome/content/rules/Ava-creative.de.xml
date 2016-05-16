@@ -1,0 +1,6 @@
+<ruleset name="Ava-creative.de">
+	<target host="ava-creative.de" />
+	<target host="www.ava-creative.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

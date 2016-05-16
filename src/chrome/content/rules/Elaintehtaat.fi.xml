@@ -1,0 +1,6 @@
+<ruleset name="Elaintehtaat.fi">
+	<target host="elaintehtaat.fi" />
+	<target host="www.elaintehtaat.fi" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

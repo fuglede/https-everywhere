@@ -1,0 +1,6 @@
+<ruleset name="Karsofsystems.com">
+	<target host="karsofsystems.com" />
+	<target host="www.karsofsystems.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

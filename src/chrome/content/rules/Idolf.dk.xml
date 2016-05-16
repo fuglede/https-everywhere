@@ -1,0 +1,6 @@
+<ruleset name="Idolf.dk">
+	<target host="idolf.dk" />
+	<target host="www.idolf.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

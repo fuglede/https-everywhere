@@ -1,0 +1,6 @@
+<ruleset name="Programpzu.pl">
+	<target host="programpzu.pl" />
+	<target host="www.programpzu.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

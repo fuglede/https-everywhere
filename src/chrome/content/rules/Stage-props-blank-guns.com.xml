@@ -1,0 +1,6 @@
+<ruleset name="Stage-props-blank-guns.com">
+	<target host="stage-props-blank-guns.com" />
+	<target host="www.stage-props-blank-guns.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

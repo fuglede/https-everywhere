@@ -1,0 +1,6 @@
+<ruleset name="Xolphin.nl">
+	<target host="xolphin.nl" />
+	<target host="www.xolphin.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Gastronomiz.com">
+	<target host="gastronomiz.com" />
+	<target host="www.gastronomiz.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

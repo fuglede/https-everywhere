@@ -1,0 +1,6 @@
+<ruleset name="Quintessa.org">
+	<target host="quintessa.org" />
+	<target host="www.quintessa.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Fixatom.com">
+	<target host="fixatom.com" />
+	<target host="www.fixatom.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

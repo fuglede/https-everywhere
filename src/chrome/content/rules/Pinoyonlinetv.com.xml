@@ -1,0 +1,6 @@
+<ruleset name="Pinoyonlinetv.com">
+	<target host="pinoyonlinetv.com" />
+	<target host="www.pinoyonlinetv.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

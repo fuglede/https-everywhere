@@ -1,0 +1,6 @@
+<ruleset name="Instacart.com">
+	<target host="instacart.com" />
+	<target host="www.instacart.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

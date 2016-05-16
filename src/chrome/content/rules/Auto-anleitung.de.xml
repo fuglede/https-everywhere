@@ -1,0 +1,6 @@
+<ruleset name="Auto-anleitung.de">
+	<target host="auto-anleitung.de" />
+	<target host="www.auto-anleitung.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

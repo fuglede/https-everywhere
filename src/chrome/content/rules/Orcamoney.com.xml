@@ -1,0 +1,6 @@
+<ruleset name="Orcamoney.com">
+	<target host="orcamoney.com" />
+	<target host="www.orcamoney.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

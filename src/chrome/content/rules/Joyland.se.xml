@@ -1,0 +1,6 @@
+<ruleset name="Joyland.se">
+	<target host="joyland.se" />
+	<target host="www.joyland.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

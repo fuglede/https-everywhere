@@ -1,0 +1,6 @@
+<ruleset name="Hanseaticbits.de">
+	<target host="hanseaticbits.de" />
+	<target host="www.hanseaticbits.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

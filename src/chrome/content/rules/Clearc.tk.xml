@@ -1,0 +1,6 @@
+<ruleset name="Clearc.tk">
+	<target host="clearc.tk" />
+	<target host="www.clearc.tk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

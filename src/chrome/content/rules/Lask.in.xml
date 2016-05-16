@@ -1,0 +1,6 @@
+<ruleset name="Lask.in">
+	<target host="lask.in" />
+	<target host="www.lask.in" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

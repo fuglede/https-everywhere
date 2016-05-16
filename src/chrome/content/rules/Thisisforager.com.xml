@@ -1,0 +1,6 @@
+<ruleset name="Thisisforager.com">
+	<target host="thisisforager.com" />
+	<target host="www.thisisforager.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

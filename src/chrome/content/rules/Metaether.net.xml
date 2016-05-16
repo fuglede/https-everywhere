@@ -1,0 +1,6 @@
+<ruleset name="Metaether.net">
+	<target host="metaether.net" />
+	<target host="www.metaether.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

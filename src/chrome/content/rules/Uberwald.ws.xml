@@ -1,0 +1,6 @@
+<ruleset name="Uberwald.ws">
+	<target host="uberwald.ws" />
+	<target host="www.uberwald.ws" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

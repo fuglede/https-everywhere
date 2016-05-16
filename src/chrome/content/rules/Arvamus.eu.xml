@@ -1,0 +1,6 @@
+<ruleset name="Arvamus.eu">
+	<target host="arvamus.eu" />
+	<target host="www.arvamus.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

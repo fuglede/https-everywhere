@@ -1,0 +1,6 @@
+<ruleset name="Getmassage.com.ng">
+	<target host="getmassage.com.ng" />
+	<target host="www.getmassage.com.ng" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

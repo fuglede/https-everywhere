@@ -1,0 +1,6 @@
+<ruleset name="Opensourcehouse.net">
+	<target host="opensourcehouse.net" />
+	<target host="www.opensourcehouse.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

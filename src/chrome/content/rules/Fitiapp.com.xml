@@ -1,0 +1,6 @@
+<ruleset name="Fitiapp.com">
+	<target host="fitiapp.com" />
+	<target host="www.fitiapp.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

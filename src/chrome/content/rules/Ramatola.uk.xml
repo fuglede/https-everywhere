@@ -1,0 +1,6 @@
+<ruleset name="Ramatola.uk">
+	<target host="ramatola.uk" />
+	<target host="www.ramatola.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

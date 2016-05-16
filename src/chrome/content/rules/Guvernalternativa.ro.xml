@@ -1,0 +1,6 @@
+<ruleset name="Guvernalternativa.ro">
+	<target host="guvernalternativa.ro" />
+	<target host="www.guvernalternativa.ro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

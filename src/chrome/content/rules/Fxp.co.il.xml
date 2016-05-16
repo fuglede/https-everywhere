@@ -1,0 +1,6 @@
+<ruleset name="Fxp.co.il">
+	<target host="fxp.co.il" />
+	<target host="www.fxp.co.il" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

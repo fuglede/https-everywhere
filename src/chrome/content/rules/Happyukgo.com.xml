@@ -1,0 +1,6 @@
+<ruleset name="Happyukgo.com">
+	<target host="happyukgo.com" />
+	<target host="www.happyukgo.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

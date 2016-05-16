@@ -1,0 +1,6 @@
+<ruleset name="Xcentricmold.com">
+	<target host="xcentricmold.com" />
+	<target host="www.xcentricmold.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

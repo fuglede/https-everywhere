@@ -1,0 +1,6 @@
+<ruleset name="Wifimask.com">
+	<target host="wifimask.com" />
+	<target host="www.wifimask.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

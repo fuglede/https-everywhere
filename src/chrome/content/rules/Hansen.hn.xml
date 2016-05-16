@@ -1,0 +1,6 @@
+<ruleset name="Hansen.hn">
+	<target host="hansen.hn" />
+	<target host="www.hansen.hn" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

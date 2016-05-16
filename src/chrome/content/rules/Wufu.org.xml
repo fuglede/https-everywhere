@@ -1,0 +1,6 @@
+<ruleset name="Wufu.org">
+	<target host="wufu.org" />
+	<target host="www.wufu.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

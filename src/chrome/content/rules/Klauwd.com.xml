@@ -1,0 +1,6 @@
+<ruleset name="Klauwd.com">
+	<target host="klauwd.com" />
+	<target host="www.klauwd.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

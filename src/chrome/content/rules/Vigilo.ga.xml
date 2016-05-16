@@ -1,0 +1,6 @@
+<ruleset name="Vigilo.ga">
+	<target host="vigilo.ga" />
+	<target host="www.vigilo.ga" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

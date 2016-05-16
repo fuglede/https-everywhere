@@ -1,0 +1,6 @@
+<ruleset name="Greenhillantiques.co.uk">
+	<target host="greenhillantiques.co.uk" />
+	<target host="www.greenhillantiques.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

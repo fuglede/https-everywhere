@@ -1,0 +1,6 @@
+<ruleset name="Ekostecki.de">
+	<target host="ekostecki.de" />
+	<target host="www.ekostecki.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

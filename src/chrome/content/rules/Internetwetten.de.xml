@@ -1,0 +1,6 @@
+<ruleset name="Internetwetten.de">
+	<target host="internetwetten.de" />
+	<target host="www.internetwetten.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

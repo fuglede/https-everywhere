@@ -1,0 +1,6 @@
+<ruleset name="Pbapp.net">
+	<target host="pbapp.net" />
+	<target host="www.pbapp.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

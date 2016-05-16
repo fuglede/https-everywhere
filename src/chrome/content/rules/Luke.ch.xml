@@ -1,0 +1,6 @@
+<ruleset name="Luke.ch">
+	<target host="luke.ch" />
+	<target host="www.luke.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Orbnet.de">
+	<target host="orbnet.de" />
+	<target host="www.orbnet.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

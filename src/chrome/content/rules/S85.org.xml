@@ -1,0 +1,6 @@
+<ruleset name="S85.org">
+	<target host="s85.org" />
+	<target host="www.s85.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

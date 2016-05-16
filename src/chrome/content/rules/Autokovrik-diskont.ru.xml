@@ -1,0 +1,6 @@
+<ruleset name="Autokovrik-diskont.ru">
+	<target host="autokovrik-diskont.ru" />
+	<target host="www.autokovrik-diskont.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

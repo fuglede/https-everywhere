@@ -1,0 +1,6 @@
+<ruleset name="Isogen5.com">
+	<target host="isogen5.com" />
+	<target host="www.isogen5.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

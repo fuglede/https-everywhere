@@ -1,0 +1,6 @@
+<ruleset name="Nrc-hub.org">
+	<target host="nrc-hub.org" />
+	<target host="www.nrc-hub.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

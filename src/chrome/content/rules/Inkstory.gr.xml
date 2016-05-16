@@ -1,0 +1,6 @@
+<ruleset name="Inkstory.gr">
+	<target host="inkstory.gr" />
+	<target host="www.inkstory.gr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

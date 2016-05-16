@@ -1,0 +1,6 @@
+<ruleset name="Shellfire.de">
+	<target host="shellfire.de" />
+	<target host="www.shellfire.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

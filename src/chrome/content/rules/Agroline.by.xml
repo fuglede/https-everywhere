@@ -1,0 +1,6 @@
+<ruleset name="Agroline.by">
+	<target host="agroline.by" />
+	<target host="www.agroline.by" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

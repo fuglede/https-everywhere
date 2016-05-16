@@ -1,0 +1,6 @@
+<ruleset name="Darkkeepers.dk">
+	<target host="darkkeepers.dk" />
+	<target host="www.darkkeepers.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

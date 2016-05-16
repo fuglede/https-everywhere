@@ -1,0 +1,6 @@
+<ruleset name="Thejedi.co.uk">
+	<target host="thejedi.co.uk" />
+	<target host="www.thejedi.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Scooshonline.co.uk">
+	<target host="scooshonline.co.uk" />
+	<target host="www.scooshonline.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

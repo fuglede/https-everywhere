@@ -1,0 +1,6 @@
+<ruleset name="Opensite.center">
+	<target host="opensite.center" />
+	<target host="www.opensite.center" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

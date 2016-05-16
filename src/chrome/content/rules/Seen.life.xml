@@ -1,0 +1,6 @@
+<ruleset name="Seen.life">
+	<target host="seen.life" />
+	<target host="www.seen.life" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

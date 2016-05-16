@@ -1,0 +1,6 @@
+<ruleset name="Turniker.ru">
+	<target host="turniker.ru" />
+	<target host="www.turniker.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

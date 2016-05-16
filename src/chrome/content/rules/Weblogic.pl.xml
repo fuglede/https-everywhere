@@ -1,0 +1,6 @@
+<ruleset name="Weblogic.pl">
+	<target host="weblogic.pl" />
+	<target host="www.weblogic.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

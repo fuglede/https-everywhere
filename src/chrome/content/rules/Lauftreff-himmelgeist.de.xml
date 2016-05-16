@@ -1,0 +1,6 @@
+<ruleset name="Lauftreff-himmelgeist.de">
+	<target host="lauftreff-himmelgeist.de" />
+	<target host="www.lauftreff-himmelgeist.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

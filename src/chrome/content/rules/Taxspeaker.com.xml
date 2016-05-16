@@ -1,0 +1,6 @@
+<ruleset name="Taxspeaker.com">
+	<target host="taxspeaker.com" />
+	<target host="www.taxspeaker.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Upstox.com">
+	<target host="upstox.com" />
+	<target host="www.upstox.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

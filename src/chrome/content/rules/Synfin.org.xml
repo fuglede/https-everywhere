@@ -1,0 +1,6 @@
+<ruleset name="Synfin.org">
+	<target host="synfin.org" />
+	<target host="www.synfin.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Scicasts.com">
+	<target host="scicasts.com" />
+	<target host="www.scicasts.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

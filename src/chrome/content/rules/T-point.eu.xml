@@ -1,0 +1,6 @@
+<ruleset name="T-point.eu">
+	<target host="t-point.eu" />
+	<target host="www.t-point.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

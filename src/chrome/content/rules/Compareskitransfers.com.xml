@@ -1,0 +1,6 @@
+<ruleset name="Compareskitransfers.com">
+	<target host="compareskitransfers.com" />
+	<target host="www.compareskitransfers.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

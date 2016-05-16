@@ -1,0 +1,6 @@
+<ruleset name="Microvb.com">
+	<target host="microvb.com" />
+	<target host="www.microvb.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

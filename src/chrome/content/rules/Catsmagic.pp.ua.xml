@@ -1,0 +1,6 @@
+<ruleset name="Catsmagic.pp.ua">
+	<target host="catsmagic.pp.ua" />
+	<target host="www.catsmagic.pp.ua" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

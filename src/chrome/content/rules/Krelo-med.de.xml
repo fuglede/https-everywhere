@@ -1,0 +1,6 @@
+<ruleset name="Krelo-med.de">
+	<target host="krelo-med.de" />
+	<target host="www.krelo-med.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Soundtalks.com">
+	<target host="soundtalks.com" />
+	<target host="www.soundtalks.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Promotiongeeks.com">
+	<target host="promotiongeeks.com" />
+	<target host="www.promotiongeeks.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

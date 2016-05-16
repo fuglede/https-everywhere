@@ -1,0 +1,6 @@
+<ruleset name="Colorbrush.ru">
+	<target host="colorbrush.ru" />
+	<target host="www.colorbrush.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

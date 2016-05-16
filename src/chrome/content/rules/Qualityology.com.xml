@@ -1,0 +1,6 @@
+<ruleset name="Qualityology.com">
+	<target host="qualityology.com" />
+	<target host="www.qualityology.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

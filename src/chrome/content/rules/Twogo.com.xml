@@ -1,0 +1,6 @@
+<ruleset name="Twogo.com">
+	<target host="twogo.com" />
+	<target host="www.twogo.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

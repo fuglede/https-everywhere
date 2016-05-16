@@ -1,0 +1,6 @@
+<ruleset name="Wangqiliang.org">
+	<target host="wangqiliang.org" />
+	<target host="www.wangqiliang.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

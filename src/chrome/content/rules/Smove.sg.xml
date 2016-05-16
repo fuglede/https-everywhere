@@ -1,0 +1,6 @@
+<ruleset name="Smove.sg">
+	<target host="smove.sg" />
+	<target host="www.smove.sg" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

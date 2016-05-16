@@ -1,0 +1,6 @@
+<ruleset name="Vide-greniers.org">
+	<target host="vide-greniers.org" />
+	<target host="www.vide-greniers.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

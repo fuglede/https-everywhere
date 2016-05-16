@@ -1,0 +1,6 @@
+<ruleset name="Runetek.io">
+	<target host="runetek.io" />
+	<target host="www.runetek.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

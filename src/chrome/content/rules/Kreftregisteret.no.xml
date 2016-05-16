@@ -1,0 +1,6 @@
+<ruleset name="Kreftregisteret.no">
+	<target host="kreftregisteret.no" />
+	<target host="www.kreftregisteret.no" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

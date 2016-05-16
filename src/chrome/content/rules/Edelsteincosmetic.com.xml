@@ -1,0 +1,6 @@
+<ruleset name="Edelsteincosmetic.com">
+	<target host="edelsteincosmetic.com" />
+	<target host="www.edelsteincosmetic.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

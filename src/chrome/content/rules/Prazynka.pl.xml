@@ -1,0 +1,6 @@
+<ruleset name="Prazynka.pl">
+	<target host="prazynka.pl" />
+	<target host="www.prazynka.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

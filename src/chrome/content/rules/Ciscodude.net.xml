@@ -1,0 +1,6 @@
+<ruleset name="Ciscodude.net">
+	<target host="ciscodude.net" />
+	<target host="www.ciscodude.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

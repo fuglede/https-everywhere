@@ -1,0 +1,6 @@
+<ruleset name="Serverinfo.se">
+	<target host="serverinfo.se" />
+	<target host="www.serverinfo.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

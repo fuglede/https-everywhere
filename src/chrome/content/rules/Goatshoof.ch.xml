@@ -1,0 +1,6 @@
+<ruleset name="Goatshoof.ch">
+	<target host="goatshoof.ch" />
+	<target host="www.goatshoof.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

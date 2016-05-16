@@ -1,0 +1,6 @@
+<ruleset name="Imedikament.de">
+	<target host="imedikament.de" />
+	<target host="www.imedikament.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

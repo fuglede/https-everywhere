@@ -1,0 +1,6 @@
+<ruleset name="Welcomehelp.de">
+	<target host="welcomehelp.de" />
+	<target host="www.welcomehelp.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

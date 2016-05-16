@@ -1,0 +1,6 @@
+<ruleset name="Radicaleducation.net">
+	<target host="radicaleducation.net" />
+	<target host="www.radicaleducation.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

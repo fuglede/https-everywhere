@@ -1,0 +1,6 @@
+<ruleset name="Duijfathome.nl">
+	<target host="duijfathome.nl" />
+	<target host="www.duijfathome.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Blueimp.net">
+	<target host="blueimp.net" />
+	<target host="www.blueimp.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

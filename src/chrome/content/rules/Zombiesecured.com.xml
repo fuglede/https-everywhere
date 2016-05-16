@@ -1,0 +1,6 @@
+<ruleset name="Zombiesecured.com">
+	<target host="zombiesecured.com" />
+	<target host="www.zombiesecured.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

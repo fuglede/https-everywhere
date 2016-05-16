@@ -1,0 +1,6 @@
+<ruleset name="Ferienhaus-polchow-ruegen.de">
+	<target host="ferienhaus-polchow-ruegen.de" />
+	<target host="www.ferienhaus-polchow-ruegen.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

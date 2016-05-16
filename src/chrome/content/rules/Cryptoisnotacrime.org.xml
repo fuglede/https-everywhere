@@ -1,0 +1,6 @@
+<ruleset name="Cryptoisnotacrime.org">
+	<target host="cryptoisnotacrime.org" />
+	<target host="www.cryptoisnotacrime.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

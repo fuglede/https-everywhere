@@ -1,0 +1,6 @@
+<ruleset name="Digitaldeliarchive.com">
+	<target host="digitaldeliarchive.com" />
+	<target host="www.digitaldeliarchive.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

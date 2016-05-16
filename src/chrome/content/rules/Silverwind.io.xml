@@ -1,0 +1,6 @@
+<ruleset name="Silverwind.io">
+	<target host="silverwind.io" />
+	<target host="www.silverwind.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

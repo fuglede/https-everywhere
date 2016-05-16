@@ -1,0 +1,6 @@
+<ruleset name="Catnet.dk">
+	<target host="catnet.dk" />
+	<target host="www.catnet.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

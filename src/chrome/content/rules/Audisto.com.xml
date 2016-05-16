@@ -1,0 +1,6 @@
+<ruleset name="Audisto.com">
+	<target host="audisto.com" />
+	<target host="www.audisto.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

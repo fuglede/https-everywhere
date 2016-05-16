@@ -1,0 +1,6 @@
+<ruleset name="Pickme.nl">
+	<target host="pickme.nl" />
+	<target host="www.pickme.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

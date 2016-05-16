@@ -1,0 +1,6 @@
+<ruleset name="Fxdaxue.com">
+	<target host="fxdaxue.com" />
+	<target host="www.fxdaxue.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

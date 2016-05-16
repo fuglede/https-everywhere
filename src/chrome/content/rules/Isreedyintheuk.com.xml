@@ -1,0 +1,6 @@
+<ruleset name="Isreedyintheuk.com">
+	<target host="isreedyintheuk.com" />
+	<target host="www.isreedyintheuk.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

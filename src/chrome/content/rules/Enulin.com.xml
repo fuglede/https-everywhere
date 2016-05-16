@@ -1,0 +1,6 @@
+<ruleset name="Enulin.com">
+	<target host="enulin.com" />
+	<target host="www.enulin.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Lca2018.org">
+	<target host="lca2018.org" />
+	<target host="www.lca2018.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

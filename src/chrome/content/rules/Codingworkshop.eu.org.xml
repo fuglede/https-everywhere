@@ -1,0 +1,6 @@
+<ruleset name="Codingworkshop.eu.org">
+	<target host="codingworkshop.eu.org" />
+	<target host="www.codingworkshop.eu.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

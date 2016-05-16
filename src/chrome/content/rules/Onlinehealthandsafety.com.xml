@@ -1,0 +1,6 @@
+<ruleset name="Onlinehealthandsafety.com">
+	<target host="onlinehealthandsafety.com" />
+	<target host="www.onlinehealthandsafety.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

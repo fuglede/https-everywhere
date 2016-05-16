@@ -1,0 +1,6 @@
+<ruleset name="Firebird.io">
+	<target host="firebird.io" />
+	<target host="www.firebird.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

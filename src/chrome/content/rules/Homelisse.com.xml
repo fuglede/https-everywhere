@@ -1,0 +1,6 @@
+<ruleset name="Homelisse.com">
+	<target host="homelisse.com" />
+	<target host="www.homelisse.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

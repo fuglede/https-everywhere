@@ -1,0 +1,6 @@
+<ruleset name="Herbandpat.org">
+	<target host="herbandpat.org" />
+	<target host="www.herbandpat.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Kreislaufrisiko.net">
+	<target host="kreislaufrisiko.net" />
+	<target host="www.kreislaufrisiko.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

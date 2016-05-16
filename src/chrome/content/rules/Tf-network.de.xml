@@ -1,0 +1,6 @@
+<ruleset name="Tf-network.de">
+	<target host="tf-network.de" />
+	<target host="www.tf-network.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Coam.co">
+	<target host="coam.co" />
+	<target host="www.coam.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

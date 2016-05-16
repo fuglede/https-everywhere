@@ -1,0 +1,6 @@
+<ruleset name="Dumax.xyz">
+	<target host="dumax.xyz" />
+	<target host="www.dumax.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

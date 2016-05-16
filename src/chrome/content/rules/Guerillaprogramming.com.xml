@@ -1,0 +1,6 @@
+<ruleset name="Guerillaprogramming.com">
+	<target host="guerillaprogramming.com" />
+	<target host="www.guerillaprogramming.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

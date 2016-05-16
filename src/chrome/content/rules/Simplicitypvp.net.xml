@@ -1,0 +1,6 @@
+<ruleset name="Simplicitypvp.net">
+	<target host="simplicitypvp.net" />
+	<target host="www.simplicitypvp.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

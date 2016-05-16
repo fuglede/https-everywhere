@@ -1,0 +1,6 @@
+<ruleset name="Claudiafranyo.de">
+	<target host="claudiafranyo.de" />
+	<target host="www.claudiafranyo.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

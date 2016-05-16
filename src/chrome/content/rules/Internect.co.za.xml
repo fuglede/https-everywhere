@@ -1,0 +1,6 @@
+<ruleset name="Internect.co.za">
+	<target host="internect.co.za" />
+	<target host="www.internect.co.za" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

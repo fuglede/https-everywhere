@@ -1,0 +1,6 @@
+<ruleset name="Unicreditbank.ru">
+	<target host="unicreditbank.ru" />
+	<target host="www.unicreditbank.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

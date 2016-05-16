@@ -1,0 +1,6 @@
+<ruleset name="Denisjean.fr">
+	<target host="denisjean.fr" />
+	<target host="www.denisjean.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

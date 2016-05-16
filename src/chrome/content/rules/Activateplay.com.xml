@@ -1,0 +1,6 @@
+<ruleset name="Activateplay.com">
+	<target host="activateplay.com" />
+	<target host="www.activateplay.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

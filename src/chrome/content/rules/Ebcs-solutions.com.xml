@@ -1,0 +1,6 @@
+<ruleset name="Ebcs-solutions.com">
+	<target host="ebcs-solutions.com" />
+	<target host="www.ebcs-solutions.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

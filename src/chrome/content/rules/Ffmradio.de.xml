@@ -1,0 +1,6 @@
+<ruleset name="Ffmradio.de">
+	<target host="ffmradio.de" />
+	<target host="www.ffmradio.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

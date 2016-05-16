@@ -1,0 +1,6 @@
+<ruleset name="Tastly.net">
+	<target host="tastly.net" />
+	<target host="www.tastly.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

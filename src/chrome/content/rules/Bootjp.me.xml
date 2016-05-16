@@ -1,0 +1,6 @@
+<ruleset name="Bootjp.me">
+	<target host="bootjp.me" />
+	<target host="www.bootjp.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

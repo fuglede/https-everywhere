@@ -1,0 +1,6 @@
+<ruleset name="Wphostingblog.nl">
+	<target host="wphostingblog.nl" />
+	<target host="www.wphostingblog.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

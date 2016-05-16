@@ -1,0 +1,6 @@
+<ruleset name="Zoommailing.com">
+	<target host="zoommailing.com" />
+	<target host="www.zoommailing.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

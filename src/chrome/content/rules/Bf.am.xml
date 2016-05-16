@@ -1,0 +1,6 @@
+<ruleset name="Bf.am">
+	<target host="bf.am" />
+	<target host="www.bf.am" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

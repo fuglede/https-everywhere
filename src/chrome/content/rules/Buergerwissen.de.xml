@@ -1,0 +1,6 @@
+<ruleset name="Buergerwissen.de">
+	<target host="buergerwissen.de" />
+	<target host="www.buergerwissen.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

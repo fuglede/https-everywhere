@@ -1,0 +1,6 @@
+<ruleset name="Walnutgaming.com">
+	<target host="walnutgaming.com" />
+	<target host="www.walnutgaming.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

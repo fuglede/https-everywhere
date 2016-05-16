@@ -1,0 +1,6 @@
+<ruleset name="Mcawesomeville.de">
+	<target host="mcawesomeville.de" />
+	<target host="www.mcawesomeville.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Xbt.co">
+	<target host="xbt.co" />
+	<target host="www.xbt.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

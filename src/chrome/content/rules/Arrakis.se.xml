@@ -1,0 +1,6 @@
+<ruleset name="Arrakis.se">
+	<target host="arrakis.se" />
+	<target host="www.arrakis.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

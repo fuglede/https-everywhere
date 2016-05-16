@@ -1,0 +1,6 @@
+<ruleset name="Yodigram.com">
+	<target host="yodigram.com" />
+	<target host="www.yodigram.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Signere.no">
+	<target host="signere.no" />
+	<target host="www.signere.no" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

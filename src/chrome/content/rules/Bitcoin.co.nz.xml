@@ -1,0 +1,6 @@
+<ruleset name="Bitcoin.co.nz">
+	<target host="bitcoin.co.nz" />
+	<target host="www.bitcoin.co.nz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

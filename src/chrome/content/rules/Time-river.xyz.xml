@@ -1,0 +1,6 @@
+<ruleset name="Time-river.xyz">
+	<target host="time-river.xyz" />
+	<target host="www.time-river.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Mcatnnlo.org">
+	<target host="mcatnnlo.org" />
+	<target host="www.mcatnnlo.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

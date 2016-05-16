@@ -1,0 +1,6 @@
+<ruleset name="Osteammate.com">
+	<target host="osteammate.com" />
+	<target host="www.osteammate.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

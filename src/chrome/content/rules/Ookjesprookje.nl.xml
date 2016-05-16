@@ -1,0 +1,6 @@
+<ruleset name="Ookjesprookje.nl">
+	<target host="ookjesprookje.nl" />
+	<target host="www.ookjesprookje.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

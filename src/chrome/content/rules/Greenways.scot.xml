@@ -1,0 +1,6 @@
+<ruleset name="Greenways.scot">
+	<target host="greenways.scot" />
+	<target host="www.greenways.scot" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

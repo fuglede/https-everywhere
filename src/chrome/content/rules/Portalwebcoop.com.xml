@@ -1,0 +1,6 @@
+<ruleset name="Portalwebcoop.com">
+	<target host="portalwebcoop.com" />
+	<target host="www.portalwebcoop.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

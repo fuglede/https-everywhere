@@ -1,0 +1,6 @@
+<ruleset name="Daduke.org">
+	<target host="daduke.org" />
+	<target host="www.daduke.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

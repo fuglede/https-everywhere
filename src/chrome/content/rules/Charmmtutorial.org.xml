@@ -1,0 +1,6 @@
+<ruleset name="Charmmtutorial.org">
+	<target host="charmmtutorial.org" />
+	<target host="www.charmmtutorial.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

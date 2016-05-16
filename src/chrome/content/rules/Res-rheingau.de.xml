@@ -1,0 +1,6 @@
+<ruleset name="Res-rheingau.de">
+	<target host="res-rheingau.de" />
+	<target host="www.res-rheingau.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Kirschbaum.me">
+	<target host="kirschbaum.me" />
+	<target host="www.kirschbaum.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

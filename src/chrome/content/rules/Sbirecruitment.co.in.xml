@@ -1,0 +1,6 @@
+<ruleset name="Sbirecruitment.co.in">
+	<target host="sbirecruitment.co.in" />
+	<target host="www.sbirecruitment.co.in" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

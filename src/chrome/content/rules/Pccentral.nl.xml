@@ -1,0 +1,6 @@
+<ruleset name="Pccentral.nl">
+	<target host="pccentral.nl" />
+	<target host="www.pccentral.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

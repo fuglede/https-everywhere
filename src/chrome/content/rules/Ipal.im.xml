@@ -1,0 +1,6 @@
+<ruleset name="Ipal.im">
+	<target host="ipal.im" />
+	<target host="www.ipal.im" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Wofford-ecs.org">
+	<target host="wofford-ecs.org" />
+	<target host="www.wofford-ecs.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

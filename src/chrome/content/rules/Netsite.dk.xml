@@ -1,0 +1,6 @@
+<ruleset name="Netsite.dk">
+	<target host="netsite.dk" />
+	<target host="www.netsite.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

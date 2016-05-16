@@ -1,0 +1,6 @@
+<ruleset name="1hourproofreading.com">
+	<target host="1hourproofreading.com" />
+	<target host="www.1hourproofreading.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Estaleiro.org">
+	<target host="estaleiro.org" />
+	<target host="www.estaleiro.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

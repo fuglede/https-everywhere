@@ -1,0 +1,6 @@
+<ruleset name="Augias.org">
+	<target host="augias.org" />
+	<target host="www.augias.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

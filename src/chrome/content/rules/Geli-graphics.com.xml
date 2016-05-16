@@ -1,0 +1,6 @@
+<ruleset name="Geli-graphics.com">
+	<target host="geli-graphics.com" />
+	<target host="www.geli-graphics.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

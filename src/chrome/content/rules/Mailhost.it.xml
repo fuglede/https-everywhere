@@ -1,0 +1,6 @@
+<ruleset name="Mailhost.it">
+	<target host="mailhost.it" />
+	<target host="www.mailhost.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

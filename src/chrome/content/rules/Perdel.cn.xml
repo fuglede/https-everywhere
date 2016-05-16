@@ -1,0 +1,6 @@
+<ruleset name="Perdel.cn">
+	<target host="perdel.cn" />
+	<target host="www.perdel.cn" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

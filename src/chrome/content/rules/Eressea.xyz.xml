@@ -1,0 +1,6 @@
+<ruleset name="Eressea.xyz">
+	<target host="eressea.xyz" />
+	<target host="www.eressea.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

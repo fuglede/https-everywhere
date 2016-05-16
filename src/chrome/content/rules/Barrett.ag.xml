@@ -1,0 +1,6 @@
+<ruleset name="Barrett.ag">
+	<target host="barrett.ag" />
+	<target host="www.barrett.ag" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Mathembedded.com">
+	<target host="mathembedded.com" />
+	<target host="www.mathembedded.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

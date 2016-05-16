@@ -1,0 +1,6 @@
+<ruleset name="Lagarderob.ru">
+	<target host="lagarderob.ru" />
+	<target host="www.lagarderob.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

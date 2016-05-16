@@ -1,0 +1,6 @@
+<ruleset name="Spelnionarodzina.pl">
+	<target host="spelnionarodzina.pl" />
+	<target host="www.spelnionarodzina.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Generic.cx">
+	<target host="generic.cx" />
+	<target host="www.generic.cx" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

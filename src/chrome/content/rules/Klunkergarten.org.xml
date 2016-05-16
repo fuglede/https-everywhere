@@ -1,0 +1,6 @@
+<ruleset name="Klunkergarten.org">
+	<target host="klunkergarten.org" />
+	<target host="www.klunkergarten.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

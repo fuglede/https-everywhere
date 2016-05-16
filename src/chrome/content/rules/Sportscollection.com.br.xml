@@ -1,0 +1,6 @@
+<ruleset name="Sportscollection.com.br">
+	<target host="sportscollection.com.br" />
+	<target host="www.sportscollection.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

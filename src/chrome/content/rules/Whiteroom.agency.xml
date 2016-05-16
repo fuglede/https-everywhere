@@ -1,0 +1,6 @@
+<ruleset name="Whiteroom.agency">
+	<target host="whiteroom.agency" />
+	<target host="www.whiteroom.agency" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

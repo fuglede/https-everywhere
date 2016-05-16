@@ -1,0 +1,6 @@
+<ruleset name="Montemayordepililla.com">
+	<target host="montemayordepililla.com" />
+	<target host="www.montemayordepililla.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

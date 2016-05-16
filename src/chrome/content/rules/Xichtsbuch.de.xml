@@ -1,0 +1,6 @@
+<ruleset name="Xichtsbuch.de">
+	<target host="xichtsbuch.de" />
+	<target host="www.xichtsbuch.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

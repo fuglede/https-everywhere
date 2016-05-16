@@ -1,0 +1,6 @@
+<ruleset name="Oneway.ga">
+	<target host="oneway.ga" />
+	<target host="www.oneway.ga" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

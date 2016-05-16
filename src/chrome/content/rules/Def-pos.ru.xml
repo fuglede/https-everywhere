@@ -1,0 +1,6 @@
+<ruleset name="Def-pos.ru">
+	<target host="def-pos.ru" />
+	<target host="www.def-pos.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

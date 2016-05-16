@@ -1,0 +1,6 @@
+<ruleset name="Desiccantpackets.com">
+	<target host="desiccantpackets.com" />
+	<target host="www.desiccantpackets.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Evin.ml">
+	<target host="evin.ml" />
+	<target host="www.evin.ml" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

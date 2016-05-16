@@ -1,0 +1,6 @@
+<ruleset name="Alphaknifesupply.com">
+	<target host="alphaknifesupply.com" />
+	<target host="www.alphaknifesupply.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

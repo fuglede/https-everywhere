@@ -1,0 +1,6 @@
+<ruleset name="Picoauto.com">
+	<target host="picoauto.com" />
+	<target host="www.picoauto.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

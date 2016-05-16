@@ -1,0 +1,6 @@
+<ruleset name="Ennea-mediation.fr">
+	<target host="ennea-mediation.fr" />
+	<target host="www.ennea-mediation.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

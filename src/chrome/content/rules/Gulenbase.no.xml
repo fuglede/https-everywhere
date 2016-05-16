@@ -1,0 +1,6 @@
+<ruleset name="Gulenbase.no">
+	<target host="gulenbase.no" />
+	<target host="www.gulenbase.no" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

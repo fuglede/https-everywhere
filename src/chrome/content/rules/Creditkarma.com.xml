@@ -1,0 +1,6 @@
+<ruleset name="Creditkarma.com">
+	<target host="creditkarma.com" />
+	<target host="www.creditkarma.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Thijsalders.nl">
+	<target host="thijsalders.nl" />
+	<target host="www.thijsalders.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

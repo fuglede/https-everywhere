@@ -1,0 +1,6 @@
+<ruleset name="Xiaoguo.net">
+	<target host="xiaoguo.net" />
+	<target host="www.xiaoguo.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

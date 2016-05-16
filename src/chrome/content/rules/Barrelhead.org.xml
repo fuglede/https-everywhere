@@ -1,0 +1,6 @@
+<ruleset name="Barrelhead.org">
+	<target host="barrelhead.org" />
+	<target host="www.barrelhead.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

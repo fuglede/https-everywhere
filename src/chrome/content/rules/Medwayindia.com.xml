@@ -1,0 +1,6 @@
+<ruleset name="Medwayindia.com">
+	<target host="medwayindia.com" />
+	<target host="www.medwayindia.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

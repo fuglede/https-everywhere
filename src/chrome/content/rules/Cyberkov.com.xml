@@ -1,0 +1,6 @@
+<ruleset name="Cyberkov.com">
+	<target host="cyberkov.com" />
+	<target host="www.cyberkov.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

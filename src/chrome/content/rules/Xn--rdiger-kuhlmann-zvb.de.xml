@@ -1,0 +1,6 @@
+<ruleset name="Xn--rdiger-kuhlmann-zvb.de">
+	<target host="xn--rdiger-kuhlmann-zvb.de" />
+	<target host="www.xn--rdiger-kuhlmann-zvb.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Theflyingbear.net">
+	<target host="theflyingbear.net" />
+	<target host="www.theflyingbear.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

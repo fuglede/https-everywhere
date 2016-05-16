@@ -1,0 +1,6 @@
+<ruleset name="Q2.si">
+	<target host="q2.si" />
+	<target host="www.q2.si" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

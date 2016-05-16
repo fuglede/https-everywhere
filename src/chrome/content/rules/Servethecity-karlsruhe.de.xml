@@ -1,0 +1,6 @@
+<ruleset name="Servethecity-karlsruhe.de">
+	<target host="servethecity-karlsruhe.de" />
+	<target host="www.servethecity-karlsruhe.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Eyeglassuniverse.com">
+	<target host="eyeglassuniverse.com" />
+	<target host="www.eyeglassuniverse.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

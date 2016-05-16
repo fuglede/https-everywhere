@@ -1,0 +1,6 @@
+<ruleset name="Hostedbgp.net">
+	<target host="hostedbgp.net" />
+	<target host="www.hostedbgp.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Lpbk-bethel.de">
+	<target host="lpbk-bethel.de" />
+	<target host="www.lpbk-bethel.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

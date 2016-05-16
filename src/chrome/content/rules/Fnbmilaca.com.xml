@@ -1,0 +1,6 @@
+<ruleset name="Fnbmilaca.com">
+	<target host="fnbmilaca.com" />
+	<target host="www.fnbmilaca.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

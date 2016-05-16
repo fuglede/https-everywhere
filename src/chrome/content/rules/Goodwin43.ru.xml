@@ -1,0 +1,6 @@
+<ruleset name="Goodwin43.ru">
+	<target host="goodwin43.ru" />
+	<target host="www.goodwin43.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

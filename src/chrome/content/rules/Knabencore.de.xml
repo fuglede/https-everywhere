@@ -1,0 +1,6 @@
+<ruleset name="Knabencore.de">
+	<target host="knabencore.de" />
+	<target host="www.knabencore.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

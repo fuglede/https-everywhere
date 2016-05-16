@@ -1,0 +1,6 @@
+<ruleset name="Lafka.org">
+	<target host="lafka.org" />
+	<target host="www.lafka.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

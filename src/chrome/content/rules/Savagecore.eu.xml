@@ -1,0 +1,6 @@
+<ruleset name="Savagecore.eu">
+	<target host="savagecore.eu" />
+	<target host="www.savagecore.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

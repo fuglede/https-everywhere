@@ -1,0 +1,6 @@
+<ruleset name="Diegerbers.de">
+	<target host="diegerbers.de" />
+	<target host="www.diegerbers.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

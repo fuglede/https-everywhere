@@ -1,0 +1,6 @@
+<ruleset name="Ile-kalorii.pl">
+	<target host="ile-kalorii.pl" />
+	<target host="www.ile-kalorii.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

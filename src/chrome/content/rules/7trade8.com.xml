@@ -1,0 +1,6 @@
+<ruleset name="7trade8.com">
+	<target host="7trade8.com" />
+	<target host="www.7trade8.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

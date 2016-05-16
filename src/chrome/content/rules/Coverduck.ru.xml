@@ -1,0 +1,6 @@
+<ruleset name="Coverduck.ru">
+	<target host="coverduck.ru" />
+	<target host="www.coverduck.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

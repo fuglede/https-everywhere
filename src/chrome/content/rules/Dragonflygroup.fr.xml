@@ -1,0 +1,6 @@
+<ruleset name="Dragonflygroup.fr">
+	<target host="dragonflygroup.fr" />
+	<target host="www.dragonflygroup.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

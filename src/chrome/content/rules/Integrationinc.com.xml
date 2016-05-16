@@ -1,0 +1,6 @@
+<ruleset name="Integrationinc.com">
+	<target host="integrationinc.com" />
+	<target host="www.integrationinc.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

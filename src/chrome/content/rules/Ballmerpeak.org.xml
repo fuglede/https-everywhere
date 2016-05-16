@@ -1,0 +1,6 @@
+<ruleset name="Ballmerpeak.org">
+	<target host="ballmerpeak.org" />
+	<target host="www.ballmerpeak.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

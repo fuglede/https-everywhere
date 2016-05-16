@@ -1,0 +1,6 @@
+<ruleset name="Hussam.eu.org">
+	<target host="hussam.eu.org" />
+	<target host="www.hussam.eu.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

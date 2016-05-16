@@ -1,0 +1,6 @@
+<ruleset name="Feis.co">
+	<target host="feis.co" />
+	<target host="www.feis.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

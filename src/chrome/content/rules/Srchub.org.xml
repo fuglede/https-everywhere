@@ -1,0 +1,6 @@
+<ruleset name="Srchub.org">
+	<target host="srchub.org" />
+	<target host="www.srchub.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

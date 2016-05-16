@@ -1,0 +1,6 @@
+<ruleset name="Midicokaraoke.com">
+	<target host="midicokaraoke.com" />
+	<target host="www.midicokaraoke.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

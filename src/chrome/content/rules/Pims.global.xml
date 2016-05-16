@@ -1,0 +1,6 @@
+<ruleset name="Pims.global">
+	<target host="pims.global" />
+	<target host="www.pims.global" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

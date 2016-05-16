@@ -1,0 +1,6 @@
+<ruleset name="Baby-click.de">
+	<target host="baby-click.de" />
+	<target host="www.baby-click.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

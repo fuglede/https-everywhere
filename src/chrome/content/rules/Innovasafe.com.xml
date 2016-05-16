@@ -1,0 +1,6 @@
+<ruleset name="Innovasafe.com">
+	<target host="innovasafe.com" />
+	<target host="www.innovasafe.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

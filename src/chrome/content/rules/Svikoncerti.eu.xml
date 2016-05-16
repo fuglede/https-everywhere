@@ -1,0 +1,6 @@
+<ruleset name="Svikoncerti.eu">
+	<target host="svikoncerti.eu" />
+	<target host="www.svikoncerti.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

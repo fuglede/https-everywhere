@@ -1,0 +1,6 @@
+<ruleset name="Hasinase.de">
+	<target host="hasinase.de" />
+	<target host="www.hasinase.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

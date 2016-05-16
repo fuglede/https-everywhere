@@ -1,0 +1,6 @@
+<ruleset name="Filemeal.com">
+	<target host="filemeal.com" />
+	<target host="www.filemeal.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

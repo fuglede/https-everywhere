@@ -1,0 +1,6 @@
+<ruleset name="Werkplaatsoost.nl">
+	<target host="werkplaatsoost.nl" />
+	<target host="www.werkplaatsoost.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

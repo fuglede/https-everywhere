@@ -1,0 +1,6 @@
+<ruleset name="Securitymap.wiki">
+	<target host="securitymap.wiki" />
+	<target host="www.securitymap.wiki" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Visionless.me">
+	<target host="visionless.me" />
+	<target host="www.visionless.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

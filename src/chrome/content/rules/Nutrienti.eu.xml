@@ -1,0 +1,6 @@
+<ruleset name="Nutrienti.eu">
+	<target host="nutrienti.eu" />
+	<target host="www.nutrienti.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

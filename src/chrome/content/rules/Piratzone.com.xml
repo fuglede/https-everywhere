@@ -1,0 +1,6 @@
+<ruleset name="Piratzone.com">
+	<target host="piratzone.com" />
+	<target host="www.piratzone.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

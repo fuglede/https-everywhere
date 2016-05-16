@@ -1,0 +1,6 @@
+<ruleset name="Comparetravelinsurance.co.nz">
+	<target host="comparetravelinsurance.co.nz" />
+	<target host="www.comparetravelinsurance.co.nz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

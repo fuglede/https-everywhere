@@ -1,0 +1,6 @@
+<ruleset name="Cmacacias.ch">
+	<target host="cmacacias.ch" />
+	<target host="www.cmacacias.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

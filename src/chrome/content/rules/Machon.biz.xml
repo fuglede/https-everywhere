@@ -1,0 +1,6 @@
+<ruleset name="Machon.biz">
+	<target host="machon.biz" />
+	<target host="www.machon.biz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

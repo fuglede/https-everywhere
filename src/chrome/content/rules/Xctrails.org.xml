@@ -1,0 +1,6 @@
+<ruleset name="Xctrails.org">
+	<target host="xctrails.org" />
+	<target host="www.xctrails.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

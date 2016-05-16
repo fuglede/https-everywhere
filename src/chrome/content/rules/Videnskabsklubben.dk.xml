@@ -1,0 +1,6 @@
+<ruleset name="Videnskabsklubben.dk">
+	<target host="videnskabsklubben.dk" />
+	<target host="www.videnskabsklubben.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

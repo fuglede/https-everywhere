@@ -1,0 +1,6 @@
+<ruleset name="Kausch.at">
+	<target host="kausch.at" />
+	<target host="www.kausch.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

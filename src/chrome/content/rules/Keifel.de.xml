@@ -1,0 +1,6 @@
+<ruleset name="Keifel.de">
+	<target host="keifel.de" />
+	<target host="www.keifel.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

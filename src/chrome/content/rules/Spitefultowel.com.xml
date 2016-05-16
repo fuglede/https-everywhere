@@ -1,0 +1,6 @@
+<ruleset name="Spitefultowel.com">
+	<target host="spitefultowel.com" />
+	<target host="www.spitefultowel.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

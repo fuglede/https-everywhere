@@ -1,0 +1,6 @@
+<ruleset name="Stay.black">
+	<target host="stay.black" />
+	<target host="www.stay.black" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

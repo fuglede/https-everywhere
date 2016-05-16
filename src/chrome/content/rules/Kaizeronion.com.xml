@@ -1,0 +1,6 @@
+<ruleset name="Kaizeronion.com">
+	<target host="kaizeronion.com" />
+	<target host="www.kaizeronion.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

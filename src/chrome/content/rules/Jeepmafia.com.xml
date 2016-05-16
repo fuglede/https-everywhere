@@ -1,0 +1,6 @@
+<ruleset name="Jeepmafia.com">
+	<target host="jeepmafia.com" />
+	<target host="www.jeepmafia.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

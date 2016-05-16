@@ -1,0 +1,6 @@
+<ruleset name="Chaoswebs.net">
+	<target host="chaoswebs.net" />
+	<target host="www.chaoswebs.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

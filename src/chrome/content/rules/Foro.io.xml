@@ -1,0 +1,6 @@
+<ruleset name="Foro.io">
+	<target host="foro.io" />
+	<target host="www.foro.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Waka-mono.com">
+	<target host="waka-mono.com" />
+	<target host="www.waka-mono.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

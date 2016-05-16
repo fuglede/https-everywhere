@@ -1,0 +1,6 @@
+<ruleset name="Hebammenpraxis-lebenslicht.de">
+	<target host="hebammenpraxis-lebenslicht.de" />
+	<target host="www.hebammenpraxis-lebenslicht.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

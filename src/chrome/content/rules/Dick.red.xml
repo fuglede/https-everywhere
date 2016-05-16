@@ -1,0 +1,6 @@
+<ruleset name="Dick.red">
+	<target host="dick.red" />
+	<target host="www.dick.red" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

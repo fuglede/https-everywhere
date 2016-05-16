@@ -1,0 +1,6 @@
+<ruleset name="Homewatt.co.uk">
+	<target host="homewatt.co.uk" />
+	<target host="www.homewatt.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

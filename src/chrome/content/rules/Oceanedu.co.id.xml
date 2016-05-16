@@ -1,0 +1,6 @@
+<ruleset name="Oceanedu.co.id">
+	<target host="oceanedu.co.id" />
+	<target host="www.oceanedu.co.id" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Happyfabric.me">
+	<target host="happyfabric.me" />
+	<target host="www.happyfabric.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

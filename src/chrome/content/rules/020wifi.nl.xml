@@ -1,0 +1,6 @@
+<ruleset name="020wifi.nl">
+	<target host="020wifi.nl" />
+	<target host="www.020wifi.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

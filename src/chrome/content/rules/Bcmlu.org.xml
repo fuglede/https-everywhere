@@ -1,0 +1,6 @@
+<ruleset name="Bcmlu.org">
+	<target host="bcmlu.org" />
+	<target host="www.bcmlu.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

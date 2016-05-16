@@ -1,0 +1,6 @@
+<ruleset name="Pgregg.com">
+	<target host="pgregg.com" />
+	<target host="www.pgregg.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

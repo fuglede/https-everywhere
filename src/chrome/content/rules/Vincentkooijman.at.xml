@@ -1,0 +1,6 @@
+<ruleset name="Vincentkooijman.at">
+	<target host="vincentkooijman.at" />
+	<target host="www.vincentkooijman.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

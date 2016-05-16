@@ -1,0 +1,6 @@
+<ruleset name="Mironized.com">
+	<target host="mironized.com" />
+	<target host="www.mironized.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

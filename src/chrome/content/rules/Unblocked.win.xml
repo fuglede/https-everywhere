@@ -1,0 +1,6 @@
+<ruleset name="Unblocked.win">
+	<target host="unblocked.win" />
+	<target host="www.unblocked.win" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

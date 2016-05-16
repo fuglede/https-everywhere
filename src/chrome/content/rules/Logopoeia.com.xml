@@ -1,0 +1,6 @@
+<ruleset name="Logopoeia.com">
+	<target host="logopoeia.com" />
+	<target host="www.logopoeia.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

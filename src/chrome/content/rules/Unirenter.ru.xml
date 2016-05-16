@@ -1,0 +1,6 @@
+<ruleset name="Unirenter.ru">
+	<target host="unirenter.ru" />
+	<target host="www.unirenter.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

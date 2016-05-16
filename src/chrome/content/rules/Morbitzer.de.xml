@@ -1,0 +1,6 @@
+<ruleset name="Morbitzer.de">
+	<target host="morbitzer.de" />
+	<target host="www.morbitzer.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

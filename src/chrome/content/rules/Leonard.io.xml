@@ -1,0 +1,6 @@
+<ruleset name="Leonard.io">
+	<target host="leonard.io" />
+	<target host="www.leonard.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

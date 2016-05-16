@@ -1,0 +1,6 @@
+<ruleset name="Trueteaching.com">
+	<target host="trueteaching.com" />
+	<target host="www.trueteaching.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

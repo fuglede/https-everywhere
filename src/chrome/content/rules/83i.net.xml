@@ -1,0 +1,6 @@
+<ruleset name="83i.net">
+	<target host="83i.net" />
+	<target host="www.83i.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

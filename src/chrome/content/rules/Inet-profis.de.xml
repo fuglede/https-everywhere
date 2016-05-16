@@ -1,0 +1,6 @@
+<ruleset name="Inet-profis.de">
+	<target host="inet-profis.de" />
+	<target host="www.inet-profis.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

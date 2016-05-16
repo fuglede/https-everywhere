@@ -1,0 +1,6 @@
+<ruleset name="Twelve.rocks">
+	<target host="twelve.rocks" />
+	<target host="www.twelve.rocks" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

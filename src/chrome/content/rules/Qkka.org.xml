@@ -1,0 +1,6 @@
+<ruleset name="Qkka.org">
+	<target host="qkka.org" />
+	<target host="www.qkka.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

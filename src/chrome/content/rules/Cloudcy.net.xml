@@ -1,0 +1,6 @@
+<ruleset name="Cloudcy.net">
+	<target host="cloudcy.net" />
+	<target host="www.cloudcy.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

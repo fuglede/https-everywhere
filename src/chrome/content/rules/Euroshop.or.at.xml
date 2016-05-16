@@ -1,0 +1,6 @@
+<ruleset name="Euroshop.or.at">
+	<target host="euroshop.or.at" />
+	<target host="www.euroshop.or.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

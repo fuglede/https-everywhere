@@ -1,0 +1,6 @@
+<ruleset name="Hydrozone.fr">
+	<target host="hydrozone.fr" />
+	<target host="www.hydrozone.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

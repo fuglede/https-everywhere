@@ -1,0 +1,6 @@
+<ruleset name="Redar.xyz">
+	<target host="redar.xyz" />
+	<target host="www.redar.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

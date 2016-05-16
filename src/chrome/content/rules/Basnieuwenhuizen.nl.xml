@@ -1,0 +1,6 @@
+<ruleset name="Basnieuwenhuizen.nl">
+	<target host="basnieuwenhuizen.nl" />
+	<target host="www.basnieuwenhuizen.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

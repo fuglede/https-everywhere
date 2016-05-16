@@ -1,0 +1,6 @@
+<ruleset name="Appreciationkards.com">
+	<target host="appreciationkards.com" />
+	<target host="www.appreciationkards.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

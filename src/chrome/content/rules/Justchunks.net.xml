@@ -1,0 +1,6 @@
+<ruleset name="Justchunks.net">
+	<target host="justchunks.net" />
+	<target host="www.justchunks.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

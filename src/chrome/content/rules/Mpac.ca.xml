@@ -1,0 +1,6 @@
+<ruleset name="Mpac.ca">
+	<target host="mpac.ca" />
+	<target host="www.mpac.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

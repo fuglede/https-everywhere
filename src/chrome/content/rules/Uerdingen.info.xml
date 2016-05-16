@@ -1,0 +1,6 @@
+<ruleset name="Uerdingen.info">
+	<target host="uerdingen.info" />
+	<target host="www.uerdingen.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Urolog.rybnik.pl">
+	<target host="urolog.rybnik.pl" />
+	<target host="www.urolog.rybnik.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

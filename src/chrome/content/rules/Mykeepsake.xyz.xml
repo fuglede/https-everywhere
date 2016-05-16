@@ -1,0 +1,6 @@
+<ruleset name="Mykeepsake.xyz">
+	<target host="mykeepsake.xyz" />
+	<target host="www.mykeepsake.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

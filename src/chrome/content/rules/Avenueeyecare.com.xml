@@ -1,0 +1,6 @@
+<ruleset name="Avenueeyecare.com">
+	<target host="avenueeyecare.com" />
+	<target host="www.avenueeyecare.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

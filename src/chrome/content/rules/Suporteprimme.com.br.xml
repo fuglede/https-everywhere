@@ -1,0 +1,6 @@
+<ruleset name="Suporteprimme.com.br">
+	<target host="suporteprimme.com.br" />
+	<target host="www.suporteprimme.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

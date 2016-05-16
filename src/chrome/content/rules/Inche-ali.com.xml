@@ -1,0 +1,6 @@
+<ruleset name="Inche-ali.com">
+	<target host="inche-ali.com" />
+	<target host="www.inche-ali.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

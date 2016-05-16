@@ -1,0 +1,6 @@
+<ruleset name="Data102.com">
+	<target host="data102.com" />
+	<target host="www.data102.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

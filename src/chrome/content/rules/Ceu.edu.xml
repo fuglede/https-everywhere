@@ -1,0 +1,6 @@
+<ruleset name="Ceu.edu">
+	<target host="ceu.edu" />
+	<target host="www.ceu.edu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

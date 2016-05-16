@@ -1,0 +1,6 @@
+<ruleset name="Squatldf.org">
+	<target host="squatldf.org" />
+	<target host="www.squatldf.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

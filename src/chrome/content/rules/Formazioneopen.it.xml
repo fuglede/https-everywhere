@@ -1,0 +1,6 @@
+<ruleset name="Formazioneopen.it">
+	<target host="formazioneopen.it" />
+	<target host="www.formazioneopen.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

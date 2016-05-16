@@ -1,0 +1,6 @@
+<ruleset name="Rubberfurs.org">
+	<target host="rubberfurs.org" />
+	<target host="www.rubberfurs.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

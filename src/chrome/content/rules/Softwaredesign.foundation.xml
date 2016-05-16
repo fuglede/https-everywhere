@@ -1,0 +1,6 @@
+<ruleset name="Softwaredesign.foundation">
+	<target host="softwaredesign.foundation" />
+	<target host="www.softwaredesign.foundation" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Fanvoice.com">
+	<target host="fanvoice.com" />
+	<target host="www.fanvoice.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

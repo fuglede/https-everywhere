@@ -1,0 +1,6 @@
+<ruleset name="Mytripcar.de">
+	<target host="mytripcar.de" />
+	<target host="www.mytripcar.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Nwwc.dk">
+	<target host="nwwc.dk" />
+	<target host="www.nwwc.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Viphospitality.se">
+	<target host="viphospitality.se" />
+	<target host="www.viphospitality.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

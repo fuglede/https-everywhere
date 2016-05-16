@@ -1,0 +1,6 @@
+<ruleset name="Magnolia-jewellery.com">
+	<target host="magnolia-jewellery.com" />
+	<target host="www.magnolia-jewellery.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

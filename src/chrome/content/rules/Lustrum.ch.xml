@@ -1,0 +1,6 @@
+<ruleset name="Lustrum.ch">
+	<target host="lustrum.ch" />
+	<target host="www.lustrum.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

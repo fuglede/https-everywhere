@@ -1,0 +1,6 @@
+<ruleset name="Slaco.net">
+	<target host="slaco.net" />
+	<target host="www.slaco.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

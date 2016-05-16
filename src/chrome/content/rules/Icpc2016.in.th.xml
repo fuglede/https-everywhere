@@ -1,0 +1,6 @@
+<ruleset name="Icpc2016.in.th">
+	<target host="icpc2016.in.th" />
+	<target host="www.icpc2016.in.th" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

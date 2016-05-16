@@ -1,0 +1,6 @@
+<ruleset name="Ascent2.space">
+	<target host="ascent2.space" />
+	<target host="www.ascent2.space" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

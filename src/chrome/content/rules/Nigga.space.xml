@@ -1,0 +1,6 @@
+<ruleset name="Nigga.space">
+	<target host="nigga.space" />
+	<target host="www.nigga.space" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

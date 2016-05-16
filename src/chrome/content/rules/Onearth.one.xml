@@ -1,0 +1,6 @@
+<ruleset name="Onearth.one">
+	<target host="onearth.one" />
+	<target host="www.onearth.one" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

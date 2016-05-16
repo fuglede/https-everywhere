@@ -1,0 +1,6 @@
+<ruleset name="Benno.frl">
+	<target host="benno.frl" />
+	<target host="www.benno.frl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

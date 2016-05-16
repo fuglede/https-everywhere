@@ -1,0 +1,6 @@
+<ruleset name="Centillien.com">
+	<target host="centillien.com" />
+	<target host="www.centillien.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

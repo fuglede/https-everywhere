@@ -1,0 +1,6 @@
+<ruleset name="Justlikethat.hosting">
+	<target host="justlikethat.hosting" />
+	<target host="www.justlikethat.hosting" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

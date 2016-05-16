@@ -1,0 +1,6 @@
+<ruleset name="Ukdropshipment.com">
+	<target host="ukdropshipment.com" />
+	<target host="www.ukdropshipment.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

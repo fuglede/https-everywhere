@@ -1,0 +1,6 @@
+<ruleset name="Kompetenzwerft.de">
+	<target host="kompetenzwerft.de" />
+	<target host="www.kompetenzwerft.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

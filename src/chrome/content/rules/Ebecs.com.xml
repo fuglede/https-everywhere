@@ -1,0 +1,6 @@
+<ruleset name="Ebecs.com">
+	<target host="ebecs.com" />
+	<target host="www.ebecs.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

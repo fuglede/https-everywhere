@@ -1,0 +1,6 @@
+<ruleset name="Gamecollector.be">
+	<target host="gamecollector.be" />
+	<target host="www.gamecollector.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

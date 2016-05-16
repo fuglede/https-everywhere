@@ -1,0 +1,6 @@
+<ruleset name="Sladic.si">
+	<target host="sladic.si" />
+	<target host="www.sladic.si" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

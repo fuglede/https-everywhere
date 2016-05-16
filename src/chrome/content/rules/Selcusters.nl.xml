@@ -1,0 +1,6 @@
+<ruleset name="Selcusters.nl">
+	<target host="selcusters.nl" />
+	<target host="www.selcusters.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

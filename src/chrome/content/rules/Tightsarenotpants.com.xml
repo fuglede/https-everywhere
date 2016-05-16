@@ -1,0 +1,6 @@
+<ruleset name="Tightsarenotpants.com">
+	<target host="tightsarenotpants.com" />
+	<target host="www.tightsarenotpants.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Alpha-force.net">
+	<target host="alpha-force.net" />
+	<target host="www.alpha-force.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

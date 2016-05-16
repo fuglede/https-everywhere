@@ -1,0 +1,6 @@
+<ruleset name="Smartmillionaire.com">
+	<target host="smartmillionaire.com" />
+	<target host="www.smartmillionaire.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

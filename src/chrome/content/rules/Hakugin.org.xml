@@ -1,0 +1,6 @@
+<ruleset name="Hakugin.org">
+	<target host="hakugin.org" />
+	<target host="www.hakugin.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

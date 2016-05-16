@@ -1,0 +1,6 @@
+<ruleset name="Auth.adult">
+	<target host="auth.adult" />
+	<target host="www.auth.adult" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

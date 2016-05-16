@@ -1,0 +1,6 @@
+<ruleset name="Xn--7rvz7ku3ppnr.jp">
+	<target host="xn--7rvz7ku3ppnr.jp" />
+	<target host="www.xn--7rvz7ku3ppnr.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

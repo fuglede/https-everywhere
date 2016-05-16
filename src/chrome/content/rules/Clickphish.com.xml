@@ -1,0 +1,6 @@
+<ruleset name="Clickphish.com">
+	<target host="clickphish.com" />
+	<target host="www.clickphish.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

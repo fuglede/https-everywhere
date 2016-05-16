@@ -1,0 +1,6 @@
+<ruleset name="Hiphop.ren">
+	<target host="hiphop.ren" />
+	<target host="www.hiphop.ren" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

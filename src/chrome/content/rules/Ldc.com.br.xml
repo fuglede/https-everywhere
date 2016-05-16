@@ -1,0 +1,6 @@
+<ruleset name="Ldc.com.br">
+	<target host="ldc.com.br" />
+	<target host="www.ldc.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

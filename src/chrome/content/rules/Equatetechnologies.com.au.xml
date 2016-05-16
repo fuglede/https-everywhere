@@ -1,0 +1,6 @@
+<ruleset name="Equatetechnologies.com.au">
+	<target host="equatetechnologies.com.au" />
+	<target host="www.equatetechnologies.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

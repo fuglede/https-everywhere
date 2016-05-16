@@ -1,0 +1,6 @@
+<ruleset name="Synatra.co">
+	<target host="synatra.co" />
+	<target host="www.synatra.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

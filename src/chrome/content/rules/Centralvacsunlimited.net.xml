@@ -1,0 +1,6 @@
+<ruleset name="Centralvacsunlimited.net">
+	<target host="centralvacsunlimited.net" />
+	<target host="www.centralvacsunlimited.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

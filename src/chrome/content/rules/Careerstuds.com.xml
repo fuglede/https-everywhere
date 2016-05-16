@@ -1,0 +1,6 @@
+<ruleset name="Careerstuds.com">
+	<target host="careerstuds.com" />
+	<target host="www.careerstuds.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

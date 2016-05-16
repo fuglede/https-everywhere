@@ -1,0 +1,6 @@
+<ruleset name="Mountainactivitysection.org.uk">
+	<target host="mountainactivitysection.org.uk" />
+	<target host="www.mountainactivitysection.org.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

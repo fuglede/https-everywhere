@@ -1,0 +1,6 @@
+<ruleset name="Merisier.ru">
+	<target host="merisier.ru" />
+	<target host="www.merisier.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

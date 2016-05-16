@@ -1,0 +1,6 @@
+<ruleset name="Webmail.info">
+	<target host="webmail.info" />
+	<target host="www.webmail.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

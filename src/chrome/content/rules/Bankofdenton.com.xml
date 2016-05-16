@@ -1,0 +1,6 @@
+<ruleset name="Bankofdenton.com">
+	<target host="bankofdenton.com" />
+	<target host="www.bankofdenton.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

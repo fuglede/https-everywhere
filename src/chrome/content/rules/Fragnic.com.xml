@@ -1,0 +1,6 @@
+<ruleset name="Fragnic.com">
+	<target host="fragnic.com" />
+	<target host="www.fragnic.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

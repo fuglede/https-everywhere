@@ -1,0 +1,6 @@
+<ruleset name="Privacyrup.net">
+	<target host="privacyrup.net" />
+	<target host="www.privacyrup.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

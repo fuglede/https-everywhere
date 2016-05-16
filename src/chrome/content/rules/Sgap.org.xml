@@ -1,0 +1,6 @@
+<ruleset name="Sgap.org">
+	<target host="sgap.org" />
+	<target host="www.sgap.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

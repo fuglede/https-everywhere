@@ -1,0 +1,6 @@
+<ruleset name="Chocolah.com.au">
+	<target host="chocolah.com.au" />
+	<target host="www.chocolah.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

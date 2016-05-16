@@ -1,0 +1,6 @@
+<ruleset name="Bermytraq.bm">
+	<target host="bermytraq.bm" />
+	<target host="www.bermytraq.bm" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

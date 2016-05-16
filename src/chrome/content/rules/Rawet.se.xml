@@ -1,0 +1,6 @@
+<ruleset name="Rawet.se">
+	<target host="rawet.se" />
+	<target host="www.rawet.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

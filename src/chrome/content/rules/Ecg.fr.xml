@@ -1,0 +1,6 @@
+<ruleset name="Ecg.fr">
+	<target host="ecg.fr" />
+	<target host="www.ecg.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

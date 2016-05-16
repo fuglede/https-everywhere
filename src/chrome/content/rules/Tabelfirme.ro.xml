@@ -1,0 +1,6 @@
+<ruleset name="Tabelfirme.ro">
+	<target host="tabelfirme.ro" />
+	<target host="www.tabelfirme.ro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

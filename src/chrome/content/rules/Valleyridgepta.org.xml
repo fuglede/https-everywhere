@@ -1,0 +1,6 @@
+<ruleset name="Valleyridgepta.org">
+	<target host="valleyridgepta.org" />
+	<target host="www.valleyridgepta.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

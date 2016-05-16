@@ -1,0 +1,6 @@
+<ruleset name="Akropolis-ravensburg.de">
+	<target host="akropolis-ravensburg.de" />
+	<target host="www.akropolis-ravensburg.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

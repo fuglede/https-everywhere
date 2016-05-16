@@ -1,0 +1,6 @@
+<ruleset name="Energiekeurplus.nl">
+	<target host="energiekeurplus.nl" />
+	<target host="www.energiekeurplus.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

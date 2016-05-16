@@ -1,0 +1,6 @@
+<ruleset name="Linuxbabe.com">
+	<target host="linuxbabe.com" />
+	<target host="www.linuxbabe.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

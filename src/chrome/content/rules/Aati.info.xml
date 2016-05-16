@@ -1,0 +1,6 @@
+<ruleset name="Aati.info">
+	<target host="aati.info" />
+	<target host="www.aati.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

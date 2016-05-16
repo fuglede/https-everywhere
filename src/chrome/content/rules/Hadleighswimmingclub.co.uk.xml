@@ -1,0 +1,6 @@
+<ruleset name="Hadleighswimmingclub.co.uk">
+	<target host="hadleighswimmingclub.co.uk" />
+	<target host="www.hadleighswimmingclub.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

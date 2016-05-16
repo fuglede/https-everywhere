@@ -1,0 +1,6 @@
+<ruleset name="Frack.frl">
+	<target host="frack.frl" />
+	<target host="www.frack.frl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

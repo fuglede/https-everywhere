@@ -1,0 +1,6 @@
+<ruleset name="Rottweil-hilft.de">
+	<target host="rottweil-hilft.de" />
+	<target host="www.rottweil-hilft.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

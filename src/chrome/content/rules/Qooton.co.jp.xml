@@ -1,0 +1,6 @@
+<ruleset name="Qooton.co.jp">
+	<target host="qooton.co.jp" />
+	<target host="www.qooton.co.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

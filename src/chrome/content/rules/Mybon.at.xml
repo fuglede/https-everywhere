@@ -1,0 +1,6 @@
+<ruleset name="Mybon.at">
+	<target host="mybon.at" />
+	<target host="www.mybon.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

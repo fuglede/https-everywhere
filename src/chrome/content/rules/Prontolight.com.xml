@@ -1,0 +1,6 @@
+<ruleset name="Prontolight.com">
+	<target host="prontolight.com" />
+	<target host="www.prontolight.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

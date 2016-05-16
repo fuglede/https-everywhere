@@ -1,0 +1,6 @@
+<ruleset name="Spdysync.com">
+	<target host="spdysync.com" />
+	<target host="www.spdysync.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Ungegamere.dk">
+	<target host="ungegamere.dk" />
+	<target host="www.ungegamere.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

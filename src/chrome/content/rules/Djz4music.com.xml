@@ -1,0 +1,6 @@
+<ruleset name="Djz4music.com">
+	<target host="djz4music.com" />
+	<target host="www.djz4music.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

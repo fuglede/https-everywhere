@@ -1,0 +1,6 @@
+<ruleset name="Cfcproperties.com">
+	<target host="cfcproperties.com" />
+	<target host="www.cfcproperties.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

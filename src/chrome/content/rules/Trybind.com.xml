@@ -1,0 +1,6 @@
+<ruleset name="Trybind.com">
+	<target host="trybind.com" />
+	<target host="www.trybind.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

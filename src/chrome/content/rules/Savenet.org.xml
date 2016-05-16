@@ -1,0 +1,6 @@
+<ruleset name="Savenet.org">
+	<target host="savenet.org" />
+	<target host="www.savenet.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

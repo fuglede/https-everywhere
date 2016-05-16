@@ -1,0 +1,6 @@
+<ruleset name="0xa.in">
+	<target host="0xa.in" />
+	<target host="www.0xa.in" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

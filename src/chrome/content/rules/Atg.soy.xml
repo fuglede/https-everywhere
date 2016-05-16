@@ -1,0 +1,6 @@
+<ruleset name="Atg.soy">
+	<target host="atg.soy" />
+	<target host="www.atg.soy" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

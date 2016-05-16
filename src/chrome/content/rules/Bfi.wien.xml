@@ -1,0 +1,6 @@
+<ruleset name="Bfi.wien">
+	<target host="bfi.wien" />
+	<target host="www.bfi.wien" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Kabus.org">
+	<target host="kabus.org" />
+	<target host="www.kabus.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

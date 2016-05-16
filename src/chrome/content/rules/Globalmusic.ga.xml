@@ -1,0 +1,6 @@
+<ruleset name="Globalmusic.ga">
+	<target host="globalmusic.ga" />
+	<target host="www.globalmusic.ga" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

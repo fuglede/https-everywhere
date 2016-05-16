@@ -1,0 +1,6 @@
+<ruleset name="Gcsepod.com">
+	<target host="gcsepod.com" />
+	<target host="www.gcsepod.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

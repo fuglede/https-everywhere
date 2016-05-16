@@ -1,0 +1,6 @@
+<ruleset name="Uhc.gg">
+	<target host="uhc.gg" />
+	<target host="www.uhc.gg" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

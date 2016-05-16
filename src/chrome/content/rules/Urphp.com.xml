@@ -1,0 +1,6 @@
+<ruleset name="Urphp.com">
+	<target host="urphp.com" />
+	<target host="www.urphp.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

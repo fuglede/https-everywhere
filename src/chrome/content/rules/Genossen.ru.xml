@@ -1,0 +1,6 @@
+<ruleset name="Genossen.ru">
+	<target host="genossen.ru" />
+	<target host="www.genossen.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

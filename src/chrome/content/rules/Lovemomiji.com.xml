@@ -1,0 +1,6 @@
+<ruleset name="Lovemomiji.com">
+	<target host="lovemomiji.com" />
+	<target host="www.lovemomiji.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

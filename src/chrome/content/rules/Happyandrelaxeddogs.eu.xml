@@ -1,0 +1,6 @@
+<ruleset name="Happyandrelaxeddogs.eu">
+	<target host="happyandrelaxeddogs.eu" />
+	<target host="www.happyandrelaxeddogs.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

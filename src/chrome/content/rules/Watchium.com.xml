@@ -1,0 +1,6 @@
+<ruleset name="Watchium.com">
+	<target host="watchium.com" />
+	<target host="www.watchium.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

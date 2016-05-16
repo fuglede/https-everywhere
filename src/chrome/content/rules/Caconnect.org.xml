@@ -1,0 +1,6 @@
+<ruleset name="Caconnect.org">
+	<target host="caconnect.org" />
+	<target host="www.caconnect.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

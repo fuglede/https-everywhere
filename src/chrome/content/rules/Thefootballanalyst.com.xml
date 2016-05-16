@@ -1,0 +1,6 @@
+<ruleset name="Thefootballanalyst.com">
+	<target host="thefootballanalyst.com" />
+	<target host="www.thefootballanalyst.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

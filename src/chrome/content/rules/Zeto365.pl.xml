@@ -1,0 +1,6 @@
+<ruleset name="Zeto365.pl">
+	<target host="zeto365.pl" />
+	<target host="www.zeto365.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

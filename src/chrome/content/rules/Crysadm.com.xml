@@ -1,0 +1,6 @@
+<ruleset name="Crysadm.com">
+	<target host="crysadm.com" />
+	<target host="www.crysadm.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

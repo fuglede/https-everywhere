@@ -1,0 +1,6 @@
+<ruleset name="Scanpay.dk">
+	<target host="scanpay.dk" />
+	<target host="www.scanpay.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

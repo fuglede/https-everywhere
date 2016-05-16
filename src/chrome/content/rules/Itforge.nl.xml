@@ -1,0 +1,6 @@
+<ruleset name="Itforge.nl">
+	<target host="itforge.nl" />
+	<target host="www.itforge.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

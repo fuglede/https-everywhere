@@ -1,0 +1,6 @@
+<ruleset name="Buch-cuber.de">
+	<target host="buch-cuber.de" />
+	<target host="www.buch-cuber.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Emailtosms.com">
+	<target host="emailtosms.com" />
+	<target host="www.emailtosms.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

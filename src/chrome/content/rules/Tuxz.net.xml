@@ -1,0 +1,6 @@
+<ruleset name="Tuxz.net">
+	<target host="tuxz.net" />
+	<target host="www.tuxz.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

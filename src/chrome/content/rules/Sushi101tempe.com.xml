@@ -1,0 +1,6 @@
+<ruleset name="Sushi101tempe.com">
+	<target host="sushi101tempe.com" />
+	<target host="www.sushi101tempe.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

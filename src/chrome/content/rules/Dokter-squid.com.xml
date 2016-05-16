@@ -1,0 +1,6 @@
+<ruleset name="Dokter-squid.com">
+	<target host="dokter-squid.com" />
+	<target host="www.dokter-squid.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

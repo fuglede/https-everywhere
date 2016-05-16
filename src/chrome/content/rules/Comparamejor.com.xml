@@ -1,0 +1,6 @@
+<ruleset name="Comparamejor.com">
+	<target host="comparamejor.com" />
+	<target host="www.comparamejor.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

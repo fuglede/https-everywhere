@@ -1,0 +1,6 @@
+<ruleset name="Feard.space">
+	<target host="feard.space" />
+	<target host="www.feard.space" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

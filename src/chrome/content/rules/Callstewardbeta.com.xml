@@ -1,0 +1,6 @@
+<ruleset name="Callstewardbeta.com">
+	<target host="callstewardbeta.com" />
+	<target host="www.callstewardbeta.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Madriax.fr">
+	<target host="madriax.fr" />
+	<target host="www.madriax.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

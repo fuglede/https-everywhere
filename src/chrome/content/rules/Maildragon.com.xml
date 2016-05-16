@@ -1,0 +1,6 @@
+<ruleset name="Maildragon.com">
+	<target host="maildragon.com" />
+	<target host="www.maildragon.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

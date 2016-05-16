@@ -1,0 +1,6 @@
+<ruleset name="All4os.com">
+	<target host="all4os.com" />
+	<target host="www.all4os.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

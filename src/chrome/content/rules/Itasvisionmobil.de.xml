@@ -1,0 +1,6 @@
+<ruleset name="Itasvisionmobil.de">
+	<target host="itasvisionmobil.de" />
+	<target host="www.itasvisionmobil.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

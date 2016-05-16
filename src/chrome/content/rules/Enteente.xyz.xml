@@ -1,0 +1,6 @@
+<ruleset name="Enteente.xyz">
+	<target host="enteente.xyz" />
+	<target host="www.enteente.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

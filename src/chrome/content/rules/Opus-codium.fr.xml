@@ -1,0 +1,6 @@
+<ruleset name="Opus-codium.fr">
+	<target host="opus-codium.fr" />
+	<target host="www.opus-codium.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

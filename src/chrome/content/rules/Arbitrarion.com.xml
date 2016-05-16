@@ -1,0 +1,6 @@
+<ruleset name="Arbitrarion.com">
+	<target host="arbitrarion.com" />
+	<target host="www.arbitrarion.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

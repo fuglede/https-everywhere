@@ -1,0 +1,6 @@
+<ruleset name="Transresult.de">
+	<target host="transresult.de" />
+	<target host="www.transresult.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

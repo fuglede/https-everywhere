@@ -1,0 +1,6 @@
+<ruleset name="Realgarant-shop.de">
+	<target host="realgarant-shop.de" />
+	<target host="www.realgarant-shop.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

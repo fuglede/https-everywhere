@@ -1,0 +1,6 @@
+<ruleset name="Replicagunsswords.com">
+	<target host="replicagunsswords.com" />
+	<target host="www.replicagunsswords.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Linkages.org">
+	<target host="linkages.org" />
+	<target host="www.linkages.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Tendertool.nl">
+	<target host="tendertool.nl" />
+	<target host="www.tendertool.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

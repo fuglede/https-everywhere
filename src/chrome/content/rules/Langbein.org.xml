@@ -1,0 +1,6 @@
+<ruleset name="Langbein.org">
+	<target host="langbein.org" />
+	<target host="www.langbein.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

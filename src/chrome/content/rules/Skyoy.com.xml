@@ -1,0 +1,6 @@
+<ruleset name="Skyoy.com">
+	<target host="skyoy.com" />
+	<target host="www.skyoy.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

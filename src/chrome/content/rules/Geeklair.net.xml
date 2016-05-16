@@ -1,0 +1,6 @@
+<ruleset name="Geeklair.net">
+	<target host="geeklair.net" />
+	<target host="www.geeklair.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

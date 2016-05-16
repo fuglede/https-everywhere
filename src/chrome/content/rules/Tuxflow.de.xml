@@ -1,0 +1,6 @@
+<ruleset name="Tuxflow.de">
+	<target host="tuxflow.de" />
+	<target host="www.tuxflow.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

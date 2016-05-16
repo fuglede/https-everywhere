@@ -1,0 +1,6 @@
+<ruleset name="Hemdal.se">
+	<target host="hemdal.se" />
+	<target host="www.hemdal.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

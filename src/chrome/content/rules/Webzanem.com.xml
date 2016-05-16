@@ -1,0 +1,6 @@
+<ruleset name="Webzanem.com">
+	<target host="webzanem.com" />
+	<target host="www.webzanem.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Outdoorproducts.com">
+	<target host="outdoorproducts.com" />
+	<target host="www.outdoorproducts.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

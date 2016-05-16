@@ -1,0 +1,6 @@
+<ruleset name="Jamon.ca">
+	<target host="jamon.ca" />
+	<target host="www.jamon.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

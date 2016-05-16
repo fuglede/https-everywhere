@@ -1,0 +1,6 @@
+<ruleset name="Harmoney.co.nz">
+	<target host="harmoney.co.nz" />
+	<target host="www.harmoney.co.nz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

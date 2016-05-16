@@ -1,0 +1,6 @@
+<ruleset name="Neris.io">
+	<target host="neris.io" />
+	<target host="www.neris.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

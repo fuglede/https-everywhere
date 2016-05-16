@@ -1,0 +1,6 @@
+<ruleset name="Fletchto99.com">
+	<target host="fletchto99.com" />
+	<target host="www.fletchto99.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

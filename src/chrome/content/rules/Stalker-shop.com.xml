@@ -1,0 +1,6 @@
+<ruleset name="Stalker-shop.com">
+	<target host="stalker-shop.com" />
+	<target host="www.stalker-shop.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

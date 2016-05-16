@@ -1,0 +1,6 @@
+<ruleset name="Mnxsolutions.com">
+	<target host="mnxsolutions.com" />
+	<target host="www.mnxsolutions.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

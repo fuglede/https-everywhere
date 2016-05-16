@@ -1,0 +1,6 @@
+<ruleset name="Openverse.com">
+	<target host="openverse.com" />
+	<target host="www.openverse.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

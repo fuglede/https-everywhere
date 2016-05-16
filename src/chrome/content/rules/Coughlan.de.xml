@@ -1,0 +1,6 @@
+<ruleset name="Coughlan.de">
+	<target host="coughlan.de" />
+	<target host="www.coughlan.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

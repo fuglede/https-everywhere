@@ -1,0 +1,6 @@
+<ruleset name="Shep.co.il">
+	<target host="shep.co.il" />
+	<target host="www.shep.co.il" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

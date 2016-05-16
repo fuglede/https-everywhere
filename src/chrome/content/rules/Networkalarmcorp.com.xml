@@ -1,0 +1,6 @@
+<ruleset name="Networkalarmcorp.com">
+	<target host="networkalarmcorp.com" />
+	<target host="www.networkalarmcorp.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

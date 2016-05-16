@@ -1,0 +1,6 @@
+<ruleset name="Magazinedabeleza.net">
+	<target host="magazinedabeleza.net" />
+	<target host="www.magazinedabeleza.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Prosoft.sk">
+	<target host="prosoft.sk" />
+	<target host="www.prosoft.sk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

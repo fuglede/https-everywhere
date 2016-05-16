@@ -1,0 +1,6 @@
+<ruleset name="Smart-shop.nu">
+	<target host="smart-shop.nu" />
+	<target host="www.smart-shop.nu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

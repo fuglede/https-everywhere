@@ -1,0 +1,6 @@
+<ruleset name="Foodievenues.com">
+	<target host="foodievenues.com" />
+	<target host="www.foodievenues.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Internl.net">
+	<target host="internl.net" />
+	<target host="www.internl.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

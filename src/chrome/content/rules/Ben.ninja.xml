@@ -1,0 +1,6 @@
+<ruleset name="Ben.ninja">
+	<target host="ben.ninja" />
+	<target host="www.ben.ninja" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

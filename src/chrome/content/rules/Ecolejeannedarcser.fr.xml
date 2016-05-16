@@ -1,0 +1,6 @@
+<ruleset name="Ecolejeannedarcser.fr">
+	<target host="ecolejeannedarcser.fr" />
+	<target host="www.ecolejeannedarcser.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

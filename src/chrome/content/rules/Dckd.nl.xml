@@ -1,0 +1,6 @@
+<ruleset name="Dckd.nl">
+	<target host="dckd.nl" />
+	<target host="www.dckd.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Szongott.net">
+	<target host="szongott.net" />
+	<target host="www.szongott.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Paranoxer.hu">
+	<target host="paranoxer.hu" />
+	<target host="www.paranoxer.hu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Betcafearena.ro">
+	<target host="betcafearena.ro" />
+	<target host="www.betcafearena.ro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

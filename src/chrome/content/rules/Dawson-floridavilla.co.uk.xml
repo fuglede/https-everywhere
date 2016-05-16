@@ -1,0 +1,6 @@
+<ruleset name="Dawson-floridavilla.co.uk">
+	<target host="dawson-floridavilla.co.uk" />
+	<target host="www.dawson-floridavilla.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

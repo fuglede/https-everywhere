@@ -1,0 +1,6 @@
+<ruleset name="Dynamize.solutions">
+	<target host="dynamize.solutions" />
+	<target host="www.dynamize.solutions" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

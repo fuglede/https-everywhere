@@ -1,0 +1,6 @@
+<ruleset name="Slovakiana.sk">
+	<target host="slovakiana.sk" />
+	<target host="www.slovakiana.sk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

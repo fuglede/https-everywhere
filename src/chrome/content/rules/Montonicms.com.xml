@@ -1,0 +1,6 @@
+<ruleset name="Montonicms.com">
+	<target host="montonicms.com" />
+	<target host="www.montonicms.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

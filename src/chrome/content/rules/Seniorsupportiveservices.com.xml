@@ -1,0 +1,6 @@
+<ruleset name="Seniorsupportiveservices.com">
+	<target host="seniorsupportiveservices.com" />
+	<target host="www.seniorsupportiveservices.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Securityprimes.in">
+	<target host="securityprimes.in" />
+	<target host="www.securityprimes.in" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

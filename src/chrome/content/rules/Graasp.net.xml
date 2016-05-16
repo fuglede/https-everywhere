@@ -1,0 +1,6 @@
+<ruleset name="Graasp.net">
+	<target host="graasp.net" />
+	<target host="www.graasp.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

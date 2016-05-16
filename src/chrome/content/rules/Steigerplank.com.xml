@@ -1,0 +1,6 @@
+<ruleset name="Steigerplank.com">
+	<target host="steigerplank.com" />
+	<target host="www.steigerplank.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

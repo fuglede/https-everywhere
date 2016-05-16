@@ -1,0 +1,6 @@
+<ruleset name="Terrax.berlin">
+	<target host="terrax.berlin" />
+	<target host="www.terrax.berlin" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Reactivarte.es">
+	<target host="reactivarte.es" />
+	<target host="www.reactivarte.es" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

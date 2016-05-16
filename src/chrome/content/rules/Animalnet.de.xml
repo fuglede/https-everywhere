@@ -1,0 +1,6 @@
+<ruleset name="Animalnet.de">
+	<target host="animalnet.de" />
+	<target host="www.animalnet.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

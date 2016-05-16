@@ -1,0 +1,6 @@
+<ruleset name="Xtream-hosting.eu">
+	<target host="xtream-hosting.eu" />
+	<target host="www.xtream-hosting.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

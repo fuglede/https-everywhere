@@ -1,0 +1,6 @@
+<ruleset name="Freetsa.org">
+	<target host="freetsa.org" />
+	<target host="www.freetsa.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

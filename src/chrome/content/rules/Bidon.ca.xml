@@ -1,0 +1,6 @@
+<ruleset name="Bidon.ca">
+	<target host="bidon.ca" />
+	<target host="www.bidon.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

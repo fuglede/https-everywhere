@@ -1,0 +1,6 @@
+<ruleset name="Vingojw.cc">
+	<target host="vingojw.cc" />
+	<target host="www.vingojw.cc" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

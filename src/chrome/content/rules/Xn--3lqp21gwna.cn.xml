@@ -1,0 +1,6 @@
+<ruleset name="Xn--3lqp21gwna.cn">
+	<target host="xn--3lqp21gwna.cn" />
+	<target host="www.xn--3lqp21gwna.cn" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

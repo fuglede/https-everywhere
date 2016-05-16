@@ -1,0 +1,6 @@
+<ruleset name="Sedziapilkarski.pl">
+	<target host="sedziapilkarski.pl" />
+	<target host="www.sedziapilkarski.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

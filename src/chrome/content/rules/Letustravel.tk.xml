@@ -1,0 +1,6 @@
+<ruleset name="Letustravel.tk">
+	<target host="letustravel.tk" />
+	<target host="www.letustravel.tk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

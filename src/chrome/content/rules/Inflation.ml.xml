@@ -1,0 +1,6 @@
+<ruleset name="Inflation.ml">
+	<target host="inflation.ml" />
+	<target host="www.inflation.ml" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

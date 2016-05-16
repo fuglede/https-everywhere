@@ -1,0 +1,6 @@
+<ruleset name="Privaterelay.com">
+	<target host="privaterelay.com" />
+	<target host="www.privaterelay.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

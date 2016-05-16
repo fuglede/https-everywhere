@@ -1,0 +1,6 @@
+<ruleset name="Kakao-karten.de">
+	<target host="kakao-karten.de" />
+	<target host="www.kakao-karten.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Freebus.org">
+	<target host="freebus.org" />
+	<target host="www.freebus.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

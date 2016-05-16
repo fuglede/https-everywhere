@@ -1,0 +1,6 @@
+<ruleset name="Hostingactive.it">
+	<target host="hostingactive.it" />
+	<target host="www.hostingactive.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

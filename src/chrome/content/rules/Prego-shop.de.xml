@@ -1,0 +1,6 @@
+<ruleset name="Prego-shop.de">
+	<target host="prego-shop.de" />
+	<target host="www.prego-shop.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

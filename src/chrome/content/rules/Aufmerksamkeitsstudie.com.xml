@@ -1,0 +1,6 @@
+<ruleset name="Aufmerksamkeitsstudie.com">
+	<target host="aufmerksamkeitsstudie.com" />
+	<target host="www.aufmerksamkeitsstudie.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Linz-stromnetz.at">
+	<target host="linz-stromnetz.at" />
+	<target host="www.linz-stromnetz.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

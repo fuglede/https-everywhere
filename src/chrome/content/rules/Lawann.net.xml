@@ -1,0 +1,6 @@
+<ruleset name="Lawann.net">
+	<target host="lawann.net" />
+	<target host="www.lawann.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

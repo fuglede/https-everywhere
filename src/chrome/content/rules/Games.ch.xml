@@ -1,0 +1,6 @@
+<ruleset name="Games.ch">
+	<target host="games.ch" />
+	<target host="www.games.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

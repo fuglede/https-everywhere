@@ -1,0 +1,6 @@
+<ruleset name="Duernberg.at">
+	<target host="duernberg.at" />
+	<target host="www.duernberg.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

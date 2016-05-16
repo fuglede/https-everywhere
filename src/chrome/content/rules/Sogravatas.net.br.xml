@@ -1,0 +1,6 @@
+<ruleset name="Sogravatas.net.br">
+	<target host="sogravatas.net.br" />
+	<target host="www.sogravatas.net.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Agroglass.com.br">
+	<target host="agroglass.com.br" />
+	<target host="www.agroglass.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

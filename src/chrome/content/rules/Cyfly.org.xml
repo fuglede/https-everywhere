@@ -1,0 +1,6 @@
+<ruleset name="Cyfly.org">
+	<target host="cyfly.org" />
+	<target host="www.cyfly.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Groseb.net">
+	<target host="groseb.net" />
+	<target host="www.groseb.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

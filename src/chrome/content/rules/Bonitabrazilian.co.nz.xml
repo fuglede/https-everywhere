@@ -1,0 +1,6 @@
+<ruleset name="Bonitabrazilian.co.nz">
+	<target host="bonitabrazilian.co.nz" />
+	<target host="www.bonitabrazilian.co.nz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

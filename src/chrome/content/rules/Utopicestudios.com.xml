@@ -1,0 +1,6 @@
+<ruleset name="Utopicestudios.com">
+	<target host="utopicestudios.com" />
+	<target host="www.utopicestudios.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

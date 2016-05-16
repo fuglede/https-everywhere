@@ -1,0 +1,6 @@
+<ruleset name="Pbscreens.com">
+	<target host="pbscreens.com" />
+	<target host="www.pbscreens.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

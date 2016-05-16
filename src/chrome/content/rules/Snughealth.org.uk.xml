@@ -1,0 +1,6 @@
+<ruleset name="Snughealth.org.uk">
+	<target host="snughealth.org.uk" />
+	<target host="www.snughealth.org.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Lottosonline.com">
+	<target host="lottosonline.com" />
+	<target host="www.lottosonline.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

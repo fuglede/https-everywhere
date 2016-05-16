@@ -1,0 +1,6 @@
+<ruleset name="Ssom.de">
+	<target host="ssom.de" />
+	<target host="www.ssom.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

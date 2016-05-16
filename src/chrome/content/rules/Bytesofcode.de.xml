@@ -1,0 +1,6 @@
+<ruleset name="Bytesofcode.de">
+	<target host="bytesofcode.de" />
+	<target host="www.bytesofcode.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

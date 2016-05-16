@@ -1,0 +1,6 @@
+<ruleset name="Ssworld.ga">
+	<target host="ssworld.ga" />
+	<target host="www.ssworld.ga" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

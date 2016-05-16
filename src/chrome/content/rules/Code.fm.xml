@@ -1,0 +1,6 @@
+<ruleset name="Code.fm">
+	<target host="code.fm" />
+	<target host="www.code.fm" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

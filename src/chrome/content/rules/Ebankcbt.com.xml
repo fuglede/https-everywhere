@@ -1,0 +1,6 @@
+<ruleset name="Ebankcbt.com">
+	<target host="ebankcbt.com" />
+	<target host="www.ebankcbt.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

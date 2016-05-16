@@ -1,0 +1,6 @@
+<ruleset name="Openconnect.com.au">
+	<target host="openconnect.com.au" />
+	<target host="www.openconnect.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Gosccs.com">
+	<target host="gosccs.com" />
+	<target host="www.gosccs.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

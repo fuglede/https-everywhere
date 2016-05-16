@@ -1,0 +1,6 @@
+<ruleset name="Carterfam.us">
+	<target host="carterfam.us" />
+	<target host="www.carterfam.us" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

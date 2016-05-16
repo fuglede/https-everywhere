@@ -1,0 +1,6 @@
+<ruleset name="Kenners.org">
+	<target host="kenners.org" />
+	<target host="www.kenners.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

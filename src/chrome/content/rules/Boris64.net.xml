@@ -1,0 +1,6 @@
+<ruleset name="Boris64.net">
+	<target host="boris64.net" />
+	<target host="www.boris64.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

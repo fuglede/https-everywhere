@@ -1,0 +1,6 @@
+<ruleset name="Ars.toscana.it">
+	<target host="ars.toscana.it" />
+	<target host="www.ars.toscana.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

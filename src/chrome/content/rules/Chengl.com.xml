@@ -1,0 +1,6 @@
+<ruleset name="Chengl.com">
+	<target host="chengl.com" />
+	<target host="www.chengl.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

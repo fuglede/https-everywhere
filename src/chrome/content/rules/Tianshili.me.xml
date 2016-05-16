@@ -1,0 +1,6 @@
+<ruleset name="Tianshili.me">
+	<target host="tianshili.me" />
+	<target host="www.tianshili.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

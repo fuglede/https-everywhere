@@ -1,0 +1,6 @@
+<ruleset name="Coursdeprogrammation.com">
+	<target host="coursdeprogrammation.com" />
+	<target host="www.coursdeprogrammation.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

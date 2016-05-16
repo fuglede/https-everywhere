@@ -1,0 +1,6 @@
+<ruleset name="Masterypoints.com">
+	<target host="masterypoints.com" />
+	<target host="www.masterypoints.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Directreal.sk">
+	<target host="directreal.sk" />
+	<target host="www.directreal.sk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

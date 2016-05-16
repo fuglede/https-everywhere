@@ -1,0 +1,6 @@
+<ruleset name="E-supplier.mg">
+	<target host="e-supplier.mg" />
+	<target host="www.e-supplier.mg" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

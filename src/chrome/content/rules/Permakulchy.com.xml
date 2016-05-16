@@ -1,0 +1,6 @@
+<ruleset name="Permakulchy.com">
+	<target host="permakulchy.com" />
+	<target host="www.permakulchy.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

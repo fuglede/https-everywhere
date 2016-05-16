@@ -1,0 +1,6 @@
+<ruleset name="Idahoansforliberty.net">
+	<target host="idahoansforliberty.net" />
+	<target host="www.idahoansforliberty.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

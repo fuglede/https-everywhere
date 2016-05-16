@@ -1,0 +1,6 @@
+<ruleset name="Itsatrap.nl">
+	<target host="itsatrap.nl" />
+	<target host="www.itsatrap.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

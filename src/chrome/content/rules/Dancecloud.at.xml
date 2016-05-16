@@ -1,0 +1,6 @@
+<ruleset name="Dancecloud.at">
+	<target host="dancecloud.at" />
+	<target host="www.dancecloud.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

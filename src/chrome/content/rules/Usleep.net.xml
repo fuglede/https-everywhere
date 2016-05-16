@@ -1,0 +1,6 @@
+<ruleset name="Usleep.net">
+	<target host="usleep.net" />
+	<target host="www.usleep.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

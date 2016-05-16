@@ -1,0 +1,6 @@
+<ruleset name="Mephistats.fr">
+	<target host="mephistats.fr" />
+	<target host="www.mephistats.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

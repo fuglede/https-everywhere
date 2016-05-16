@@ -1,0 +1,6 @@
+<ruleset name="Amazing-gaming.fr">
+	<target host="amazing-gaming.fr" />
+	<target host="www.amazing-gaming.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

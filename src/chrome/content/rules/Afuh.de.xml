@@ -1,0 +1,6 @@
+<ruleset name="Afuh.de">
+	<target host="afuh.de" />
+	<target host="www.afuh.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

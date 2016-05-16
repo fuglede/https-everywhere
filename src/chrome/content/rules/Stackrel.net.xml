@@ -1,0 +1,6 @@
+<ruleset name="Stackrel.net">
+	<target host="stackrel.net" />
+	<target host="www.stackrel.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

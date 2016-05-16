@@ -1,0 +1,6 @@
+<ruleset name="Brandred.net">
+	<target host="brandred.net" />
+	<target host="www.brandred.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

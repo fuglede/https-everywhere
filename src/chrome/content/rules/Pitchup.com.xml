@@ -1,0 +1,6 @@
+<ruleset name="Pitchup.com">
+	<target host="pitchup.com" />
+	<target host="www.pitchup.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

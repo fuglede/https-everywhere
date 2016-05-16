@@ -1,0 +1,6 @@
+<ruleset name="Thingsthatdontcome.com">
+	<target host="thingsthatdontcome.com" />
+	<target host="www.thingsthatdontcome.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

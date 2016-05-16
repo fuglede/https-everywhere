@@ -1,0 +1,6 @@
+<ruleset name="Illjinx.info">
+	<target host="illjinx.info" />
+	<target host="www.illjinx.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

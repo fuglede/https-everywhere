@@ -1,0 +1,6 @@
+<ruleset name="Edelblack.ch">
+	<target host="edelblack.ch" />
+	<target host="www.edelblack.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

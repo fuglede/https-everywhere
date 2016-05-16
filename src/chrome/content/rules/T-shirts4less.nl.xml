@@ -1,0 +1,6 @@
+<ruleset name="T-shirts4less.nl">
+	<target host="t-shirts4less.nl" />
+	<target host="www.t-shirts4less.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

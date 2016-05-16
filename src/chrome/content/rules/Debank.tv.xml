@@ -1,0 +1,6 @@
+<ruleset name="Debank.tv">
+	<target host="debank.tv" />
+	<target host="www.debank.tv" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

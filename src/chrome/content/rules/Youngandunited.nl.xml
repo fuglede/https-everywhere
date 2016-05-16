@@ -1,0 +1,6 @@
+<ruleset name="Youngandunited.nl">
+	<target host="youngandunited.nl" />
+	<target host="www.youngandunited.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

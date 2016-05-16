@@ -1,0 +1,6 @@
+<ruleset name="Captivatedbytabrett.com">
+	<target host="captivatedbytabrett.com" />
+	<target host="www.captivatedbytabrett.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

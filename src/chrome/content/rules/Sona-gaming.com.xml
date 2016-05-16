@@ -1,0 +1,6 @@
+<ruleset name="Sona-gaming.com">
+	<target host="sona-gaming.com" />
+	<target host="www.sona-gaming.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

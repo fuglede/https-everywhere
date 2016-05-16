@@ -1,0 +1,6 @@
+<ruleset name="Monix.io">
+	<target host="monix.io" />
+	<target host="www.monix.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

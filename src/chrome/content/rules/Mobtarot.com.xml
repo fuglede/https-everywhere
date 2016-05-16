@@ -1,0 +1,6 @@
+<ruleset name="Mobtarot.com">
+	<target host="mobtarot.com" />
+	<target host="www.mobtarot.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

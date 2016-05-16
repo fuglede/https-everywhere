@@ -1,0 +1,6 @@
+<ruleset name="Open-future.be">
+	<target host="open-future.be" />
+	<target host="www.open-future.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

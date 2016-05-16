@@ -1,0 +1,6 @@
+<ruleset name="Mentiq.az">
+	<target host="mentiq.az" />
+	<target host="www.mentiq.az" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

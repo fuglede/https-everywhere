@@ -1,0 +1,6 @@
+<ruleset name="Carthage.edu">
+	<target host="carthage.edu" />
+	<target host="www.carthage.edu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

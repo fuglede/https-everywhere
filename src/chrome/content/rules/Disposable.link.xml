@@ -1,0 +1,6 @@
+<ruleset name="Disposable.link">
+	<target host="disposable.link" />
+	<target host="www.disposable.link" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

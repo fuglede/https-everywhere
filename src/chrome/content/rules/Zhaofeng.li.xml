@@ -1,0 +1,6 @@
+<ruleset name="Zhaofeng.li">
+	<target host="zhaofeng.li" />
+	<target host="www.zhaofeng.li" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Bezorg.ninja">
+	<target host="bezorg.ninja" />
+	<target host="www.bezorg.ninja" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

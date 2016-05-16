@@ -1,0 +1,6 @@
+<ruleset name="Lucidframeworks.com">
+	<target host="lucidframeworks.com" />
+	<target host="www.lucidframeworks.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

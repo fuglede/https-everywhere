@@ -1,0 +1,6 @@
+<ruleset name="Captchatheprize.com">
+	<target host="captchatheprize.com" />
+	<target host="www.captchatheprize.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

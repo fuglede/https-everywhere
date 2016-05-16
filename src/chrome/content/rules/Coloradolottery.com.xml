@@ -1,0 +1,6 @@
+<ruleset name="Coloradolottery.com">
+	<target host="coloradolottery.com" />
+	<target host="www.coloradolottery.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

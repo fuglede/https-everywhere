@@ -1,0 +1,6 @@
+<ruleset name="Dolphinswithlasers.com">
+	<target host="dolphinswithlasers.com" />
+	<target host="www.dolphinswithlasers.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

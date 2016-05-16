@@ -1,0 +1,6 @@
+<ruleset name="Stoianlawfirm.com">
+	<target host="stoianlawfirm.com" />
+	<target host="www.stoianlawfirm.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

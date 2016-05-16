@@ -1,0 +1,6 @@
+<ruleset name="Wowapi.org">
+	<target host="wowapi.org" />
+	<target host="www.wowapi.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

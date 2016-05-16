@@ -1,0 +1,6 @@
+<ruleset name="Idgsupply.com">
+	<target host="idgsupply.com" />
+	<target host="www.idgsupply.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

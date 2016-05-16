@@ -1,0 +1,6 @@
+<ruleset name="Eagleridgecampground.com">
+	<target host="eagleridgecampground.com" />
+	<target host="www.eagleridgecampground.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

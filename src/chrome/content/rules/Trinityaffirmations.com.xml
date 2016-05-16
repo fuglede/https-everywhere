@@ -1,0 +1,6 @@
+<ruleset name="Trinityaffirmations.com">
+	<target host="trinityaffirmations.com" />
+	<target host="www.trinityaffirmations.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

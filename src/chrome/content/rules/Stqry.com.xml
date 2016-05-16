@@ -1,0 +1,6 @@
+<ruleset name="Stqry.com">
+	<target host="stqry.com" />
+	<target host="www.stqry.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

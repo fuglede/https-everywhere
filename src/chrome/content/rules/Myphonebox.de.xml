@@ -1,0 +1,6 @@
+<ruleset name="Myphonebox.de">
+	<target host="myphonebox.de" />
+	<target host="www.myphonebox.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

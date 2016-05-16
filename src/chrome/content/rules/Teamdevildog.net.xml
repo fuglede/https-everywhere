@@ -1,0 +1,6 @@
+<ruleset name="Teamdevildog.net">
+	<target host="teamdevildog.net" />
+	<target host="www.teamdevildog.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

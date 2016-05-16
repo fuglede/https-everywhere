@@ -1,0 +1,6 @@
+<ruleset name="Immunicity.eu">
+	<target host="immunicity.eu" />
+	<target host="www.immunicity.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

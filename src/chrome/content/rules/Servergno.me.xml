@@ -1,0 +1,6 @@
+<ruleset name="Servergno.me">
+	<target host="servergno.me" />
+	<target host="www.servergno.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

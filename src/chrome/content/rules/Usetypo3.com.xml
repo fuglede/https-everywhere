@@ -1,0 +1,6 @@
+<ruleset name="Usetypo3.com">
+	<target host="usetypo3.com" />
+	<target host="www.usetypo3.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

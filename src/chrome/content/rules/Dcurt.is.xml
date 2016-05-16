@@ -1,0 +1,6 @@
+<ruleset name="Dcurt.is">
+	<target host="dcurt.is" />
+	<target host="www.dcurt.is" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

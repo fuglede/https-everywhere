@@ -1,0 +1,6 @@
+<ruleset name="Motionfreight.com">
+	<target host="motionfreight.com" />
+	<target host="www.motionfreight.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

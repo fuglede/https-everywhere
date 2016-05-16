@@ -1,0 +1,6 @@
+<ruleset name="Sinneserweiterung.de">
+	<target host="sinneserweiterung.de" />
+	<target host="www.sinneserweiterung.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

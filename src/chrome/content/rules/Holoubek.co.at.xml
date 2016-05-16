@@ -1,0 +1,6 @@
+<ruleset name="Holoubek.co.at">
+	<target host="holoubek.co.at" />
+	<target host="www.holoubek.co.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Davevelopment.net">
+	<target host="davevelopment.net" />
+	<target host="www.davevelopment.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

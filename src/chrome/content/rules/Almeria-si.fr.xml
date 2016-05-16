@@ -1,0 +1,6 @@
+<ruleset name="Almeria-si.fr">
+	<target host="almeria-si.fr" />
+	<target host="www.almeria-si.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

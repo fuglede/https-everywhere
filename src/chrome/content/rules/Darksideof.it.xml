@@ -1,0 +1,6 @@
+<ruleset name="Darksideof.it">
+	<target host="darksideof.it" />
+	<target host="www.darksideof.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

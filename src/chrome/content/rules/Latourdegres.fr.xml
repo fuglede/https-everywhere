@@ -1,0 +1,6 @@
+<ruleset name="Latourdegres.fr">
+	<target host="latourdegres.fr" />
+	<target host="www.latourdegres.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

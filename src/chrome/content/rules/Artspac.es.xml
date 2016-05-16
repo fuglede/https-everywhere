@@ -1,0 +1,6 @@
+<ruleset name="Artspac.es">
+	<target host="artspac.es" />
+	<target host="www.artspac.es" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

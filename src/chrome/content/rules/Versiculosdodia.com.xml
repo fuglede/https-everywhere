@@ -1,0 +1,6 @@
+<ruleset name="Versiculosdodia.com">
+	<target host="versiculosdodia.com" />
+	<target host="www.versiculosdodia.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

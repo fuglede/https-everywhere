@@ -1,0 +1,6 @@
+<ruleset name="Meetingmanager.ovh">
+	<target host="meetingmanager.ovh" />
+	<target host="www.meetingmanager.ovh" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

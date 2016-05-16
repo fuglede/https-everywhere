@@ -1,0 +1,6 @@
+<ruleset name="Filedir.com">
+	<target host="filedir.com" />
+	<target host="www.filedir.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

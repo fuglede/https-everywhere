@@ -1,0 +1,6 @@
+<ruleset name="Hd-offensive.at">
+	<target host="hd-offensive.at" />
+	<target host="www.hd-offensive.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

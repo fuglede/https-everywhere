@@ -1,0 +1,6 @@
+<ruleset name="Ethil-faer.fr">
+	<target host="ethil-faer.fr" />
+	<target host="www.ethil-faer.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

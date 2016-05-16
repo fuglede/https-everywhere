@@ -1,0 +1,6 @@
+<ruleset name="Pggctonline.org">
+	<target host="pggctonline.org" />
+	<target host="www.pggctonline.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

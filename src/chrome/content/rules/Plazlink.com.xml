@@ -1,0 +1,6 @@
+<ruleset name="Plazlink.com">
+	<target host="plazlink.com" />
+	<target host="www.plazlink.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

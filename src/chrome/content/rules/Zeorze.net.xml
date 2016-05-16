@@ -1,0 +1,6 @@
+<ruleset name="Zeorze.net">
+	<target host="zeorze.net" />
+	<target host="www.zeorze.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

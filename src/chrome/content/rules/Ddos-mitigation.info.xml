@@ -1,0 +1,6 @@
+<ruleset name="Ddos-mitigation.info">
+	<target host="ddos-mitigation.info" />
+	<target host="www.ddos-mitigation.info" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

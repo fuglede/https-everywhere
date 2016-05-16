@@ -1,0 +1,6 @@
+<ruleset name="Webarmadillo.net">
+	<target host="webarmadillo.net" />
+	<target host="www.webarmadillo.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

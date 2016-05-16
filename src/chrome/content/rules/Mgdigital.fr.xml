@@ -1,0 +1,6 @@
+<ruleset name="Mgdigital.fr">
+	<target host="mgdigital.fr" />
+	<target host="www.mgdigital.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

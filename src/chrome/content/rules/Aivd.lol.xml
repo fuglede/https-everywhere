@@ -1,0 +1,6 @@
+<ruleset name="Aivd.lol">
+	<target host="aivd.lol" />
+	<target host="www.aivd.lol" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Igforums.com">
+	<target host="igforums.com" />
+	<target host="www.igforums.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Oecomix.fr">
+	<target host="oecomix.fr" />
+	<target host="www.oecomix.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

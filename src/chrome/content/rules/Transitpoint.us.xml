@@ -1,0 +1,6 @@
+<ruleset name="Transitpoint.us">
+	<target host="transitpoint.us" />
+	<target host="www.transitpoint.us" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

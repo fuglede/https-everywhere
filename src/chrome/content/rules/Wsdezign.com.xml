@@ -1,0 +1,6 @@
+<ruleset name="Wsdezign.com">
+	<target host="wsdezign.com" />
+	<target host="www.wsdezign.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

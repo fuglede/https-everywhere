@@ -1,0 +1,6 @@
+<ruleset name="Seandion.com">
+	<target host="seandion.com" />
+	<target host="www.seandion.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Katharina-nyqvist.de">
+	<target host="katharina-nyqvist.de" />
+	<target host="www.katharina-nyqvist.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

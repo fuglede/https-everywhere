@@ -1,0 +1,6 @@
+<ruleset name="Tante-bugil.net">
+	<target host="tante-bugil.net" />
+	<target host="www.tante-bugil.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Schumanandmonnet.eu">
+	<target host="schumanandmonnet.eu" />
+	<target host="www.schumanandmonnet.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

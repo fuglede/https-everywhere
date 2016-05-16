@@ -1,0 +1,6 @@
+<ruleset name="Nkinka.de">
+	<target host="nkinka.de" />
+	<target host="www.nkinka.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

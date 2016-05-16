@@ -1,0 +1,6 @@
+<ruleset name="Ekbanden.nl">
+	<target host="ekbanden.nl" />
+	<target host="www.ekbanden.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

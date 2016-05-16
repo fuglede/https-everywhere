@@ -1,0 +1,6 @@
+<ruleset name="Clip.ws">
+	<target host="clip.ws" />
+	<target host="www.clip.ws" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

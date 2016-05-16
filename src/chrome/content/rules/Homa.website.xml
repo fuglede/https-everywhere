@@ -1,0 +1,6 @@
+<ruleset name="Homa.website">
+	<target host="homa.website" />
+	<target host="www.homa.website" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

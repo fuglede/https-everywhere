@@ -1,0 +1,6 @@
+<ruleset name="Maddi.biz">
+	<target host="maddi.biz" />
+	<target host="www.maddi.biz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Minesouls.fr">
+	<target host="minesouls.fr" />
+	<target host="www.minesouls.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

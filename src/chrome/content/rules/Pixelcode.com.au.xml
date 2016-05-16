@@ -1,0 +1,6 @@
+<ruleset name="Pixelcode.com.au">
+	<target host="pixelcode.com.au" />
+	<target host="www.pixelcode.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

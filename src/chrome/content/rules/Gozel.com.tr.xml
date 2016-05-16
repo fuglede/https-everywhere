@@ -1,0 +1,6 @@
+<ruleset name="Gozel.com.tr">
+	<target host="gozel.com.tr" />
+	<target host="www.gozel.com.tr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

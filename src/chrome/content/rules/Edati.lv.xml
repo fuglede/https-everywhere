@@ -1,0 +1,6 @@
+<ruleset name="Edati.lv">
+	<target host="edati.lv" />
+	<target host="www.edati.lv" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

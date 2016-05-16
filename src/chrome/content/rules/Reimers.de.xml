@@ -1,0 +1,6 @@
+<ruleset name="Reimers.de">
+	<target host="reimers.de" />
+	<target host="www.reimers.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Edxg.de">
+	<target host="edxg.de" />
+	<target host="www.edxg.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

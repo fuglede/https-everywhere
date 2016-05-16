@@ -1,0 +1,6 @@
+<ruleset name="Batistareisfloresonline.com.br">
+	<target host="batistareisfloresonline.com.br" />
+	<target host="www.batistareisfloresonline.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

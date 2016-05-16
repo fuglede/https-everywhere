@@ -1,0 +1,6 @@
+<ruleset name="Personaldatabasen.no">
+	<target host="personaldatabasen.no" />
+	<target host="www.personaldatabasen.no" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

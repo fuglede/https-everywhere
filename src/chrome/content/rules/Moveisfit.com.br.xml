@@ -1,0 +1,6 @@
+<ruleset name="Moveisfit.com.br">
+	<target host="moveisfit.com.br" />
+	<target host="www.moveisfit.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

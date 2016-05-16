@@ -1,0 +1,6 @@
+<ruleset name="Proustmedia.de">
+	<target host="proustmedia.de" />
+	<target host="www.proustmedia.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

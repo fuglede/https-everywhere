@@ -1,0 +1,6 @@
+<ruleset name="Rokki.ch">
+	<target host="rokki.ch" />
+	<target host="www.rokki.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

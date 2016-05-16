@@ -1,0 +1,6 @@
+<ruleset name="Geowide.net">
+	<target host="geowide.net" />
+	<target host="www.geowide.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

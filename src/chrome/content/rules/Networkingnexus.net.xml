@@ -1,0 +1,6 @@
+<ruleset name="Networkingnexus.net">
+	<target host="networkingnexus.net" />
+	<target host="www.networkingnexus.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

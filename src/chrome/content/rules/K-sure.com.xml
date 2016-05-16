@@ -1,0 +1,6 @@
+<ruleset name="K-sure.com">
+	<target host="k-sure.com" />
+	<target host="www.k-sure.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

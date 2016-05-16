@@ -1,0 +1,6 @@
+<ruleset name="Wbuscatti.com.br">
+	<target host="wbuscatti.com.br" />
+	<target host="www.wbuscatti.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

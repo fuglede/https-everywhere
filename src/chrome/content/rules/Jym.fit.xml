@@ -1,0 +1,6 @@
+<ruleset name="Jym.fit">
+	<target host="jym.fit" />
+	<target host="www.jym.fit" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

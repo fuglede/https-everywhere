@@ -1,0 +1,6 @@
+<ruleset name="Pacelink.de">
+	<target host="pacelink.de" />
+	<target host="www.pacelink.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

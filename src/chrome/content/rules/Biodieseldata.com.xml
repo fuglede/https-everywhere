@@ -1,0 +1,6 @@
+<ruleset name="Biodieseldata.com">
+	<target host="biodieseldata.com" />
+	<target host="www.biodieseldata.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

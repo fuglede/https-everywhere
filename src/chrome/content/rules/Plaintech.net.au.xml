@@ -1,0 +1,6 @@
+<ruleset name="Plaintech.net.au">
+	<target host="plaintech.net.au" />
+	<target host="www.plaintech.net.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

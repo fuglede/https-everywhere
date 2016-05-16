@@ -1,0 +1,6 @@
+<ruleset name="Timeconnection.fr">
+	<target host="timeconnection.fr" />
+	<target host="www.timeconnection.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

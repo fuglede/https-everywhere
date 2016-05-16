@@ -1,0 +1,6 @@
+<ruleset name="Cbcpopupwebshop.be">
+	<target host="cbcpopupwebshop.be" />
+	<target host="www.cbcpopupwebshop.be" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

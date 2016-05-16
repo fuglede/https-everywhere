@@ -1,0 +1,6 @@
+<ruleset name="Freematthale.net">
+	<target host="freematthale.net" />
+	<target host="www.freematthale.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

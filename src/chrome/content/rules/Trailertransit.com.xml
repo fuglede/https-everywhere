@@ -1,0 +1,6 @@
+<ruleset name="Trailertransit.com">
+	<target host="trailertransit.com" />
+	<target host="www.trailertransit.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

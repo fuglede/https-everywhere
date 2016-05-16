@@ -1,0 +1,6 @@
+<ruleset name="Picotech.com">
+	<target host="picotech.com" />
+	<target host="www.picotech.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

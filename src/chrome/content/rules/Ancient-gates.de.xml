@@ -1,0 +1,6 @@
+<ruleset name="Ancient-gates.de">
+	<target host="ancient-gates.de" />
+	<target host="www.ancient-gates.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

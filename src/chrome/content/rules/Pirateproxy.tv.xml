@@ -1,0 +1,6 @@
+<ruleset name="Pirateproxy.tv">
+	<target host="pirateproxy.tv" />
+	<target host="www.pirateproxy.tv" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Extracobanks.com">
+	<target host="extracobanks.com" />
+	<target host="www.extracobanks.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

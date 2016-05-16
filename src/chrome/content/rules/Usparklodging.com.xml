@@ -1,0 +1,6 @@
+<ruleset name="Usparklodging.com">
+	<target host="usparklodging.com" />
+	<target host="www.usparklodging.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Philphonic.de">
+	<target host="philphonic.de" />
+	<target host="www.philphonic.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

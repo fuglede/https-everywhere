@@ -1,0 +1,6 @@
+<ruleset name="Spuffin.com">
+	<target host="spuffin.com" />
+	<target host="www.spuffin.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

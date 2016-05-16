@@ -1,0 +1,6 @@
+<ruleset name="Cloudwalk.io">
+	<target host="cloudwalk.io" />
+	<target host="www.cloudwalk.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

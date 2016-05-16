@@ -1,0 +1,6 @@
+<ruleset name="Johndong.net">
+	<target host="johndong.net" />
+	<target host="www.johndong.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

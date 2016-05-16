@@ -1,0 +1,6 @@
+<ruleset name="Bckp.de">
+	<target host="bckp.de" />
+	<target host="www.bckp.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

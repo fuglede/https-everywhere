@@ -1,0 +1,6 @@
+<ruleset name="Mogry.net">
+	<target host="mogry.net" />
+	<target host="www.mogry.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

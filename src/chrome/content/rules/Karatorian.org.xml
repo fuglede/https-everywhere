@@ -1,0 +1,6 @@
+<ruleset name="Karatorian.org">
+	<target host="karatorian.org" />
+	<target host="www.karatorian.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

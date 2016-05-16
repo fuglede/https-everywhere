@@ -1,0 +1,6 @@
+<ruleset name="Creativephysics.ml">
+	<target host="creativephysics.ml" />
+	<target host="www.creativephysics.ml" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

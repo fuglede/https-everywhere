@@ -1,0 +1,6 @@
+<ruleset name="Lavine.ch">
+	<target host="lavine.ch" />
+	<target host="www.lavine.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Silentcircle.org">
+	<target host="silentcircle.org" />
+	<target host="www.silentcircle.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

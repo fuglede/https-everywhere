@@ -1,0 +1,6 @@
+<ruleset name="Auftragspoker.de">
+	<target host="auftragspoker.de" />
+	<target host="www.auftragspoker.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

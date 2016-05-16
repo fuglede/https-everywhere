@@ -1,0 +1,6 @@
+<ruleset name="Alexandra-schulze.de">
+	<target host="alexandra-schulze.de" />
+	<target host="www.alexandra-schulze.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

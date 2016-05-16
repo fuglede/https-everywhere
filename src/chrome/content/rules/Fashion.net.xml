@@ -1,0 +1,6 @@
+<ruleset name="Fashion.net">
+	<target host="fashion.net" />
+	<target host="www.fashion.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

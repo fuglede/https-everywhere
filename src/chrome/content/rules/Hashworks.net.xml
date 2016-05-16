@@ -1,0 +1,6 @@
+<ruleset name="Hashworks.net">
+	<target host="hashworks.net" />
+	<target host="www.hashworks.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

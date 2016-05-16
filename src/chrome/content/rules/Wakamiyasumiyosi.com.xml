@@ -1,0 +1,6 @@
+<ruleset name="Wakamiyasumiyosi.com">
+	<target host="wakamiyasumiyosi.com" />
+	<target host="www.wakamiyasumiyosi.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

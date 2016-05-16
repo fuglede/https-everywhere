@@ -1,0 +1,6 @@
+<ruleset name="Lotsencafe.de">
+	<target host="lotsencafe.de" />
+	<target host="www.lotsencafe.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

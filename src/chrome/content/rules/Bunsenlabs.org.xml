@@ -1,0 +1,6 @@
+<ruleset name="Bunsenlabs.org">
+	<target host="bunsenlabs.org" />
+	<target host="www.bunsenlabs.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Thinfactory.com">
+	<target host="thinfactory.com" />
+	<target host="www.thinfactory.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

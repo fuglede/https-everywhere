@@ -1,0 +1,6 @@
+<ruleset name="Ncpc.gov">
+	<target host="ncpc.gov" />
+	<target host="www.ncpc.gov" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Esix.io">
+	<target host="esix.io" />
+	<target host="www.esix.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

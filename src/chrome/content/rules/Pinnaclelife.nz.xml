@@ -1,0 +1,6 @@
+<ruleset name="Pinnaclelife.nz">
+	<target host="pinnaclelife.nz" />
+	<target host="www.pinnaclelife.nz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

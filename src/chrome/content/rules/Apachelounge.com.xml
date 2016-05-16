@@ -1,0 +1,6 @@
+<ruleset name="Apachelounge.com">
+	<target host="apachelounge.com" />
+	<target host="www.apachelounge.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

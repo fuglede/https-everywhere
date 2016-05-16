@@ -1,0 +1,6 @@
+<ruleset name="Xbb.hk">
+	<target host="xbb.hk" />
+	<target host="www.xbb.hk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

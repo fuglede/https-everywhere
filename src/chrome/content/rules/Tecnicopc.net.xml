@@ -1,0 +1,6 @@
+<ruleset name="Tecnicopc.net">
+	<target host="tecnicopc.net" />
+	<target host="www.tecnicopc.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Signtul.com">
+	<target host="signtul.com" />
+	<target host="www.signtul.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

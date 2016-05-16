@@ -1,0 +1,6 @@
+<ruleset name="Ireef.tv">
+	<target host="ireef.tv" />
+	<target host="www.ireef.tv" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

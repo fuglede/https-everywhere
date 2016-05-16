@@ -1,0 +1,6 @@
+<ruleset name="Timcamara.com">
+	<target host="timcamara.com" />
+	<target host="www.timcamara.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

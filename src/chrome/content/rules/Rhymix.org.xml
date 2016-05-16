@@ -1,0 +1,6 @@
+<ruleset name="Rhymix.org">
+	<target host="rhymix.org" />
+	<target host="www.rhymix.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

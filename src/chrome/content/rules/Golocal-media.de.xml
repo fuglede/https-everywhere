@@ -1,0 +1,6 @@
+<ruleset name="Golocal-media.de">
+	<target host="golocal-media.de" />
+	<target host="www.golocal-media.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

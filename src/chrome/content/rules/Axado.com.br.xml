@@ -1,0 +1,6 @@
+<ruleset name="Axado.com.br">
+	<target host="axado.com.br" />
+	<target host="www.axado.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

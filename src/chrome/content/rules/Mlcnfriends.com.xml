@@ -1,0 +1,6 @@
+<ruleset name="Mlcnfriends.com">
+	<target host="mlcnfriends.com" />
+	<target host="www.mlcnfriends.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

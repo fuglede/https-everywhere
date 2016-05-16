@@ -1,0 +1,6 @@
+<ruleset name="Imeds.pl">
+	<target host="imeds.pl" />
+	<target host="www.imeds.pl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

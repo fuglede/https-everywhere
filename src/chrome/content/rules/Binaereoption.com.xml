@@ -1,0 +1,6 @@
+<ruleset name="Binaereoption.com">
+	<target host="binaereoption.com" />
+	<target host="www.binaereoption.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

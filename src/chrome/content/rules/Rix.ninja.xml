@@ -1,0 +1,6 @@
+<ruleset name="Rix.ninja">
+	<target host="rix.ninja" />
+	<target host="www.rix.ninja" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

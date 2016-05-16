@@ -1,0 +1,6 @@
+<ruleset name="Stnl.de">
+	<target host="stnl.de" />
+	<target host="www.stnl.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

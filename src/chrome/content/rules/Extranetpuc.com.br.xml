@@ -1,0 +1,6 @@
+<ruleset name="Extranetpuc.com.br">
+	<target host="extranetpuc.com.br" />
+	<target host="www.extranetpuc.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

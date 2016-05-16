@@ -1,0 +1,6 @@
+<ruleset name="Sundayfundayjapan.com">
+	<target host="sundayfundayjapan.com" />
+	<target host="www.sundayfundayjapan.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

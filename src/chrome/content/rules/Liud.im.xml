@@ -1,0 +1,6 @@
+<ruleset name="Liud.im">
+	<target host="liud.im" />
+	<target host="www.liud.im" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

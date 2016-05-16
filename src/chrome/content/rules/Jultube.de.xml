@@ -1,0 +1,6 @@
+<ruleset name="Jultube.de">
+	<target host="jultube.de" />
+	<target host="www.jultube.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Cometsupply.com">
+	<target host="cometsupply.com" />
+	<target host="www.cometsupply.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

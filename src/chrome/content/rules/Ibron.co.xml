@@ -1,0 +1,6 @@
+<ruleset name="Ibron.co">
+	<target host="ibron.co" />
+	<target host="www.ibron.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Its-gutachten.de">
+	<target host="its-gutachten.de" />
+	<target host="www.its-gutachten.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

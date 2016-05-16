@@ -1,0 +1,6 @@
+<ruleset name="Thetradinghall.com">
+	<target host="thetradinghall.com" />
+	<target host="www.thetradinghall.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

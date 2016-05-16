@@ -1,0 +1,6 @@
+<ruleset name="Marie.kyiv.ua">
+	<target host="marie.kyiv.ua" />
+	<target host="www.marie.kyiv.ua" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Donkleaps.tv">
+	<target host="donkleaps.tv" />
+	<target host="www.donkleaps.tv" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

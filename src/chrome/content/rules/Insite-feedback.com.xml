@@ -1,0 +1,6 @@
+<ruleset name="Insite-feedback.com">
+	<target host="insite-feedback.com" />
+	<target host="www.insite-feedback.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

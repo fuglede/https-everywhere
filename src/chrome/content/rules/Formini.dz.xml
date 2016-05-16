@@ -1,0 +1,6 @@
+<ruleset name="Formini.dz">
+	<target host="formini.dz" />
+	<target host="www.formini.dz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Opium.io">
+	<target host="opium.io" />
+	<target host="www.opium.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

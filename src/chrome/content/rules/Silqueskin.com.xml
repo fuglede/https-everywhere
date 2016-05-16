@@ -1,0 +1,6 @@
+<ruleset name="Silqueskin.com">
+	<target host="silqueskin.com" />
+	<target host="www.silqueskin.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

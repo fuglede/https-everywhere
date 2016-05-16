@@ -1,0 +1,6 @@
+<ruleset name="Metrosport.web.id">
+	<target host="metrosport.web.id" />
+	<target host="www.metrosport.web.id" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Teemo.gg">
+	<target host="teemo.gg" />
+	<target host="www.teemo.gg" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

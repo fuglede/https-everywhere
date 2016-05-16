@@ -1,0 +1,6 @@
+<ruleset name="Network888.jp">
+	<target host="network888.jp" />
+	<target host="www.network888.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Autojuhos.sk">
+	<target host="autojuhos.sk" />
+	<target host="www.autojuhos.sk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

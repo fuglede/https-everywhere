@@ -1,0 +1,6 @@
+<ruleset name="Sikorski.global">
+	<target host="sikorski.global" />
+	<target host="www.sikorski.global" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

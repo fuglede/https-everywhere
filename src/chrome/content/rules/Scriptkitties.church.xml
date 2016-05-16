@@ -1,0 +1,6 @@
+<ruleset name="Scriptkitties.church">
+	<target host="scriptkitties.church" />
+	<target host="www.scriptkitties.church" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Opsaplicativo.com.br">
+	<target host="opsaplicativo.com.br" />
+	<target host="www.opsaplicativo.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

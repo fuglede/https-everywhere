@@ -1,0 +1,6 @@
+<ruleset name="Hoffmeister.biz">
+	<target host="hoffmeister.biz" />
+	<target host="www.hoffmeister.biz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

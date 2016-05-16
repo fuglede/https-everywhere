@@ -1,0 +1,6 @@
+<ruleset name="Myairshop.gr">
+	<target host="myairshop.gr" />
+	<target host="www.myairshop.gr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

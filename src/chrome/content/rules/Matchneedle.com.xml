@@ -1,0 +1,6 @@
+<ruleset name="Matchneedle.com">
+	<target host="matchneedle.com" />
+	<target host="www.matchneedle.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

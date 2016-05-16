@@ -1,0 +1,6 @@
+<ruleset name="Rubysecurity.org">
+	<target host="rubysecurity.org" />
+	<target host="www.rubysecurity.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Hoebeke.nl">
+	<target host="hoebeke.nl" />
+	<target host="www.hoebeke.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

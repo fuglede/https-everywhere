@@ -1,0 +1,6 @@
+<ruleset name="Ironshell.xyz">
+	<target host="ironshell.xyz" />
+	<target host="www.ironshell.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

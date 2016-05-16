@@ -1,0 +1,6 @@
+<ruleset name="Adver.top">
+	<target host="adver.top" />
+	<target host="www.adver.top" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

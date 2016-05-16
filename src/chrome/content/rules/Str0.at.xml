@@ -1,0 +1,6 @@
+<ruleset name="Str0.at">
+	<target host="str0.at" />
+	<target host="www.str0.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

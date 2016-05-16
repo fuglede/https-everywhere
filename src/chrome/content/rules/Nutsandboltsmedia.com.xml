@@ -1,0 +1,6 @@
+<ruleset name="Nutsandboltsmedia.com">
+	<target host="nutsandboltsmedia.com" />
+	<target host="www.nutsandboltsmedia.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

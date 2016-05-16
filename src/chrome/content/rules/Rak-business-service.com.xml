@@ -1,0 +1,6 @@
+<ruleset name="Rak-business-service.com">
+	<target host="rak-business-service.com" />
+	<target host="www.rak-business-service.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

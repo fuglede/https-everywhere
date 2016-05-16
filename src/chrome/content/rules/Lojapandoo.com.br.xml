@@ -1,0 +1,6 @@
+<ruleset name="Lojapandoo.com.br">
+	<target host="lojapandoo.com.br" />
+	<target host="www.lojapandoo.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Altopia.com">
+	<target host="altopia.com" />
+	<target host="www.altopia.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

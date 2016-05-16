@@ -1,0 +1,6 @@
+<ruleset name="Envelope.co.nz">
+	<target host="envelope.co.nz" />
+	<target host="www.envelope.co.nz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

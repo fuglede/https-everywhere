@@ -1,0 +1,6 @@
+<ruleset name="Smartcoin.com.br">
+	<target host="smartcoin.com.br" />
+	<target host="www.smartcoin.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

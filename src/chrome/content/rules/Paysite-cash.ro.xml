@@ -1,0 +1,6 @@
+<ruleset name="Paysite-cash.ro">
+	<target host="paysite-cash.ro" />
+	<target host="www.paysite-cash.ro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Akerek.hu">
+	<target host="akerek.hu" />
+	<target host="www.akerek.hu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Moonvpn.org">
+	<target host="moonvpn.org" />
+	<target host="www.moonvpn.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

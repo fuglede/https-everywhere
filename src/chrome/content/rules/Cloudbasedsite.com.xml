@@ -1,0 +1,6 @@
+<ruleset name="Cloudbasedsite.com">
+	<target host="cloudbasedsite.com" />
+	<target host="www.cloudbasedsite.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

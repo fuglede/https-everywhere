@@ -1,0 +1,6 @@
+<ruleset name="Echopaper.com">
+	<target host="echopaper.com" />
+	<target host="www.echopaper.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

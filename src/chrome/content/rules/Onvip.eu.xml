@@ -1,0 +1,6 @@
+<ruleset name="Onvip.eu">
+	<target host="onvip.eu" />
+	<target host="www.onvip.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

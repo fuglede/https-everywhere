@@ -1,0 +1,6 @@
+<ruleset name="Comercialtrading.eu">
+	<target host="comercialtrading.eu" />
+	<target host="www.comercialtrading.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

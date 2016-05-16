@@ -1,0 +1,6 @@
+<ruleset name="House-of-windsor.com">
+	<target host="house-of-windsor.com" />
+	<target host="www.house-of-windsor.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

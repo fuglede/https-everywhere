@@ -1,0 +1,6 @@
+<ruleset name="Polypet.com.sg">
+	<target host="polypet.com.sg" />
+	<target host="www.polypet.com.sg" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

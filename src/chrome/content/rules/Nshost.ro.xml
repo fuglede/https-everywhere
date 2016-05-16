@@ -1,0 +1,6 @@
+<ruleset name="Nshost.ro">
+	<target host="nshost.ro" />
+	<target host="www.nshost.ro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

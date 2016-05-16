@@ -1,0 +1,6 @@
+<ruleset name="Coi-verify.com">
+	<target host="coi-verify.com" />
+	<target host="www.coi-verify.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Bugtrack.io">
+	<target host="bugtrack.io" />
+	<target host="www.bugtrack.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

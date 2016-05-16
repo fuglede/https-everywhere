@@ -1,0 +1,6 @@
+<ruleset name="Twarog.cc">
+	<target host="twarog.cc" />
+	<target host="www.twarog.cc" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

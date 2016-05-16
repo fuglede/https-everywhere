@@ -1,0 +1,6 @@
+<ruleset name="Bnparamedical.org.in">
+	<target host="bnparamedical.org.in" />
+	<target host="www.bnparamedical.org.in" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

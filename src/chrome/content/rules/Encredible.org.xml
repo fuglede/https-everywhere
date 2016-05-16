@@ -1,0 +1,6 @@
+<ruleset name="Encredible.org">
+	<target host="encredible.org" />
+	<target host="www.encredible.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

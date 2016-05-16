@@ -1,0 +1,6 @@
+<ruleset name="123plons.nl">
+	<target host="123plons.nl" />
+	<target host="www.123plons.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

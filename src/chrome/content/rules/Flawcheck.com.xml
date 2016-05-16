@@ -1,0 +1,6 @@
+<ruleset name="Flawcheck.com">
+	<target host="flawcheck.com" />
+	<target host="www.flawcheck.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

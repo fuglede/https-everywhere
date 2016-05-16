@@ -1,0 +1,6 @@
+<ruleset name="Stylenda.com">
+	<target host="stylenda.com" />
+	<target host="www.stylenda.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

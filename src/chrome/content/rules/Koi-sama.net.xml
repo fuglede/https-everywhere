@@ -1,0 +1,6 @@
+<ruleset name="Koi-sama.net">
+	<target host="koi-sama.net" />
+	<target host="www.koi-sama.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

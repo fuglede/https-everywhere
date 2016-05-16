@@ -1,0 +1,6 @@
+<ruleset name="Camconn.cc">
+	<target host="camconn.cc" />
+	<target host="www.camconn.cc" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

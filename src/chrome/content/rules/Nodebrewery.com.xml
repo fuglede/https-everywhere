@@ -1,0 +1,6 @@
+<ruleset name="Nodebrewery.com">
+	<target host="nodebrewery.com" />
+	<target host="www.nodebrewery.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

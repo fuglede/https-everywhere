@@ -1,0 +1,6 @@
+<ruleset name="Proteus-tech.com">
+	<target host="proteus-tech.com" />
+	<target host="www.proteus-tech.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

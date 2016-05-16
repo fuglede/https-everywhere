@@ -1,0 +1,6 @@
+<ruleset name="Game7.de">
+	<target host="game7.de" />
+	<target host="www.game7.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

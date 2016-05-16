@@ -1,0 +1,6 @@
+<ruleset name="Gunwatch.co.uk">
+	<target host="gunwatch.co.uk" />
+	<target host="www.gunwatch.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

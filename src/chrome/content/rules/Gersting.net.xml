@@ -1,0 +1,6 @@
+<ruleset name="Gersting.net">
+	<target host="gersting.net" />
+	<target host="www.gersting.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

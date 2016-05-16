@@ -1,0 +1,6 @@
+<ruleset name="Procatinator.com">
+	<target host="procatinator.com" />
+	<target host="www.procatinator.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Avxo.pw">
+	<target host="avxo.pw" />
+	<target host="www.avxo.pw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Genisys.fitness">
+	<target host="genisys.fitness" />
+	<target host="www.genisys.fitness" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Fitbylo.com">
+	<target host="fitbylo.com" />
+	<target host="www.fitbylo.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

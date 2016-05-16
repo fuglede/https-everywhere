@@ -1,0 +1,6 @@
+<ruleset name="Dairyshrine.org">
+	<target host="dairyshrine.org" />
+	<target host="www.dairyshrine.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

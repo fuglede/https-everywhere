@@ -1,0 +1,6 @@
+<ruleset name="Gixtools.com">
+	<target host="gixtools.com" />
+	<target host="www.gixtools.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

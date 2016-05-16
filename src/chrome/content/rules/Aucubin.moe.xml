@@ -1,0 +1,6 @@
+<ruleset name="Aucubin.moe">
+	<target host="aucubin.moe" />
+	<target host="www.aucubin.moe" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

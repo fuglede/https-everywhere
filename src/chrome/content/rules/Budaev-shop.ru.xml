@@ -1,0 +1,6 @@
+<ruleset name="Budaev-shop.ru">
+	<target host="budaev-shop.ru" />
+	<target host="www.budaev-shop.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

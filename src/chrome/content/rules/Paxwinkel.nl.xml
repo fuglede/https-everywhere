@@ -1,0 +1,6 @@
+<ruleset name="Paxwinkel.nl">
+	<target host="paxwinkel.nl" />
+	<target host="www.paxwinkel.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

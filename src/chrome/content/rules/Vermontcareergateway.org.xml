@@ -1,0 +1,6 @@
+<ruleset name="Vermontcareergateway.org">
+	<target host="vermontcareergateway.org" />
+	<target host="www.vermontcareergateway.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

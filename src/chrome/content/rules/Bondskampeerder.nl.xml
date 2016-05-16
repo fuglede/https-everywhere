@@ -1,0 +1,6 @@
+<ruleset name="Bondskampeerder.nl">
+	<target host="bondskampeerder.nl" />
+	<target host="www.bondskampeerder.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

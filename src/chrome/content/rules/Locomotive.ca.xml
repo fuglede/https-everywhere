@@ -1,0 +1,6 @@
+<ruleset name="Locomotive.ca">
+	<target host="locomotive.ca" />
+	<target host="www.locomotive.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

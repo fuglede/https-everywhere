@@ -1,0 +1,6 @@
+<ruleset name="Stardanceacademy.net">
+	<target host="stardanceacademy.net" />
+	<target host="www.stardanceacademy.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

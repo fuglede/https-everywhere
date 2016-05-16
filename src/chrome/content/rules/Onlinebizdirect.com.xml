@@ -1,0 +1,6 @@
+<ruleset name="Onlinebizdirect.com">
+	<target host="onlinebizdirect.com" />
+	<target host="www.onlinebizdirect.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

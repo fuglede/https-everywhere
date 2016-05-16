@@ -1,0 +1,6 @@
+<ruleset name="Parlamento.gub.uy">
+	<target host="parlamento.gub.uy" />
+	<target host="www.parlamento.gub.uy" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

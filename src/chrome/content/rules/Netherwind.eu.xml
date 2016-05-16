@@ -1,0 +1,6 @@
+<ruleset name="Netherwind.eu">
+	<target host="netherwind.eu" />
+	<target host="www.netherwind.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

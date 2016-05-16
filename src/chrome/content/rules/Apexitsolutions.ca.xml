@@ -1,0 +1,6 @@
+<ruleset name="Apexitsolutions.ca">
+	<target host="apexitsolutions.ca" />
+	<target host="www.apexitsolutions.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

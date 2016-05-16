@@ -1,0 +1,6 @@
+<ruleset name="Ibox.ovh">
+	<target host="ibox.ovh" />
+	<target host="www.ibox.ovh" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

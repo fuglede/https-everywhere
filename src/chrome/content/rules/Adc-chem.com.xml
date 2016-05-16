@@ -1,0 +1,6 @@
+<ruleset name="Adc-chem.com">
+	<target host="adc-chem.com" />
+	<target host="www.adc-chem.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

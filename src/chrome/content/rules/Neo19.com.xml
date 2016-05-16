@@ -1,0 +1,6 @@
+<ruleset name="Neo19.com">
+	<target host="neo19.com" />
+	<target host="www.neo19.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

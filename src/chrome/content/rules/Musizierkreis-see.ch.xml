@@ -1,0 +1,6 @@
+<ruleset name="Musizierkreis-see.ch">
+	<target host="musizierkreis-see.ch" />
+	<target host="www.musizierkreis-see.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

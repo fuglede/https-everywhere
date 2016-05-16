@@ -1,0 +1,6 @@
+<ruleset name="Fleximus.org">
+	<target host="fleximus.org" />
+	<target host="www.fleximus.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

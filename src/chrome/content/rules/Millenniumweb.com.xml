@@ -1,0 +1,6 @@
+<ruleset name="Millenniumweb.com">
+	<target host="millenniumweb.com" />
+	<target host="www.millenniumweb.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

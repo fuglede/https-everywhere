@@ -1,0 +1,6 @@
+<ruleset name="Saucyfox.net">
+	<target host="saucyfox.net" />
+	<target host="www.saucyfox.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

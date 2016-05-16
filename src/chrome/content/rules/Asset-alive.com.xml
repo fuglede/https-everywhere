@@ -1,0 +1,6 @@
+<ruleset name="Asset-alive.com">
+	<target host="asset-alive.com" />
+	<target host="www.asset-alive.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

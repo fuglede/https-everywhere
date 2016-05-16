@@ -1,0 +1,6 @@
+<ruleset name="Hodne.io">
+	<target host="hodne.io" />
+	<target host="www.hodne.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

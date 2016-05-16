@@ -1,0 +1,6 @@
+<ruleset name="Nikklassen.ca">
+	<target host="nikklassen.ca" />
+	<target host="www.nikklassen.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="American-truck-simulator.net">
+	<target host="american-truck-simulator.net" />
+	<target host="www.american-truck-simulator.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

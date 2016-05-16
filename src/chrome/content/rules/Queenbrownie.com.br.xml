@@ -1,0 +1,6 @@
+<ruleset name="Queenbrownie.com.br">
+	<target host="queenbrownie.com.br" />
+	<target host="www.queenbrownie.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

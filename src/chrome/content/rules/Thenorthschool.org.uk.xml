@@ -1,0 +1,6 @@
+<ruleset name="Thenorthschool.org.uk">
+	<target host="thenorthschool.org.uk" />
+	<target host="www.thenorthschool.org.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Hang333.pw">
+	<target host="hang333.pw" />
+	<target host="www.hang333.pw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

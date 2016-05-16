@@ -1,0 +1,6 @@
+<ruleset name="Fortworth.ch">
+	<target host="fortworth.ch" />
+	<target host="www.fortworth.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

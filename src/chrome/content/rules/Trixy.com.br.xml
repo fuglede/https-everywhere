@@ -1,0 +1,6 @@
+<ruleset name="Trixy.com.br">
+	<target host="trixy.com.br" />
+	<target host="www.trixy.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

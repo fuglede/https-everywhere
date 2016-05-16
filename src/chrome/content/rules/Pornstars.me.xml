@@ -1,0 +1,6 @@
+<ruleset name="Pornstars.me">
+	<target host="pornstars.me" />
+	<target host="www.pornstars.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

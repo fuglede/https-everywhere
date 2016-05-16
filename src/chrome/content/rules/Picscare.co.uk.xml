@@ -1,0 +1,6 @@
+<ruleset name="Picscare.co.uk">
+	<target host="picscare.co.uk" />
+	<target host="www.picscare.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

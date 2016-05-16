@@ -1,0 +1,6 @@
+<ruleset name="Infotics.es">
+	<target host="infotics.es" />
+	<target host="www.infotics.es" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

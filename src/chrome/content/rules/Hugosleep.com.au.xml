@@ -1,0 +1,6 @@
+<ruleset name="Hugosleep.com.au">
+	<target host="hugosleep.com.au" />
+	<target host="www.hugosleep.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

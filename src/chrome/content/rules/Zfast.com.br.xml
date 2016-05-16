@@ -1,0 +1,6 @@
+<ruleset name="Zfast.com.br">
+	<target host="zfast.com.br" />
+	<target host="www.zfast.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

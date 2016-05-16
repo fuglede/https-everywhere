@@ -1,0 +1,6 @@
+<ruleset name="Clsimplex.com">
+	<target host="clsimplex.com" />
+	<target host="www.clsimplex.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

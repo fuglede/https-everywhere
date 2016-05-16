@@ -1,0 +1,6 @@
+<ruleset name="Close.com">
+	<target host="close.com" />
+	<target host="www.close.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Webstory.xyz">
+	<target host="webstory.xyz" />
+	<target host="www.webstory.xyz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

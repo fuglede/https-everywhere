@@ -1,0 +1,6 @@
+<ruleset name="Cryptolab.tk">
+	<target host="cryptolab.tk" />
+	<target host="www.cryptolab.tk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

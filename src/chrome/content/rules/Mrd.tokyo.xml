@@ -1,0 +1,6 @@
+<ruleset name="Mrd.tokyo">
+	<target host="mrd.tokyo" />
+	<target host="www.mrd.tokyo" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

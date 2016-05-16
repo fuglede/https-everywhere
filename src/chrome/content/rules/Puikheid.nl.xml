@@ -1,0 +1,6 @@
+<ruleset name="Puikheid.nl">
+	<target host="puikheid.nl" />
+	<target host="www.puikheid.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Teodio.cl">
+	<target host="teodio.cl" />
+	<target host="www.teodio.cl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

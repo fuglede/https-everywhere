@@ -1,0 +1,6 @@
+<ruleset name="Tecnogaming.com">
+	<target host="tecnogaming.com" />
+	<target host="www.tecnogaming.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

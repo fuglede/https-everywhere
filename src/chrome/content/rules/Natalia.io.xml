@@ -1,0 +1,6 @@
+<ruleset name="Natalia.io">
+	<target host="natalia.io" />
+	<target host="www.natalia.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

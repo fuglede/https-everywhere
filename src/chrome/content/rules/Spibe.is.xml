@@ -1,0 +1,6 @@
+<ruleset name="Spibe.is">
+	<target host="spibe.is" />
+	<target host="www.spibe.is" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

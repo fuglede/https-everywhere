@@ -1,0 +1,6 @@
+<ruleset name="Vorodevops.com">
+	<target host="vorodevops.com" />
+	<target host="www.vorodevops.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

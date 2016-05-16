@@ -1,0 +1,6 @@
+<ruleset name="Bitfasching.de">
+	<target host="bitfasching.de" />
+	<target host="www.bitfasching.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

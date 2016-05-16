@@ -1,0 +1,6 @@
+<ruleset name="Illegalpornography.me">
+	<target host="illegalpornography.me" />
+	<target host="www.illegalpornography.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

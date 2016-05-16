@@ -1,0 +1,6 @@
+<ruleset name="Universalpaymentgateway.com">
+	<target host="universalpaymentgateway.com" />
+	<target host="www.universalpaymentgateway.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

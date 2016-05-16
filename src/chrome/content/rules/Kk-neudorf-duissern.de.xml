@@ -1,0 +1,6 @@
+<ruleset name="Kk-neudorf-duissern.de">
+	<target host="kk-neudorf-duissern.de" />
+	<target host="www.kk-neudorf-duissern.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

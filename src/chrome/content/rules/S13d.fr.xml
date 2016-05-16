@@ -1,0 +1,6 @@
+<ruleset name="S13d.fr">
+	<target host="s13d.fr" />
+	<target host="www.s13d.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

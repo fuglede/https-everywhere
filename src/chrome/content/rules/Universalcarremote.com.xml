@@ -1,0 +1,6 @@
+<ruleset name="Universalcarremote.com">
+	<target host="universalcarremote.com" />
+	<target host="www.universalcarremote.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

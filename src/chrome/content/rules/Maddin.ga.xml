@@ -1,0 +1,6 @@
+<ruleset name="Maddin.ga">
+	<target host="maddin.ga" />
+	<target host="www.maddin.ga" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

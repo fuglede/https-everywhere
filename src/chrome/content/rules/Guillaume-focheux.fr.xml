@@ -1,0 +1,6 @@
+<ruleset name="Guillaume-focheux.fr">
+	<target host="guillaume-focheux.fr" />
+	<target host="www.guillaume-focheux.fr" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

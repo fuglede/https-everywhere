@@ -1,0 +1,6 @@
+<ruleset name="Riversideauto.net">
+	<target host="riversideauto.net" />
+	<target host="www.riversideauto.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

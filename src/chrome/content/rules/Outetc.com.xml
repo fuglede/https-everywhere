@@ -1,0 +1,6 @@
+<ruleset name="Outetc.com">
+	<target host="outetc.com" />
+	<target host="www.outetc.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

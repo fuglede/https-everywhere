@@ -1,0 +1,6 @@
+<ruleset name="Incomeiq.com.hk">
+	<target host="incomeiq.com.hk" />
+	<target host="www.incomeiq.com.hk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Hackmd.io">
+	<target host="hackmd.io" />
+	<target host="www.hackmd.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

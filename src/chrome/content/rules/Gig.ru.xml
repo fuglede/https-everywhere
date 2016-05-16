@@ -1,0 +1,6 @@
+<ruleset name="Gig.ru">
+	<target host="gig.ru" />
+	<target host="www.gig.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

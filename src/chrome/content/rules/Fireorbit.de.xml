@@ -1,0 +1,6 @@
+<ruleset name="Fireorbit.de">
+	<target host="fireorbit.de" />
+	<target host="www.fireorbit.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

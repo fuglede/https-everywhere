@@ -1,0 +1,6 @@
+<ruleset name="Stadionmanager.com">
+	<target host="stadionmanager.com" />
+	<target host="www.stadionmanager.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

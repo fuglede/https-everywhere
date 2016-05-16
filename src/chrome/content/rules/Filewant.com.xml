@@ -1,0 +1,6 @@
+<ruleset name="Filewant.com">
+	<target host="filewant.com" />
+	<target host="www.filewant.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

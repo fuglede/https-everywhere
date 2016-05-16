@@ -1,0 +1,6 @@
+<ruleset name="Earga.sm">
+	<target host="earga.sm" />
+	<target host="www.earga.sm" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

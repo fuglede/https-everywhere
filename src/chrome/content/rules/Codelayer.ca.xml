@@ -1,0 +1,6 @@
+<ruleset name="Codelayer.ca">
+	<target host="codelayer.ca" />
+	<target host="www.codelayer.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

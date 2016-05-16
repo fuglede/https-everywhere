@@ -1,0 +1,6 @@
+<ruleset name="Papelariadante.com.br">
+	<target host="papelariadante.com.br" />
+	<target host="www.papelariadante.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

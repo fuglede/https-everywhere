@@ -1,0 +1,6 @@
+<ruleset name="Ratd.net">
+	<target host="ratd.net" />
+	<target host="www.ratd.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Altfire.ca">
+	<target host="altfire.ca" />
+	<target host="www.altfire.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

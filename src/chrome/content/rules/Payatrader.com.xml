@@ -1,0 +1,6 @@
+<ruleset name="Payatrader.com">
+	<target host="payatrader.com" />
+	<target host="www.payatrader.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Guerrilla.technology">
+	<target host="guerrilla.technology" />
+	<target host="www.guerrilla.technology" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

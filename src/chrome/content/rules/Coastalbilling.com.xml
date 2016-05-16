@@ -1,0 +1,6 @@
+<ruleset name="Coastalbilling.com">
+	<target host="coastalbilling.com" />
+	<target host="www.coastalbilling.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

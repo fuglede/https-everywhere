@@ -1,0 +1,6 @@
+<ruleset name="Familjenfrodlund.se">
+	<target host="familjenfrodlund.se" />
+	<target host="www.familjenfrodlund.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

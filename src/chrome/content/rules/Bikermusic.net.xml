@@ -1,0 +1,6 @@
+<ruleset name="Bikermusic.net">
+	<target host="bikermusic.net" />
+	<target host="www.bikermusic.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

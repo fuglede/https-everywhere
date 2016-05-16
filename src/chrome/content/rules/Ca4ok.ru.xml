@@ -1,0 +1,6 @@
+<ruleset name="Ca4ok.ru">
+	<target host="ca4ok.ru" />
+	<target host="www.ca4ok.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Vop.li">
+	<target host="vop.li" />
+	<target host="www.vop.li" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

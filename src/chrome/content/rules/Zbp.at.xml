@@ -1,0 +1,6 @@
+<ruleset name="Zbp.at">
+	<target host="zbp.at" />
+	<target host="www.zbp.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

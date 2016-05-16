@@ -1,0 +1,6 @@
+<ruleset name="Tictactux.de">
+	<target host="tictactux.de" />
+	<target host="www.tictactux.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

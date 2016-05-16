@@ -1,0 +1,6 @@
+<ruleset name="Schauer.so">
+	<target host="schauer.so" />
+	<target host="www.schauer.so" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

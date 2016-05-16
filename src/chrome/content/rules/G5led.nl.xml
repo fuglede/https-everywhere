@@ -1,0 +1,6 @@
+<ruleset name="G5led.nl">
+	<target host="g5led.nl" />
+	<target host="www.g5led.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

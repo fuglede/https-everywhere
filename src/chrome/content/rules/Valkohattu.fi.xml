@@ -1,0 +1,6 @@
+<ruleset name="Valkohattu.fi">
+	<target host="valkohattu.fi" />
+	<target host="www.valkohattu.fi" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

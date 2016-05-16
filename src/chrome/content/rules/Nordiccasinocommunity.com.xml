@@ -1,0 +1,6 @@
+<ruleset name="Nordiccasinocommunity.com">
+	<target host="nordiccasinocommunity.com" />
+	<target host="www.nordiccasinocommunity.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

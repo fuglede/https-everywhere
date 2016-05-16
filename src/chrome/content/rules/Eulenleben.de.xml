@@ -1,0 +1,6 @@
+<ruleset name="Eulenleben.de">
+	<target host="eulenleben.de" />
+	<target host="www.eulenleben.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

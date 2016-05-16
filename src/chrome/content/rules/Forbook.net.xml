@@ -1,0 +1,6 @@
+<ruleset name="Forbook.net">
+	<target host="forbook.net" />
+	<target host="www.forbook.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

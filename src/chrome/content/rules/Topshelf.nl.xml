@@ -1,0 +1,6 @@
+<ruleset name="Topshelf.nl">
+	<target host="topshelf.nl" />
+	<target host="www.topshelf.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

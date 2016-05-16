@@ -1,0 +1,6 @@
+<ruleset name="Dworzak.ch">
+	<target host="dworzak.ch" />
+	<target host="www.dworzak.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Rewardstock.com">
+	<target host="rewardstock.com" />
+	<target host="www.rewardstock.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

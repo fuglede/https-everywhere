@@ -1,0 +1,6 @@
+<ruleset name="Thehonorguard.org">
+	<target host="thehonorguard.org" />
+	<target host="www.thehonorguard.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

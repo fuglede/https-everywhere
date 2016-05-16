@@ -1,0 +1,6 @@
+<ruleset name="Salverainha.org">
+	<target host="salverainha.org" />
+	<target host="www.salverainha.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

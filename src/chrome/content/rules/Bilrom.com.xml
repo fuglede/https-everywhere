@@ -1,0 +1,6 @@
+<ruleset name="Bilrom.com">
+	<target host="bilrom.com" />
+	<target host="www.bilrom.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

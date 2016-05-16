@@ -1,0 +1,6 @@
+<ruleset name="Windhaven.nl">
+	<target host="windhaven.nl" />
+	<target host="www.windhaven.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

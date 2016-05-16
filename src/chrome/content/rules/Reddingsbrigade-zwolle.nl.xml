@@ -1,0 +1,6 @@
+<ruleset name="Reddingsbrigade-zwolle.nl">
+	<target host="reddingsbrigade-zwolle.nl" />
+	<target host="www.reddingsbrigade-zwolle.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

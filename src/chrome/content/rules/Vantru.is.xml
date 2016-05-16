@@ -1,0 +1,6 @@
+<ruleset name="Vantru.is">
+	<target host="vantru.is" />
+	<target host="www.vantru.is" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Dbyz.co.uk">
+	<target host="dbyz.co.uk" />
+	<target host="www.dbyz.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

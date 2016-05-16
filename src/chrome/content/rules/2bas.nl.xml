@@ -1,0 +1,6 @@
+<ruleset name="2bas.nl">
+	<target host="2bas.nl" />
+	<target host="www.2bas.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

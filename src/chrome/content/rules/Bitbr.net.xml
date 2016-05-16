@@ -1,0 +1,6 @@
+<ruleset name="Bitbr.net">
+	<target host="bitbr.net" />
+	<target host="www.bitbr.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Sv-turm-hohenlimburg.de">
+	<target host="sv-turm-hohenlimburg.de" />
+	<target host="www.sv-turm-hohenlimburg.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

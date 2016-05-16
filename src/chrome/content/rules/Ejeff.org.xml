@@ -1,0 +1,6 @@
+<ruleset name="Ejeff.org">
+	<target host="ejeff.org" />
+	<target host="www.ejeff.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

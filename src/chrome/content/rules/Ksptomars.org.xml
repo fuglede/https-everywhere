@@ -1,0 +1,6 @@
+<ruleset name="Ksptomars.org">
+	<target host="ksptomars.org" />
+	<target host="www.ksptomars.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

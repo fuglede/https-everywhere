@@ -1,0 +1,6 @@
+<ruleset name="Hiddendepth.ie">
+	<target host="hiddendepth.ie" />
+	<target host="www.hiddendepth.ie" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Ergorium.eu">
+	<target host="ergorium.eu" />
+	<target host="www.ergorium.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

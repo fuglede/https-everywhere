@@ -1,0 +1,6 @@
+<ruleset name="Seefelder.net">
+	<target host="seefelder.net" />
+	<target host="www.seefelder.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Mcdonaldwhsl.com">
+	<target host="mcdonaldwhsl.com" />
+	<target host="www.mcdonaldwhsl.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

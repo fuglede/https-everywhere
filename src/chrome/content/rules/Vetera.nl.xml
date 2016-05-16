@@ -1,0 +1,6 @@
+<ruleset name="Vetera.nl">
+	<target host="vetera.nl" />
+	<target host="www.vetera.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

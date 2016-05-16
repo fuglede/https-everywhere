@@ -1,0 +1,6 @@
+<ruleset name="Subbing.work">
+	<target host="subbing.work" />
+	<target host="www.subbing.work" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Avinet.com">
+	<target host="avinet.com" />
+	<target host="www.avinet.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

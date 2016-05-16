@@ -1,0 +1,6 @@
+<ruleset name="Govillemo.ca">
+	<target host="govillemo.ca" />
+	<target host="www.govillemo.ca" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

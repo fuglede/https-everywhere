@@ -1,0 +1,6 @@
+<ruleset name="Notenoughtime.de">
+	<target host="notenoughtime.de" />
+	<target host="www.notenoughtime.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

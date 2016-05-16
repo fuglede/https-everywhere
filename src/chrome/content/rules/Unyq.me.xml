@@ -1,0 +1,6 @@
+<ruleset name="Unyq.me">
+	<target host="unyq.me" />
+	<target host="www.unyq.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

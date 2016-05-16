@@ -1,0 +1,6 @@
+<ruleset name="Lamy.im">
+	<target host="lamy.im" />
+	<target host="www.lamy.im" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

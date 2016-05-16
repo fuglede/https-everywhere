@@ -1,0 +1,6 @@
+<ruleset name="Mvixturismo.com.br">
+	<target host="mvixturismo.com.br" />
+	<target host="www.mvixturismo.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

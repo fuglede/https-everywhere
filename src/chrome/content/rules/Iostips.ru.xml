@@ -1,0 +1,6 @@
+<ruleset name="Iostips.ru">
+	<target host="iostips.ru" />
+	<target host="www.iostips.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

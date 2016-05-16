@@ -1,0 +1,6 @@
+<ruleset name="Amyg-thalamus.de">
+	<target host="amyg-thalamus.de" />
+	<target host="www.amyg-thalamus.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

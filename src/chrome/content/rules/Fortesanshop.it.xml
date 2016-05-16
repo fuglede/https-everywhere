@@ -1,0 +1,6 @@
+<ruleset name="Fortesanshop.it">
+	<target host="fortesanshop.it" />
+	<target host="www.fortesanshop.it" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

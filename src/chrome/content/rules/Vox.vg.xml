@@ -1,0 +1,6 @@
+<ruleset name="Vox.vg">
+	<target host="vox.vg" />
+	<target host="www.vox.vg" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

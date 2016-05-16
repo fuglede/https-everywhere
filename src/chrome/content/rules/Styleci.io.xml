@@ -1,0 +1,6 @@
+<ruleset name="Styleci.io">
+	<target host="styleci.io" />
+	<target host="www.styleci.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

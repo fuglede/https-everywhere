@@ -1,0 +1,6 @@
+<ruleset name="Nocit.dk">
+	<target host="nocit.dk" />
+	<target host="www.nocit.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

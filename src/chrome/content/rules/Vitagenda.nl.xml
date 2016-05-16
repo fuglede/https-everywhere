@@ -1,0 +1,6 @@
+<ruleset name="Vitagenda.nl">
+	<target host="vitagenda.nl" />
+	<target host="www.vitagenda.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Opstacks.com">
+	<target host="opstacks.com" />
+	<target host="www.opstacks.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

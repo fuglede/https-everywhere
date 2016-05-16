@@ -1,0 +1,6 @@
+<ruleset name="Bonnyprints.ch">
+	<target host="bonnyprints.ch" />
+	<target host="www.bonnyprints.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

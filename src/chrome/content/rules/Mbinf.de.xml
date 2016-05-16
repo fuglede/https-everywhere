@@ -1,0 +1,6 @@
+<ruleset name="Mbinf.de">
+	<target host="mbinf.de" />
+	<target host="www.mbinf.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

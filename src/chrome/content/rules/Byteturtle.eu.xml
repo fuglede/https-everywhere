@@ -1,0 +1,6 @@
+<ruleset name="Byteturtle.eu">
+	<target host="byteturtle.eu" />
+	<target host="www.byteturtle.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

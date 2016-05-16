@@ -1,0 +1,6 @@
+<ruleset name="Niagaraschoice.org">
+	<target host="niagaraschoice.org" />
+	<target host="www.niagaraschoice.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

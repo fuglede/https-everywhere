@@ -1,0 +1,6 @@
+<ruleset name="Petrolplus.ru">
+	<target host="petrolplus.ru" />
+	<target host="www.petrolplus.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

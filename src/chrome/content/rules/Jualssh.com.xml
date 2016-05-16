@@ -1,0 +1,6 @@
+<ruleset name="Jualssh.com">
+	<target host="jualssh.com" />
+	<target host="www.jualssh.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

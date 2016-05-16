@@ -1,0 +1,6 @@
+<ruleset name="Xn--mwejugend-07a.de">
+	<target host="xn--mwejugend-07a.de" />
+	<target host="www.xn--mwejugend-07a.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

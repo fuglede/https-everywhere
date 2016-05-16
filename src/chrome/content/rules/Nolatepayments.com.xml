@@ -1,0 +1,6 @@
+<ruleset name="Nolatepayments.com">
+	<target host="nolatepayments.com" />
+	<target host="www.nolatepayments.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

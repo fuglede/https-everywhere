@@ -1,0 +1,6 @@
+<ruleset name="Ssbcheyenne.com">
+	<target host="ssbcheyenne.com" />
+	<target host="www.ssbcheyenne.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

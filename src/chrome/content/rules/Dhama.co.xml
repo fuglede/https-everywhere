@@ -1,0 +1,6 @@
+<ruleset name="Dhama.co">
+	<target host="dhama.co" />
+	<target host="www.dhama.co" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

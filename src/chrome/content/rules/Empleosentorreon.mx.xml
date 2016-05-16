@@ -1,0 +1,6 @@
+<ruleset name="Empleosentorreon.mx">
+	<target host="empleosentorreon.mx" />
+	<target host="www.empleosentorreon.mx" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Mydx.systems">
+	<target host="mydx.systems" />
+	<target host="www.mydx.systems" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

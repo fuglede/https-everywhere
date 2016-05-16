@@ -1,0 +1,6 @@
+<ruleset name="Pixelminers.net">
+	<target host="pixelminers.net" />
+	<target host="www.pixelminers.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

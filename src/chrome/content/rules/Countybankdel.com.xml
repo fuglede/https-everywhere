@@ -1,0 +1,6 @@
+<ruleset name="Countybankdel.com">
+	<target host="countybankdel.com" />
+	<target host="www.countybankdel.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

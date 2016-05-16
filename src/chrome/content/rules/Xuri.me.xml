@@ -1,0 +1,6 @@
+<ruleset name="Xuri.me">
+	<target host="xuri.me" />
+	<target host="www.xuri.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

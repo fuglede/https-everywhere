@@ -1,0 +1,6 @@
+<ruleset name="Offensivebits.ae">
+	<target host="offensivebits.ae" />
+	<target host="www.offensivebits.ae" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

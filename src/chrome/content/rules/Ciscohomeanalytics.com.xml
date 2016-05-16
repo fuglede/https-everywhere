@@ -1,0 +1,6 @@
+<ruleset name="Ciscohomeanalytics.com">
+	<target host="ciscohomeanalytics.com" />
+	<target host="www.ciscohomeanalytics.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Brasilbombas.com.br">
+	<target host="brasilbombas.com.br" />
+	<target host="www.brasilbombas.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

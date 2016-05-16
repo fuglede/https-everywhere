@@ -1,0 +1,6 @@
+<ruleset name="Fish2.me">
+	<target host="fish2.me" />
+	<target host="www.fish2.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

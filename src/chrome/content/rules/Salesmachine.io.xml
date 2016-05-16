@@ -1,0 +1,6 @@
+<ruleset name="Salesmachine.io">
+	<target host="salesmachine.io" />
+	<target host="www.salesmachine.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

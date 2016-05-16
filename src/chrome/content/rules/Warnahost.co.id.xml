@@ -1,0 +1,6 @@
+<ruleset name="Warnahost.co.id">
+	<target host="warnahost.co.id" />
+	<target host="www.warnahost.co.id" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Xendo.net">
+	<target host="xendo.net" />
+	<target host="www.xendo.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

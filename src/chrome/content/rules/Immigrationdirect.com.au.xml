@@ -1,0 +1,6 @@
+<ruleset name="Immigrationdirect.com.au">
+	<target host="immigrationdirect.com.au" />
+	<target host="www.immigrationdirect.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

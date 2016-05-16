@@ -1,0 +1,6 @@
+<ruleset name="Smittix.co.uk">
+	<target host="smittix.co.uk" />
+	<target host="www.smittix.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

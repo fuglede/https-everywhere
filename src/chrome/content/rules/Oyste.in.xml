@@ -1,0 +1,6 @@
+<ruleset name="Oyste.in">
+	<target host="oyste.in" />
+	<target host="www.oyste.in" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

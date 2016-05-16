@@ -1,0 +1,6 @@
+<ruleset name="Bwear4all.de">
+	<target host="bwear4all.de" />
+	<target host="www.bwear4all.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

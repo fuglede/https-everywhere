@@ -1,0 +1,6 @@
+<ruleset name="Educator-one.com">
+	<target host="educator-one.com" />
+	<target host="www.educator-one.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

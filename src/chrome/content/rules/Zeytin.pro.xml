@@ -1,0 +1,6 @@
+<ruleset name="Zeytin.pro">
+	<target host="zeytin.pro" />
+	<target host="www.zeytin.pro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

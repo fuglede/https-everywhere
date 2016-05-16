@@ -1,0 +1,6 @@
+<ruleset name="Curtacircuitos.com.br">
+	<target host="curtacircuitos.com.br" />
+	<target host="www.curtacircuitos.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

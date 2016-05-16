@@ -1,0 +1,6 @@
+<ruleset name="Gamajo.com">
+	<target host="gamajo.com" />
+	<target host="www.gamajo.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

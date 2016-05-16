@@ -1,0 +1,6 @@
+<ruleset name="Paquinit.com">
+	<target host="paquinit.com" />
+	<target host="www.paquinit.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

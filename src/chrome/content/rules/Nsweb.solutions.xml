@@ -1,0 +1,6 @@
+<ruleset name="Nsweb.solutions">
+	<target host="nsweb.solutions" />
+	<target host="www.nsweb.solutions" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Land.nrw">
+	<target host="land.nrw" />
+	<target host="www.land.nrw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

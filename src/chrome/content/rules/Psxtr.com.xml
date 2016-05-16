@@ -1,0 +1,6 @@
+<ruleset name="Psxtr.com">
+	<target host="psxtr.com" />
+	<target host="www.psxtr.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Ct-status.org">
+	<target host="ct-status.org" />
+	<target host="www.ct-status.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

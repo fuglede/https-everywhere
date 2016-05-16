@@ -1,0 +1,6 @@
+<ruleset name="Savic.com">
+	<target host="savic.com" />
+	<target host="www.savic.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

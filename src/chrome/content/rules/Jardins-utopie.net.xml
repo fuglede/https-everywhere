@@ -1,0 +1,6 @@
+<ruleset name="Jardins-utopie.net">
+	<target host="jardins-utopie.net" />
+	<target host="www.jardins-utopie.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

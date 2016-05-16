@@ -1,0 +1,6 @@
+<ruleset name="Eligible.com">
+	<target host="eligible.com" />
+	<target host="www.eligible.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

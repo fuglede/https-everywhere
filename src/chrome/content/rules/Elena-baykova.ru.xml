@@ -1,0 +1,6 @@
+<ruleset name="Elena-baykova.ru">
+	<target host="elena-baykova.ru" />
+	<target host="www.elena-baykova.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

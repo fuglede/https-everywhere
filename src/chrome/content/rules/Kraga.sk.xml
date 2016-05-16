@@ -1,0 +1,6 @@
+<ruleset name="Kraga.sk">
+	<target host="kraga.sk" />
+	<target host="www.kraga.sk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

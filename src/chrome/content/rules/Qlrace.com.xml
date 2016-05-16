@@ -1,0 +1,6 @@
+<ruleset name="Qlrace.com">
+	<target host="qlrace.com" />
+	<target host="www.qlrace.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

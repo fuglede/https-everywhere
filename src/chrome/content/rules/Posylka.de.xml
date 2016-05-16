@@ -1,0 +1,6 @@
+<ruleset name="Posylka.de">
+	<target host="posylka.de" />
+	<target host="www.posylka.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Zelfstandigemakelaars.net">
+	<target host="zelfstandigemakelaars.net" />
+	<target host="www.zelfstandigemakelaars.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

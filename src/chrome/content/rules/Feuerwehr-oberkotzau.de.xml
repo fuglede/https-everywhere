@@ -1,0 +1,6 @@
+<ruleset name="Feuerwehr-oberkotzau.de">
+	<target host="feuerwehr-oberkotzau.de" />
+	<target host="www.feuerwehr-oberkotzau.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

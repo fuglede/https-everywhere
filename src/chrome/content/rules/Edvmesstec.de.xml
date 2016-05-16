@@ -1,0 +1,6 @@
+<ruleset name="Edvmesstec.de">
+	<target host="edvmesstec.de" />
+	<target host="www.edvmesstec.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

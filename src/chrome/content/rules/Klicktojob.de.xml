@@ -1,0 +1,6 @@
+<ruleset name="Klicktojob.de">
+	<target host="klicktojob.de" />
+	<target host="www.klicktojob.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Pj83.duckdns.org">
+	<target host="pj83.duckdns.org" />
+	<target host="www.pj83.duckdns.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Performancesantafe.org">
+	<target host="performancesantafe.org" />
+	<target host="www.performancesantafe.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

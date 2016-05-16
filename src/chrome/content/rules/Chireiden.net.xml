@@ -1,0 +1,6 @@
+<ruleset name="Chireiden.net">
+	<target host="chireiden.net" />
+	<target host="www.chireiden.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

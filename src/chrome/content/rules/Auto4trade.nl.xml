@@ -1,0 +1,6 @@
+<ruleset name="Auto4trade.nl">
+	<target host="auto4trade.nl" />
+	<target host="www.auto4trade.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

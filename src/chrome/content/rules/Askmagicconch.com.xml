@@ -1,0 +1,6 @@
+<ruleset name="Askmagicconch.com">
+	<target host="askmagicconch.com" />
+	<target host="www.askmagicconch.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

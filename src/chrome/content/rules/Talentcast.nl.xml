@@ -1,0 +1,6 @@
+<ruleset name="Talentcast.nl">
+	<target host="talentcast.nl" />
+	<target host="www.talentcast.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

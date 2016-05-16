@@ -1,0 +1,6 @@
+<ruleset name="Esquonic.com">
+	<target host="esquonic.com" />
+	<target host="www.esquonic.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

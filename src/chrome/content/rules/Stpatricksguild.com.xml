@@ -1,0 +1,6 @@
+<ruleset name="Stpatricksguild.com">
+	<target host="stpatricksguild.com" />
+	<target host="www.stpatricksguild.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

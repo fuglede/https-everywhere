@@ -1,0 +1,6 @@
+<ruleset name="Agevio.com">
+	<target host="agevio.com" />
+	<target host="www.agevio.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

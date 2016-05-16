@@ -1,0 +1,6 @@
+<ruleset name="Anagra.ms">
+	<target host="anagra.ms" />
+	<target host="www.anagra.ms" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

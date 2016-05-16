@@ -1,0 +1,6 @@
+<ruleset name="Sokkenhoek.nl">
+	<target host="sokkenhoek.nl" />
+	<target host="www.sokkenhoek.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

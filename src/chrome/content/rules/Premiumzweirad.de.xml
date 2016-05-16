@@ -1,0 +1,6 @@
+<ruleset name="Premiumzweirad.de">
+	<target host="premiumzweirad.de" />
+	<target host="www.premiumzweirad.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

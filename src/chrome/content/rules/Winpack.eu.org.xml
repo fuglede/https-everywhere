@@ -1,0 +1,6 @@
+<ruleset name="Winpack.eu.org">
+	<target host="winpack.eu.org" />
+	<target host="www.winpack.eu.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

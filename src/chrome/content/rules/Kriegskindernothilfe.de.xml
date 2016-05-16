@@ -1,0 +1,6 @@
+<ruleset name="Kriegskindernothilfe.de">
+	<target host="kriegskindernothilfe.de" />
+	<target host="www.kriegskindernothilfe.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

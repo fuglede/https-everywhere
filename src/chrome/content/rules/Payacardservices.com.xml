@@ -1,0 +1,6 @@
+<ruleset name="Payacardservices.com">
+	<target host="payacardservices.com" />
+	<target host="www.payacardservices.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

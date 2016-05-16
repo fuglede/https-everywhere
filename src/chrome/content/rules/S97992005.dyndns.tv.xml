@@ -1,0 +1,6 @@
+<ruleset name="S97992005.dyndns.tv">
+	<target host="s97992005.dyndns.tv" />
+	<target host="www.s97992005.dyndns.tv" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

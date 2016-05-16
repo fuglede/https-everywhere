@@ -1,0 +1,6 @@
+<ruleset name="Deduijventil.nl">
+	<target host="deduijventil.nl" />
+	<target host="www.deduijventil.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

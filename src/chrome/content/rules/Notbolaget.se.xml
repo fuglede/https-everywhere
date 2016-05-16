@@ -1,0 +1,6 @@
+<ruleset name="Notbolaget.se">
+	<target host="notbolaget.se" />
+	<target host="www.notbolaget.se" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

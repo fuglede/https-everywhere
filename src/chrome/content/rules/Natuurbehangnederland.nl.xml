@@ -1,0 +1,6 @@
+<ruleset name="Natuurbehangnederland.nl">
+	<target host="natuurbehangnederland.nl" />
+	<target host="www.natuurbehangnederland.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

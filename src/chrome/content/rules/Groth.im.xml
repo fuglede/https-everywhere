@@ -1,0 +1,6 @@
+<ruleset name="Groth.im">
+	<target host="groth.im" />
+	<target host="www.groth.im" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

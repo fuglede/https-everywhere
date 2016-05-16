@@ -1,0 +1,6 @@
+<ruleset name="Proitcsolution.com.ve">
+	<target host="proitcsolution.com.ve" />
+	<target host="www.proitcsolution.com.ve" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

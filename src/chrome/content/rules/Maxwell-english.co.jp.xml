@@ -1,0 +1,6 @@
+<ruleset name="Maxwell-english.co.jp">
+	<target host="maxwell-english.co.jp" />
+	<target host="www.maxwell-english.co.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

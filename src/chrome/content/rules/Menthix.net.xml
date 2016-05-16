@@ -1,0 +1,6 @@
+<ruleset name="Menthix.net">
+	<target host="menthix.net" />
+	<target host="www.menthix.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

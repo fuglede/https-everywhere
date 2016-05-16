@@ -1,0 +1,6 @@
+<ruleset name="Icusignature.com">
+	<target host="icusignature.com" />
+	<target host="www.icusignature.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Ruxit.com">
+	<target host="ruxit.com" />
+	<target host="www.ruxit.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

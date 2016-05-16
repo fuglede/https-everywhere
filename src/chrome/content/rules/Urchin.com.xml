@@ -1,0 +1,6 @@
+<ruleset name="Urchin.com">
+	<target host="urchin.com" />
+	<target host="www.urchin.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

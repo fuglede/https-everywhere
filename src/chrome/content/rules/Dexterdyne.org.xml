@@ -1,0 +1,6 @@
+<ruleset name="Dexterdyne.org">
+	<target host="dexterdyne.org" />
+	<target host="www.dexterdyne.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

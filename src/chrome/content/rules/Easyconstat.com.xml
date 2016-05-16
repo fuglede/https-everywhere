@@ -1,0 +1,6 @@
+<ruleset name="Easyconstat.com">
+	<target host="easyconstat.com" />
+	<target host="www.easyconstat.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

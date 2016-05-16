@@ -1,0 +1,6 @@
+<ruleset name="Fishbattle.net">
+	<target host="fishbattle.net" />
+	<target host="www.fishbattle.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

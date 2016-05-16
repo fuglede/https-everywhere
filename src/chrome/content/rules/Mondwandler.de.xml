@@ -1,0 +1,6 @@
+<ruleset name="Mondwandler.de">
+	<target host="mondwandler.de" />
+	<target host="www.mondwandler.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

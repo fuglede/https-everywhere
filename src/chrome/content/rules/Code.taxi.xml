@@ -1,0 +1,6 @@
+<ruleset name="Code.taxi">
+	<target host="code.taxi" />
+	<target host="www.code.taxi" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

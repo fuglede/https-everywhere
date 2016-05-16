@@ -1,0 +1,6 @@
+<ruleset name="Portofrotterdam.com">
+	<target host="portofrotterdam.com" />
+	<target host="www.portofrotterdam.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

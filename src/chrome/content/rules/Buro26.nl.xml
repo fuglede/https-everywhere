@@ -1,0 +1,6 @@
+<ruleset name="Buro26.nl">
+	<target host="buro26.nl" />
+	<target host="www.buro26.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

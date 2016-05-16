@@ -1,0 +1,6 @@
+<ruleset name="Witway.nl">
+	<target host="witway.nl" />
+	<target host="www.witway.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

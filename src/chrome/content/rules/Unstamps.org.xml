@@ -1,0 +1,6 @@
+<ruleset name="Unstamps.org">
+	<target host="unstamps.org" />
+	<target host="www.unstamps.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

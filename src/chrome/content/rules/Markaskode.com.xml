@@ -1,0 +1,6 @@
+<ruleset name="Markaskode.com">
+	<target host="markaskode.com" />
+	<target host="www.markaskode.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

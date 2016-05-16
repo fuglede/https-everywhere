@@ -1,0 +1,6 @@
+<ruleset name="Advancedstudio.ro">
+	<target host="advancedstudio.ro" />
+	<target host="www.advancedstudio.ro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

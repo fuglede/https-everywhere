@@ -1,0 +1,6 @@
+<ruleset name="Creditproautos.com">
+	<target host="creditproautos.com" />
+	<target host="www.creditproautos.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

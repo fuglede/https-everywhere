@@ -1,0 +1,6 @@
+<ruleset name="Crecket.me">
+	<target host="crecket.me" />
+	<target host="www.crecket.me" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

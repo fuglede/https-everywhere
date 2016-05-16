@@ -1,0 +1,6 @@
+<ruleset name="Feel.aero">
+	<target host="feel.aero" />
+	<target host="www.feel.aero" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

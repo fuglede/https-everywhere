@@ -1,0 +1,6 @@
+<ruleset name="Codesport.io">
+	<target host="codesport.io" />
+	<target host="www.codesport.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

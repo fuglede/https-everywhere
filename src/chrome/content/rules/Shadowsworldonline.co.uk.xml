@@ -1,0 +1,6 @@
+<ruleset name="Shadowsworldonline.co.uk">
+	<target host="shadowsworldonline.co.uk" />
+	<target host="www.shadowsworldonline.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

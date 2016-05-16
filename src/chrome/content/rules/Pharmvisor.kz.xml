@@ -1,0 +1,6 @@
+<ruleset name="Pharmvisor.kz">
+	<target host="pharmvisor.kz" />
+	<target host="www.pharmvisor.kz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

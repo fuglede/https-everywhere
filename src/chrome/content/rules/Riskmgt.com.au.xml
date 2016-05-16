@@ -1,0 +1,6 @@
+<ruleset name="Riskmgt.com.au">
+	<target host="riskmgt.com.au" />
+	<target host="www.riskmgt.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

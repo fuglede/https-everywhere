@@ -1,0 +1,6 @@
+<ruleset name="Brickoo.com">
+	<target host="brickoo.com" />
+	<target host="www.brickoo.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

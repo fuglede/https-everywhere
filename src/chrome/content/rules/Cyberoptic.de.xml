@@ -1,0 +1,6 @@
+<ruleset name="Cyberoptic.de">
+	<target host="cyberoptic.de" />
+	<target host="www.cyberoptic.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

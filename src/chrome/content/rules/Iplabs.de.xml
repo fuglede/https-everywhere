@@ -1,0 +1,6 @@
+<ruleset name="Iplabs.de">
+	<target host="iplabs.de" />
+	<target host="www.iplabs.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

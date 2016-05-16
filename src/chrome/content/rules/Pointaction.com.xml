@@ -1,0 +1,6 @@
+<ruleset name="Pointaction.com">
+	<target host="pointaction.com" />
+	<target host="www.pointaction.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

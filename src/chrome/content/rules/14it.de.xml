@@ -1,0 +1,6 @@
+<ruleset name="14it.de">
+	<target host="14it.de" />
+	<target host="www.14it.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

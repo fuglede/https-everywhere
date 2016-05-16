@@ -1,0 +1,6 @@
+<ruleset name="Meteorapp.space">
+	<target host="meteorapp.space" />
+	<target host="www.meteorapp.space" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

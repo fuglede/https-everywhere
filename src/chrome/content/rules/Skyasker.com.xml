@@ -1,0 +1,6 @@
+<ruleset name="Skyasker.com">
+	<target host="skyasker.com" />
+	<target host="www.skyasker.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

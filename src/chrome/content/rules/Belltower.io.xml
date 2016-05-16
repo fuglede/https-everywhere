@@ -1,0 +1,6 @@
+<ruleset name="Belltower.io">
+	<target host="belltower.io" />
+	<target host="www.belltower.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

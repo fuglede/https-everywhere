@@ -1,0 +1,6 @@
+<ruleset name="Oniichan.us">
+	<target host="oniichan.us" />
+	<target host="www.oniichan.us" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

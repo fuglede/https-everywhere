@@ -1,0 +1,6 @@
+<ruleset name="Midirs.org">
+	<target host="midirs.org" />
+	<target host="www.midirs.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

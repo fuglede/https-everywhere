@@ -1,0 +1,6 @@
+<ruleset name="Reflexd.com">
+	<target host="reflexd.com" />
+	<target host="www.reflexd.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

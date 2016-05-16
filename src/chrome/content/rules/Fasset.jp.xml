@@ -1,0 +1,6 @@
+<ruleset name="Fasset.jp">
+	<target host="fasset.jp" />
+	<target host="www.fasset.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

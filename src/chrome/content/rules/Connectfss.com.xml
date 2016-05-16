@@ -1,0 +1,6 @@
+<ruleset name="Connectfss.com">
+	<target host="connectfss.com" />
+	<target host="www.connectfss.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

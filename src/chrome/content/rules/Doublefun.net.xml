@@ -1,0 +1,6 @@
+<ruleset name="Doublefun.net">
+	<target host="doublefun.net" />
+	<target host="www.doublefun.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

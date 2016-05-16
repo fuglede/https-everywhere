@@ -1,0 +1,6 @@
+<ruleset name="Iapws.com">
+	<target host="iapws.com" />
+	<target host="www.iapws.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

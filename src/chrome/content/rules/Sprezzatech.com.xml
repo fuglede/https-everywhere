@@ -1,0 +1,6 @@
+<ruleset name="Sprezzatech.com">
+	<target host="sprezzatech.com" />
+	<target host="www.sprezzatech.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Pet-nsk.ru">
+	<target host="pet-nsk.ru" />
+	<target host="www.pet-nsk.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

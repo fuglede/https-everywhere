@@ -1,0 +1,6 @@
+<ruleset name="Back-bone.nl">
+	<target host="back-bone.nl" />
+	<target host="www.back-bone.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

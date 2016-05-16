@@ -1,0 +1,6 @@
+<ruleset name="Uber.com.au">
+	<target host="uber.com.au" />
+	<target host="www.uber.com.au" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

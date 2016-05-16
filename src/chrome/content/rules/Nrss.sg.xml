@@ -1,0 +1,6 @@
+<ruleset name="Nrss.sg">
+	<target host="nrss.sg" />
+	<target host="www.nrss.sg" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

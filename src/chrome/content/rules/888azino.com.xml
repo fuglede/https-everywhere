@@ -1,0 +1,6 @@
+<ruleset name="888azino.com">
+	<target host="888azino.com" />
+	<target host="www.888azino.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

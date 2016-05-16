@@ -1,0 +1,6 @@
+<ruleset name="Takuto.de">
+	<target host="takuto.de" />
+	<target host="www.takuto.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

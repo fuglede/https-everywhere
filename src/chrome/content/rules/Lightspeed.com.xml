@@ -1,0 +1,6 @@
+<ruleset name="Lightspeed.com">
+	<target host="lightspeed.com" />
+	<target host="www.lightspeed.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

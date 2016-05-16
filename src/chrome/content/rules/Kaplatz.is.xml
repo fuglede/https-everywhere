@@ -1,0 +1,6 @@
+<ruleset name="Kaplatz.is">
+	<target host="kaplatz.is" />
+	<target host="www.kaplatz.is" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Fb-app-soft.com">
+	<target host="fb-app-soft.com" />
+	<target host="www.fb-app-soft.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

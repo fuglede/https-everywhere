@@ -1,0 +1,6 @@
+<ruleset name="Robinwinslow.uk">
+	<target host="robinwinslow.uk" />
+	<target host="www.robinwinslow.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

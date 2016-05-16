@@ -1,0 +1,6 @@
+<ruleset name="Lynero.dk">
+	<target host="lynero.dk" />
+	<target host="www.lynero.dk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

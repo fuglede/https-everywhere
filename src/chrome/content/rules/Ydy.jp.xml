@@ -1,0 +1,6 @@
+<ruleset name="Ydy.jp">
+	<target host="ydy.jp" />
+	<target host="www.ydy.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Numberoneshoes.co.nz">
+	<target host="numberoneshoes.co.nz" />
+	<target host="www.numberoneshoes.co.nz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

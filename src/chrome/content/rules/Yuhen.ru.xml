@@ -1,0 +1,6 @@
+<ruleset name="Yuhen.ru">
+	<target host="yuhen.ru" />
+	<target host="www.yuhen.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

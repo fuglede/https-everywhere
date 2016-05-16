@@ -1,0 +1,6 @@
+<ruleset name="Gresak.io">
+	<target host="gresak.io" />
+	<target host="www.gresak.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

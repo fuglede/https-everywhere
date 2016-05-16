@@ -1,0 +1,6 @@
+<ruleset name="Hancc.net">
+	<target host="hancc.net" />
+	<target host="www.hancc.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

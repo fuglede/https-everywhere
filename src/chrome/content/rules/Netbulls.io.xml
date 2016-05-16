@@ -1,0 +1,6 @@
+<ruleset name="Netbulls.io">
+	<target host="netbulls.io" />
+	<target host="www.netbulls.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

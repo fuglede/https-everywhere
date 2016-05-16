@@ -1,0 +1,6 @@
+<ruleset name="Leadingsalons.com">
+	<target host="leadingsalons.com" />
+	<target host="www.leadingsalons.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

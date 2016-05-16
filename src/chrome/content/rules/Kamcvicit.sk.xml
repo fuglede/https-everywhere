@@ -1,0 +1,6 @@
+<ruleset name="Kamcvicit.sk">
+	<target host="kamcvicit.sk" />
+	<target host="www.kamcvicit.sk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

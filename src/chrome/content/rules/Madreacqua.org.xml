@@ -1,0 +1,6 @@
+<ruleset name="Madreacqua.org">
+	<target host="madreacqua.org" />
+	<target host="www.madreacqua.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

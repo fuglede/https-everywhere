@@ -1,0 +1,6 @@
+<ruleset name="Icebat.dyndns.org">
+	<target host="icebat.dyndns.org" />
+	<target host="www.icebat.dyndns.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Marsble.com">
+	<target host="marsble.com" />
+	<target host="www.marsble.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

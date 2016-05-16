@@ -1,0 +1,6 @@
+<ruleset name="Skyveo.ml">
+	<target host="skyveo.ml" />
+	<target host="www.skyveo.ml" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

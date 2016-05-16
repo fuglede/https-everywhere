@@ -1,0 +1,6 @@
+<ruleset name="Hitoy.org">
+	<target host="hitoy.org" />
+	<target host="www.hitoy.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

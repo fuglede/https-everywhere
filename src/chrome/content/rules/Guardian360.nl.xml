@@ -1,0 +1,6 @@
+<ruleset name="Guardian360.nl">
+	<target host="guardian360.nl" />
+	<target host="www.guardian360.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

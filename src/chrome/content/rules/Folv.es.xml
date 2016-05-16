@@ -1,0 +1,6 @@
+<ruleset name="Folv.es">
+	<target host="folv.es" />
+	<target host="www.folv.es" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

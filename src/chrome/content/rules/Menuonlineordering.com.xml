@@ -1,0 +1,6 @@
+<ruleset name="Menuonlineordering.com">
+	<target host="menuonlineordering.com" />
+	<target host="www.menuonlineordering.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

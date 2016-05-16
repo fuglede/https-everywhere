@@ -1,0 +1,6 @@
+<ruleset name="Gpstuner.com">
+	<target host="gpstuner.com" />
+	<target host="www.gpstuner.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Barunisystems.com">
+	<target host="barunisystems.com" />
+	<target host="www.barunisystems.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

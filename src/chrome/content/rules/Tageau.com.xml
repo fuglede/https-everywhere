@@ -1,0 +1,6 @@
+<ruleset name="Tageau.com">
+	<target host="tageau.com" />
+	<target host="www.tageau.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Sideshowbarker.net">
+	<target host="sideshowbarker.net" />
+	<target host="www.sideshowbarker.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Ynsn.nl">
+	<target host="ynsn.nl" />
+	<target host="www.ynsn.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

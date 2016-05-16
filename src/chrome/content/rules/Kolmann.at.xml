@@ -1,0 +1,6 @@
+<ruleset name="Kolmann.at">
+	<target host="kolmann.at" />
+	<target host="www.kolmann.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

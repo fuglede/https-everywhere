@@ -1,0 +1,6 @@
+<ruleset name="Appointed.at">
+	<target host="appointed.at" />
+	<target host="www.appointed.at" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

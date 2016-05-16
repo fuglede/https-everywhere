@@ -1,0 +1,6 @@
+<ruleset name="Ipokabu.net">
+	<target host="ipokabu.net" />
+	<target host="www.ipokabu.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

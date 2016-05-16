@@ -1,0 +1,6 @@
+<ruleset name="Maya.mg">
+	<target host="maya.mg" />
+	<target host="www.maya.mg" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

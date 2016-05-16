@@ -1,0 +1,6 @@
+<ruleset name="Thefootstoolworkshop.co.uk">
+	<target host="thefootstoolworkshop.co.uk" />
+	<target host="www.thefootstoolworkshop.co.uk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

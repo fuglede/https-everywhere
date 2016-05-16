@@ -1,0 +1,6 @@
+<ruleset name="Cejhon.cz">
+	<target host="cejhon.cz" />
+	<target host="www.cejhon.cz" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

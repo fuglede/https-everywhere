@@ -1,0 +1,6 @@
+<ruleset name="Skyway.capital">
+	<target host="skyway.capital" />
+	<target host="www.skyway.capital" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

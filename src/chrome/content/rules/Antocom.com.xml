@@ -1,0 +1,6 @@
+<ruleset name="Antocom.com">
+	<target host="antocom.com" />
+	<target host="www.antocom.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

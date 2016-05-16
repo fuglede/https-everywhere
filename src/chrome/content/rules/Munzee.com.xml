@@ -1,0 +1,6 @@
+<ruleset name="Munzee.com">
+	<target host="munzee.com" />
+	<target host="www.munzee.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

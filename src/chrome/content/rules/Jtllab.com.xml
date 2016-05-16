@@ -1,0 +1,6 @@
+<ruleset name="Jtllab.com">
+	<target host="jtllab.com" />
+	<target host="www.jtllab.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

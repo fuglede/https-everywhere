@@ -1,0 +1,6 @@
+<ruleset name="Iba.community">
+	<target host="iba.community" />
+	<target host="www.iba.community" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

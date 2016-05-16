@@ -1,0 +1,6 @@
+<ruleset name="Smuncensored.com">
+	<target host="smuncensored.com" />
+	<target host="www.smuncensored.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

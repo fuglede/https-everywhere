@@ -1,0 +1,6 @@
+<ruleset name="Thisisacompletetest.ga">
+	<target host="thisisacompletetest.ga" />
+	<target host="www.thisisacompletetest.ga" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

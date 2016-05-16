@@ -1,0 +1,6 @@
+<ruleset name="Bcdonadio.com">
+	<target host="bcdonadio.com" />
+	<target host="www.bcdonadio.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

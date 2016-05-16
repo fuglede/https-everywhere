@@ -1,0 +1,6 @@
+<ruleset name="Otakuworld.de">
+	<target host="otakuworld.de" />
+	<target host="www.otakuworld.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

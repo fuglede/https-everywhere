@@ -1,0 +1,6 @@
+<ruleset name="Getsetupfile.com">
+	<target host="getsetupfile.com" />
+	<target host="www.getsetupfile.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

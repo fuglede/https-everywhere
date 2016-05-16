@@ -1,0 +1,6 @@
+<ruleset name="Perroud.pro">
+	<target host="perroud.pro" />
+	<target host="www.perroud.pro" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

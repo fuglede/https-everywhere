@@ -1,0 +1,6 @@
+<ruleset name="Intel.li">
+	<target host="intel.li" />
+	<target host="www.intel.li" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

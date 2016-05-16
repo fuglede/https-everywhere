@@ -1,0 +1,6 @@
+<ruleset name="Tfcoms-sp-tracker-client.azurewebsites.net">
+	<target host="tfcoms-sp-tracker-client.azurewebsites.net" />
+	<target host="www.tfcoms-sp-tracker-client.azurewebsites.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

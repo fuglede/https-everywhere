@@ -1,0 +1,6 @@
+<ruleset name="Datsound.ru">
+	<target host="datsound.ru" />
+	<target host="www.datsound.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

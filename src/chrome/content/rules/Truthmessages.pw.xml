@@ -1,0 +1,6 @@
+<ruleset name="Truthmessages.pw">
+	<target host="truthmessages.pw" />
+	<target host="www.truthmessages.pw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

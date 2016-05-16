@@ -1,0 +1,6 @@
+<ruleset name="Ruin.nu">
+	<target host="ruin.nu" />
+	<target host="www.ruin.nu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Trusteecar.com">
+	<target host="trusteecar.com" />
+	<target host="www.trusteecar.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

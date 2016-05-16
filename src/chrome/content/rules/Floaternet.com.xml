@@ -1,0 +1,6 @@
+<ruleset name="Floaternet.com">
+	<target host="floaternet.com" />
+	<target host="www.floaternet.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

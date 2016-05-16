@@ -1,0 +1,6 @@
+<ruleset name="Boot.re">
+	<target host="boot.re" />
+	<target host="www.boot.re" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

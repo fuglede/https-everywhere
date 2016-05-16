@@ -1,0 +1,6 @@
+<ruleset name="1464424382.rsc.cdn77.org">
+	<target host="1464424382.rsc.cdn77.org" />
+	<target host="www.1464424382.rsc.cdn77.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

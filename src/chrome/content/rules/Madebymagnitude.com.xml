@@ -1,0 +1,6 @@
+<ruleset name="Madebymagnitude.com">
+	<target host="madebymagnitude.com" />
+	<target host="www.madebymagnitude.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Shagi29.ru">
+	<target host="shagi29.ru" />
+	<target host="www.shagi29.ru" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

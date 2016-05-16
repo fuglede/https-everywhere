@@ -1,0 +1,6 @@
+<ruleset name="Quadsimia.com">
+	<target host="quadsimia.com" />
+	<target host="www.quadsimia.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

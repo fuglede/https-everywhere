@@ -1,0 +1,6 @@
+<ruleset name="Dolarcanadense.com.br">
+	<target host="dolarcanadense.com.br" />
+	<target host="www.dolarcanadense.com.br" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

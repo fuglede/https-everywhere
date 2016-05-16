@@ -1,0 +1,6 @@
+<ruleset name="Partyhaus.ovh">
+	<target host="partyhaus.ovh" />
+	<target host="www.partyhaus.ovh" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

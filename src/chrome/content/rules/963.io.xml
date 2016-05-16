@@ -1,0 +1,6 @@
+<ruleset name="963.io">
+	<target host="963.io" />
+	<target host="www.963.io" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

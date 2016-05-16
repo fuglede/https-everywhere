@@ -1,0 +1,6 @@
+<ruleset name="Tout-art.ch">
+	<target host="tout-art.ch" />
+	<target host="www.tout-art.ch" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

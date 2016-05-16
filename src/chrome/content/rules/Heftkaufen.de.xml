@@ -1,0 +1,6 @@
+<ruleset name="Heftkaufen.de">
+	<target host="heftkaufen.de" />
+	<target host="www.heftkaufen.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Diasporadialogues.com">
+	<target host="diasporadialogues.com" />
+	<target host="www.diasporadialogues.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

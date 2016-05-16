@@ -1,0 +1,6 @@
+<ruleset name="Yosemo.de">
+	<target host="yosemo.de" />
+	<target host="www.yosemo.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

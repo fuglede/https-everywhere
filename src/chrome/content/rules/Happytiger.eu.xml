@@ -1,0 +1,6 @@
+<ruleset name="Happytiger.eu">
+	<target host="happytiger.eu" />
+	<target host="www.happytiger.eu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Turtle.ai">
+	<target host="turtle.ai" />
+	<target host="www.turtle.ai" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

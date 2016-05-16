@@ -1,0 +1,6 @@
+<ruleset name="Cidr.ml">
+	<target host="cidr.ml" />
+	<target host="www.cidr.ml" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

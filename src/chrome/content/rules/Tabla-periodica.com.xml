@@ -1,0 +1,6 @@
+<ruleset name="Tabla-periodica.com">
+	<target host="tabla-periodica.com" />
+	<target host="www.tabla-periodica.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

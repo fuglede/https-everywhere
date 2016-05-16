@@ -1,0 +1,6 @@
+<ruleset name="Lsp-sports.de">
+	<target host="lsp-sports.de" />
+	<target host="www.lsp-sports.de" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

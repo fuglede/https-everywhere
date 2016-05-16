@@ -1,0 +1,6 @@
+<ruleset name="Harz.cloud">
+	<target host="harz.cloud" />
+	<target host="www.harz.cloud" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

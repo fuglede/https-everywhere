@@ -1,0 +1,6 @@
+<ruleset name="Squeezemetrics.com">
+	<target host="squeezemetrics.com" />
+	<target host="www.squeezemetrics.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

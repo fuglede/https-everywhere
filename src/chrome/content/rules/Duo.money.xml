@@ -1,0 +1,6 @@
+<ruleset name="Duo.money">
+	<target host="duo.money" />
+	<target host="www.duo.money" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

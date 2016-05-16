@@ -1,0 +1,6 @@
+<ruleset name="Apervita.net">
+	<target host="apervita.net" />
+	<target host="www.apervita.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

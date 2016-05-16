@@ -1,0 +1,6 @@
+<ruleset name="Tarr.hu">
+	<target host="tarr.hu" />
+	<target host="www.tarr.hu" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

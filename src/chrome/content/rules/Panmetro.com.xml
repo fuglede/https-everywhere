@@ -1,0 +1,6 @@
+<ruleset name="Panmetro.com">
+	<target host="panmetro.com" />
+	<target host="www.panmetro.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

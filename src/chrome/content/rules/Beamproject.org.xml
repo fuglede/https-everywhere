@@ -1,0 +1,6 @@
+<ruleset name="Beamproject.org">
+	<target host="beamproject.org" />
+	<target host="www.beamproject.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

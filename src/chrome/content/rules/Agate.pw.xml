@@ -1,0 +1,6 @@
+<ruleset name="Agate.pw">
+	<target host="agate.pw" />
+	<target host="www.agate.pw" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

@@ -1,0 +1,6 @@
+<ruleset name="Koshan.tk">
+	<target host="koshan.tk" />
+	<target host="www.koshan.tk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

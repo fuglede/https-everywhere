@@ -1,0 +1,6 @@
+<ruleset name="Cerebelo.tk">
+	<target host="cerebelo.tk" />
+	<target host="www.cerebelo.tk" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

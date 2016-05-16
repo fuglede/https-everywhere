@@ -1,0 +1,6 @@
+<ruleset name="Everwaking.com">
+	<target host="everwaking.com" />
+	<target host="www.everwaking.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

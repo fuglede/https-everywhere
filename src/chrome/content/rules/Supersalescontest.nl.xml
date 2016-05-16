@@ -1,0 +1,6 @@
+<ruleset name="Supersalescontest.nl">
+	<target host="supersalescontest.nl" />
+	<target host="www.supersalescontest.nl" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

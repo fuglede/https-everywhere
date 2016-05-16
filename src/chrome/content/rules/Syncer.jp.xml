@@ -1,0 +1,6 @@
+<ruleset name="Syncer.jp">
+	<target host="syncer.jp" />
+	<target host="www.syncer.jp" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

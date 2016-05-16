@@ -1,0 +1,6 @@
+<ruleset name="Ncrmnt.org">
+	<target host="ncrmnt.org" />
+	<target host="www.ncrmnt.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>

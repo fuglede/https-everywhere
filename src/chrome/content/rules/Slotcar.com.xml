@@ -1,0 +1,6 @@
+<ruleset name="Slotcar.com">
+	<target host="slotcar.com" />
+	<target host="www.slotcar.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>
